@@ -24,7 +24,7 @@ permalink: /team/
   </div>
 
   <div class="col-sm-6 clearfix">
-	<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Irene.jpg" class="img-responsive" width="25%" style="float: left" />
+	<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/irene.jpg" class="img-responsive" width="25%" style="float: left" />
 		<h4>Irene Battisti</h4>
 <p><em>PhD student, started Jan 2015</em></p>
 	<ul style="overflow: hidden">
