@@ -1,7 +1,7 @@
 - title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
   image: Pub_M2PG.png
   description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound. These are uncanny similarities to the cuprates ... Along the way, we gained unique knowledge on how a Mott state collapses.
+    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
   authors:
     I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
   link:
@@ -13,7 +13,7 @@
 - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
   image: Pub_CeCoIn5.png
   description:
-    We extract the gap structure of the heavy Fermion superconductor CeCoIn5, and find a d-wave gap with nodes along the (1,1) direction.
+    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
   authors:
     MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
   link:
@@ -26,7 +26,7 @@
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
   image: Pub_FP.png
   description:
-    We discover signatures of electron-boson coupling in the spectra and in the QPI dispersion. We determine the fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
+    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
   authors:
     MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
   link:
@@ -39,7 +39,7 @@
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
   image: Pub_nemat2b.png
   description:
-    We elucidate on the formation of the electronic nematic in Co-CaFe2As2, finding that the dopant atoms play a key role.
+    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
   authors:
     MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
   highlight: 1    
@@ -52,7 +52,7 @@
 - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
   image: Pub_327.png
   description:
-    The bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electonic structure.
+    Using QPRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electonic structure.
   authors:
     MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
   link:
