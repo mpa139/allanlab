@@ -11,7 +11,7 @@ permalink: /
  
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg"  width="100%">
-  <figcaption ><small>Group picture (with the rest of the institute)</small></figcaption>
+  <figcaption ><small>Group picture (with the rest of the institute) [replace with changing pic] </small></figcaption>
 </figure> 
 
 

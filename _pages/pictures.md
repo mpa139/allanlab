@@ -10,6 +10,9 @@ permalink: /pictures/
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
 ## Leiden
+
+[Put in galleries]
+
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="75%">
 	<figcaption2>First advertisement.</figcaption2>

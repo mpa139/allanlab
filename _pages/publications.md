@@ -8,7 +8,6 @@ permalink: /publications/
 
 # Publications
 
-
 ## Highlights
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
@@ -35,6 +34,12 @@ permalink: /publications/
 </div>
 {% endif %}{% endfor %}
 
+</div>
+<p> &nbsp; </p>
+
+
+
+
 ## Full List
 
 {% for publi in site.data.publist %}
@@ -43,3 +48,4 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
