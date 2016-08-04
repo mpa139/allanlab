@@ -67,6 +67,7 @@ firstp {
 
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 16px 12px 6px 0; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
@@ -83,3 +84,15 @@ firstp {
 	padding-left: 26px;
 	padding-right: 26px;
 }
+
+
+/* Carusel */
+
+.carousel {
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+

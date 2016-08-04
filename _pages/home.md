@@ -9,11 +9,30 @@ permalink: /
 
 We are a small, dynamic group at the Leiden Institute of Physics. Our aim is to explore and understand quantum materials, including strange metals, hight-temperature superconductors, and quantum critical electron matter. 
  
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg"  width="100%">
-  <figcaption ><small>Group picture (with the rest of the institute) [replace with changing pic] </small></figcaption>
-</figure> 
 
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg" alt="Slide 3" />
+        </div>
+    </div> 
+
+</div>
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see Research).
 
