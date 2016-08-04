@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-<firstp> We are a small, dynamic group at Leiden University, with the aim is to explore and understand quantum materials, including strange metals, hight-temperature superconductors, and quantum critical electron matter. </firstp>
+We are a small, dynamic group at the Leiden Institute of Physics. Our aim is to explore and understand quantum materials, including strange metals, hight-temperature superconductors, and quantum critical electron matter. 
  
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg"  width="100%">
@@ -15,7 +15,7 @@ permalink: /
 </figure> 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools, and use those to visualise the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the most important scientific questions.
+To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see Research).
 
 We are located at Leiden University, the birthplace of superconductivity and home to Onnes, Lorenz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](www.physics.leidenuniv.nl/colloquium-ehrenfestii)). We exchange ideas and work with our neighbors from Quantum Matter & Optics ,as well as with the  colleagues form the world-class theory section.
 

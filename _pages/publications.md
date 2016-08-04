@@ -34,7 +34,6 @@ permalink: /publications/
 </div>
 {% endif %}{% endfor %}
 
-</div>
 <p> &nbsp; </p>
 
 
