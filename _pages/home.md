@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-
 We are a small, dynamic group at the Leiden Institute of Physics. Our aim is to explore and understand quantum materials, including strange metals, hight-temperature superconductors, and quantum critical electron matter. 
  
 
