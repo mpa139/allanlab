@@ -10,25 +10,29 @@ permalink: /
 We are a small, dynamic group at the Leiden Institute of Physics. Our aim is to explore and understand quantum materials, including strange metals, hight-temperature superconductors, and quantum critical electron matter. 
  
 
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Group2015_red.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MottMap.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topo214.png" alt="Slide 4" />
         </div>
     </div> 
 
