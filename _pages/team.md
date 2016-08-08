@@ -50,7 +50,7 @@ permalink: /team/
 <p><em>PhD Student, started Jan 2016</em></p>
 	<ul style="overflow: hidden">
 	  <li>Master Cambridge University</li>
-	  <li>Bsc Moscow Institute of Physics and Technology Cambridge University</li>
+	  <li>Bsc Moscow Institute of Physics and Technology</li>
 	</ul>
   </div>
 </div>
@@ -82,6 +82,7 @@ permalink: /team/
 <p><em>Fine mechanical engineer associated with the FMD, currently working in our group</em></p>
 	<ul style="overflow: hidden">
 	  <li>Leidse instrumentmakers School</li>
+	  <li>Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen</li>
 	</ul>
   </div>
 </div>
@@ -90,7 +91,7 @@ permalink: /team/
 <p>Oliver Ostojic, Arjo Andringa,  Tjerk Benschop, Alexander Vanstone</p>
 
 <h2>Former Members</h2>
-<p>Nikolaos Iliopoulos (visitor, 2016), Farshaad Hoeseni (Master student, 2015), Daniëlle van Klink (Batchelor student, 2016)</p>
+<p>Nikolaos Iliopoulos (visitor, 2016), Farshaad Hoeseni (Master student, 2015), Daniëlle van Klink (Bachelor student, 2016)</p>
 
 <h2>Administrative Support</h2>
 <p>Ellie van Rijsewijk <Rijsewijk@Physics.LeidenUniv.nl> is helping us (and other groups) with administration.</p>
