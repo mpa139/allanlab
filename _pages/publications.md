@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+## Highlightss
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
@@ -18,7 +18,7 @@ permalink: /publications/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
@@ -35,7 +35,7 @@ permalink: /publications/
 </div>
 
 {% assign number_printed = number_printed + 1 %}
-{% if even_odd == 1 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
 
