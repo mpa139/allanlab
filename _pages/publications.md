@@ -17,7 +17,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 {% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd == 0 %}
+{% if even_odd == 1 %}
 <div class="row">
 {% endif %}
 
@@ -34,7 +34,7 @@ permalink: /publications/
  </div>
 </div>
 {% endif %}
-{% if even_odd == 0 %}
+{% if even_odd == 1 %}
 </div>
 {% endif %}{% endfor %}
 
