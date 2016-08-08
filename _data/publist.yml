@@ -48,7 +48,6 @@
     display: Nature Physics 9, 220 (2013)
   news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
 
-
 - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
   image: Pub_327.png
   description:
@@ -85,7 +84,6 @@
   highlight: 1
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
 
 - title: Tunable self-assembly of one-dimensional nanostructures with orthogonal directions
   image: Pub_hBN.png
@@ -148,7 +146,6 @@
     display: Nature Physics 9, 220 (2013)
   news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
 
-
 - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
   image: Pub_327.png
   description:
@@ -186,8 +183,7 @@
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
-
-- title: Tunablee self-assembly of one-dimensional nanostructures with orthogonal directions
+- title: Tunable self-assembly of one-dimensional nanostructures with orthogonal directions
   image: Pub_hBN.png
   description:
     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
@@ -197,4 +193,3 @@
     url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
-
