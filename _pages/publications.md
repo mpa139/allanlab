@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-## Highlightss
+## Highlights
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
@@ -20,7 +20,7 @@ permalink: /publications/
 {% if even_odd == 1 %}
 <div class="row">
 {% endif %}
-{% assign even_odd1 = 0 %}
+{% assign even_odd1 = assign even_odd1 + 1 %}
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
