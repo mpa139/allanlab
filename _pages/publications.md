@@ -38,7 +38,7 @@ permalink: /publications/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+{% endif %}
 {% endfor %}
 
 <p> &nbsp; </p>
