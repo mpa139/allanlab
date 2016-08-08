@@ -30,7 +30,7 @@ permalink: /publications/
 </div>
 {{ number_printed }}
 {{ "incr" }}
-{% assign number_printed = number_printed + 1 %}
+{% assign number_printed = number_printed | plus: 1 %}
 {{ number_printed }}
 
 {% if even_odd == 1 %}
