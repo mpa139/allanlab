@@ -64,7 +64,6 @@ permalink: /publications/
 <div class="row">
 <p>{{ "row" }} </p>
 {% endif %}
-{{ forloop.index0 }}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
