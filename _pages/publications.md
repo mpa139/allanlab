@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+## Highlightss
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
@@ -17,7 +17,7 @@ permalink: /publications/
 {% assign even_odd = forloop.index0 | modulo: 2 %}
 {% if even_odd == 1 %}
 <div class="row">
-{% endif %}
+
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -30,6 +30,7 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
+{% endif %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}{% endfor %}
