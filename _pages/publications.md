@@ -14,9 +14,11 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if publi.hightlight == 1 %}
+
+
 <div class="row">
+
+
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
@@ -28,12 +30,9 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-</div>
-{% endif %}
 {% if even_odd == 1 %}
-{% endif %}
-
-{% endfor %}
+</div>
+{% endif %}{% endfor %}
 
 <p> &nbsp; </p>
 
