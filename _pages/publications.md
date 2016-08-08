@@ -21,6 +21,8 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
+{% assign even_odd1 = even_odd1 + 1 %}
+
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
