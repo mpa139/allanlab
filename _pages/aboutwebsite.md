@@ -10,7 +10,7 @@ permalink: /aboutwebsite.html
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
 
-All pages are written in markdown for easy editing, and Jekyll uses Liquid for the data-driven pages. The publicaion list, news items, and group members are stored as *.yml* data sheets (plain text), so that one can update the website easily. Updating and maintaining is easy using github (not worldpress-easy, but there are other advantages (see e.g. [this](https://www.taniarascia.com/make-a-static-website-with-jekyll/), or [this](http://www.webdesignerdepot.com/2015/11/jekyll-against-the-rest-of-the-world/)).
+All pages are written in markdown for easy editing, and Jekyll uses Liquid for the data-driven pages. The publicaion list, news items, and group members are stored as *.yml* data sheets (plain text) in the _data folder, so that one can update the website easily. The pages are in the _pages folder. Updating and maintaining is easy using github (not worldpress-easy, but there are other advantages (see e.g. [this](https://www.taniarascia.com/make-a-static-website-with-jekyll/), or [this](http://www.webdesignerdepot.com/2015/11/jekyll-against-the-rest-of-the-world/)).
 
 If you never used Jekyll, read the [wikipedia article](https://en.wikipedia.org/wiki/Jekyll_(software)) article and check out their website. Same for Github, which will host your first website draft. 
 
