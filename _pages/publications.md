@@ -62,7 +62,7 @@ permalink: /publications/
 {% assign even_odd = forloop.index0 | modulo: 2 %}
 {% if even_odd == 0 %}
 <div class="row">
-<p>{{ "row" }} </p>
+
 {% endif %}
 
 <div class="col-sm-6 clearfix">
