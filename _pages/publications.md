@@ -14,11 +14,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-
-
 <div class="row">
-
-
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
@@ -30,9 +26,9 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-
 </div>
 
+{% endfor %}
 
 <p> &nbsp; </p>
 
