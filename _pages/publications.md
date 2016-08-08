@@ -12,16 +12,15 @@ permalink: /publications/
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
-
-{% assign even_odd1 = 0 %}
+{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd == 0 %}
+{% assign even_odd = number_added | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 1 %}
 <div class="row">
 {% endif %}
-
-{% assign even_odd1 = even_odd1 + 1 %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -34,9 +33,13 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-{% if even_odd == 0 %}
+
+{% assign number_printed = number_printed + 1 %}
+{% if even_odd == 1 %}
 </div>
-{% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
 
 <p> &nbsp; </p>
 
