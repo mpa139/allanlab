@@ -47,7 +47,7 @@ We are a small, dynamic group at the Leiden Institute of Physics. Our aim is to 
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see Research).
+To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](Research)).
 
 We are located at Leiden University, the birthplace of superconductivity and home to Onnes, Lorenz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from Quantum Matter & Optics ,as well as with the  colleagues form the world-class theory section.
 
