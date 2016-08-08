@@ -7,7 +7,7 @@
   link:
     url: http://arxiv.org/abs/1604.08343
     display: arXiv
-  highlight: 1
+  highlight: 0
   news: 
 
 - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
@@ -32,7 +32,7 @@
   link:
     url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
     display: Nature Physics 11, 177 (2015)
-  highlight: 1
+  highlight: 0
   news1:
   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
 
