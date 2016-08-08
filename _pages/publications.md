@@ -14,12 +14,32 @@ permalink: /publications/
 
 <div class="row">
  <div class="col-sm-6 clearfix">
-  <p> ljksdg </p>
- </div> 
+  <div class="well">
+   <p> ljksdg </p>
+  </div> 
+ </div>
+ 
  <div class="col-sm-6 clearfix">
-  <p> 234ljksdg </p>
+  <div class="well">
+   <p> ljksdg </p>
+  </div> 
  </div> 
 </div>
+
+<div class="row">
+ <div class="col-sm-6 clearfix">
+  <div class="well">
+   <p> ljksdg </p>
+  </div> 
+ </div>
+ 
+ <div class="col-sm-6 clearfix">
+  <div class="well">
+   <p> ljksdg </p>
+  </div> 
+ </div> 
+</div>
+
 
 {% for publi in site.data.publist %}
 
