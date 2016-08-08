@@ -14,7 +14,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{% assign even_odd = forloop.index0 | modulo: 3 %}
+{% assign even_odd = forloop.index0 | modulo: 4 %}
 {% if even_odd == 0 %}
 <div class="row">
 
