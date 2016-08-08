@@ -59,7 +59,7 @@ permalink: /team/
   <div class="col-sm-6 clearfix">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Maarten.png" class="img-responsive" width="25%" style="float: left" />
 		<h4>Maarten Leeuwenhoek</h4>
-<p><em>PhD Student, shared with the <a href="www.groeblacherlab.tudelft.nl">Groeblacher lab</a></li>  @ TU Delft under a NanoFront grant. Maarten currently works in the cleanroom in Delft</em></p>
+<p><em>PhD Student, shared with the <a href="www.groeblacherlab.tudelft.nl">Groeblacher lab</a> @ TU Delft under a NanoFront grant. Maarten currently works in the cleanroom in Delft</em></p>
 	<ul style="overflow: hidden">
 	  <li>Master Leiden University with Milan Allan</li>
 	</ul>
