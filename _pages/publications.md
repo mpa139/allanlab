@@ -47,6 +47,7 @@ permalink: /publications/
 {{ even_odd }}
 {% if even_odd == 1 %}
 <div class="row">
+{{ row }}
 {% endif %}
 {{ forloop.index0 }}
 
