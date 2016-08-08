@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-## Highlightsss
+## Highlightss
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
@@ -21,7 +21,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-{% if forloop.index0 > -1 %}
+{% if forloop.index0 > 0 %}
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
