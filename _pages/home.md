@@ -51,7 +51,7 @@ To this end, we develop novel spectroscopic-imaging scanning tunneling microscop
 
 We are located at Leiden University, the birthplace of superconductivity and home to Onnes, Lorenz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from Quantum Matter & Optics ,as well as with the  colleagues form the world-class theory section.
 
-We are looking for passionate and talented new group members. If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. (If you are interested in pursuing a Master degree at Leiden University, see [www.physics.leidenuniv.nl/master](http://www.physics.leidenuniv.nl/master).
+We are looking for passionate and talented new group members. If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. (If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction).
 
 
 We are grateful for funding from Leiden University and NWO (thought a _Vidi talent grant_ and the _Frontiers in Nanoscience program_).
