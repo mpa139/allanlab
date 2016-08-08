@@ -15,7 +15,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 {% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if publi.hightlight == 1 %}
 <div class="row">
 {% endif %}
 
