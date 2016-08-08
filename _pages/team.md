@@ -50,7 +50,7 @@ permalink: /team/
 <p><em>PhD Student, started Jan 2016</em></p>
 	<ul style="overflow: hidden">
 	  <li>Master Cambridge University</li>
-	  <li>Bsc Moscow Institute of Physics and Technology</li>
+	  <li>BSc Moscow Institute of Physics and Technology</li>
 	</ul>
   </div>
 </div>
@@ -59,7 +59,7 @@ permalink: /team/
   <div class="col-sm-6 clearfix">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Maarten.png" class="img-responsive" width="25%" style="float: left" />
 		<h4>Maarten Leeuwenhoek</h4>
-<p><em>PhD Student, shared with the Groeblacher lab @ TU Delft under a NanoFront grant. Maarten currently works in the cleanroom in Delft</em></p>
+<p><em>PhD Student, shared with the [Groeblacher lab](www.groeblacherlab.tudelft.nl) @ TU Delft under a NanoFront grant. Maarten currently works in the cleanroom in Delft</em></p>
 	<ul style="overflow: hidden">
 	  <li>Master Leiden University with Milan Allan</li>
 	</ul>
