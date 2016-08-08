@@ -12,6 +12,8 @@ permalink: /publications/
 
 (For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
+{% for publi in site.data.publist %}
+
 <div class="row">
  <div class="col-sm-6 clearfix">
   <div class="well">
@@ -37,6 +39,8 @@ permalink: /publications/
   </div> 
  </div> 
 </div>
+
+{% endfor %}
 
 <div class="row">
  <div class="col-sm-6 clearfix">
