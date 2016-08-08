@@ -28,8 +28,11 @@ permalink: /publications/
   {{ forloop.index0 }}
  </div>
 </div>
-
+{{ number_printed }}
+{{ "incr" }}
 {% assign number_printed = number_printed + 1 %}
+{{ number_printed }}
+
 {% if even_odd == 1 %}
 </div>
 {{ "exit row" }}
