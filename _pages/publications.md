@@ -15,9 +15,9 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 {% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd >= 0 %}
+{% if forloop.index0 > 0 %}
 <div class="row">
-<div class="col-md-4 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
