@@ -54,7 +54,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are looking for passionate and talented new group members. If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. (If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction)).
 
 
-We are grateful for funding from Leiden University and NWO (thought a _Vidi talent grant_ and the _Frontiers in Nanoscience program_).
+We are grateful for funding from Leiden University and [NWO](www.nwo.nl) ([Vidi talent grant](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)).
 
 <figure class="third">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 200px">
