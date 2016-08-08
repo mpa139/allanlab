@@ -20,6 +20,7 @@ permalink: /publications/
 
 {% if even_odd == 0 %}
 <div class="row">
+{{ "row" }}
 {% endif %}
 
 <div class="col-sm-6 clearfix">
@@ -31,6 +32,7 @@ permalink: /publications/
 {% assign number_printed = number_printed + 1 %}
 {% if even_odd == 1 %}
 </div>
+{{ "exit row" }}
 {% endif %}
 
 {% endif %}
