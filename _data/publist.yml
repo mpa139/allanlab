@@ -36,6 +36,18 @@
   news1:
   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
 
+- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+  image: dummy.png
+  description: ""
+  authors:
+    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+  link:
+    url: http://www.pnas.org/content/111/32/11663
+    display: PNAS 111, 11663 (2014)
+  highlight: 0
+  news1:
+  news2:
+
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
   image: Pub_nemat2b.png
   description:
@@ -72,6 +84,16 @@
   highlight: 1
   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
+- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+  image: dummy.png
+  description: ""
+  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  link:
+    url: http://www.pnas.org/content/108/45/18233
+    display:  PNAS 108, 18233 (2011)
+  highlight: 0
+  news2: 
+
 - title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
   image: Pub_nemat1.png
   description:
@@ -95,3 +117,13 @@
     url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
+
+- title: Photoelectron Diffraction for a Look inside Nanostructures
+  image: dummy.png
+  description: ""
+  authors:
+    J Osterwalder, A Tamai, W AuwÃ¤rter; MP Allan, T Greber
+  link:
+    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
+    display: CHIMIA 11, 759 (2006)
+  highlight: 0
