@@ -10,19 +10,6 @@
   highlight: 1
   news: 
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013) 
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
   image: Pub_FP.png
   description:
@@ -47,6 +34,19 @@
   highlight: 0
   news1:
   news2:
+
+- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
+  image: Pub_CeCoIn5.png
+  description:
+    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
+  authors:
+    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+  link:
+    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
+    display: Nature Physics 9, 468 (2013) 
+  highlight: 0
+  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
+  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
   image: Pub_nemat2b.png
