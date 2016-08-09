@@ -94,7 +94,7 @@ permalink: /team/
 <p>Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), Nikolaos Iliopoulos (visitor, 2016), Daniëlle van Klink (Bachelor student, 2016), Farshaad Hoeseni (Master student, 2015)</p>
 
 <h2>Administrative Support</h2>
-<p>Ellie van Rijsewijk <Rijsewijk@Physics.LeidenUniv.nl> is helping us (and other groups) with administration.</p>
+<p><a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.</p>
 
 <h2>Lab Visitors</h2>
 <p>Amir Safavi-Naeni (Stanford), Alexander Ako Khajetoorians (Radboud University), Mohammad Hamidian (Harvard->UC Davis), Ivan Bozovic (BNL / Yale), Freek Massee (Paris)</p>
