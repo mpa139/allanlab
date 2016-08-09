@@ -48,18 +48,6 @@
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1    
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
 - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
   image: Pub_327.png
   description:
@@ -71,6 +59,18 @@
     display: New Journal of Physics 15, 063029 (2013) 
   highlight: 1
   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+
+- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
+  image: Pub_nemat2b.png
+  description:
+    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+  authors:
+    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
+  highlight: 1    
+  link:
+    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
+    display: Nature Physics 9, 220 (2013)
+  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
 
 - title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
   image: Pub_LiFeAs.png
@@ -106,6 +106,17 @@
   highlight: 1
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr 3Ru2O7
+  image: Pub_hBN.png
+  description:
+    We determine the Fermi surface of Sr327.
+  authors:
+    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+  link:
+    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
+    display: Phys. Rev. Lett. 101, 026407 (2008)
+  highlight: 0
 
 - title: Tunablee self-assembly of one-dimensional nanostructures with orthogonal directions
   image: Pub_hBN.png
