@@ -88,10 +88,10 @@ permalink: /team/
 </div>
 
 <h2>Current Master and Bachelor Students</h2>
-<p>Oliver Ostojic, Arjo Andringa,  Tjerk Benschop, Alexander Vanstone</p>
+<p>Tjerk Benschop, Alexander Vanstone</p>
 
 <h2>Former Members</h2>
-<p>Nikolaos Iliopoulos (visitor, 2016), Farshaad Hoeseni (Master student, 2015), Daniëlle van Klink (Bachelor student, 2016)</p>
+<p>Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), Nikolaos Iliopoulos (visitor, 2016), Daniëlle van Klink (Bachelor student, 2016), Farshaad Hoeseni (Master student, 2015)</p>
 
 <h2>Administrative Support</h2>
 <p>Ellie van Rijsewijk <Rijsewijk@Physics.LeidenUniv.nl> is helping us (and other groups) with administration.</p>
