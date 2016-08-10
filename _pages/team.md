@@ -97,4 +97,4 @@ permalink: /team/
 <p><a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.</p>
 
 <h2>Lab Visitors</h2>
-<p>Amir Safavi-Naeni (Stanford), Alexander Ako Khajetoorians (Radboud University), Mohammad Hamidian (Harvard->UC Davis), Ivan Bozovic (BNL / Yale), Freek Massee (Paris)</p>
+<p><a href="http://stanford.edu/~safavi/">Amir Safavi-Naeini</a> (Stanford), <a href="http://www.ru.nl/spm">Alexander Ako Khajetoorians</a> (Radboud University), <a href="www.mhamidian.com">Mohammad Hamidian</a> (Harvard->UC Davis), <a href="https://www.bnl.gov/cmpmsd/mbe/default.asp">Ivan Bozovic</a> (BNL / Yale), <a href="www.fmassee.nl">Freek Massee</a> (Paris)</p>
