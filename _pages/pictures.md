@@ -5,7 +5,7 @@ excerpt: "Pictures."
 permalink: /pictures/
 ---
 
-<h1>My firstt</h1>
+<h1>My first</h1>
 
 images:
 - image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
@@ -14,7 +14,7 @@ images:
   title: klsjfd
 - image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
   title: klsjfd
----
+
 <ul class="photo">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{image.title}}"/></li>
