@@ -8,26 +8,22 @@ permalink: /pictures/
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 
-  
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
- 
- 
- 
  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd == 2 %}
 </div>
 {% endif %}
 
@@ -35,7 +31,7 @@ permalink: /pictures/
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if even_odd == 2 %}
 </div>
 {% endif %}
 
