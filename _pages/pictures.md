@@ -9,9 +9,9 @@ permalink: /pictures/
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
-## Leidenn
+## Leiden
 
-[Put in galleries]
+[Put in galleriess]
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="75%">
