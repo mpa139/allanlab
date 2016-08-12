@@ -42,7 +42,7 @@ permalink: /pictures/
 
 
 
-# Pictures
+# Picturess
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
 ## Leidenn
