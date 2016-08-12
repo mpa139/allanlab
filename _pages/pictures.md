@@ -6,11 +6,6 @@ sitemap: false
 permalink: /pictures/
 ---
 
-
-
-
-
-
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
