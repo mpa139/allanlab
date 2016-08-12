@@ -15,7 +15,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-4 clearfix">
-
+ <p>{{ pic.title }}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gallery/{{ pic.image }}" class="img-responsive" width="90%" style="float: left" />
  
 </div>
@@ -45,7 +45,7 @@ permalink: /pictures/
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
-## Leidenn
+## Leiden
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="75%">
