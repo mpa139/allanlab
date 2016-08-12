@@ -15,7 +15,7 @@ images:
 ---
 <ul class="photo">
   {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{imgae.title}}"/></li>
+    <li><img src="{{ image.image_path }}" alt="{{image.title}}"/></li>
   {% endfor %}
 <ul>
 
