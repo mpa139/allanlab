@@ -18,7 +18,7 @@ permalink: /pictures/
 <div class="col-sm-6 clearfix">
 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
  
  
  
