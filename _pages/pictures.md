@@ -17,7 +17,7 @@ permalink: /pictures/
 
 <div class="col-sm-4 clearfix">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gallery{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
  
 </div>
 
@@ -42,20 +42,6 @@ permalink: /pictures/
 <p> &nbsp; </p>
 
 
-
-images:
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
-  title: klsjfd
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
-  title: klsjfd
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
-  title: klsjfd
-
-<ul class="photo">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{image.title}}"/></li>
-  {% endfor %}
-<ul>
 
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
