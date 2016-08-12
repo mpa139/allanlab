@@ -20,7 +20,9 @@ images:
  title: leiden
 
   {% for image in page.images %}
-    <img src="{{ image.image_path }}" alt="{{ image.title }}"/>
+  <figure>
+    <img src="{{ image.image_path }}""/>
+  </figure>
   {% endfor %}
 
 
