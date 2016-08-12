@@ -4,6 +4,7 @@ layout: piclay
 excerpt: "Pictures."
 sitemap: false
 permalink: /pictures/
+---
 images:
 - image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
  title: leiden
