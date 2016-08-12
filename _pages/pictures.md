@@ -21,7 +21,7 @@ images:
 
   {% for image in page.images %}
   <figure>
-    <img src="{{ image.image_path }}""/>
+    <img src="{{ image.image_path }}">
   </figure>
   {% endfor %}
 
@@ -31,7 +31,7 @@ images:
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
-## Leiden
+## Leidenn
 
 [Put in galleries]
 
