@@ -4,6 +4,26 @@ layout: piclay
 excerpt: "Pictures."
 sitemap: false
 permalink: /pictures/
+images:
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
+ title: leiden
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
+ title: leiden
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
+ title: leiden
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
+ title: leiden
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
+ title: leiden
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
+ title: leiden
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title }}"/></li> 
+
+{% endof %}
+</ul>
+
 ---
 
 # Pictures
