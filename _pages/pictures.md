@@ -5,9 +5,20 @@ excerpt: "Pictures."
 permalink: /pictures/
 ---
 
-<div>
-jksdlfg
-</div>
+images:
+- image_path: /asfasdf.jpg
+  title: klsjfd
+- image_path: /asfasdf.jpg
+  title: klsjfd
+- image_path: /asfasdf.jpg
+  title: klsjfd
+---
+<ul class="photo">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{imgae.title}}"/></li>
+  {% endfor %}
+<ul>
+
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
