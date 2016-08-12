@@ -11,7 +11,7 @@ Jump to: Leiden, ETHZ, Cornell, St Andrews
 
 ## Leiden
 
-Put in galleriess
+Put in 
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="75%">
