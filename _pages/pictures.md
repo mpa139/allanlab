@@ -6,10 +6,9 @@ permalink: /pictures/
 ---
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for pic in site.data.pictures_Leiden %}
 
 {% assign even_odd = number_printed | modulo: 3 %}
-
 
 {% if even_odd == 0 %}
 <div class="row">
