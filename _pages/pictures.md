@@ -18,11 +18,11 @@ images:
  title: leiden
 - image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
  title: leiden
-<ul class="photo-gallery">
+
   {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title }}"/></li> 
+    <img src="{{ image.image_path }}" alt="{{ image.title }}"/>
   {% endfor %}
-</ul>
+
 
 ---
 
