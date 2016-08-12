@@ -5,14 +5,14 @@ excerpt: "Pictures."
 permalink: /pictures/
 ---
 
-<h1>My first</h1>
+<h1>My firstt</h1>
 
 images:
-- image_path: /asfasdf.jpg
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
   title: klsjfd
-- image_path: /asfasdf.jpg
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
   title: klsjfd
-- image_path: /asfasdf.jpg
+- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
   title: klsjfd
 ---
 <ul class="photo">
