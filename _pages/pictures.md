@@ -5,28 +5,11 @@ excerpt: "Pictures."
 sitemap: false
 permalink: /pictures/
 ---
-images:
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
- title: leiden
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
- title: leiden
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
- title: leiden
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
- title: leiden
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
- title: leiden
-- image_path: {{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg
- title: leiden
-
-  {% for image in page.images %}
-  <figure>
-    <img src="{{ image.image_path }}">
-  </figure>
-  {% endfor %}
 
 
----
+
+
+
 
 # Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
