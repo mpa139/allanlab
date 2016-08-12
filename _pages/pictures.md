@@ -16,7 +16,7 @@ permalink: /pictures/
 
 <div class="col-sm-4 clearfix">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gallery{{ pic.image }}" class="img-responsive" width="90%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gallery/{{ pic.image }}" class="img-responsive" width="90%" style="float: left" />
  
 </div>
 
@@ -42,12 +42,10 @@ permalink: /pictures/
 
 
 
-# Picturess
+# Pictures
 Jump to: Leiden, ETHZ, Cornell, St Andrews
 
 ## Leidenn
-
-Put in 
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="75%">
