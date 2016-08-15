@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 layout: gridlay
-excerpt: "Page not found. Your pixels are in another canvas."
+excerpt: "Allan Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
