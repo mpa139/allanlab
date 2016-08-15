@@ -6,9 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
-<h1>Group Members</h1>
+# Group Members
 
-<h2>Staff</h2>
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+
+## Staff
 <div class="row">
   <div class="col-sm-6 clearfix">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Milan.png" class="img-responsive" width="25%" style="float: left" />
@@ -87,14 +89,14 @@ permalink: /team/
   </div>
 </div>
 
-<h2>Current Master and Bachelor Students</h2>
+## Master and Bachelor Students 
 <p>Tjerk Benschop, Alexander Vanstone</p>
 
-<h2>Former Members</h2>
+## Alumni
 <p>Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), Nikolaos Iliopoulos (visitor, 2016), Daniëlle van Klink (Bachelor student, 2016), Farshaad Hoeseni (Master student, 2015)</p>
 
-<h2>Administrative Support</h2>
+## Administrative Support
 <p><a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.</p>
 
-<h2>Lab Visitors</h2>
+## Lab Visitors
 <p><a href="http://stanford.edu/~safavi/">Amir Safavi-Naeini</a> (Stanford), <a href="http://www.ru.nl/spm">Alexander Ako Khajetoorians</a> (Radboud University), <a href="http://www.mhamidian.com">Mohammad Hamidian</a> (Harvard->UC Davis), <a href="https://www.bnl.gov/cmpmsd/mbe/default.asp">Ivan Bozovic</a> (BNL / Yale), <a href="http://www.fmassee.nl">Freek Massee</a> (Paris)</p>
