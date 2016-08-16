@@ -8,6 +8,8 @@ permalink: /pictures/
 # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
+[Timelapse of our STM assembling](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN)
+
 ## Leiden
 
 (Right-click *'view image'* to see a larger image.)
