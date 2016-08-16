@@ -24,11 +24,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
  
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ member.image }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <p><em>{{ member.info }} <br> email: <{{ member.email }}> </em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- 
+  <p><em>{{ member.info }}</em></p>
+  <p><em> email: {{ member.email }}</em></p>
+  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
