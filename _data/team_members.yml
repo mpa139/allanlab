@@ -1,27 +1,62 @@
 - name: Milan P Allan
   photo: Milan.png
-  info:
-    Assistant Professor, started Jan 2015
-  email:
-    milan.allan@gmail.com
+  info: Assistant Professor, started Jan 2015
+  email: milan.allan@gmail.com
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
   education3: Postdoc Cornell
   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
   
-  
-- name: name2
-  photo: Pub_M2PG.png
-  info:
-    info1
-  email:
-    email1
-  education1:
-    edu1
-  education2:
-    edu2
-  education3:
-    edu3
+- name: Irene Battisti
+  photo: irene.jpg
+  info: PhD student, started Jan 2015
+  email: Battisti@Physics.LeidenUniv.nl
+  education1: Master Padova University
+  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
+  education3: 
   education4: 
   
+- name: Koen M Bastiaans
+  photo: Koen.jpg
+  info: PhD Student, started Sep 2015
+  email: Bastiaans@Physics.LeidenUniv.nl
+  education1: Master Leiden University with Milan Allan
+  education2: 
+  education3: 
+  education4:
   
+- name: Vitaly Fedoseev
+  photo: Vitaly.JPG
+  info: PhD Student, started Jan 2016
+  email: VFedoseev@Physics.LeidenUniv.nl
+  education1: MPhil Cambridge University
+  education2: BSc Moscow Institute of Physics and Technology
+  education3: 
+  education4:  
+
+- name: Maarten Leeuwenhoek
+  photo: Maarten.png
+  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant. Maarten currently works in the cleanroom in Delft.
+  email: M.Leeuwenhoek@tudelft.nl
+  education1: Master Leiden University with Milan Allan
+  education2: 
+  education3: 
+  education4:  
+  
+- name: Gijsbert Verdoes
+  photo: verdoes.jpg
+  info: Fine mechanical engineer associated with the FMD, currently working in our group
+  email: verdoes@fmd.physics.leidenuniv.nl
+  education1: Leidse instrumentmakers School
+  education2: 
+  education3: 
+  education4:  
+  
+- name: Kees van Oosten
+  photo: Kees.jpg
+  info: Fine mechanical engineer associated with the FMD, currently working in our group
+  email: Oosten@fmd.physics.leidenuniv.nl
+  education1: Leidse instrumentmakers School
+  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education3: 
+  education4:  
