@@ -1,11 +1,11 @@
-- name: name1
+- name: Milan P Allan
   photo: Milan.png
   info:
-    info1
+    Assistant Professor, started Jan 2015
   email:
     milan.allan@gmail.com
   education1: See also <a href="http://www.news.und"> Cornell Chronicle </a> by Anne Ju
-  education2:
+  education2: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
     edu2
   education3:
     edu3
