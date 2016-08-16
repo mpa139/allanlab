@@ -27,6 +27,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <ul style="overflow: hidden">
   <li><p> {{ member.education1 }} </p></li>
   <li><p> {{ member.education2 }} </p></li>
+  <li><p> {{ member.education3 }} </p></li>
+  <li><p> {{ member.education4 }} </p></li>
   </ul>
 </div>
 
