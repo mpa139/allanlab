@@ -23,8 +23,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <p><em>{{ member.info }}</em></p>
-  <p><em>email: {{ member.email }}</em></p>
+  *{{ member.info }}* <br>
+  *email: {{ member.email }}*
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
