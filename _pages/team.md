@@ -25,7 +25,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <p><em>{{ member.info }}</em></p>
   <p><em> <br> email: <{{ member.email }}></em></p>
-  
+  <ul style="overflow: hidden">
+  <p> {{ member.education1 }} </p>
+  <p> {{ member.education2 }} </p>
+  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
