@@ -61,7 +61,7 @@ From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 </figure>
 
 ## Cornell
-From the [group of Seamus JC Davis](http://www.davisgroup.lassp.cornell.edu).
+From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
 </figure>
