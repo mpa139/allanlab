@@ -26,10 +26,29 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <p><em>{{ member.info }}</em></p>
   <p><em>email: {{ member.email }}</em></p>
   <ul style="overflow: hidden">
+  
+  {% if member.number_educ == 1 %}
+  <li><p> {{ member.education1 }} </p></li>
+  {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  <li><p> {{ member.education1 }} </p></li>
+  <li><p> {{ member.education2 }} </p></li>
+  {% endif %}
+  
+  {% if member.number_educ == 3 %}
+  <li><p> {{ member.education1 }} </p></li>
+  <li><p> {{ member.education2 }} </p></li>
+  <li><p> {{ member.education3 }} </p></li>
+  {% endif %}
+  
+  {% if member.number_educ == 4 %}
   <li><p> {{ member.education1 }} </p></li>
   <li><p> {{ member.education2 }} </p></li>
   <li><p> {{ member.education3 }} </p></li>
   <li><p> {{ member.education4 }} </p></li>
+  {% endif %}
+  
   </ul>
 </div>
 
