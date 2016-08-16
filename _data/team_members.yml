@@ -1,1 +1,30 @@
-- name:
+- name: name1
+  photo: Pub_M2PG.png
+  info:
+    info1
+  email:
+    email1
+  education1:
+    edu1
+  education2:
+    edu2
+  education3:
+    edu3
+  education4: 
+  
+  
+- name: name2
+  photo: Pub_M2PG.png
+  info:
+    info1
+  email:
+    email1
+  education1:
+    edu1
+  education2:
+    edu2
+  education3:
+    edu3
+  education4: 
+  
+  
