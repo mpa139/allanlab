@@ -24,7 +24,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   _{{ member.info }}_ <br>
-  email: <{{ member.email }}>
+  _email: <{{ member.email }}_>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
@@ -37,16 +37,16 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
   
   {% if member.number_educ == 3 %}
-  <li><p> {{ member.education1 }} </p></li>
-  <li><p> {{ member.education2 }} </p></li>
-  <li><p> {{ member.education3 }} </p></li>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
   {% endif %}
   
   {% if member.number_educ == 4 %}
-  <li><p> {{ member.education1 }} </p></li>
-  <li><p> {{ member.education2 }} </p></li>
-  <li><p> {{ member.education3 }} </p></li>
-  <li><p> {{ member.education4 }} </p></li>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
   {% endif %}
   
   </ul>
