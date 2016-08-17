@@ -28,12 +28,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
-  <li><p> {{ member.education1 }} </p></li>
+  <li> {{ member.education1 }} </li>
   {% endif %}
   
   {% if member.number_educ == 2 %}
-  <li><p> {{ member.education1 }} </p></li>
-  <li><p> {{ member.education2 }} </p></li>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
   {% endif %}
   
   {% if member.number_educ == 3 %}
