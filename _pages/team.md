@@ -81,7 +81,7 @@ Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), N
 
 ## Lab Visitors
 [Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015; 
-[Mark Fischer](https://people.phys.ethz.ch/~mfischer/) (Paris), fall 2015;
+[Mark H Fischer](https://people.phys.ethz.ch/~mfischer/) (Weizmann Institute of Science), fall 2015;
 [Alexander Ako Khajetoorians](http://www.ru.nl/spm) (Radboud University), fall 2015; 
 [Mohammad Hamidian](http://www.mhamidian.com) (Harvard->UC Davis), spring 2016; 
 [Ivan Bozovic](https://www.bnl.gov/cmpmsd/mbe/default.asp) (BNL / Yale), spring 2016;
