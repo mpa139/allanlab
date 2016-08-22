@@ -8,7 +8,7 @@ permalink: /aoa.html
 
 # AOA calendar
 
-The group indicated below is responsible for choosing a speaker/paper and sending out a reminder. 
+The group indicated below is responsible for choosing a speaker/paper and sending out a reminder. Meetings are at 9:15 in the Gorterzaal.
 
 31-Aug-16	Allan
 
