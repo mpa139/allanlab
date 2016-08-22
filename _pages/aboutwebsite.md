@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "About the website"
 layout: textlay
 excerpt: "About the website."
 sitemap: false

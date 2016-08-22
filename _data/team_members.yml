@@ -1,5 +1,5 @@
 - name: Milan P Allan
-  photo: Milan.png
+  photo: Milan.jpg
   info: Assistant Professor, started Jan 2015
   email: milan.allan@gmail.com
   number_educ: 4
@@ -58,5 +58,13 @@
   number_educ: 2
   education1: Leidse instrumentmakers School
   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+ 
+- name: "This could be you !"
+  photo: rock.jpg
+  info: "See [openings]({{ site.url }}{{ site.baseurl }}/openings.html) for more info"
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:  
+  education2:  
   education3: 
   education4:  

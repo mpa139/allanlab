@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "Allan Lab - Team"
 layout: gridlay
 excerpt: "Allan Lab: Team members"
 sitemap: false
@@ -7,6 +7,9 @@ permalink: /team/
 ---
 
 # Group Members
+
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings.html) **!**
+
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
@@ -68,13 +71,21 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Master and Bachelor Students 
-<p>Tjerk Benschop, Alexander Vanstone</p>
+Tjerk Benschop, Alexander Vanstone
 
 ## Alumni
-<p>Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), Nikolaos Iliopoulos (visitor, 2016), Daniëlle van Klink (Bachelor student, 2016), Farshaad Hoeseni (Master student, 2015)</p>
+Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), Nikolaos Iliopoulos (visitor, 2016), Daniëlle van Klink (Bachelor student, 2016), Farshaad Hoeseni (Master student, 2015)
 
 ## Administrative Support
-<p><a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.</p>
+<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
 ## Lab Visitors
-<p><a href="http://stanford.edu/~safavi/">Amir Safavi-Naeini</a> (Stanford), <a href="http://www.ru.nl/spm">Alexander Ako Khajetoorians</a> (Radboud University), <a href="http://www.mhamidian.com">Mohammad Hamidian</a> (Harvard->UC Davis), <a href="https://www.bnl.gov/cmpmsd/mbe/default.asp">Ivan Bozovic</a> (BNL / Yale), <a href="http://www.fmassee.nl">Freek Massee</a> (Paris)</p>
+[Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015; 
+[Mark Fischer](https://people.phys.ethz.ch/~mfischer/) (Paris), fall 2015;
+[Alexander Ako Khajetoorians](http://www.ru.nl/spm) (Radboud University), fall 2015; 
+[Mohammad Hamidian](http://www.mhamidian.com) (Harvard->UC Davis), spring 2016; 
+[Ivan Bozovic](https://www.bnl.gov/cmpmsd/mbe/default.asp) (BNL / Yale), spring 2016;
+[Freek Massee](http://www.fmassee.nl) (Paris), spring 2016;
+[Felix Baumberger](http://dqmp.unige.ch/baumberger/) (Geneva); spring 2016.
+[Felix Baumberger](http://dqmp.unige.ch/baumberger/) (Geneva); spring 2016.
+[Jasper van Wezel](http://www.jvanwezel.com/)
