@@ -79,7 +79,7 @@ Oliver Ostojic (Master student, 2016), Arjo Andringa (Bachelor student, 2016), N
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
-## Lab Visitors
+## Lab Guests
 
 [Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015
 

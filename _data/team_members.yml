@@ -61,7 +61,7 @@
  
 - name: "This could be you !"
   photo: rock.jpg
-  info: "See [openings]({{ site.url }}{{ site.baseurl }}/openings.html) for more info"
+  info: See <a href="http://www.allanlab.org/openings.html">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
   education1:  

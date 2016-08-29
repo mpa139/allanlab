@@ -51,7 +51,7 @@
 - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
   image: Pub_327.png
   description:
-    Using QPRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electonic structure.
+    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
   authors:
     MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
   link:
@@ -97,7 +97,7 @@
 - title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
   image: Pub_nemat1.png
   description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterised by transport, photoemission, and more SI-STM experiments.
+    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
   authors:
     T-M Chuang⋆ & MP Allan⋆, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
   link:
@@ -118,7 +118,7 @@
     display: Phys. Rev. Lett. 101, 026407 (2008)
   highlight: 0
 
-- title: Tunablee self-assembly of one-dimensional nanostructures with orthogonal directions
+- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
   image: Pub_hBN.png
   description:
     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
