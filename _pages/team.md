@@ -75,8 +75,7 @@ Alexander Vanstone
 
 ## Alumni
 <table align="center" style="width:100%">
-  <tr>
-    <th>Visitors</th>
+  <tr><th>Visitors</th>
     <th>Master Students</th> 
     <th>Bachelor Students</th>
   </tr>
@@ -96,6 +95,7 @@ Alexander Vanstone
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
+
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
