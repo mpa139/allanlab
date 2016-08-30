@@ -74,24 +74,28 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 Alexander Vanstone
 
 ## Alumni
-<b>Visitor</b>
-
-Nikolaos Iliopoulos, 2016
-
-<b>Master students</b>
-
-Oliver Ostojic, Spring 2016
-
-Farshaad Hoeseni. Fall 2015
-
-<b>Bachelor students</b>
-
-Tjerk Benschop, Spring 2016
-
-Arjo Andringa, Spring 2016
-
-Daniëlle van Klink, Spring 2016
-
+<table align="center" style="width:100%">
+  <tr>
+    <th>Visitors</th>
+    <th>Master Students</th> 
+    <th>Bachelor Students</th>
+  </tr>
+  <tr>
+    <td>Nikolaos Iliopoulos, 2016</td>
+    <td>Oliver Ostojic, Spring 2016</td>
+    <td>Tjerk Benschop, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Farshaad Hoeseni, Fall 2015</td>
+    <td>Arjo Andringa, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Daniëlle van Klink, Spring 2016</td>
+  </tr>
+</table>
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
