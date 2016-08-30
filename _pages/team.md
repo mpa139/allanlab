@@ -75,15 +75,21 @@ Alexander Vanstone
 
 ## Alumni
 <b>Visitor</b>
+
 Nikolaos Iliopoulos, 2016
 
 <b>Master students</b>
+
 Oliver Ostojic, Spring 2016
+
 Farshaad Hoeseni. Fall 2015
 
 <b>Bachelor students</b>
+
 Tjerk Benschop, Spring 2016
+
 Arjo Andringa, Spring 2016
+
 Daniëlle van Klink, Spring 2016
 
 ## Administrative Support
