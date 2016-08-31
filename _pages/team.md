@@ -127,7 +127,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Alumni
 <table align="center" style="width:100%">
-  <tr><th>Visitors</th>
+<tr><th>Visitors</th>
     <th>Master Students</th> 
     <th>Bachelor Students</th>
   </tr>
