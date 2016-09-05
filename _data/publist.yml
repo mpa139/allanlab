@@ -32,7 +32,7 @@
     url: http://www.pnas.org/content/111/32/11663
     display: PNAS 111, 11663 (2014)
   highlight: 0
-  news1:
+  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
   news2:
 
 - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
