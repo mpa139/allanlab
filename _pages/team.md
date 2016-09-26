@@ -134,11 +134,16 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <tr>
     <td>Nikolaos Iliopoulos, 2016</td>
     <td>Oliver Ostojic, Spring 2016</td>
-    <td>Tjerk Benschop, Spring 2016</td>
+    <td>Alexander Vanstone, Spring 2016</td>
   </tr>
   <tr>
     <td></td>
     <td>Farshaad Hoeseni, Fall 2015</td>
+    <td>Tjerk Benschop, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
     <td>Arjo Andringa, Spring 2016</td>
   </tr>
   <tr>
