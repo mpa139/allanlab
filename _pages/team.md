@@ -132,12 +132,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <th>Bachelor Students</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, 2016</td>
+    <td>Nikolaos Iliopoulos, Spring 2016</td>
     <td>Oliver Ostojic, Spring 2016</td>
     <td>Alexander Vanstone, Spring 2016</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Vitaly Feedosev, all of 2016</td>
     <td>Farshaad Hoeseni, Fall 2015</td>
     <td>Tjerk Benschop, Spring 2016</td>
   </tr>
