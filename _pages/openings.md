@@ -3,10 +3,10 @@ title: "Allan Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /openings.html
+permalink: /openings
 ---
 
-# Openings
+# Open positions
 
 We are currently looking for new group members  with passion, talent, and grit! 
 
