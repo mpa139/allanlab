@@ -33,7 +33,7 @@ The group indicated below is responsible for choosing a speaker/paper and sendin
 
 
 
-#% old dates
+## old dates
 
 
 31-Aug-16	Allan
