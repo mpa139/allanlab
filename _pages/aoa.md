@@ -10,7 +10,7 @@ permalink: /aoa.html
 
 The group indicated below is responsible for choosing a speaker/paper and sending out a reminder. Meetings are at 9:15 in the Gorterzaal.
 
-24-Jan-17 Aarts
+24-Jan-17 --
 
 7-Feb-17 Allan
 
@@ -28,7 +28,7 @@ The group indicated below is responsible for choosing a speaker/paper and sendin
 
 16-May-17 Oosterkamp
 
-30-May-17
+30-May-17 Aarts
 
 
 
