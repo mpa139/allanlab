@@ -7,3 +7,21 @@
 #  education2:  
 #  education3: 
 #  education4:  
+
+- name: Joey Braspenning
+  photo: rock.jpg
+  info: Bachelor student, Spring 2017
+  email: Braspenning@Physics.LeidenUniv.nl
+  number_educ: 0
+
+- name: Margot Leenders
+  photo: rock.jpg
+  info: Bachelor student, Spring 2017
+  email: Leenders@Physics.LeidenUniv.nl
+  number_educ: 0
+  
+- name: Sietste Lensen
+  photo: rock.jpg
+  info: Bachelor student, Spring 2017
+  email: Lensen@Physics.LeidenUniv.nl
+  number_educ: 0
