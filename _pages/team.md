@@ -133,11 +133,26 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <tr>
     <td>Nikolaos Iliopoulos, Spring 2016</td>
     <td>Oliver Ostojic, Spring 2016</td>
-    <td>Alexander Vanstone, Spring 2016</td>
+    <td>Joey Braspenning, Spring 2017</td>
   </tr>
   <tr>
     <td>Vitaly Feedosev, all of 2016</td>
     <td>Farshaad Hoeseni, Fall 2015</td>
+    <td>Margot Leemker, Spring 2017</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Sietske Lensen, Spring 2017</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Alexander Vanstone, Spring 2016</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
     <td>Tjerk Benschop, Spring 2016</td>
   </tr>
   <tr>
