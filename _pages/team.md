@@ -136,7 +136,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Vishnu Saj, Spring 2017</td>
   </tr>
   <tr>
-    <td>Vitaly Feedosev, all of 2016</td>
+    <td>Vitaly Fedoseev, all of 2016</td>
     <td>Oliver Ostojic, Spring 2016</td>
     <td>Joey Braspenning, Spring 2017</td>
   </tr>
