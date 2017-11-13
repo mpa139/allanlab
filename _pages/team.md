@@ -50,6 +50,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
+ 
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
   
   </ul>
 </div>
