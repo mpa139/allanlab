@@ -183,22 +183,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
-<!--
-## Lab Guests
 
-[Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015
 
-[Mark H Fischer](https://people.phys.ethz.ch/~mfischer/) (Weizmann Institute of Science), fall 2015
 
-[Alexander Ako Khajetoorians](http://www.ru.nl/spm) (Radboud University), fall 2015
 
-[Mohammad Hamidian](http://www.mhamidian.com) (Harvard->UC Davis), spring 2016
 
-[Ivan Bozovic](https://www.bnl.gov/cmpmsd/mbe/default.asp) (BNL / Yale), spring 2016
-
-[Freek Massee](http://www.fmassee.nl) (Paris), spring 2016
-
-[Felix Baumberger](http://dqmp.unige.ch/baumberger/) (Geneva), spring 2016
-
-[Jasper van Wezel](http://www.jvanwezel.com/) (UvA), summer 2016
--->
