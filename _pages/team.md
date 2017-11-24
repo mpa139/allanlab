@@ -183,6 +183,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
+<!--
 ## Lab Guests
 
 [Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015
@@ -200,3 +201,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 [Felix Baumberger](http://dqmp.unige.ch/baumberger/) (Geneva), spring 2016
 
 [Jasper van Wezel](http://www.jvanwezel.com/) (UvA), summer 2016
+-->
