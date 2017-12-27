@@ -1,6 +1,6 @@
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
-  description: ""
+  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
   authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
   link:
     url: https://arxiv.org/abs/1712.08620
@@ -195,7 +195,7 @@
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W AuwÃ¤rter; MP Allan, T Greber
+    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
   link:
     url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
     display: CHIMIA 11, 759 (2006)
