@@ -1,10 +1,20 @@
+- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+  image: SmartPub.png
+  description: ""
+  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  link:
+    url: https://arxiv.org/abs/1712.08620
+    display:  arxiv:1712.08620 (2017)
+  highlight: 1
+  news2: 
+
 - title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
   image: dummy.png
   description: ""
   authors: MA Sulangi, MP Allan, J Zaanen
   link:
-    url: https://arxiv.org/abs/1707.03362
-    display:  arXiv:1707.03362 (2017)
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
+    display:  PRB 96, 134507 (2017)
   highlight: 0
   news2: 
 
