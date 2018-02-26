@@ -7,16 +7,9 @@
 #  education2:  
 #  education3: 
 #  education4:  
-- name: Ahmad Jamalzada
+- name: Willem Tromp
   photo: rock.jpg
   info: Master student
-  email: Jamalzada@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
-
-- name: Bert Visscher
-  photo: rock.jpg
-  info: Master student
-  email: Visscher@Physics.LeidenUniv.nl
+  email: WTromp@Physics.LeidenUniv.nl
   number_educ: 0
   education1:
