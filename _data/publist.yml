@@ -1,3 +1,13 @@
+- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
+  image: dummy.png
+  description: 
+  authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
+  link:
+    url: https://arxiv.org/abs/1806.00374
+    display:  arxiv:1806.00374 (2018)
+  highlight: 0
+  news2: 
+
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
