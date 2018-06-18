@@ -1,4 +1,4 @@
-# Allan Lab Website
+# UBC Computer Vision Research Group Website
 
 This is the website of our computer vision research group at University of British Columbia.
 
