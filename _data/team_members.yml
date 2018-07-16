@@ -3,20 +3,19 @@
   info: Professor
   email: little@cs.ubc.ca
   webpage: http://www.cs.ubc.ca/~little/
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  number_educ: 2
+  education1: Robotics
+  education2: Understanding of sports videos.
   
 - name: Leonid Sigal
   photo: leonid.jpg
   info: Associate Professor
   email: lsigal@cs.ubc.ca 
   webpage: http://www.cs.ubc.ca/~lsigal/
-  number_educ: 0
-  education1: nothing
+  number_educ: 2
+  education1: Deep learning
+  education2: Human pose estimation
+
 
 - name: "This could be you !"
   photo: rock.jpg
