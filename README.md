@@ -4,5 +4,5 @@ This is the website of our computer vision research group at University of Briti
 
 Copyright UBC Vision Research Group. Code released under the MIT License.
 
-Originally forked from the Allan Lab Website
+Originally forked from the Allan Lab Website.
 
