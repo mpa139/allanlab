@@ -56,10 +56,20 @@
 - name: Damianos Chatzopoulos
   photo: Damianos.jpg
   info: PhD Student, starting December 2017
-  email: --@Physics.LeidenUniv.nl
+  email: chatzopoulos@Physics.LeidenUniv.nl
   number_educ: 2
   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3: 
+  education4:  
+ 
+ - name: Willem Tromp
+  photo: rock.jpg
+  info: PhD Student, starting September 2018
+  email: --@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Master Leiden University with Milan Allan
+  education2: 
   education3: 
   education4:  
   
