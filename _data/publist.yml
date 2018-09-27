@@ -1,7 +1,7 @@
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
+  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5043267
     display:  Rev. Sci. Instrum. 89, 093709 (2018)
