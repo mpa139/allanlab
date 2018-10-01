@@ -28,29 +28,29 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
- 
+
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -58,7 +58,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students 
+## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -92,29 +92,29 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -135,7 +135,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Alumni
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
-    <th>Master Students</th> 
+    <th>Master Students</th>
     <th>Bachelor Students</th>
   </tr>
   <tr>
@@ -147,6 +147,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Vitaly Fedoseev, all of 2016</td>
     <td>Ahmad Jamalzada, Fall 2017</td>
     <td>Joey Braspenning, Spring 2017</td>
+    <td>Ramakrishna Aluru, Summer 2018</td>
   </tr>
   <tr>
     <td></td>
@@ -182,9 +183,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
-
-
-
-
-
-
