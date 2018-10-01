@@ -17,7 +17,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
 
-There are some postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
 
 #### Leiden University master students
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
