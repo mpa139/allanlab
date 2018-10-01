@@ -66,7 +66,7 @@
 
 - name: Tjerk Benschop
   photo: rock.jpg
-  info: PhD Student, starting September 2018
+  info: PhD Student, starting November 2018
   email: tjerk.benschop@hotmail.com
   number_educ: 1
   education1: Master Leiden University with Tjerk Oosterkamp, Jan Aarts, Milan Allan
@@ -91,6 +91,16 @@
   number_educ: 2
   education1: Leidse instrumentmakers School
   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+
+- name: Freek Groenewoud <Groenewoud@Physics.LeidenUniv.nl>
+  photo: rock.jpg
+  info: Fine mechanical engineer associated with the FMD working in our group
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 2
+  education1: ---
+  education2: ---
+  education3:
+  education4:
 
 - name: "This could be you !"
   photo: rock.jpg

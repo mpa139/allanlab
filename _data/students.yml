@@ -1,19 +1,13 @@
-#- name: 
+#- name:
 #  photo: rock.jpg
 #  info:
 #  email:
-#  number_educ: 
-#  education1:  
-#  education2:  
-#  education3: 
-#  education4:  
-- name: Tjerk Benschop
-  photo: rock.jpg
-  info: Master student
-  email: --@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
-  
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
 - name: Corne Koks
   photo: rock.jpg
   info: Master student
