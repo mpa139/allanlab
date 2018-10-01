@@ -8,7 +8,7 @@
   education3: Postdoc Cornell
   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-  
+
 - name: Doohee Cho
   photo: Doohee2.jpg
   info: Postdoc, started May 2017
@@ -19,15 +19,6 @@
   education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
-- name: Ramakrishna Aluru
-  photo: Ram.png
-  info: Postdoc, started May 2018
-  email: aluru@physics.leidenuniv.nl
-  number_educ: 3
-  education1: B.S. Banaras Hindu University, India
-  education2: Master University of Stuttgart
-  education3: PhD University of St Andrews, UK with <a href="http://wahl.wp.st-andrews.ac.uk/">Peter Wahl</a>
-  
 - name: Irene Battisti
   photo: irene.jpg
   info: PhD student, started Jan 2015
@@ -35,7 +26,7 @@
   number_educ: 2
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  
+
 - name: Koen M Bastiaans
   photo: Koen.jpg
   info: PhD Student, started Sep 2015
@@ -49,10 +40,10 @@
   email: M.Leeuwenhoek@tudelft.nl
   number_educ: 1
   education1: Master Leiden University with Milan Allan
-  education2: 
-  education3: 
-  education4:  
-  
+  education2:
+  education3:
+  education4:
+
 - name: Damianos Chatzopoulos
   photo: Damianos.jpg
   info: PhD Student, starting December 2017
@@ -60,29 +51,39 @@
   number_educ: 2
   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3: 
-  education4:  
- 
+  education3:
+  education4:
+
 - name: Willem Tromp
   photo: rock.jpg
   info: PhD Student, starting September 2018
-  email: --@Physics.LeidenUniv.nl
+  email: w-tromp@hotmail.com
   number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2: 
-  education3: 
-  education4:  
-  
+  education1: Master Leiden University with Felix Baumberger, Milan Allan
+  education2:
+  education3:
+  education4:
+
+- name: Tjerk Benschop
+  photo: rock.jpg
+  info: PhD Student, starting September 2018
+  email: tjerk.benschop@hotmail.com
+  number_educ: 1
+  education1: Master Leiden University with Tjerk Oosterkamp, Jan Aarts, Milan Allan
+  education2:
+  education3:
+  education4:
+
 - name: Gijsbert Verdoes
   photo: verdoes.jpg
   info: Fine mechanical engineer associated with the FMD working in our group
   email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: Leidse instrumentmakers School
-  education2: 
-  education3: 
-  education4:  
-  
+  education2:
+  education3:
+  education4:
+
 - name: Kees van Oosten
   photo: DSC_1032.JPG
   info: Fine mechanical engineer associated with the FMD working in our group
@@ -90,13 +91,13 @@
   number_educ: 2
   education1: Leidse instrumentmakers School
   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
- 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
-  education1:  
-  education2:  
-  education3: 
-  education4:  
+  education1:
+  education2:
+  education3:
+  education4:
