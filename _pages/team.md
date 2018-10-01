@@ -168,7 +168,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 <table align="center" style="width:100%">
-<tr><th>Visitors</th>
+ <tr>
+    <th>Visitors</th>
     <th>Master Students</th>
     <th>Bachelor Students</th>
   </tr>
@@ -181,10 +182,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Vitaly Fedoseev, all of 2016</td>
     <td>Ahmad Jamalzada, Fall 2017</td>
     <td>Joey Braspenning, Spring 2017</td>
-    <td>Ramakrishna Aluru, Summer 2018</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Ramakrishna Aluru, Summer 2018</td>
     <td>Tjerk Benschop, Summer 2017</td>
     <td>Margot Leemker, Spring 2017</td>
   </tr>
