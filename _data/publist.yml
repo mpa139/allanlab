@@ -1,3 +1,13 @@
+- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+  image: Pub_BCl.png
+  description: We discover charge trapping in a cuprate high-temperature superconductor.
+  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+  link:
+    url: https://www.nature.com/articles/s41567-018-0300-z
+    display:  Nature Physics
+  highlight: 1
+  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
