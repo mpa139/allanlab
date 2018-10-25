@@ -15,8 +15,8 @@ You will have the chance to work on the grand challenges of condensed matter phy
 ### Current open positions
 
 You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf)
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf)
+[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
+[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
 
 It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
 
