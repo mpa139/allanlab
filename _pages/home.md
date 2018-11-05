@@ -80,7 +80,7 @@ Foundation](http:/www.nsf.gov) as well as awards and gifts from
 Google, Huawei, Facebook and Amazon.
 
 
-<figure class="fourth">
+<figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei-logo.jpg" style="width: 120px">
