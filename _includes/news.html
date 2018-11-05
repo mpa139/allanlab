@@ -3,7 +3,7 @@
 <h4>News</h4>
 
 {% for article in site.data.news limit:9 %}
-{{ article.date }}
+{{ article.date | date: "%b %-d, %Y" }}
 <p><em>{{ article.headline }}</em></p>
 {% endfor %}
 
