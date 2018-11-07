@@ -27,10 +27,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: {{ member.email }}</i>
-  <ul style="overflow: hidden;list-style-type: none;">
+  <ul style="overflow: hidden;list-style-type: none;padding-left: 15px;">
 
-  <li> <i class="fa fa-heart"></i> {{ member.intro }} </li>
-  <li> <i class="fa fa-atom"></i> {{ member.research }} </li>
+  <li> <i class="fa fa-heart" style="margin-right: 8px;"></i> {{ member.intro }} </li>
+  <li> <i class="fa fa-atom" style="margin-right: 8px;"></i> {{ member.research }} </li>
 
   </ul>
 
