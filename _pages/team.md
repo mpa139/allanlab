@@ -29,7 +29,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }}<br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
 
-  <li> {{ member.intro }} </li>
+  <li> <i class="fa fa-heart"></i> {{ member.intro }} </li>
   <li> {{ member.research }} </li>
 
   </ul>
