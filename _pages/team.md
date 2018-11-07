@@ -27,7 +27,7 @@ Jump to [members](#members), [undergraduate students](#undergraduate-students), 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: {{ member.email }}</i>
-  <ul style="overflow: hidden;list-style-type: none;padding-left: 15px;">
+  <ul style="overflow: hidden;list-style-type: none;padding-left: 12px;">
 
   <li> <i class="fa fa-heart" style="margin-right: 6px;"></i> {{ member.intro }} </li>
   <li> <i class="fa fa-flask" style="margin-right: 6px;"></i> {{ member.research }} </li>
