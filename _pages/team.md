@@ -30,7 +30,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <ul style="overflow: hidden;list-style-type: none;padding-left: 15px;">
 
   <li> <i class="fa fa-heart" style="margin-right: 8px;"></i> {{ member.intro }} </li>
-  <li> <i class="fa fa-atom" style="margin-right: 8px;"></i> {{ member.research }} </li>
+  <li> <i class="fa fa-flask" style="margin-right: 8px;"></i> {{ member.research }} </li>
 
   </ul>
 
