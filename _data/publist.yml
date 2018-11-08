@@ -1,3 +1,13 @@
+- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
+  image: Pub_BCl.png
+  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  authors: I Battisti, G Verdoes, 2 K van Oosten, 2 KM Bastiaans, and MP Allan
+  link:
+    url: https://arxiv.org/pdf/1810.09727.pdf
+    display:  Nature Physics
+  highlight: 0
+  news2:
+
 - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
   image: Pub_BCl.png
   description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
@@ -16,7 +26,7 @@
     url: https://aip.scitation.org/doi/10.1063/1.5043267
     display:  Rev. Sci. Instrum. 89, 093709 (2018)
   highlight: 1
-  news2: 
+  news2:
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
@@ -26,7 +36,7 @@
     url: https://arxiv.org/abs/1712.08620
     display:  arxiv:1712.08620 (2017)
   highlight: 1
-  news2: 
+  news2:
 
 - title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
   image: dummy.png
@@ -46,23 +56,23 @@
     url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
     display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
   highlight: 0
-  news2: 
+  news2:
 
 - title: Creating better superconductors by periodic nanopatterning
   image: SCAUweb.jpg
   description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
+    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
   authors:
     MP Allan, MH Fischer, O Ostojic, A Andringa
   link:
     url: https://scipost.org/SciPostPhys.3.2.010/pdf
     display: SciPost Phys. 3, 010 (2017)
   highlight: 1
-  
+
 - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
   image: TIBB.png
   description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
+    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
   authors:
     I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
   link:
@@ -80,7 +90,7 @@
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
     display: Nature Physics 13, 21 (2017)
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
 
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
   image: Pub_FP.png
@@ -93,7 +103,7 @@
     display: Nature Physics 11, 177 (2015)
   highlight: 1
   news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
+  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
 - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
   image: dummy.png
@@ -104,7 +114,7 @@
     url: http://www.pnas.org/content/111/32/11663
     display: PNAS 111, 11663 (2014)
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
+  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
   news2:
 
 - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
@@ -115,7 +125,7 @@
     MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
   link:
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013) 
+    display: Nature Physics 9, 468 (2013)
   highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
@@ -128,7 +138,7 @@
     MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
   link:
     url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013) 
+    display: New Journal of Physics 15, 063029 (2013)
   highlight: 1
   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
@@ -138,7 +148,7 @@
     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
   authors:
     MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1    
+  highlight: 1
   link:
     url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
     display: Nature Physics 9, 220 (2013)
@@ -164,7 +174,7 @@
     url: http://www.pnas.org/content/108/45/18233
     display:  PNAS 108, 18233 (2011)
   highlight: 0
-  news2: 
+  news2:
 
 - title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
   image: Pub_nemat1.png
@@ -174,16 +184,16 @@
     T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
   link:
     url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
+    display: Science 327, 181 (2010)
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
+  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
 - title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
   image: Pub_hBN.png
   description:
     QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
+  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
   link:
     url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
     display: Nature Physics 5, 800 (2009)
