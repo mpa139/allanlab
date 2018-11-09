@@ -7,21 +7,28 @@
 
 - name: Natacha Crooks
   photo: Natacha.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Student
   email: ncrooks (at) cs (dot) utexas (dot) edu
   intro: I like breaking pasta!
   research: I do research in distributed computing and databases.
 
+- name: Syed Akbar Mehdi
+  photo: Akbar.jpg
+  info: Ph.D. Student
+  email: samehdi (at) cs (dot) utexas (dot) edu
+  intro: I like centipedes!
+  research: I do research in weak consistency.
+
 - name: Cong Ding
   photo: Cong.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Student
   email: cd564 (at) cornell (dot) edu
   intro: I like flying an aircraft!
   research: I do research in distributed logging.
 
 - name: Youer Pu
   photo: Youer.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Student
   email: youerpu (at) cs (dot) cornell (dot) edu 
   intro: I like baby crocodiles!
   research: I do research in Blockchain protocol theory.
