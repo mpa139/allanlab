@@ -374,3 +374,48 @@
     publisher = {{USENIX}},
     }
 
+- title: "All about Eve: Execute-Verify Replication for Multi-Core Systems"
+  image: dummy.png
+  description: Eve, a new Execute-Verify architecture that allows state machine replication to scale to multi-core server
+  authors: Manos Kapritsos, Yang Wang, Vivien Quema, Allen Clement, Lorenzo Alvisi and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos
+    display: OSDI'12
+  news2:
+  bibid: eve_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Kapritsos12All.pdf
+  bibtex: |
+    @inproceedings {180267,
+    author = {Manos Kapritsos and Yang Wang and Vivien Quema and Allen Clement and Lorenzo Alvisi and Mike Dahlin},
+    title = {All about Eve: Execute-Verify Replication for Multi-Core Servers},
+    booktitle = {Presented as part of the 10th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 12)},
+    year = {2012},
+    isbn = {978-1-931971-96-6},
+    address = {Hollywood, CA},
+    pages = {237--250},
+    url = {https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos},
+    publisher = {{USENIX}},
+    }
+
+- title: "Gnothi: Separating Data and Metadata for Efficient and Available Storage Replication"
+  image: dummy.png
+  description: Gnothi, a block replication system that separates data from metadata to provide efficient and available storage replication
+  authors: Yang Wang, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/atc12/technical-sessions/presentation/wang
+    display: USENIX ATC'12
+  news2:
+  bibid: gnothi_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wang12Gnothi.pdf
+  bibtex: |
+    @inproceedings {181008,
+    author = {Yang Wang and Lorenzo Alvisi and Mike Dahlin},
+    title = {Gnothi: Separating Data and Metadata for Efficient and Available Storage Replication},
+    booktitle = {Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX} {ATC} 12)},
+    year = {2012},
+    isbn = {978-931971-93-5},
+    address = {Boston, MA},
+    pages = {413--424},
+    url = {https://www.usenix.org/conference/atc12/technical-sessions/presentation/wang},
+    publisher = {{USENIX}},
+    }
