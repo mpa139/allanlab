@@ -116,6 +116,7 @@ permalink: /team/
 {% endif %}
 
 
+<!--
 <table align="center" style="width:100%">
  <tr>
     <th>Visitors</th>
@@ -164,3 +165,4 @@ permalink: /team/
   </tr>
 </table>
 
+-->
