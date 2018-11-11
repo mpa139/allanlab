@@ -1,6 +1,6 @@
 - title: "Obladi: Oblivious Serializable Transactions in the Cloud"
   image: Obladi.jpg
-  description: Obladi, the first system to provide ACID transactions while also hiding access patterns
+  description: Obladi, the first system to provide ACID transactions while also hiding access patterns, turning the demands of supporting transactions on ORAM into a performance opportunity
   authors: Natacha Crooks, Matthew Burke, Ethan Cecchetti, Sitar Harel, Rachit Agarwal and Lorenzo Alvisi
   link:
     url: https://www.usenix.org/conference/osdi18/presentation/crooks
@@ -83,7 +83,7 @@
     } 
 
 - title: "Bringing Modular Concurrency Control to the Next Level"
-  image: Bringing.png
+  image: Bringing.jpg
   description: Tebaldi, a distributed key-value store that explores new ways to harness the performance opportunity of combining different specialized concurrency control mechanisms
   authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie 
   link:
@@ -113,7 +113,7 @@
     } 
 
 - title: "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
-  image: Occult.png
+  image: Occult.jpg
   description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades
   authors: Syed Akbar Mehdi, Cody Littley, Natacha Crooks, Lorenzo Alvisi, Nathan Bronson and Wyatt Lloyd
   link:
