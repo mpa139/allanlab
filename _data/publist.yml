@@ -7,12 +7,18 @@
     display:  OSDI'18
   highlight: 1
   news2:
-  bibtex: @article{crooks2018obladi,
-  title: "{Obladi: Oblivious Serializable Transactions in the Cloud},
-  author={Crooks, Natacha and Burke, Matthew and Cecchetti, Ethan and Harel, Sitar and Agarwal, Rachit and Alvisi, Lorenzo},
-  journal={CoRR abs/1809.10559},
-  year={2018}
-}"
+  bibtex: |
+  @inproceedings {222619,
+  author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
+  title = {Obladi: Oblivious Serializable Transactions in the Cloud},
+  booktitle = {13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18)},
+  year = {2018},
+  isbn = {978-1-931971-47-8},
+  address = {Carlsbad, CA},
+  pages = {727--743},
+  url = {https://www.usenix.org/conference/osdi18/presentation/crooks},
+  publisher = {{USENIX} Association},
+  }
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
