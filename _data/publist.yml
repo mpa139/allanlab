@@ -1,12 +1,12 @@
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "Obladi: Oblivious Serializable Transactions in the Cloud."
+  image: Obladi.jpg
+  description: Obladi, the first system to provide ACID transactions while also hiding access patterns
+  authors: Natacha Crooks, Matthew Burke, Ethan Cecchetti, Sitar Harel, Rachit Agarwal, Lorenzo Alvisi
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics
+    url: https://www.usenix.org/conference/osdi18/presentation/crooks
+    display:  OSDI'18
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+  news2: 
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
