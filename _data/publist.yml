@@ -159,3 +159,26 @@
      address = {New York, NY, USA},
      keywords = {causal consistency, databases, distributed systems, eventual consistency, geo-distribution, merging, replication, transactions, weak consistency},
     } 
+
+- title: "Scalable and private media consumption with Popcorn"
+  image: dummy.png
+  description: We describe the design, implementation, and evaluation of Popcorn, a media delivery system that hides clients’ consumption (even from the content distributor)
+  authors: Trinabh Gupta, Natacha Crooks, Whitney Mulhern, Srinath Setty, Lorenzo Alvisi and Michael Walfish
+  link:
+    url: https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh
+    display:  NSDI'16
+  highlight: 1
+  news2:
+  bibid: popcorn_bibtex
+  bibtex: |
+    @inproceedings {194912,
+    author = {Trinabh Gupta and Natacha Crooks and Whitney Mulhern and Srinath Setty and Lorenzo Alvisi and Michael Walfish},
+    title = {Scalable and Private Media Consumption with Popcorn},
+    booktitle = {13th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 16)},
+    year = {2016},
+    isbn = {978-1-931971-29-4},
+    address = {Santa Clara, CA},
+    pages = {91--107},
+    url = {https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh},
+    publisher = {{USENIX} Association},
+    }
