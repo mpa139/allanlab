@@ -7,6 +7,7 @@
     display:  OSDI'18
   highlight: 1
   news2:
+  bibid: obladi_bibtex
   bibtex: |
     "@inproceedings {222619,
     author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
@@ -29,6 +30,7 @@
     display:  SIGCOMM'17
   highlight: 1
   news2:
+  bibid: pretzel_bibtex
   bibtex: |
     "@inproceedings{Gupta:2017:PEE:3098822.3098835,
     author = {Gupta, Trinabh and Fingler, Henrique and Alvisi, Lorenzo and Walfish, Michael},
