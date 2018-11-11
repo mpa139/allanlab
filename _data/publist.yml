@@ -189,3 +189,56 @@
     url = {https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh},
     publisher = {{USENIX} Association},
     }
+
+- title: "High-Performance ACID via Modular Concurrency Control"
+  image: dummy.png
+  description: Callas, a distributed database system that offers to unmodified, transactional ACID applications the opportunity to achieve a level of performance that can currently only be reached by rewriting all or part of the application in a BASE/NoSQL style
+  authors: Chao Xie, Chunzhi Su, Cody Littley, Lorenzo Alvisi, Manos Kapritsos and Yang Wang
+  link:
+    url: http://doi.acm.org/10.1145/2815400.2815430
+    display:  SOSP'15
+  highlight: 0
+  news2:
+  bibid: callas_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Chao15Callas.pdf
+  bibtex: |
+    @inproceedings{Xie:2015:HAV:2815400.2815430,
+     author = {Xie, Chao and Su, Chunzhi and Littley, Cody and Alvisi, Lorenzo and Kapritsos, Manos and Wang, Yang},
+     title = {High-performance ACID via Modular Concurrency Control},
+     booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
+     series = {SOSP '15},
+     year = {2015},
+     isbn = {978-1-4503-3834-9},
+     location = {Monterey, California},
+     pages = {279--294},
+     numpages = {16},
+     url = {http://doi.acm.org/10.1145/2815400.2815430},
+     doi = {10.1145/2815400.2815430},
+     acmid = {2815430},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+    }
+
+- title: "Salt: Combining ACID and BASE in a Distributed Database"
+  image: dummy.png
+  description: Salt, a distributed database that allows developers to improve the performance and scalability of their ACID applications through the incremental adoption of the BASE approach
+  authors: Chao Xie, Chunzhi Su, Manos Kapritsos, Yang Wang, Navid Yaghmazadeh, Lorenzo Alvisi and Prince Mahajan
+  link:
+    url: https://www.usenix.org/conference/osdi14/technical-sessions/presentation/xie
+    display:  OSDI'14
+  highlight: 0
+  news2:
+  bibid: salt_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Chao14Salt.pdf
+  bibtex: |
+    @inproceedings {186202,
+    author = {Chao Xie and Chunzhi Su and Manos Kapritsos and Yang Wang and Navid Yaghmazadeh and Lorenzo Alvisi and Prince Mahajan},
+    title = {Salt: Combining {ACID} and {BASE} in a Distributed Database},
+    booktitle = {11th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 14)},
+    year = {2014},
+    isbn = { 978-1-931971-16-4},
+    address = {Broomfield, CO},
+    pages = {495--509},
+    url = {https://www.usenix.org/conference/osdi14/technical-sessions/presentation/xie},
+    publisher = {{USENIX} Association},
+    }
