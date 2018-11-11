@@ -3,7 +3,7 @@
   description: Obladi, the first system to provide ACID transactions while also hiding access patterns
   authors: Natacha Crooks, Matthew Burke, Ethan Cecchetti, Sitar Harel, Rachit Agarwal and Lorenzo Alvisi
   link:
-    url: "https://www.usenix.org/conference/osdi18/presentation/crooks"
+    url: https://www.usenix.org/conference/osdi18/presentation/crooks
     display:  OSDI'18
   highlight: 1
   news2:
@@ -24,7 +24,7 @@
   image: Pretzel.jpg
   description: Pretzel demonstrates that email can be encrypted end-to-end and service providers can still compute over it, at tolerable cost.
   authors: Gupta, Trinabh, Henrique Fingler, Lorenzo Alvisi, and Michael Walfish
-    url: "https://www.usenix.org/conference/osdi18/presentation/crooks"
+    url: https://www.usenix.org/conference/osdi18/presentation/crooks
     display:  SIGCOMM'17
   highlight: 1
   news2:
