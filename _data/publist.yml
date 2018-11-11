@@ -24,7 +24,7 @@
 - title: "Pretzel: Email encryption and provider-supplied functions are compatible"
   image: Pretzel.jpg
   description: Pretzel demonstrates that email can be encrypted end-to-end and service providers can still compute over it, at tolerable cost
-  authors: Gupta, Trinabh, Henrique Fingler, Lorenzo Alvisi, and Michael Walfish
+  authors: Trinabh Gupta, Henrique Fingler, Lorenzo Alvisi, Michael Walfish
   link:
     url: http://doi.acm.org/10.1145/3098822.3098835
     display:  SIGCOMM'17
@@ -53,13 +53,13 @@
 - title: "Seeing Is Believing: A Client-Centric Specification of Database Isolation"
   image: dummy.png
   description: This paper introduces the first state-based formalization of isolation guarantees.
-  authors: Crooks, Natacha, Youer Pu, Lorenzo Alvisi, and Allen Clement
+  authors: Natacha Crooks, Youer Pu, Lorenzo Alvisi and Allen Clement
   link:
     url: http://doi.acm.org/10.1145/3087801.3087802
     display:  PODC'17
   highlight: 1
   news2:
-  bibid: pretzel_bibtex
+  bibid: seeing_bibtex
   bibtex: |
     @inproceedings{Crooks:2017:SBC:3087801.3087802,
      author = {Crooks, Natacha and Pu, Youer and Alvisi, Lorenzo and Clement, Allen},
@@ -77,4 +77,33 @@
      publisher = {ACM},
      address = {New York, NY, USA},
      keywords = {acid, cloud storage, concurrency control, consistency, database, distributed storage, distributed systems, eventual consistency, isolation, serializability, transactions, weak consistency},
+    } 
+
+- title: "Bringing Modular Concurrency Control to the Next Level"
+  image: dummy.png
+  description: This paper introduces the first state-based formalization of isolation guarantees.
+  authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie
+  link:
+    url: http://doi.acm.org/10.1145/3035918.3064031
+    display:  SIGMOD'17
+  highlight: 1
+  news2:
+  bibid: bringing_bibtex
+  bibtex: |
+    @inproceedings{Su:2017:BMC:3035918.3064031,
+     author = {Su, Chunzhi and Crooks, Natacha and Ding, Cong and Alvisi, Lorenzo and Xie, Chao},
+     title = {Bringing Modular Concurrency Control to the Next Level},
+     booktitle = {Proceedings of the 2017 ACM International Conference on Management of Data},
+     series = {SIGMOD '17},
+     year = {2017},
+     isbn = {978-1-4503-4197-4},
+     location = {Chicago, Illinois, USA},
+     pages = {283--297},
+     numpages = {15},
+     url = {http://doi.acm.org/10.1145/3035918.3064031},
+     doi = {10.1145/3035918.3064031},
+     acmid = {3064031},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {distributed database, modular concurrency control, transaction},
     } 
