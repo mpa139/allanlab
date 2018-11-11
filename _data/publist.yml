@@ -1,4 +1,4 @@
-- title: "Obladi: Oblivious Serializable Transactions in the Cloud."
+- title: "Obladi: Oblivious Serializable Transactions in the Cloud"
   image: Obladi.jpg
   description: Obladi, the first system to provide ACID transactions while also hiding access patterns
   authors: Natacha Crooks, Matthew Burke, Ethan Cecchetti, Sitar Harel, Rachit Agarwal and Lorenzo Alvisi
@@ -22,9 +22,10 @@
 
 - title: "Pretzel: Email encryption and provider-supplied functions are compatible"
   image: Pretzel.jpg
-  description: Pretzel demonstrates that email can be encrypted end-to-end and service providers can still compute over it, at tolerable cost.
+  description: Pretzel demonstrates that email can be encrypted end-to-end and service providers can still compute over it, at tolerable cost
   authors: Gupta, Trinabh, Henrique Fingler, Lorenzo Alvisi, and Michael Walfish
-    url: https://www.usenix.org/conference/osdi18/presentation/crooks
+  link:
+    url: http://doi.acm.org/10.1145/3098822.3098835
     display:  SIGCOMM'17
   highlight: 1
   news2:
