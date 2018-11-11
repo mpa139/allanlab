@@ -23,7 +23,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix" style="height:320px;">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
