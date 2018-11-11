@@ -53,7 +53,7 @@
     }
 
 - title: "Seeing Is Believing: A Client-Centric Specification of Database Isolation"
-  image: dummy.png
+  image: Seeing.jpg
   description: This paper introduces the first state-based formalization of isolation guarantees.
   authors: Natacha Crooks, Youer Pu, Lorenzo Alvisi and Allen Clement
   link:
@@ -83,7 +83,7 @@
     } 
 
 - title: "Bringing Modular Concurrency Control to the Next Level"
-  image: dummy.png
+  image: Bringing.png
   description: Tebaldi, a distributed key-value store that explores new ways to harness the performance opportunity of combining different specialized concurrency control mechanisms
   authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie 
   link:
@@ -113,7 +113,7 @@
     } 
 
 - title: "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
-  image: dummy.png
+  image: Occult.png
   description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades
   authors: Syed Akbar Mehdi, Cody Littley, Natacha Crooks, Lorenzo Alvisi, Nathan Bronson and Wyatt Lloyd
   link:
