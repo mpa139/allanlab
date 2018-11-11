@@ -297,3 +297,80 @@
     url = {https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/wang_yang},
     publisher = {{USENIX} Association},
     }
+
+- title: "What's a Little Collusion Between Friends?"
+  image: dummy.png
+  description: This paper proposes a fundamentally different approach to addressing the challenge posed by colluding nodes to the sustainability of cooperative service
+  authors: Edmund L. Wong and Lorenzo Alvisi
+  link:
+    url: http://doi.acm.org/10.1145/2484239.2484242
+    display: PODC'13
+  news2:
+  bibid: collusion_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong13What.pdf
+  bibtex: |
+    @inproceedings{Wong:2013:WLC:2484239.2484242,
+     author = {Wong, Edmund L. and Alvisi, Lorenzo},
+     title = {What's a Little Collusion Between Friends?},
+     booktitle = {Proceedings of the 2013 ACM Symposium on Principles of Distributed Computing},
+     series = {PODC '13},
+     year = {2013},
+     isbn = {978-1-4503-2065-8},
+     location = {Montr\&\#233;al, Qu\&\#233;bec, Canada},
+     pages = {240--249},
+     numpages = {10},
+     url = {http://doi.acm.org/10.1145/2484239.2484242},
+     doi = {10.1145/2484239.2484242},
+     acmid = {2484242},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {collusion, cooperative services, game theory, p2p},
+    }
+
+- title: "SoK: The Evolution of Sybil Defense via Social Networks"
+  image: dummy.png
+  description: This paper surveys the evolution of sybil defense protocols that leverage the structural properties of the social graph underlying a distributed system to identify sybil identities
+  authors: Lorenzo Alvisi, Allen Clement, Alessandro Epasto, Silvio Lattanzi and Alessandro Panconesi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6547122
+    display: Oakland'13
+  news2:
+  bibid: sok_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Alvisi13SoK.pdf
+  bibtex: |
+    @inproceedings{6547122,
+    author={L. Alvisi and A. Clement and A. Epasto and S. Lattanzi and A. Panconesi},
+    booktitle={2013 IEEE Symposium on Security and Privacy},
+    title={SoK: The Evolution of Sybil Defense via Social Networks},
+    year={2013},
+    volume={},
+    number={},
+    pages={382-396},
+    keywords={security of data;social networking (online);SoK framework;social network;sybil defense protocol;sybil identity;random walks theory;community detection algorithm;graph white-listing;Protocols;Communities;Image edge detection;Facebook;Robustness;Detection algorithms},
+    doi={10.1109/SP.2013.33},
+    ISSN={1081-6011},
+    month={May},}
+
+- title: "Robustness in the Salus scalable block store"
+  image: dummy.png
+  description: Salus, a block store that seeks to maximize simultaneously both scalability and robustness
+  authors: Yang Wang, Manos Kapritsos, ZuochengRen, Prince Mahajan, Jeevitha Kirubanandam, Lorenzo Alvisi and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/wang_yang
+    display: NSDI'13
+  news2:
+  bibid: robustness_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Yang13Salus.pdf
+  bibtex: |
+    @inproceedings {180322,
+    author = {Yang Wang and Manos Kapritsos and Zuocheng Ren and Prince Mahajan and Jeevitha Kirubanandam and Lorenzo Alvisi and Mike Dahlin},
+    title = {Robustness in the Salus Scalable Block Store},
+    booktitle = {Presented as part of the 10th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 13)},
+    year = {2013},
+    isbn = {978-1-931971-00-3},
+    address = {Lombard, IL},
+    pages = {357--370},
+    url = {https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/wang_yang},
+    publisher = {{USENIX}},
+    }
+
