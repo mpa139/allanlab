@@ -9,7 +9,7 @@
   news2:
   bibid: obladi_bibtex
   bibtex: |
-    "@inproceedings {222619,
+    @inproceedings {222619,
     author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
     title = {Obladi: Oblivious Serializable Transactions in the Cloud},
     booktitle = {13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18)},
@@ -19,7 +19,7 @@
     pages = {727--743},
     url = {https://www.usenix.org/conference/osdi18/presentation/crooks},
     publisher = {{USENIX} Association},
-    }"
+    }
 
 - title: "Pretzel: Email encryption and provider-supplied functions are compatible"
   image: Pretzel.jpg
@@ -32,7 +32,7 @@
   news2:
   bibid: pretzel_bibtex
   bibtex: |
-    "@inproceedings{Gupta:2017:PEE:3098822.3098835,
+    @inproceedings{Gupta:2017:PEE:3098822.3098835,
     author = {Gupta, Trinabh and Fingler, Henrique and Alvisi, Lorenzo and Walfish, Michael},
     title = {Pretzel: Email Encryption and Provider-supplied Functions Are Compatible},
     booktitle = {Proceedings of the Conference of the ACM Special Interest Group on Data Communication},
@@ -48,4 +48,4 @@
     publisher = {ACM},
     address = {New York, NY, USA},
     keywords = {encrypted email, linear classifiers, secure two-party computation},
-    }"
+    }
