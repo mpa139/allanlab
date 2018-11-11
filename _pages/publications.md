@@ -58,10 +58,10 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-<button type="button" class="btn btn-success" style="padding: 3px 6px 3px;margin-left:8px;">
-  <a href="{{ publi.pdf }}">PDF</a>
+<button type="button" class="btn btn-success" href="{{ publi.pdf }}" style="padding: 3px 6px 3px;margin-left:8px;font-size: 10px;">
+  PDF
 </button>
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{ publi.bibid }}" style="padding: 3px 6px 3px;margin-left:8px;">
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{ publi.bibid }}" style="padding: 3px 6px 3px;margin-left:8px;font-size: 10px;">
   Bibtex
 </button>
 <div class="modal fade" id="{{ publi.bibid }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
