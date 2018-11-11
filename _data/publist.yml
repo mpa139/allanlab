@@ -81,9 +81,9 @@
 
 - title: "Bringing Modular Concurrency Control to the Next Level"
   image: dummy.png
-  description: This paper introduces the first state-based formalization of isolation guarantees.
-  authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie
-  link:
+  description: This paper presents Tebaldi, a distributed key-value store that explores new ways to harness the performance opportunity of combining different specialized concurrency control mechanisms (CCs) within the same database
+  authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie 
+ link:
     url: http://doi.acm.org/10.1145/3035918.3064031
     display:  SIGMOD'17
   highlight: 1
@@ -107,3 +107,26 @@
      address = {New York, NY, USA},
      keywords = {distributed database, modular concurrency control, transaction},
     } 
+
+- title: "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+  image: dummy.png
+  description: We describe the design of Occult, the first scalable, geo-replicated data store that provides causal consistency to its clients without exposing the system to the possibility of slowdown cascades, a key obstacle to the deployment of causal consistency at scale
+  authors: Syed Akbar Mehdi, Cody Littley, Natacha Crooks, Lorenzo Alvisi, Nathan Bronson and Wyatt Lloyd
+  link:
+    url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi
+    display:  NSDI'17
+  highlight: 1
+  news2:
+  bibid: occult_bibtex
+  bibtex: |
+    @inproceedings {201457,
+    author = {Syed Akbar Mehdi and Cody Littley and Natacha Crooks and Lorenzo Alvisi and Nathan Bronson and Wyatt Lloyd},
+    title = {I Can{\textquoteright}t Believe It{\textquoteright}s Not Causal! Scalable Causal Consistency with No Slowdown Cascades},
+    booktitle = {14th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 17)},
+    year = {2017},
+    isbn = {978-1-931971-37-9},
+    address = {Boston, MA},
+    pages = {453--468},
+    url = {https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi},
+    publisher = {{USENIX} Association},
+    }
