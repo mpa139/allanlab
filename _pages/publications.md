@@ -54,7 +54,6 @@ permalink: /publications/
 
 ## Full List
 
-{::options parse_block_html="true" /}
 {% for publi in site.data.publist %}
 
     {{ publi.title }} <br />
