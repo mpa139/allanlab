@@ -49,3 +49,32 @@
     address = {New York, NY, USA},
     keywords = {encrypted email, linear classifiers, secure two-party computation},
     }
+
+- title: "Seeing Is Believing: A Client-Centric Specification of Database Isolation"
+  image: dummy.png
+  description: This paper introduces the first state-based formalization of isolation guarantees.
+  authors: Crooks, Natacha, Youer Pu, Lorenzo Alvisi, and Allen Clement
+  link:
+    url: http://doi.acm.org/10.1145/3087801.3087802
+    display:  PODC'17
+  highlight: 1
+  news2:
+  bibid: pretzel_bibtex
+  bibtex: |
+    @inproceedings{Crooks:2017:SBC:3087801.3087802,
+     author = {Crooks, Natacha and Pu, Youer and Alvisi, Lorenzo and Clement, Allen},
+     title = {Seeing is Believing: A Client-Centric Specification of Database Isolation},
+     booktitle = {Proceedings of the ACM Symposium on Principles of Distributed Computing},
+     series = {PODC '17},
+     year = {2017},
+     isbn = {978-1-4503-4992-5},
+     location = {Washington, DC, USA},
+     pages = {73--82},
+     numpages = {10},
+     url = {http://doi.acm.org/10.1145/3087801.3087802},
+     doi = {10.1145/3087801.3087802},
+     acmid = {3087802},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {acid, cloud storage, concurrency control, consistency, database, distributed storage, distributed systems, eventual consistency, isolation, serializability, transactions, weak consistency},
+    } 
