@@ -83,7 +83,7 @@
   image: dummy.png
   description: This paper presents Tebaldi, a distributed key-value store that explores new ways to harness the performance opportunity of combining different specialized concurrency control mechanisms (CCs) within the same database
   authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie 
- link:
+  link:
     url: http://doi.acm.org/10.1145/3035918.3064031
     display:  SIGMOD'17
   highlight: 1
