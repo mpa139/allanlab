@@ -8,6 +8,7 @@
   highlight: 1
   news2:
   bibid: obladi_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf
   bibtex: |
     @inproceedings {222619,
     author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
@@ -31,6 +32,7 @@
   highlight: 1
   news2:
   bibid: pretzel_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/pretzel-sigcomm17.pdf
   bibtex: |
     @inproceedings{Gupta:2017:PEE:3098822.3098835,
     author = {Gupta, Trinabh and Fingler, Henrique and Alvisi, Lorenzo and Walfish, Michael},
@@ -60,6 +62,7 @@
   highlight: 1
   news2:
   bibid: seeing_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf
   bibtex: |
     @inproceedings{Crooks:2017:SBC:3087801.3087802,
      author = {Crooks, Natacha and Pu, Youer and Alvisi, Lorenzo and Clement, Allen},
@@ -89,6 +92,7 @@
   highlight: 1
   news2:
   bibid: bringing_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Su17Bringing.pdf
   bibtex: |
     @inproceedings{Su:2017:BMC:3035918.3064031,
      author = {Su, Chunzhi and Crooks, Natacha and Ding, Cong and Alvisi, Lorenzo and Xie, Chao},
@@ -118,6 +122,7 @@
   highlight: 1
   news2:
   bibid: occult_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf
   bibtex: |
     @inproceedings {201457,
     author = {Syed Akbar Mehdi and Cody Littley and Natacha Crooks and Lorenzo Alvisi and Nathan Bronson and Wyatt Lloyd},
@@ -141,6 +146,7 @@
   highlight: 1
   news2:
   bibid: tardis_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks16Tardis.pdf
   bibtex: |
     @inproceedings{Crooks:2016:TBA:2882903.2882951,
      author = {Crooks, Natacha and Pu, Youer and Estrada, Nancy and Gupta, Trinabh and Alvisi, Lorenzo and Clement, Allen},
@@ -170,6 +176,7 @@
   highlight: 1
   news2:
   bibid: popcorn_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Gupta16Scalable.pdf
   bibtex: |
     @inproceedings {194912,
     author = {Trinabh Gupta and Natacha Crooks and Whitney Mulhern and Srinath Setty and Lorenzo Alvisi and Michael Walfish},
