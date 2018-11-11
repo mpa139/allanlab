@@ -114,7 +114,7 @@
 
 - title: "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
   image: dummy.png
-  description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades, a key obstacle for deployment at scale
+  description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades
   authors: Syed Akbar Mehdi, Cody Littley, Natacha Crooks, Lorenzo Alvisi, Nathan Bronson and Wyatt Lloyd
   link:
     url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi
@@ -241,4 +241,35 @@
     pages = {495--509},
     url = {https://www.usenix.org/conference/osdi14/technical-sessions/presentation/xie},
     publisher = {{USENIX} Association},
+    }
+
+- title: "Lazy Means Smart: Reducing Repair Bandwidth Costs in Erasure-coded Distributed Storage"
+  image: dummy.png
+  description: We propose lazy recovery, a technique to reduce recovery bandwidth demands down to the level of replicated storage
+  authors: Mark Silberstein, Lakshmi Ganesh, Yang Wang, Lorenzo Alvisi, Mike Dahlin
+  link:
+    url: http://doi.acm.org/10.1145/2611354.2611370
+    display:  SYSTOR'14 Best Paper Award
+  highlight: 0
+  news2:
+  bibid: lazysmart_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Silberstein14Lazy.pdf
+  bibtex: |
+    @inproceedings{Silberstein:2014:LMS:2611354.2611370,
+     author = {Silberstein, Mark and Ganesh, Lakshmi and Wang, Yang and Alvisi, Lorenzo and Dahlin, Mike},
+     title = {Lazy Means Smart: Reducing Repair Bandwidth Costs in Erasure-coded Distributed Storage},
+     booktitle = {Proceedings of International Conference on Systems and Storage},
+     series = {SYSTOR 2014},
+     year = {2014},
+     isbn = {978-1-4503-2920-0},
+     location = {Haifa, Israel},
+     pages = {15:1--15:7},
+     articleno = {15},
+     numpages = {7},
+     url = {http://doi.acm.org/10.1145/2611354.2611370},
+     doi = {10.1145/2611354.2611370},
+     acmid = {2611370},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {Distributed storage systems, Erasure codes, Repair bandwidth},
     }
