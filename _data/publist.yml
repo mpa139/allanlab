@@ -29,7 +29,7 @@
   link:
     url: http://doi.acm.org/10.1145/3098822.3098835
     display:  SIGCOMM'17
-  highlight: 1
+  highlight: 0
   news2:
   bibid: pretzel_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/pretzel-sigcomm17.pdf
@@ -143,7 +143,7 @@
   link:
     url: http://doi.acm.org/10.1145/2882903.2882951
     display:  SIGMOD'16
-  highlight: 1
+  highlight: 0
   news2:
   bibid: tardis_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks16Tardis.pdf
@@ -173,7 +173,7 @@
   link:
     url: https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh
     display:  NSDI'16
-  highlight: 1
+  highlight: 0
   news2:
   bibid: popcorn_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Gupta16Scalable.pdf
