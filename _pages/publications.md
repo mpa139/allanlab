@@ -59,12 +59,9 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 <div class="btn-group">
- <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-    Bibtex
- <span class="caret"></span>
- </a>
+ <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">Bibtex</a>
  <ul class="dropdown-menu">
-    <li>{{ publi.bibtex }}</li>
+  <li>{{ publi.bibtex }}</li>
  </ul>
 </div>
 
