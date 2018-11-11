@@ -249,7 +249,7 @@
   authors: Mark Silberstein, Lakshmi Ganesh, Yang Wang, Lorenzo Alvisi, Mike Dahlin
   link:
     url: http://doi.acm.org/10.1145/2611354.2611370
-    display:  SYSTOR'14 Best Paper Award
+    display:  SYSTOR'14  Best Paper Award!
   highlight: 0
   news2:
   bibid: lazysmart_bibtex
@@ -272,4 +272,28 @@
      publisher = {ACM},
      address = {New York, NY, USA},
      keywords = {Distributed storage systems, Erasure codes, Repair bandwidth},
+    }
+
+- title: "Exalt: Empowering Researchers to Evaluate Large-Scale Storage Systems"
+  image: dummy.png
+  description: Exalt, a library that gives back to researchers the ability to test the scalability of today’s large storage systems
+  authors: Yang Wang, Manos Kapritsos, Lara Schmidt, Lorenzo Alvisi and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/wang_yang
+    display:  NSDI'14
+  highlight: 0
+  news2:
+  bibid: exalt_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Yang14Exalt.pdf
+  bibtex: |
+    @inproceedings {179795,
+    author = {Yang Wang and Manos Kapritsos and Lara Schmidt and Lorenzo Alvisi and Mike Dahlin},
+    title = {Exalt: Empowering Researchers to Evaluate Large-Scale Storage Systems},
+    booktitle = {11th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 14)},
+    year = {2014},
+    isbn = {978-1-931971-09-6},
+    address = {Seattle, WA},
+    pages = {129--141},
+    url = {https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/wang_yang},
+    publisher = {{USENIX} Association},
     }
