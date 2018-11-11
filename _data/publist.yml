@@ -130,3 +130,32 @@
     url = {https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi},
     publisher = {{USENIX} Association},
     }
+
+- title: "TARDiS: A Branch-And-Merge Approach to Weak Consistency"
+  image: dummy.png
+  description: This paper presents the design, implementation, and evaluation of TARDiS, a transactional key-value store explicitly designed for weakly-consistent systems
+  authors: Natacha Crooks, Youer Pu, Nancy Estrada, Trinabh Gupta, Lorenzo Alvisi and Allen Clement
+  link:
+    url: http://doi.acm.org/10.1145/2882903.2882951
+    display:  SIGMOD'16
+  highlight: 1
+  news2:
+  bibid: tardis_bibtex
+  bibtex: |
+    @inproceedings{Crooks:2016:TBA:2882903.2882951,
+     author = {Crooks, Natacha and Pu, Youer and Estrada, Nancy and Gupta, Trinabh and Alvisi, Lorenzo and Clement, Allen},
+     title = {TARDiS: A Branch-and-Merge Approach To Weak Consistency},
+     booktitle = {Proceedings of the 2016 International Conference on Management of Data},
+     series = {SIGMOD '16},
+     year = {2016},
+     isbn = {978-1-4503-3531-7},
+     location = {San Francisco, California, USA},
+     pages = {1615--1628},
+     numpages = {14},
+     url = {http://doi.acm.org/10.1145/2882903.2882951},
+     doi = {10.1145/2882903.2882951},
+     acmid = {2882951},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {causal consistency, databases, distributed systems, eventual consistency, geo-distribution, merging, replication, transactions, weak consistency},
+    } 
