@@ -24,7 +24,7 @@
   image: Pretzel.jpg
   description: Pretzel demonstrates that email can be encrypted end-to-end and service providers can still compute over it, at tolerable cost.
   authors: Gupta, Trinabh, Henrique Fingler, Lorenzo Alvisi, and Michael Walfish
-    url: "https://dl.acm.org/citation.cfm?id=3098835"
+    url: "https://www.usenix.org/conference/osdi18/presentation/crooks"
     display:  SIGCOMM'17
   highlight: 1
   news2:
