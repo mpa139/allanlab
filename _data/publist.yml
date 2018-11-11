@@ -54,7 +54,7 @@
 
 - title: "Seeing Is Believing: A Client-Centric Specification of Database Isolation"
   image: Seeing.jpg
-  description: This paper introduces the first state-based formalization of isolation guarantees.
+  description: "Our approach to isolation is premised on a simple observation: applications view storage systems as black-boxes that transition through a series of states, a subset of which are observed by applications"
   authors: Natacha Crooks, Youer Pu, Lorenzo Alvisi and Allen Clement
   link:
     url: http://doi.acm.org/10.1145/3087801.3087802
