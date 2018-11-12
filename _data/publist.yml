@@ -10,7 +10,7 @@
   bibid: obladi_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf
   bibtex: |+
-    @inproceedings {222619,
+    @inproceedings {222619, <br />
     author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
     title = {Obladi: Oblivious Serializable Transactions in the Cloud},
     booktitle = {13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18)},
