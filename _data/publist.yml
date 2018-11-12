@@ -9,7 +9,7 @@
   news2:
   bibid: obladi_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {222619,
     author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
     title = {Obladi: Oblivious Serializable Transactions in the Cloud},
@@ -33,7 +33,7 @@
   news2:
   bibid: pretzel_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/pretzel-sigcomm17.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Gupta:2017:PEE:3098822.3098835,
     author = {Gupta, Trinabh and Fingler, Henrique and Alvisi, Lorenzo and Walfish, Michael},
     title = {Pretzel: Email Encryption and Provider-supplied Functions Are Compatible},
@@ -63,7 +63,7 @@
   news2:
   bibid: bringing_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Su17Bringing.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Su:2017:BMC:3035918.3064031,
      author = {Su, Chunzhi and Crooks, Natacha and Ding, Cong and Alvisi, Lorenzo and Xie, Chao},
      title = {Bringing Modular Concurrency Control to the Next Level},
@@ -93,7 +93,7 @@
   news2:
   bibid: seeing_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Crooks:2017:SBC:3087801.3087802,
      author = {Crooks, Natacha and Pu, Youer and Alvisi, Lorenzo and Clement, Allen},
      title = {Seeing is Believing: A Client-Centric Specification of Database Isolation},
@@ -123,7 +123,7 @@
   news2:
   bibid: occult_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {201457,
     author = {Syed Akbar Mehdi and Cody Littley and Natacha Crooks and Lorenzo Alvisi and Nathan Bronson and Wyatt Lloyd},
     title = {I Can{\textquoteright}t Believe It{\textquoteright}s Not Causal! Scalable Causal Consistency with No Slowdown Cascades},
@@ -147,7 +147,7 @@
   news2:
   bibid: tardis_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks16Tardis.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Crooks:2016:TBA:2882903.2882951,
      author = {Crooks, Natacha and Pu, Youer and Estrada, Nancy and Gupta, Trinabh and Alvisi, Lorenzo and Clement, Allen},
      title = {TARDiS: A Branch-and-Merge Approach To Weak Consistency},
@@ -177,7 +177,7 @@
   news2:
   bibid: popcorn_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Gupta16Scalable.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {194912,
     author = {Trinabh Gupta and Natacha Crooks and Whitney Mulhern and Srinath Setty and Lorenzo Alvisi and Michael Walfish},
     title = {Scalable and Private Media Consumption with Popcorn},
@@ -201,7 +201,7 @@
   news2:
   bibid: callas_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Chao15Callas.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Xie:2015:HAV:2815400.2815430,
      author = {Xie, Chao and Su, Chunzhi and Littley, Cody and Alvisi, Lorenzo and Kapritsos, Manos and Wang, Yang},
      title = {High-performance ACID via Modular Concurrency Control},
@@ -230,7 +230,7 @@
   news2:
   bibid: salt_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Chao14Salt.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {186202,
     author = {Chao Xie and Chunzhi Su and Manos Kapritsos and Yang Wang and Navid Yaghmazadeh and Lorenzo Alvisi and Prince Mahajan},
     title = {Salt: Combining {ACID} and {BASE} in a Distributed Database},
@@ -254,7 +254,7 @@
   news2:
   bibid: lazysmart_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Silberstein14Lazy.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Silberstein:2014:LMS:2611354.2611370,
      author = {Silberstein, Mark and Ganesh, Lakshmi and Wang, Yang and Alvisi, Lorenzo and Dahlin, Mike},
      title = {Lazy Means Smart: Reducing Repair Bandwidth Costs in Erasure-coded Distributed Storage},
@@ -285,7 +285,7 @@
   news2:
   bibid: exalt_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Yang14Exalt.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {179795,
     author = {Yang Wang and Manos Kapritsos and Lara Schmidt and Lorenzo Alvisi and Mike Dahlin},
     title = {Exalt: Empowering Researchers to Evaluate Large-Scale Storage Systems},
@@ -308,7 +308,7 @@
   news2:
   bibid: collusion_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong13What.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{Wong:2013:WLC:2484239.2484242,
      author = {Wong, Edmund L. and Alvisi, Lorenzo},
      title = {What's a Little Collusion Between Friends?},
@@ -337,7 +337,7 @@
   news2:
   bibid: sok_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Alvisi13SoK.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings{6547122,
     author={L. Alvisi and A. Clement and A. Epasto and S. Lattanzi and A. Panconesi},
     booktitle={2013 IEEE Symposium on Security and Privacy},
@@ -361,7 +361,7 @@
   news2:
   bibid: robustness_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Yang13Salus.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {180322,
     author = {Yang Wang and Manos Kapritsos and Zuocheng Ren and Prince Mahajan and Jeevitha Kirubanandam and Lorenzo Alvisi and Mike Dahlin},
     title = {Robustness in the Salus Scalable Block Store},
@@ -384,7 +384,7 @@
   news2:
   bibid: eve_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Kapritsos12All.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {180267,
     author = {Manos Kapritsos and Yang Wang and Vivien Quema and Allen Clement and Lorenzo Alvisi and Mike Dahlin},
     title = {All about Eve: Execute-Verify Replication for Multi-Core Servers},
@@ -407,7 +407,7 @@
   news2:
   bibid: gnothi_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Wang12Gnothi.pdf
-  bibtex: |
+  bibtex: |+
     @inproceedings {181008,
     author = {Yang Wang and Lorenzo Alvisi and Mike Dahlin},
     title = {Gnothi: Separating Data and Metadata for Efficient and Available Storage Replication},
