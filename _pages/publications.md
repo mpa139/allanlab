@@ -49,8 +49,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
+<!-- <p> &nbsp; </p> -->
 
 ## Full List
 
