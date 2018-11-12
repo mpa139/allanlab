@@ -64,9 +64,7 @@ permalink: /publications/
   Bibtex
 </button>
 <div class="modal fade" id="{{ publi.bibid }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    {{ publi.bibtex }}
-  </div>
+  <div class="modal-dialog" role="document"><p>{{ publi.bibtex }}</p></div>
 </div>
 
 {% endfor %}
