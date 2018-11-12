@@ -419,3 +419,92 @@
     url = {https://www.usenix.org/conference/atc12/technical-sessions/presentation/wang},
     publisher = {{USENIX}},
     }
+
+- title: "Regret freedom isn't free"
+  image: dummy.png
+  description: Cooperative, peer-to-peer (P2P) services—distributed systems consisting of participants from multiple administrative domains(MAD) must deal with the threat of arbitrary (Byzantine) failures while incentivizing the cooperation of potentially selfish (rational) nodes that such services rely on to function
+  authors: Edmund L. Wong, Isaac Levy, Lorenzo Alvisi, Allen Clement, and Mike Dahlin
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-25873-2_7
+    display: OPODIS'11
+  news2:
+  bibid: regret_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong11Regret.pdf
+  bibtex: |+
+    @InProceedings{10.1007/978-3-642-25873-2_7,
+    author="Wong, Edmund L.
+    and Levy, Isaac
+    and Alvisi, Lorenzo
+    and Clement, Allen
+    and Dahlin, Mike",
+    editor="Fern{\`a}ndez Anta, Antonio
+    and Lipari, Giuseppe
+    and Roy, Matthieu",
+    title="Regret Freedom Isn't Free",
+    booktitle="Principles of Distributed Systems",
+    year="2011",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="80--95",
+    abstract="Cooperative, peer-to-peer (P2P) services---distributed systems consisting of participants from multiple administrative domains (MAD)---must deal with the threat of arbitrary (Byzantine) failures while incentivizing the cooperation of potentially selfish (rational) nodes that such services rely on to function. This paper investigates how to specify conditions (i.e., a solution concept) for rational cooperation in an environment that also contains Byzantine and obedient peers. We find that regret-free approaches---which, inspired by traditional Byzantine fault tolerance, condition rational cooperation on identifying a strategy that proves a best response regardless of how Byzantine failures occur---are unattainable in many fault-tolerant distributed systems. We suggest an alternative regret-braving approach, in which rational nodes aim to best respond to their expectations regarding Byzantine failures: the chosen strategy guarantees no regret only to the extent that such expectations prove correct. While work on regret-braving solution concepts is just beginning, our preliminary results show that these solution concepts are not subject to the fundamental limitations inherent to regret freedom.",
+    isbn="978-3-642-25873-2"
+    }
+
+- title: "Depot: Cloud Storage with Minimal Trust"
+  image: dummy.png
+  description: Depot, a cloud storage system that minimizes trust assumptions
+  authors: Prince Mahajan, Srinath Setty, Sangmin Lee, Allen Clement, Lorenzo Alvisi, Mike Dahlin, and Michael Walfish
+  link:
+    url: http://doi.acm.org/10.1145/2063509.2063512
+    display: OSDI'10
+  news2:
+  bibid: depot_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Mahajan10Depot.pdf
+  bibtex: |+
+    @article{Mahajan:2011:DCS:2063509.2063512,
+     author = {Mahajan, Prince and Setty, Srinath and Lee, Sangmin and Clement, Allen and Alvisi, Lorenzo and Dahlin, Mike and Walfish, Michael},
+     title = {Depot: Cloud Storage with Minimal Trust},
+     journal = {ACM Trans. Comput. Syst.},
+     issue_date = {December 2011},
+     volume = {29},
+     number = {4},
+     month = dec,
+     year = {2011},
+     issn = {0734-2071},
+     pages = {12:1--12:38},
+     articleno = {12},
+     numpages = {38},
+     url = {http://doi.acm.org/10.1145/2063509.2063512},
+     doi = {10.1145/2063509.2063512},
+     acmid = {2063512},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {Byzantine fault tolerance, Cloud storage, Fork-Join-Causal (FJC) consistency, fork consistency},
+    } 
+
+- title: "It's On Me! The Benefit of Altruism in BAR Environments"
+  image: dummy.png
+  description: Cooperation, a necessity for any peer-to-peer (P2P) cooperative service, is often achieved by rewarding good behavior now with the promise of future benefits
+  authors: Edmund L. Wong, Joshua B. Leners, and Lorenzo Alvisi
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-15763-9_41
+    display: DISC'10
+  news2:
+  bibid: onmealtruism_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong10It.pdf
+  bibtex: |+
+    @InProceedings{10.1007/978-3-642-15763-9_41,
+    author="Wong, Edmund L.
+    and Leners, Joshua B.
+    and Alvisi, Lorenzo",
+    editor="Lynch, Nancy A.
+    and Shvartsman, Alexander A.",
+    title="It's on Me! The Benefit of Altruism in BAR Environments",
+    booktitle="Distributed Computing",
+    year="2010",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="406--420",
+    abstract="Cooperation, a necessity for any peer-to-peer (P2P) cooperative service, is often achieved by rewarding good behavior now with the promise of future benefits. However, in most cases, interactions with a particular peer or the service itself eventually end, resulting in some last exchange in which departing participants have no incentive to contribute. Without cooperation in the last round, cooperation in any prior round may be unachievable. In this paper, we propose leveraging altruistic participants that simply follow the protocol as given. We show that altruism is a simple, necessary, and sufficient way to incentivize cooperation in a realistic model of a cooperative service's last exchange, in which participants may be Byzantine, altruistic, or rational and network loss is explicitly considered. By focusing on network-level incentives in the last exchange, we believe our approach can be used as the cornerstone for incentivizing cooperation in any cooperative service.",
+    isbn="978-3-642-15763-9"
+    }
