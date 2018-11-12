@@ -114,7 +114,7 @@
 
 - title: "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
   image: Occult.jpg
-  description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades
+  description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades, a key obstacle to the deployment at scale
   authors: Syed Akbar Mehdi, Cody Littley, Natacha Crooks, Lorenzo Alvisi, Nathan Bronson and Wyatt Lloyd
   link:
     url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi
