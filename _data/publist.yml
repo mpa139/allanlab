@@ -520,18 +520,21 @@
   bibid: upright_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/clement-sosp09.pdf
   bibtex: |+
-    @InProceedings{10.1007/978-3-642-15763-9_41,
-    author="Wong, Edmund L.
-    and Leners, Joshua B.
-    and Alvisi, Lorenzo",
-    editor="Lynch, Nancy A.
-    and Shvartsman, Alexander A.",
-    title="It's on Me! The Benefit of Altruism in BAR Environments",
-    booktitle="Distributed Computing",
-    year="2009",
-    publisher = {ACM},
-    address = {New York, NY, USA},
-    pages="277--290",
-    abstract="The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services. We demonstrate UpRight by producing BFT versions of the Zookeeper lock service and the Hadoop Distributed File System (HDFS). Our design choices in UpRight favor simplifying adoption by existing applications; performance is a secondary con- cern. Despite these priorities, our BFT Zookeeper and BFT HDFS implementations have performance comparable with the originals while providing additional robustness.",
-    isbn="978-3-642-15763-9"
-    }
+  @inproceedings{Clement:2009:UCS:1629575.1629602,
+  author = {Clement, Allen and Kapritsos, Manos and Lee, Sangmin and Wang, Yang and Alvisi, Lorenzo and Dahlin, Mike and Riche, Taylor},
+  title = {Upright Cluster Services},
+  booktitle = {Proceedings of the ACM SIGOPS 22Nd Symposium on Operating Systems Principles},
+  series = {SOSP '09},
+  year = {2009},
+  isbn = {978-1-60558-752-3},
+  location = {Big Sky, Montana, USA},
+  pages = {277--290},
+  numpages = {14},
+  url = {http://doi.acm.org/10.1145/1629575.1629602},
+  doi = {10.1145/1629575.1629602},
+  acmid = {1629602},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  abstract="The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services. We demonstrate UpRight by producing BFT versions of the Zookeeper lock service and the Hadoop Distributed File System (HDFS). Our design choices in UpRight favor simplifying adoption by existing applications; performance is a secondary con- cern. Despite these priorities, our BFT Zookeeper and BFT HDFS implementations have performance comparable with the originals while providing additional robustness.",
+ keywords = {byzantine fault tolerance, cluster services, reliability},
+} 
