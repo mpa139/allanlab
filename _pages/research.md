@@ -25,7 +25,7 @@ We leveraged this observation todevelop the theoretical foundations (in particul
 
 While Salt can dramatically reduce the programming effort required to achieve an order of magnitude performance improvement over a standard ACID implementation, it does still still require developers to engage in the non-trivial exercise to rewrite those few performance critical transactions as BASE transactions.
 
-Our next step was then to aim for a more ambitious objective: bringing the performance of ACID applications within striking distance of BASE-reimplementation without requiring any programming effort from the developer.
+Our next step was then to aim for a more ambitious objective: bringing the performance of ACID applications within striking distance of BASE-reimplementation _without requiring any programming effort from the developer_.
 
 The result was a new distributed database, called Callas (Callas is the most popular brand of SAlt in Greece, in addition to a legendary soprano). Callas is also derived from MySQL cluster; its secret sauce is Modular Concurrency Control (MCC), a new approach to federating concurrency controls.  MCC  partitions transactions in groups, giving each group the flexibility to run its own private concurrency control mechanism. Being charged with regulating concurrency only for the transactions within their own groups, these mechanisms can be much more aggressive while still upholding safety. A separate cross-group CC mechanism handles conflicts among transactions in different groups. Our evaluation on the TPC-C benchmark and other applications shows that that Callas can improve throughput by close to an order of magnitude with no change to the application.
 
