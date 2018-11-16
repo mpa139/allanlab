@@ -536,5 +536,5 @@
   publisher = {ACM},
   address = {New York, NY, USA},
   abstract="The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services. We demonstrate UpRight by producing BFT versions of the Zookeeper lock service and the Hadoop Distributed File System (HDFS). Our design choices in UpRight favor simplifying adoption by existing applications; performance is a secondary con- cern. Despite these priorities, our BFT Zookeeper and BFT HDFS implementations have performance comparable with the originals while providing additional robustness.",
- keywords = {byzantine fault tolerance, cluster services, reliability},
+  keywords = {byzantine fault tolerance, cluster services, reliability}
 } 
