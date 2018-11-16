@@ -508,3 +508,30 @@
     abstract="Cooperation, a necessity for any peer-to-peer (P2P) cooperative service, is often achieved by rewarding good behavior now with the promise of future benefits. However, in most cases, interactions with a particular peer or the service itself eventually end, resulting in some last exchange in which departing participants have no incentive to contribute. Without cooperation in the last round, cooperation in any prior round may be unachievable. In this paper, we propose leveraging altruistic participants that simply follow the protocol as given. We show that altruism is a simple, necessary, and sufficient way to incentivize cooperation in a realistic model of a cooperative service's last exchange, in which participants may be Byzantine, altruistic, or rational and network loss is explicitly considered. By focusing on network-level incentives in the last exchange, we believe our approach can be used as the cornerstone for incentivizing cooperation in any cooperative service.",
     isbn="978-3-642-15763-9"
     }
+
+- title: "UpRight Cluster Services"
+  image: dummy.png
+  description: The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services.
+  authors: Allen Clement, Manos Kapritsos, Sangmin Lee, Yang Wang, Lorenzo Alvisi, Mike Dahlin, and Taylor Riché
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-15763-9_41
+    display: SOSP'09
+  news2:
+  bibid: upright_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/clement-sosp09.pdf
+  bibtex: |+
+    @InProceedings{10.1007/978-3-642-15763-9_41,
+    author="Wong, Edmund L.
+    and Leners, Joshua B.
+    and Alvisi, Lorenzo",
+    editor="Lynch, Nancy A.
+    and Shvartsman, Alexander A.",
+    title="It's on Me! The Benefit of Altruism in BAR Environments",
+    booktitle="Distributed Computing",
+    year="2009",
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    pages="277--290",
+    abstract="The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services. We demonstrate UpRight by producing BFT versions of the Zookeeper lock service and the Hadoop Distributed File System (HDFS). Our design choices in UpRight favor simplifying adoption by existing applications; performance is a secondary con- cern. Despite these priorities, our BFT Zookeeper and BFT HDFS implementations have performance comparable with the originals while providing additional robustness.",
+    isbn="978-3-642-15763-9"
+    }
