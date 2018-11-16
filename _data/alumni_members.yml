@@ -5,14 +5,14 @@
   number_educ: 1
   education1: Shanghai Jiao Tong University
   
-  - name: Chao Xie, Ph.D. 2016
+- name: Chao Xie, Ph.D. 2016
   photo: chao.jpg
   info: High Performance Transactional Storage, UT Austin
   now: Google
   number_educ: 1
   education1: Leidse instrumentmakers School
   
-  - name: Manos Kapritsos, Ph.D. 2014
+- name: Manos Kapritsos, Ph.D. 2014
   photo: mk.png
   info: Replicating Multithreaded Services, UT Austin
   now: Assistant Professor, University of Michigan Ann Arbor
