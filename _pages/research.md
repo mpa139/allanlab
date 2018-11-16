@@ -9,8 +9,6 @@ permalink: /research/
 # Research
 
 Our research aims to understand how to design and build distributed systems worthy of the  trust that government, businesses, and the public  increasingly put in them. We investigate both foundational and applied aspects of reliable distributed computing; at its best, our work leverages the former to shape the latter.
-
-Over the years our work has focused on low overhead for tolerance techniques for benign failure (research highlights are here here and here), Byzantine fault tolerance (highlights here, here and here), and the the intersection of Distributed Computing and Game Theory (highlights here, here, and here).
  
 Over the last four years, much of of our group's attention has focused mitigating the tension between consistency and performance.
 
