@@ -32,7 +32,7 @@ guide us to exciting new theory.
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/book.jpg" alt="Slide 1" />
         </div>
-        <div class="item">
+ <!--       <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
         </div>
         <div class="item">
@@ -46,7 +46,7 @@ guide us to exciting new theory.
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
-        </div>
+        </div> -->
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
