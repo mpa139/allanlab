@@ -1,13 +1,13 @@
-- name: Chao Xie, Ph.D. 2016
-  photo: chao.jpg
-  info: High Performance Transactional Storage, UT Austin
-  now: 
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-
 - name: Chunzhi Su, Ph.D. 2018
   photo: Chunzhi.jpg
   info: Bringing Modular Concurrency Control to the Next Level, UT Austin
-  now: 
+  now: Google
   number_educ: 1
   education1: Shanghai Jiao Tong University
+  
+  - name: Chao Xie, Ph.D. 2016
+  photo: chao.jpg
+  info: High Performance Transactional Storage, UT Austin
+  now: Google
+  number_educ: 1
+  education1: Leidse instrumentmakers School
