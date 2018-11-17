@@ -514,7 +514,7 @@
   description: The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services.
   authors: Allen Clement, Manos Kapritsos, Sangmin Lee, Yang Wang, Lorenzo Alvisi, Mike Dahlin, and Taylor Riché
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-642-15763-9_41
+    url: https://www.sigops.org/s/conferences/sosp/2009/program.html#session7
     display: SOSP'09
   news2:
   bibid: upright_bibtex
