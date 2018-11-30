@@ -7,14 +7,14 @@
   
 - name: Trinabh Gupta, Ph.D. 2017
   photo: Trinabh.jpg
-  info: <a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/63351/GUPTA-DISSERTATION-2017.pdf?sequence=1&isAllowed=y">Toward practical and private online services</a>, UT Austin
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/63351/GUPTA-DISSERTATION-2017.pdf?sequence=1&isAllowed=y'>Toward practical and private online services</a>, UT Austin
   now: Assistant Processor, UC Santa Barbara
   number_educ: 1
   education1: No idea
   
 - name: Chao Xie, Ph.D. 2016
   photo: chao.jpg
-  info: High Performance Transactional Storage, UT Austin
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/42014/XIE-DISSERTATION-2016.pdf?sequence=1&isAllowed=y'>High Performance Transactional Storage</a>, UT Austin
   now: Google
   number_educ: 1
   education1: Leidse instrumentmakers School
@@ -28,7 +28,7 @@
 
 - name: Yang Wang, Ph.D. 2014
   photo: Yang.jpg
-  info: Separating Data from Metadata for Robustness and Scalability
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/28370/WANG-DISSERTATION-2014.pdf?sequence=1&isAllowed=y'>Separating Data from Metadata for Robustness and Scalability</a>
   now: Assistant Professor, The Ohio State University
   number_educ: 1
   education1: Tsinghua University
