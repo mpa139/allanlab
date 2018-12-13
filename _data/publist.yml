@@ -1,22 +1,23 @@
 - title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  image: DomePub.png
+  description: The first completely home-built STM is alive! And it has the world’s highest resonance frequency.
   authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5064442
     display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
   image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
   authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
   link:
     url: https://www.nature.com/articles/s41567-018-0300-z
     display:  Nature Physics 14, 1183 (2018)
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+  news1: Instrumental details: <a href="https://aip.scitation.org/doi/10.1063/1.5043267"> Rev. Sci. Instrum. 89, 093709 (2018)"</a>
+  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html”> UvA news<a>.
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
@@ -25,7 +26,7 @@
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5043267
     display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
