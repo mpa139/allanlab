@@ -768,11 +768,11 @@
   description: We design and evaluate a lightweight route verification mechanism that enables a router to discover route failures and inconsistencies between advertised Internet routes and actual paths taken by the data packets.
   authors: Ramakrishna Kotla, Lorenzo Alvisi, and Mike Dahlin
   link:
-    url: https://www.podc.org/podc2007/
+    url: https://www.usenix.org/legacy/events/usenix07/tech/kotla.html
     display: USENIX ATC'07  Best Paper Award!
   news2:
   bibid: safestore_bibtex
-  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  pdf: https://www.usenix.org/legacy/events/usenix07/tech/kotla/kotla.pdf
   bibtex: |+
     @inproceedings{Kotla07Safestore,
     author    = {Ramakrishna Kotla and
