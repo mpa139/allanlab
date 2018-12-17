@@ -60,12 +60,3 @@
   now: Cisco
   number_educ: 1
   education1: UT Austin
-
-  
-  - name: Jean-Philippe Martin, Ph.D. 2006
-  photo: JP.jpg 
-  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
-  now: Google
-  number_educ: 1
-  education1: EPFL
-
