@@ -604,7 +604,7 @@
   bibid: matrix_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
   bibtex: |+
-    @inproceedings{DBLP:conf/wdag/AiyerABC08,
+    @inproceedings{Aiyer08Matrix,
     author    = {Amitanand S. Aiyer and
                Lorenzo Alvisi and
                Rida A. Bazzi and
@@ -621,5 +621,31 @@
     timestamp = {Tue, 13 Jun 2017 10:37:55 +0200},
     biburl    = {https://dblp.org/rec/bib/conf/wdag/AiyerABC08},
     bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+
+- title: "BAR Primer"
+  image: dummy.png
+  description: The goal of this paper is to demystify the process by presenting the full al- gorithmic development cycle that, starting from the classic synchronous Repeated Terminating Reliable Broadcast (R- TRB) problem statement, leads to a provably BAR-tolerant solution.
+  authors: Allen Clement, Harry Li, Jeff Napper, Jean-Philippe Martin, Lorenzo Alvisi, Mike Dahlin
+  link:
+    url: http://2008.dsn.org
+    display: DSN'08
+  news2:
+  bibid: barprimer_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/clement08Bar.pdf
+  bibtex: |+
+    @INPROCEEDINGS{Clement08Primer,
+    author = {A. Clement and H. Li and J. Napper and J. Martin and L. Alvisi and M. Dahlin},
+    booktitle = {2008 IEEE International Conference on Dependable Systems and Networks With FTCS and DCC (DSN)},
+    title = {BAR primer},
+    year = {2008},
+    volume = {00},
+    number = {},
+    pages = {287-296},
+    keywords={Protocols;Lead;Games;Nash equilibrium;Peer to peer computing;Safety;Conferences},
+    doi = {10.1109/DSN.2008.4630097},
+    url = {doi.ieeecomputersociety.org/10.1109/DSN.2008.4630097},
+    ISSN = {1530-0889},
+    month={June}
     }
 
