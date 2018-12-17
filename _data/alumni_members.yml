@@ -67,3 +67,22 @@
   now: Google
   number_educ: 1
   education1: EPFL
+
+- name: Jian Yin, Ph.D. 2003
+  photo: jp.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
+  now: Google
+  number_educ: 1
+  education1: EPFL
+
+- name: Evelyn Tumlin Pierce, 2000
+  photo: Lyn.jpg 
+  info: <a href='https://www.cs.utexas.edu/ftp/techreports/tr01-07.ps.gz'>Self-Adjusting Quorum Systems for Byzantine Fault Tolerance</a>, UT Austin
+  number_educ: 1
+  education1: Princeton
+
+- name: Sriram Rao, Ph.D. 1999
+  photo: Sriram.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
+  now: Facebook
+  number_educ: 1
