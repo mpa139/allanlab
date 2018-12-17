@@ -78,6 +78,7 @@
 - name: Evelyn Tumlin Pierce, 2000
   photo: Lyn.jpg 
   info: <a href='https://www.cs.utexas.edu/ftp/techreports/tr01-07.ps.gz'>Self-Adjusting Quorum Systems for Byzantine Fault Tolerance</a>, UT Austin
+  now:
   number_educ: 1
   education1: Princeton
 
