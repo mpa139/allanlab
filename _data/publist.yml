@@ -576,7 +576,7 @@
     display: OSDI'08
   news2:
   bibid: flightpath_bibtex
-  pdf: http://www.cs.cornell.edu/lorenzo/papers/li08flightpath.pdf
+  pdf: https://www.usenix.org/legacy/events/osdi08/tech/full_papers/li_h/li_h.pdf
   bibtex: |+
     @inproceedings{Li:2008:FOV:1855741.1855766,
     author = {Li, Harry C. and Clement, Allen and Marchetti, Mirco and Kapritsos, Manos and Robison, Luke and Alvisi, Lorenzo and Dahlin, Mike},
@@ -593,4 +593,33 @@
     address = {Berkeley, CA, USA},
     } 
 
+- title: "Matrix Signatures: From MACs to Digital Signatures in Distributed Systems"
+  image: dummy.png
+  description: We present a general implementation for providing the prop- erties of digital signatures using MACs in a system consisting of any number of untrusted clients and n servers, up to f of which are Byzantine.
+  authors: Amitanand S. Aiyer, Lorenzo Alvisi, Rida A. Bazzi, and Allen Clement
+  link:
+    url: http://www.disc-conference.org/disc2008/mirror/index.html
+    display: DISC'08
+  news2:
+  bibid: matrix_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{DBLP:conf/wdag/AiyerABC08,
+    author    = {Amitanand S. Aiyer and
+               Lorenzo Alvisi and
+               Rida A. Bazzi and
+               Allen Clement},
+    title     = {Matrix Signatures: From MACs to Digital Signatures in Distributed
+               Systems},
+    booktitle = {Distributed Computing, 22nd International Symposium, {DISC} 2008,
+               Arcachon, France, September 22-24, 2008. Proceedings},
+    pages     = {16--31},
+    year      = {2008},
+    crossref  = {DBLP:conf/wdag/2008},
+    url       = {https://doi.org/10.1007/978-3-540-87779-0\_2},
+    doi       = {10.1007/978-3-540-87779-0\_2},
+    timestamp = {Tue, 13 Jun 2017 10:37:55 +0200},
+    biburl    = {https://dblp.org/rec/bib/conf/wdag/AiyerABC08},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
 
