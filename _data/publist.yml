@@ -564,3 +564,33 @@
     publisher = {USENIX Association},
     address = {Berkeley, CA, USA},
     } 
+
+
+
+- title: "FlightPath: Obedience vs. Choice in Cooperative Services"
+  image: dummy.png
+  description: FlightPath, a novel peer-to-peer streaming application that provides a highly reliable data stream to a dynamic set of peers using approximate equilibria.
+  authors: Harry C. Li, Allen Clement, Mirco Marchetti, Manos Kapritsos, Luke Robison, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.usenix.org/legacy/events/osdi08/tech/#wed
+    display: OSDI'08
+  news2:
+  bibid: flightpath_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/li08flightpath.pdf
+  bibtex: |+
+    @inproceedings{Li:2008:FOV:1855741.1855766,
+    author = {Li, Harry C. and Clement, Allen and Marchetti, Mirco and Kapritsos, Manos and Robison, Luke and Alvisi, Lorenzo and Dahlin, Mike},
+    title = {FlightPath: Obedience vs. Choice in Cooperative Services},
+    booktitle = {Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation},
+    series = {OSDI'08},
+    year = {2008},
+    location = {San Diego, California},
+    pages = {355--368},
+    numpages = {14},
+    url = {http://dl.acm.org/citation.cfm?id=1855741.1855766},
+    acmid = {1855766},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+    } 
+
+
