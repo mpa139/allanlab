@@ -542,10 +542,10 @@
 - title: "Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults"
   image: dummy.png
   description: The paper demonstrates that existing protocols are dangerously fragile, (2) defines a set of principles for constructing BFT services that remain useful even when Byzantine faults occur, and (3) applies these principles to construct a new protocol, Aardvark.
-  authors: Allen Clement, Manos Kapritsos, Sangmin Lee, Yang Wang, Lorenzo Alvisi, Mike Dahlin, and Taylor Riché
+  authors: Allen Clement, Mirco Marchetti, Edmund Wong, Lorenzo Alvisi, and Mike Dahlin
   link:
-    url: https://www.sigops.org/s/conferences/sosp/2009/program.html#session7
-    display: SOSP'09
+    url: https://www.usenix.org/legacy/events/nsdi09/tech/#wed
+    display: NSDI'09
   news2:
   bibid: making_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Clement09Making.pdf
