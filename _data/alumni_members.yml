@@ -71,7 +71,7 @@
 - name: Jian Yin, Ph.D. 2003
   photo: jp.jpg 
   info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
-  now: Google
+  now: Pacific Nothwest National Laboratories
   number_educ: 1
   education1: EPFL
 
@@ -87,3 +87,4 @@
   info: <a href='https://pdfs.semanticscholar.org/c431/898aad2b2020f0c5e51b22faae1d13a57724.pdf'>Egida: A Toolkit for Low-Overhead Fault Tolerance</a>, UT Austin
   now: Facebook
   number_educ: 1
+  education1: 
