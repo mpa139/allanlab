@@ -708,3 +708,29 @@
     bibsource = {dblp computer science bibliography, https://dblp.org}
     }
 
+- title: "The Paxos Register"
+  image: dummy.png
+  description: We introduce the Paxos register to simplify and unify the presentation of Paxos-style consensus protocols. 
+  authors: Harry C. Li, Allen Clement, Amitanand S. Aiyer, and Lorenzo Alvisi
+  link:
+    url: https://dblp.org/db/conf/srds/srds2007
+    display: SRDS'07
+  news2:
+  bibid: bounded_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Li07Paxos,
+    author = {Li, Harry C. and Clement, Allen and Aiyer, Amitanand S. and Alvisi, Lorenzo},
+    title = {The Paxos Register},
+    booktitle = {Proceedings of the 26th IEEE International Symposium on Reliable Distributed Systems},
+    series = {SRDS '07},
+    year = {2007},
+    isbn = {0-7695-2995-X},
+    pages = {114--126},
+    numpages = {13},
+    url = {http://dl.acm.org/citation.cfm?id=1308172.1308227},
+    acmid = {1308227},
+    publisher = {IEEE Computer Society},
+    address = {Washington, DC, USA},
+    } 
+
