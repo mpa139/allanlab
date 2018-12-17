@@ -763,3 +763,29 @@
     keywords = {BGP, interdomain routing, security},
     } 
 
+- title: "SafeStore: A Durable and Practical Storage System"
+  image: dummy.png
+  description: We design and evaluate a lightweight route verification mechanism that enables a router to discover route failures and inconsistencies between advertised Internet routes and actual paths taken by the data packets.
+  authors: Ramakrishna Kotla, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.podc.org/podc2007/
+    display: USENIX ATC'07  Best Paper Award!
+  news2:
+  bibid: safestore_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Kotla07Safestore,
+    author    = {Ramakrishna Kotla and
+               Lorenzo Alvisi and
+               Michael Dahlin},
+    title     = {SafeStore: {A} Durable and Practical Storage System},
+    booktitle = {Proceedings of the 2007 {USENIX} Annual Technical Conference, Santa
+               Clara, CA, USA, June 17-22, 2007},
+    pages     = {129--142},
+    year      = {2007},
+    crossref  = {DBLP:conf/usenix/2007},
+    url       = {http://www.usenix.org/events/usenix07/tech/kotla.html},
+    timestamp = {Wed, 04 Jul 2018 13:06:34 +0200},
+    biburl    = {https://dblp.org/rec/bib/conf/usenix/KotlaAD07},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
