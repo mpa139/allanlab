@@ -81,11 +81,3 @@
   now:
   number_educ: 1
   education1: Princeton
-
-- name: Sriram Rao, 1999
-  photo: Sriram.jpg 
-  info: <a href='https://www.cs.utexas.edu/ftp/techreports/tr01-07.ps.gz'>Egida: A Toolkit for Low-Overhead Fault Tolerance/a>, UT Austin
-  now:
-  number_educ: 1
-  education1: Princeton
-
