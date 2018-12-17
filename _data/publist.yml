@@ -734,3 +734,32 @@
     address = {Washington, DC, USA},
     } 
 
+- title: "Truth In Advertising: Lightweight Verification of Route Integrity"
+  image: dummy.png
+  description: We design and evaluate a lightweight route verification mechanism that enables a router to discover route failures and inconsistencies between advertised Internet routes and actual paths taken by the data packets.
+  authors: Edmund L. Wong, Praveen Balasubramanian, Lorenzo Alvisi, Mohamed G. Gouda, Vitaly Shmatikov
+  link:
+    url: https://www.podc.org/podc2007/
+    display: PODC'07
+  news2:
+  bibid: truth_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Wong07Truth,
+    author = {Wong, Edmund L. and Balasubramanian, Praveen and Alvisi, Lorenzo and Gouda, Mohamed G. and Shmatikov, Vitaly},
+    title = {Truth in Advertising: Lightweight Verification of Route Integrity},
+    booktitle = {Proceedings of the Twenty-sixth Annual ACM Symposium on Principles of Distributed Computing},
+    series = {PODC '07},
+    year = {2007},
+    isbn = {978-1-59593-616-5},
+    location = {Portland, Oregon, USA},
+    pages = {147--156},
+    numpages = {10},
+    url = {http://doi.acm.org/10.1145/1281100.1281123},
+    doi = {10.1145/1281100.1281123},
+    acmid = {1281123},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {BGP, interdomain routing, security},
+    } 
+
