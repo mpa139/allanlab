@@ -657,7 +657,7 @@
     url: http://sosp2007.org/index.html
     display: SOSP'07 Best Paper Award!
   news2:
-  bibid: barprimer_bibtex
+  bibid: zyzzyvasosp_bibtex
   pdf: http://sosp2007.org/papers/sosp052-kotla.pdf
   bibtex: |+
     @inproceedings{Kotla07Zyzzyva,
@@ -678,3 +678,33 @@
     keywords = {byzantine fault tolerance, output commit, replication, speculative execution},
     }
     
+- title: "Bounded Wait-Free Implementation of Optimally Resilient Byzantine Storage without (Unproven) Cryptographic Assumptions"
+  image: dummy.png
+  description: We present the first optimally resilient, bounded, wait-free implementation of a distributed atomic register, tolerating Byzantine readers and (up to one-third of) Byzantine servers, without the use of unproven cryptographic primitives or requiring communication among servers.
+  authors: Amitanand S. Aiyer, Lorenzo Alvisi, Rida A. Bazzi, and Allen Clement
+  link:
+    url: http://www2.cs.ucy.ac.cy/~disc07/
+    display: DISC'07
+  news2:
+  bibid: bounded_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Aiyer07Bounded,
+    author    = {Amitanand S. Aiyer and
+               Lorenzo Alvisi and
+               Rida A. Bazzi},
+    title     = {Bounded wait-free implementation of optimally resilient byzantine
+               storage without (unproven) cryptographic assumptions},
+    booktitle = {Proceedings of the Twenty-Sixth Annual {ACM} Symposium on Principles
+               of Distributed Computing, {PODC} 2007, Portland, Oregon, USA, August
+               12-15, 2007},
+    pages     = {310--311},
+    year      = {2007},
+    crossref  = {DBLP:conf/podc/2007},
+    url       = {https://doi.org/10.1145/1281100.1281147},
+    doi       = {10.1145/1281100.1281147},
+    timestamp = {Tue, 06 Nov 2018 11:07:18 +0100},
+    biburl    = {https://dblp.org/rec/bib/conf/podc/AiyerAB07},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
