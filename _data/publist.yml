@@ -538,3 +538,29 @@
     abstract="The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services. We demonstrate UpRight by producing BFT versions of the Zookeeper lock service and the Hadoop Distributed File System (HDFS). Our design choices in UpRight favor simplifying adoption by existing applications; performance is a secondary con- cern. Despite these priorities, our BFT Zookeeper and BFT HDFS implementations have performance comparable with the originals while providing additional robustness.",
     keywords = {byzantine fault tolerance, cluster services, reliability}
     } 
+
+- title: "Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults"
+  image: dummy.png
+  description: The paper demonstrates that existing protocols are dangerously fragile, (2) defines a set of principles for constructing BFT services that remain useful even when Byzantine faults occur, and (3) applies these principles to construct a new protocol, Aardvark.
+  authors: Allen Clement, Manos Kapritsos, Sangmin Lee, Yang Wang, Lorenzo Alvisi, Mike Dahlin, and Taylor Riché
+  link:
+    url: https://www.sigops.org/s/conferences/sosp/2009/program.html#session7
+    display: SOSP'09
+  news2:
+  bibid: making_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Clement09Making.pdf
+  bibtex: |+
+ @inproceedings{Clement:2009:MBF:1558977.1558988,
+ author = {Clement, Allen and Wong, Edmund and Alvisi, Lorenzo and Dahlin, Mike and Marchetti, Mirco},
+ title = {Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults},
+ booktitle = {Proceedings of the 6th USENIX Symposium on Networked Systems Design and Implementation},
+ series = {NSDI'09},
+ year = {2009},
+ location = {Boston, Massachusetts},
+ pages = {153--168},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=1558977.1558988},
+ acmid = {1558988},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+} 
