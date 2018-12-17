@@ -789,3 +789,31 @@
     biburl    = {https://dblp.org/rec/bib/conf/usenix/KotlaAD07},
     bibsource = {dblp computer science bibliography, https://dblp.org}
     }
+
+
+- title: "BAR Gossip"
+  image: dummy.png
+  description: We present the first peer-to-peer data streaming application that guarantees predictable throughput and low latency in the BAR (Byzantine/Altruistic/Rational) model.
+  authors: Harry C. Li, Allen Clement, Edmund L. Wong, Jeff Napper, Indrajit Roy, Lorenzo Alvisi, Michael Dahlin
+  link:
+    url: https://www.usenix.org/legacy/event/osdi06/tech/full_papers/li/li.pdf
+    display: OSDI'06
+  news2:
+  bibid: gossip_bibtex
+  pdf: https://www.usenix.org/legacy/events/osdi06/tech/li.html
+  bibtex: |+
+    @inproceedings{Li07Gossip,
+    author = {Li, Harry C. and Clement, Allen and Wong, Edmund L. and Napper, Jeff and Roy, Indrajit and Alvisi, Lorenzo and Dahlin, Michael},
+    title = {BAR Gossip},
+    booktitle = {Proceedings of the 7th Symposium on Operating Systems Design and Implementation},
+    series = {OSDI '06},
+    year = {2006},
+    isbn = {1-931971-47-1},
+    location = {Seattle, Washington},
+    pages = {191--204},
+    numpages = {14},
+    url = {http://dl.acm.org/citation.cfm?id=1298455.1298474},
+    acmid = {1298474},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+    } 
