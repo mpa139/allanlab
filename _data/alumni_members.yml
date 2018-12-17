@@ -71,7 +71,7 @@
 - name: Jian Yin, Ph.D. 2003
   photo: rock.jpg 
   info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
-  now: Pacific Nothwest National Laboratories
+  now: Pacific Northwest National Laboratories
   number_educ: 1
   education1: EPFL
 
@@ -81,3 +81,11 @@
   now:
   number_educ: 1
   education1: Princeton
+  
+- name: Sriram Rao, Ph.D. 1999
+  photo: Jeff.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/3966/napperj20737.pdf?sequence=2&isAllowed=y'>Robust Multithreaded Applications</a>, UT Austin
+  now: Facebook
+  number_educ: 1
+  education1: No idea
+  
