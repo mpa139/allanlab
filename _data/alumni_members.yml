@@ -42,8 +42,14 @@
   
 - name: Allen Clement, Ph.D. 2010
   photo: Allen.jpg
-  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/21358/WONG-DISSERTATION-2013.pdf?sequence=1'>Raising the BAR in Dependable Cooperative Services</a>, UT Austin
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/ETD-UT-2010-12-2359/CLEMENT-DISSERTATION.pdf?sequence=2&isAllowed=y'>UpRight Fault Tolerance</a>, UT Austin
   now: Google
   number_educ: 1
   education1: Princeton University
  
+- name: Harry C. Li, Ph.D. 2009
+  photo: Harry.jpg
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/29627/lih92313.pdf?sequence=2&isAllowed=y'>Robust Peer-to-Peer Systems</a>, UT Austin
+  now: Independent Consultant
+  number_educ: 1
+  education1: Brown University
