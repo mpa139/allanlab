@@ -550,17 +550,17 @@
   bibid: making_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Clement09Making.pdf
   bibtex: |+
- @inproceedings{Clement:2009:MBF:1558977.1558988,
- author = {Clement, Allen and Wong, Edmund and Alvisi, Lorenzo and Dahlin, Mike and Marchetti, Mirco},
- title = {Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults},
- booktitle = {Proceedings of the 6th USENIX Symposium on Networked Systems Design and Implementation},
- series = {NSDI'09},
- year = {2009},
- location = {Boston, Massachusetts},
- pages = {153--168},
- numpages = {16},
- url = {http://dl.acm.org/citation.cfm?id=1558977.1558988},
- acmid = {1558988},
- publisher = {USENIX Association},
- address = {Berkeley, CA, USA},
-} 
+    @inproceedings{Clement:2009:MBF:1558977.1558988,
+    author = {Clement, Allen and Wong, Edmund and Alvisi, Lorenzo and Dahlin, Mike and Marchetti, Mirco},
+    title = {Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults},
+    booktitle = {Proceedings of the 6th USENIX Symposium on Networked Systems Design and Implementation},
+    series = {NSDI'09},
+    year = {2009},
+    location = {Boston, Massachusetts},
+    pages = {153--168},
+    numpages = {16},
+    url = {http://dl.acm.org/citation.cfm?id=1558977.1558988},
+    acmid = {1558988},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+    } 
