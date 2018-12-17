@@ -53,3 +53,19 @@
   now: Independent Consultant
   number_educ: 1
   education1: Brown University
+  
+  - name: Jeff Napper, Ph.D. 2008
+  photo: Jeff.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/3966/napperj20737.pdf?sequence=2&isAllowed=y'>Robust Multithreaded Applications</a>, UT Austin
+  now: Cisco
+  number_educ: 1
+  education1: UT Austin
+
+  
+  - name: Jean-Philippe Martin, Ph.D. 2006
+  photo: JP.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
+  now: Google
+  number_educ: 1
+  education1: EPFL
+
