@@ -649,3 +649,32 @@
     month={June}
     }
 
+- title: "Zyzzyva: Speculative Byzantine Fault Tolerance"
+  image: dummy.png
+  description: We present Zyzzyva, a protocol that uses speculation to reduce the cost and simplify the design of Byzantine fault tolerant state machine replication.
+  authors: Ramakrishna Kotla, Lorenzo Alvisi, Mike Dahlin, Allen Clement, and Edmund Wong
+  link:
+    url: http://sosp2007.org/index.html
+    display: SOSP'07
+  news2:
+  bibid: barprimer_bibtex
+  pdf: http://sosp2007.org/papers/sosp052-kotla.pdf
+  bibtex: |+
+    @inproceedings{Kotla07Zyzzyva,
+    author = {Kotla, Ramakrishna and Alvisi, Lorenzo and Dahlin, Mike and Clement, Allen and Wong, Edmund},
+    title = {Zyzzyva: Speculative Byzantine Fault Tolerance},
+    booktitle = {Proceedings of Twenty-first ACM SIGOPS Symposium on Operating Systems Principles},
+    series = {SOSP '07},
+    year = {2007},
+    isbn = {978-1-59593-591-5},
+    location = {Stevenson, Washington, USA},
+    pages = {45--58},
+    numpages = {14},
+    url = {http://doi.acm.org/10.1145/1294261.1294267},
+    doi = {10.1145/1294261.1294267},
+    acmid = {1294267},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {byzantine fault tolerance, output commit, replication, speculative execution},
+    }
+    
