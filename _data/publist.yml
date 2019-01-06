@@ -89,7 +89,7 @@
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
     display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
+  highlight: 0
 
 - title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
   image: Mott_phase_sep.jpg
