@@ -1,7 +1,7 @@
 - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
   image: SFpub.png
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho, KM Bastiaans, D Chatzopoulos, GD Gu, MP Allan
+  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
   link:
     url: https://arxiv.org/abs/1901.00149
     display:  arxiv:1901.00149
@@ -21,7 +21,7 @@
 - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
   link:
     url: https://www.nature.com/articles/s41567-018-0300-z
     display:  Nature Physics 14, 1183 (2018)
