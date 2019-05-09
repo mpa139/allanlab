@@ -188,7 +188,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Margot Leemker, Spring 2017</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Changwei Zou</td>
     <td>Oliver Ostojic, Spring 2016</td>
     <td>Sietske Lensen, Spring 2017</td>
   </tr>
