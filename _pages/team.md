@@ -212,6 +212,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td></td>
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Amber Vervloet, Spring 2019</td>
+  </tr>
 </table>
 
 ## Administrative Support
