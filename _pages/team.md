@@ -198,8 +198,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Alexander Vanstone, Spring 2016</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Kemal Demir, Summer 2019</td>
+    <td>Corne Koks, Fall 2018</td>
     <td>Tjerk Benschop, Spring 2016</td>
   </tr>
   <tr>
