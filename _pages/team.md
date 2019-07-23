@@ -204,7 +204,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>Damian Bouwmeester, Summer 2019</td>
     <td>Arjo Andringa, Spring 2016</td>
   </tr>
   <tr>
