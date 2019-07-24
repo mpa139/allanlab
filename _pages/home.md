@@ -26,7 +26,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
