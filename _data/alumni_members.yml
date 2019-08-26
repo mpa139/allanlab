@@ -12,9 +12,20 @@
 - name: Irene Battisti
   photo: irene.jpg
   info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments 
+  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
   email: Battisti@Physics.LeidenUniv.nl
   number_educ: 3
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
   education3: PhD Leiden University!
+
+- name: Doohee Cho
+  photo: Doohee2.jpg
+  info: Postdoc
+  duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
+  email: cho@physics.leidenuniv.nl
+  number_educ: 4
+  education1: B.S. Yonsei University, Korea
+  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
+  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
+  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
