@@ -1,6 +1,6 @@
 - name: Milan P Allan
   photo: Milan.jpg
-  info: Assistant Professor, started Jan 2015
+  info: Associate professor, started Jan 2015
   email: milan.allan@gmail.com
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -34,7 +34,6 @@
   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
   education3:
-  education4:
 
 - name: Willem Tromp
   photo: website_pic_willem.jpg
