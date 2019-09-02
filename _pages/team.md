@@ -166,24 +166,26 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 ## Test
+<div class="row">
 
-
-<div class="col-sm-6 clearfix">
-  <i>test1</i>
-  </ul>
+<div class="col-sm-4 clearfix">
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
+{% endfor %}
 </div>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
   <i>test2</i>
-  </ul>
 </div>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
   <i>test3</i>
   <br>
   test5
-  </ul>
 </div>
+
+</div>
+
 
 ## Former BSC, MSC, visitors
 
