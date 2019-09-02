@@ -165,8 +165,27 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## BSC, MSC, visitors
+## Test
 
+
+<div class="col-sm-6 clearfix">
+  <i>test1</i>
+  </ul>
+</div>
+
+<div class="col-sm-6 clearfix">
+  <i>test2</i>
+  </ul>
+</div>
+
+<div class="col-sm-6 clearfix">
+  <i>test3</i>
+  <br>
+  test5
+  </ul>
+</div>
+
+## Former BSC, MSC, visitors
 
 <table align="center" style="width:100%">
  <tr>
