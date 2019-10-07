@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "METRICS Lab - Home"
 layout: homelay
 excerpt: "METRICS Lab at King's College London."
 sitemap: false
