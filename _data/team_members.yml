@@ -1,7 +1,7 @@
-- name: Milan P Allan
+- name: Emma Robinson
   photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+  info: PI, started 
+  email: 
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
@@ -9,21 +9,21 @@
   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: Koen M Bastiaans
+- name: Maria Deprez
   photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+  info: PI, started 
+  email: 
   number_educ: 1
   education1: Master Leiden University with Milan Allan
 
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
+- name: Cher Bass
+  photo: cherbass.jpg
+  info: Research Associate, started May 2019
+  email: 
+  number_educ: 3
+  education1: Neurotechnology PhD at Imperial College London  
+  education2: Neurotechnology MRes at Imperial College London
+  education3: Neuroscience BSc at Bristol University
   education4:
 
 - name: Damianos Chatzopoulos
