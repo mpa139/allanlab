@@ -85,8 +85,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
+  email: 
   number_educ: 0
   education1:
   education2:
