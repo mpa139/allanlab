@@ -1,7 +1,7 @@
 ---
 title: "Allan Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "METRICS Lab at King's College London."
 sitemap: false
 permalink: /
 ---
