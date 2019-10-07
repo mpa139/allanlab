@@ -46,5 +46,7 @@ Comments welcome.
 
 Code released under the MIT License. 
 
+See original website at http://www.allanlab.org/aboutwebsite.html.
+
 
 
