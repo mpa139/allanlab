@@ -39,12 +39,7 @@ You might also want to change the style or theme. I imported style files (in sas
 As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, and creates beautiful `html` files in the `_site` folder.In the end, either upload these files  to your server, or buy yourself a domain and check the instructions on github on how to host it there.
 
 ### Copyright / credit
-
-You can use this template as you please. You don't have to link to us or mention us (but of course we appreciate it). We also welcome it if you send us an email with a link to your website, perhaps we'll publish a list here at some point. 
-
-Comments welcome.
-
-Code released under the MIT License. 
+Copyright Allan Lab. Code released under the MIT License. 
 
 See original website at http://www.allanlab.org/aboutwebsite.html.
 
