@@ -1,29 +1,31 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: Emma Robinson
+  photo: ERphoto.jp2
+  info: PI
+  email: emma.robinson[at]kcl.ac.uk
+  number_educ: 3
+  education1: Expertise Cortical Surface Processing, image registration, machine learning
+  education2: PhD Imperial College
+  education3: Postdoc positions Imperial College and Oxford University (FMRIB centre)
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+- name: Maria Deprez
+  photo: maria-deprez-photo.jpg
+  info: PI, started
+  email:
+  number_educ: 3
+  education1: Expertise Surface to Volume Reconstruction, Image Segmentation, Image reconstruction, machine learning
+  education2: PhD Imperial College
+  education3: Postdoc positions Oxford University, King's College London
 
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
+
+
+- name: Cher Bass
+  photo: cherbass.jpg
+  info: Research Associate, started May 2019
+  email: cher(dot)bass(at)kcl.ac.uk
+  number_educ: 3
+  education1: Neurotechnology PhD at Imperial College London
+  education2: Current research project on developing methods for the task of predicting biomarkers of cognitive function from volumetric (3D) Magnetic Resonance Imaging (MRI) brain data of newborn infants.
+  education3: Topics- Deep learning, generative models, interpretability
   education4:
 
 - name: Damianos Chatzopoulos
@@ -85,8 +87,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
+  email:
   number_educ: 0
   education1:
   education2:
