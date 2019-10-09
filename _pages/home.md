@@ -10,7 +10,7 @@ Welcome to the website for METRICS Lab [King's College London](https://www.kcl.a
 
 Working alongside the [Centre for the Developing Brain](https://www.developingbrain.co.uk/) KCL, we seek to develop tools that support fetal health and improve understanding of the mechanisms behind neuro-developmental impairment.
 
-Our specific areas of interest see include:
+Our specific areas of interest include:
 - Interpretable AI
 - Geometric Deep Learning
 - Functional and microstructural imaging
@@ -19,6 +19,9 @@ Our specific areas of interest see include:
 - spatio-temporal ML
 
  See [Research](research) for more details
+
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -42,6 +45,12 @@ Our specific areas of interest see include:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MSM.jpg" alt="Slide 2" />
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fetal_diffusion.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fetal-body-dsvr.png" alt="Slide 7" />
+       </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/aMSM.jpg" alt="Slide 3" />
         </div>
         <div class="item">
@@ -49,13 +58,7 @@ Our specific areas of interest see include:
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/EPSRC_DTP_phD_proP.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
-        </div>
+        </div>      
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -67,11 +70,10 @@ Our specific areas of interest see include:
   </a>
 </div>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 We are grateful for funding from Academy of Medical Sciences, [Springboard Awards](https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard) and [Wellcome](https://wellcome.ac.uk/funding). Our collaborations with the [Developing Human Connectome Project](http://www.developingconnectome.org/) are funded by the ERC.
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_metrics.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
