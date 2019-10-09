@@ -13,12 +13,8 @@ We are always looking for new group members with passion, talent, and grit!
 
 ### Current open positions
 
-Will be added soon...
+Coming soon...
 
 ### Applications for PhD and Postdoc positions
 
-Will be added soon...
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+Coming soon...
