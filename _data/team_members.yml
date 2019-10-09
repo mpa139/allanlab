@@ -1,6 +1,6 @@
 - name: Emma Robinson
   photo: ERphoto.jpg
-  info: PI
+  info: Lab Lead
   email: emma.robinson[at]kcl.ac.uk
   number_educ: 3
   education1: Expertise Cortical Surface Processing, image registration, machine learning
@@ -9,7 +9,7 @@
 
 - name: Maria Deprez
   photo: maria-deprez-photo.jpg
-  info: PI, started
+  info: Lab Lead
   email:
   number_educ: 3
   education1: Expertise Surface to Volume Reconstruction, Image Segmentation, Image reconstruction, machine learning
