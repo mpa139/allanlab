@@ -8,12 +8,3 @@
   highlight: 1
   news2:
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
