@@ -7,11 +7,12 @@
 
 # Site settings
 title: The METRICS Lab
-email: your-email@domain.com
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  This is group website for Machine Learning for Translational Imaging in Development and Cognition, King's College
+  This is group website for METRICS - Machine Learning for Translational Imaging in Development and Cognition, King's College London
 baseurl: ""
-url: ""
+url: "https://metrics-lab.github.io/"
+keywords: "METRICS, King's College, Deep learning, MRI, brain, Human Connectome Project, Developing Human Connetome Project"
 
 include:
   - .htaccess
