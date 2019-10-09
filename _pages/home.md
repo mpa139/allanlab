@@ -76,6 +76,6 @@ We are grateful for funding from Academy of Medical Sciences, [Springboard Award
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_metrics.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="width: 80px">
 </figure>
