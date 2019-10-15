@@ -19,16 +19,6 @@
   highlight: 1
   news2:
 
-- title: "The developing human connectome project: a minimal processing pipeline for neonatal cortical surface reconstruction"
-    image: dHCPpipeline.png
-    description:
-    authors: Makropoulos A, Robinson EC, Schuh A, Wright R, Fitzgibbon S, Bozek J, Counsell SJ, Steinweg J, Vecchiato K, Passerat-Palmbach J, Lenz G. et al
-    link:
-      url: https://www.sciencedirect.com/science/article/abs/pii/S1053811918300545
-      display:  Neuroimage. 2018 Jun 1;173:88-112.
-    highlight: 1
-    news2:
-
 - title: "MSM: A new flexible framework for Multimodal Surface Matching"
   image: MSM.jpg
   description:
