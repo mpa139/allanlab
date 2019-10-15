@@ -1,6 +1,6 @@
 - title: "Image synthesis with a convolutional capsule generative adversarial network"
   image: bass_capsules.png
-  description: 
+  description:
   authors: C Bass, T Dai, B Billot, K Arulkumaran, A Creswell, C Clopath, V De Paola, AA Bharath
   link:
     url: https://openreview.net/forum?id=rJen0zC1lE
@@ -8,3 +8,12 @@
   highlight: 1
   news2:
 
+- title: "A multi-modal parcellation of human cerebral cortex"
+  image: HCPMPM.png
+  description:
+  authors: Glasser MF, Coalson TS, Robinson EC, Hacker CD, Harwell J, Yacoub E, Ugurbil K, Andersson J, Beckmann CF, Jenkinson M, Smith SM
+  link:
+    url: https://www.nature.com/articles/nature18933
+    display:  Nature. 2016 Aug;536(7615):171.
+  highlight: 1
+  news2:
