@@ -1,3 +1,4 @@
+
 - title: "Image synthesis with a convolutional capsule generative adversarial network"
   image: bass_capsules.png
   description:
@@ -16,4 +17,34 @@
     url: https://www.nature.com/articles/nature18933
     display:  Nature. 2016 Aug;536(7615):171.
   highlight: 1
+  news2:
+
+- title: "The developing human connectome project: a minimal processing pipeline for neonatal cortical surface reconstruction"
+    image: dHCPpipeline.png
+    description:
+    authors: Makropoulos A, Robinson EC, Schuh A, Wright R, Fitzgibbon S, Bozek J, Counsell SJ, Steinweg J, Vecchiato K, Passerat-Palmbach J, Lenz G. et al
+    link:
+      url: https://www.sciencedirect.com/science/article/abs/pii/S1053811918300545
+      display:  Neuroimage. 2018 Jun 1;173:88-112.
+    highlight: 1
+    news2:
+
+- title: "MSM: A new flexible framework for Multimodal Surface Matching"
+  image: MSM.jpg
+  description:
+  authors: Robinson EC, Jbabdi S, Glasser MF, Andersson J, Burgess GC, Harms MP, Smith SM, Van Essen DC, Jenkinson M
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1053811914004546
+    display:  Neuroimage 100 (2014): 414-426.
+  highlight: 1
+  news2:
+
+- title: "Identifying population differences in whole-brain structural networks: a machine learning approach."
+  image:
+  description:
+  authors: Robinson EC, Hammers A, Ericsson A, Edwards AD, Rueckert D
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1053811910000248
+    display: NeuroImage. 2010 Apr 15;50(3):910-9.
+  highlight:
   news2:
