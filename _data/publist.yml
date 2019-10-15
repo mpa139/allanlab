@@ -19,6 +19,16 @@
   highlight: 1
   news2:
 
+- title: "MSM: A new flexible framework for Multimodal Surface Matching"
+  image: MSM.jpg
+  description:
+  authors: Robinson EC, Jbabdi S, Glasser MF, Andersson J, Burgess GC, Harms MP, Smith SM, Van Essen DC, Jenkinson M
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1053811914004546
+    display:  
+  highlight: 1
+  news2:
+
 - title: "Identifying population differences in whole-brain structural networks: a machine learning approach."
   image:
   description:
