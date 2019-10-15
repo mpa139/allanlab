@@ -5,5 +5,5 @@ excerpt: "METRICS Lab -- Resources"
 permalink: /resources/
 ---
 
-# Pictures
+# Resources
 Coming soon
