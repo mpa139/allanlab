@@ -9,6 +9,16 @@
   highlight: 1
   news2:
 
+- title: "Multimodal surface matching with higher-order smoothness constraints "
+  image:
+  description:
+  authors: Robinson EC, Garcia K, Glasser MF, Chen Z, Coalson TS, Makropoulos A, Bozek J .... Rueckert D
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1053811917308649
+    display:  NeuroImage. 2018 Feb 15;167:453-65.
+  highlight:
+  news2:
+
 - title: "A multi-modal parcellation of human cerebral cortex"
   image: HCPMPM.png
   description:
@@ -24,8 +34,8 @@
   description:
   authors: Robinson EC, Jbabdi S, Glasser MF, Andersson J, Burgess GC, Harms MP, Smith SM, Van Essen DC, Jenkinson M
   link:
-    url: https://www.nature.com/articles/nature18933
-    display:  Nature. 2016 Aug;536(7615):171.
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1053811914004546
+    display:  Neuroimage 100 (2014): 414-426.
   highlight: 1
   news2:
 
