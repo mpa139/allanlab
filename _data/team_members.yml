@@ -26,12 +26,18 @@
   education3: Topics- Deep learning, generative models, interpretability
   education4:
 
+- name: Alena Uus
+  photo: alena.png
+  info: Research Associate
+  email: alena.uus(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Information Engineering from City, University of London
+  education2: Current research projects focus on motion compensation and blood flow reconstruction for fetal MRI and registration for neonatal diffusion MRI
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
   email: emma.robinson[at]kcl.ac.uk
   number_educ: 0
   education1:
-  education2:
-  education3:
-  education4:
+
