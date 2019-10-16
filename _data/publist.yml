@@ -9,15 +9,6 @@
   highlight: 1
   news2:
 
-- title: "Multimodal surface matching with higher-order smoothness constraints "
-  image:
-  description:
-  authors: Robinson EC, Garcia K, Glasser MF, Chen Z, Coalson TS, Makropoulos A, Bozek J .... Rueckert D
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S1053811917308649
-    display:  NeuroImage. 2018 Feb 15;167:453-65.
-  highlight:
-  news2:
 
 - title: "A multi-modal parcellation of human cerebral cortex"
   image: HCPMPM.png
