@@ -19,6 +19,16 @@
   highlight: 1
   news2:
 
+- title: "MSM: A new flexible framework for Multimodal Surface Matching"
+  image: HCPMPM.png
+  description:
+  authors: Glasser MF, Coalson TS, Robinson EC, Hacker CD, Harwell J, Yacoub E, Ugurbil K, Andersson J, Beckmann CF, Jenkinson M, Smith SM
+  link:
+    url: https://www.nature.com/articles/nature18933
+    display:  Nature. 2016 Aug;536(7615):171.
+  highlight: 1
+  news2:
+
 - title: "Identifying population differences in whole-brain structural networks: a machine learning approach."
   image:
   description:

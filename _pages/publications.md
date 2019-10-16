@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.co.uk/citations?user=WXAAOb0AAAAJ&hl=en))
+(For a full list go to [Dr Robinson's Google Scholar](https://scholar.google.co.uk/citations?user=WXAAOb0AAAAJ&hl=en)) or [Dr Deprez' Google Scholar](https://scholar.google.co.uk/citations?user=qtojUaIAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,12 +52,9 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
-
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
