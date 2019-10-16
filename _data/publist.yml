@@ -20,9 +20,9 @@
   news2:
 
 - title: "MSM: A new flexible framework for Multimodal Surface Matching"
-  image: HCPMPM.png
+  image: MSM.jpg
   description:
-  authors: Glasser MF, Coalson TS, Robinson EC, Hacker CD, Harwell J, Yacoub E, Ugurbil K, Andersson J, Beckmann CF, Jenkinson M, Smith SM
+  authors: Robinson EC, Jbabdi S, Glasser MF, Andersson J, Burgess GC, Harms MP, Smith SM, Van Essen DC, Jenkinson M
   link:
     url: https://www.nature.com/articles/nature18933
     display:  Nature. 2016 Aug;536(7615):171.
