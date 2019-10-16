@@ -31,4 +31,4 @@ Here is a list of open source softwares:
 
 - Pipelines for Neonatal cortical surface extraction are available from the [developing Human Connectome Project (dHCP) github ](https://github.com/DevelopingHCP)
 
--m[SVRTK](https://github.com/SVRTK)
+- [SVRTK](https://github.com/SVRTK)
