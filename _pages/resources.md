@@ -21,6 +21,8 @@ We run tutorials on a variety of topics including machine learning, medical imag
 
 [Using Animal Models in Perinatal Brain Research](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/EdPpmeMZpXVNrWTCbqGJR9wBH6IRYfufRvekKGu3WwZ4xA?e=mgUoGb)
 
+[Registration with Deep Learning]({{ site.baseurl }}/downloads/DLRegistration_2019_10_28.pdf)
+
 ## Software
 
 Here is a list of open source softwares:
