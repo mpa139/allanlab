@@ -15,11 +15,11 @@ We run tutorials on a variety of topics including machine learning, medical imag
 
 [Capsule networks]({{ site.baseurl }}/downloads/Capsules_tutorial.pdf)
 
-[Gaussian Processes models in developmental neuroimaging​](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/EVyQ_vMFZCtNqR1SwaPG8iIB-LsfMJn7FbOAv2oQnmh_nQ?e=5ya5FD)
+[Gaussian Processes models in developmental neuroimaging​](https://github.com/metrics-lab/talks_and_tutorials/blob/master/GaussianProcessModels_in_Developmentalneuroimaging.pdf)
 
-[Cortical surface mesh modelling and fMRI analysis](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/Ecu3wd1wJuNNiUx7le43ccoBs6JFQ7FRSnsF3UT5FcQSpA?e=EIWN6g)
+[Cortical surface mesh modelling and fMRI analysis](https://github.com/metrics-lab/talks_and_tutorials/blob/master/cortical_surface_imaging_and_fMRI_analysis.pdf
 
-[Using Animal Models in Perinatal Brain Research](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/EdPpmeMZpXVNrWTCbqGJR9wBH6IRYfufRvekKGu3WwZ4xA?e=mgUoGb)
+[Using Animal Models in Perinatal Brain Research](https://github.com/metrics-lab/talks_and_tutorials/blob/master/Animal_Models_Of_Perinatal_Research%20%2B%20Preclinical_Imaging%20-%20Sept2019.pdf
 
 [Registration with Deep Learning]({{ site.baseurl }}/downloads/DLRegistration_2019_10_28.pdf)
 
