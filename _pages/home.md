@@ -7,12 +7,9 @@ permalink: /
 ---
 
 ### Immunoregulation: Uncovering the 'brakes' on immune activation 
-T cells have a powerful ability to drive immune activation and promote clearance of infections and cancer. However, their function can also promote deleterious autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, collectively referred to as immunoregulatory mechanisms, to restrain excessive immune activation.
+T cells have a powerful ability to drive immune activation and promote clearance of infections and cancer. However, their function can also promote autoimmune and allergic inflammation. The immune system therefore employs suppressive mechanisms, referred to as immunoregulatory mechanisms, to restrain excessive immune activation. While immunoregulatory mechanisms play a beneficial role in preventing inflammation, they can also suppress immune responses during chronic infections and cancer in a process known as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and are important therapeutic targets. 
 
-While immunoregulatory mechanisms play a beneficial role in preventing inflammation, they can also powerfully suppress immune responses during chronic infections and cancer in a process referred to as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and are important therapeutic targets.
-
-Our research aims to understand the molecular and cellular mechanisms of tolerance and immunosuppression in physiology, and during infection, inflammation and cancer. We hope that this will enable development of new therapies aimed at manipulating immune function in patients with inflammation and cancer.
-
+Our research aims to understand the molecular and cellular mechanisms underpinning host immunoregulation in infection, inflammation and cancer. We hope that this may enable development of new therapies aimed at manipulating immune function in patients with inflammation and cancer.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -115,11 +112,3 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 
 <p> &nbsp; </p>
 
-We are grateful for funding from the University of Cambridge Department of Pathology, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
