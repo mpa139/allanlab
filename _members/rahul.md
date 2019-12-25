@@ -1,7 +1,7 @@
 ---
 title: Rahul Roychoudhuri
 layout: members
-position: 	Principal Investigator
+position: Principal Investigator
 picture: /images/respic/rahul.jpg
 ---
 
