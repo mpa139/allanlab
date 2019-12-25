@@ -2,7 +2,7 @@
 title: Rahul Roychoudhuri
 layout: members
 position: Principal Investigator
-tier:1
+tier:a
 picture: rahul.jpg
 ---
 

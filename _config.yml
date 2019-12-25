@@ -33,8 +33,8 @@ incremental: false
 collections:
   members:
     output: true
-    permalink: member/:name
-    sort_by: tier
+     sort_by: tier
+     permalink: members/:name
 
 # Markdown Processing
 kramdown:
