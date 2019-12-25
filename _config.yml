@@ -33,7 +33,7 @@ incremental: false
 collections:
   members:
     output: true
-    permalink: /members/:title
+    permalink: /members/:name
 
 
 # Markdown Processing
