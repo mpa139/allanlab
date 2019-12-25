@@ -35,12 +35,6 @@ collections:
     output: true
     permalink: /members/:title
 
-defaults:
-  - scope:
-    path: ""
-      type: "members"
-    values:
-      layout: members
 
 # Markdown Processing
 kramdown:
