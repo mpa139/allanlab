@@ -65,7 +65,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## Publication highlights
+### Publication highlights
 (For a full list see [Publications](publiations))
 
 {% assign number_printed = 0 %}
