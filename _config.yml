@@ -29,10 +29,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+#Collections
 collections:
   members:
     output: true
-        permalink: /team/:name
+        permalink: /members/:name
     values:
         layout: members
 
