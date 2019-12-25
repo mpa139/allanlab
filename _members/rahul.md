@@ -1,5 +1,5 @@
 ---
-title: Rahul Roychoudhuri
+fullname: Rahul Roychoudhuri
 layout: members
 position: Principle investigator
 tier: a

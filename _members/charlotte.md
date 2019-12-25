@@ -1,5 +1,5 @@
 ---
-title: Charlotte Imianowski
+fullname: Charlotte Imianowski
 layout: members
 position: Doctoral scientist
 tier: c
