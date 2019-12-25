@@ -33,7 +33,9 @@ incremental: false
 collections:
   members:
     output: true
-
+    sort-by: tier    
+    
+    
 # Markdown Processing
 kramdown:
   input: GFM

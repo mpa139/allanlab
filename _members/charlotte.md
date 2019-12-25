@@ -2,7 +2,7 @@
 title: Charlotte Imianowski
 layout: members
 position: Doctoral scientist
-tier:a
+tier: a
 picture: rahul.jpg
 ---
 
