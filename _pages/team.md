@@ -23,9 +23,10 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <a href="{{ site.baseurl }}/{{ member.url }}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ member.picture }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.fullname }}</h4></a>
-  {{ member.position }}<br><i>email: <{{ member.email }}></i>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ member.picture }}" class="img-responsive" width="25%" style="float: left" /></a>
+  <h4><a href="{{ site.baseurl }}/{{ member.url }}">{{ member.fullname }}</a></h4>
+  {{ member.position }}<br><i>email: <{{ member.email }}></i><br>
+  <i><a href="{{ site.baseurl }}/{{ member.url }}">>About</a></i>
   <ul style="overflow: hidden">
 
   </ul>
