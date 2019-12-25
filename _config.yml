@@ -29,7 +29,12 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+collections:
+  members:
+    output: true
+        permalink: /team/:name
+    values:
+        layout: members
 
 # Markdown Processing
 kramdown:
