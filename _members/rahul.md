@@ -9,4 +9,3 @@ Hello content test
 
 New line
 
-##Publications
