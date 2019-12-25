@@ -8,10 +8,9 @@ permalink: /publications/
 
 <br />
 # Publications
-
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,10 +48,8 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 
-
-## All publications
+## Full list
 
 <p id="demo" ></p>
 
@@ -60,7 +57,7 @@ permalink: /publications/
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><a href="%data%"target="_blank">%journal%\</b></a> (%date%) %volume%</b> %issue%%pages%</br></br>' //Formats output
+var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><i><a href="%data%"target="_blank">%journal%\</i></b></a> (%date%) <b>%volume%</b> %issue%%pages%</br></br>' //Formats output
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
