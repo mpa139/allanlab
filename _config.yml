@@ -36,8 +36,8 @@ collections:
     permalink: /members/:title
 
 defaults:
- - scope:
-      path: ""
+  - scope:
+    path: ""
       type: "members"
     values:
       layout: members
