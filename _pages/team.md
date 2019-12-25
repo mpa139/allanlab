@@ -14,7 +14,7 @@ permalink: /team/
 <ul>
   {% for member in site.members %}
     <li>
-      <a href="{{ member.url }}">{{ member.title }}</a>
+      <a href="{{ site.baseurl }}{{ member.url }}">{{ member.title }}</a>
       - {{ member.position }}
     </li>
   {% endfor %}
