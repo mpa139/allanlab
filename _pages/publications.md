@@ -1,15 +1,13 @@
 ---
-title: "Allan Lab - Publications"
+title: "Roychoudhuri Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Roychoudhuri Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 <br />
-# Publications
-## Highlights
-
+## Publication Highlights
 (For a full list see [below](#full-list))
 
 {% assign number_printed = 0 %}
@@ -48,8 +46,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-
-## Full list
+## Full publication list
 
 <p id="demo" ></p>
 
@@ -57,7 +54,7 @@ permalink: /publications/
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><i><a href="%data%"target="_blank">%journal%\</i></b></a> (%date%) <b>%volume%</b> %issue%%pages%</br></br>' //Formats output
+var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><a href="%data%"target="_blank">%journal%\</b></a> <b>%volume%</b> %issue%%pages% (%date%)</br></br>' //Formats output
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
