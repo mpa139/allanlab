@@ -33,7 +33,6 @@ incremental: false
 collections:
   members:
     output: true
-    sort_by: tier
 
 # Markdown Processing
 kramdown:
