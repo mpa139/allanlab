@@ -34,7 +34,7 @@ collections:
   members:
     output: true
     permalink: member/:name
-    sort-by: tier    
+    sort_by: tier    
     
     
 # Markdown Processing
