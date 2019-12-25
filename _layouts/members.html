@@ -4,7 +4,7 @@ layout: default
 <div class="col-sm-4">
 
  {% if page.picture %}
-    <img src="../images/member_pic/{{ page.picture }}" alt="Photo of a {{ page.title | downcase }}">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="25%" style="float: left" alt="Photo of {{ page.title }}"/>
   {% endif %}
 </div>
  
