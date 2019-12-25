@@ -25,8 +25,9 @@ permalink: /team/
   <a href="{{ site.baseurl }}/{{ member.url }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ member.picture }}" class="img-responsive" width="25%" style="float: left" /></a>
   <h4>{{ member.fullname }}</h4>
-  {{ member.position }}<br><i>email: <{{ member.email }}></i><br>
-  <i><a href="{{ site.baseurl }}/{{ member.url }}">>> More info</a></i>
+  {{ member.position }}<br>
+  email: {{ member.email }}<br>
+  <i><a style="text-decorations:none; color:inherit;" href="{{ site.baseurl }}/{{ member.url }}">>> More information</a></i>
   <ul style="overflow: hidden">
 
   </ul>
