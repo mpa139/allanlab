@@ -54,21 +54,13 @@ permalink: /publications/
 
 ## Full List
 
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
+<p id="demo"></p>
 
 <Script>
 
-//Adapted from code by Les Ansley, in reply to blog posting from "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api"
+//From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-//Citation format
-var HTMLpublication = '%authors% (%date%) \'%title%\' <i>%journal%\</i>,<b>%volume%</b> %issue%%pages%PMID:<a href="%data%"target="_blank"> %PMID% </a></br></br>' 
-
-
+var HTMLpublication = '%authors% (%date%) \%title%\<br><a href="%data%"target="_blank">%journal%\,<b>%volume%</b> %issue%%pages%</a></br></br>' //Formats output
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
@@ -76,8 +68,7 @@ var pubmedSummaryAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.f
 var database = "db=pubmed";
 var returnmode = "&retmode=json";
 var returnmax = "&retmax=100";
-//Enter PubMed search terms here
-var searchterm = "&term=Neher[Author] AND Marty[Author]";
+var searchterm = "&term=Roychoudhuri R[Author])";
 var returntype = "&rettype=abstract";
 var idURL = pubmedSearchAPI + database + returnmode + returnmax + searchterm
 console.log(idURL);
@@ -154,5 +145,4 @@ function formatReferences(summary) {
 } 
 
 </Script>
-
 
