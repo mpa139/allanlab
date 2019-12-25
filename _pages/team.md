@@ -24,9 +24,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <a href="{{ site.baseurl }}/{{ member.url }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ member.picture }}" class="img-responsive" width="25%" style="float: left" /></a>
-  <h4><a href="{{ site.baseurl }}/{{ member.url }}">{{ member.fullname }}</a></h4>
+  <h4>{{ member.fullname }}</h4>
   {{ member.position }}<br><i>email: <{{ member.email }}></i><br>
-  <i><a href="{{ site.baseurl }}/{{ member.url }}">> info</a></i>
+  <i><a href="{{ site.baseurl }}/{{ member.url }}">>> More info</a></i>
   <ul style="overflow: hidden">
 
   </ul>
