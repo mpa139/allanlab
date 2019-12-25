@@ -30,9 +30,10 @@ excerpt_separator: "\n\n"
 incremental: false
 
 #Collections
-collections: 
-  members: 
+collections:
+  members:
     output: true
+    permalink: /member/:name
 
 
 # Markdown Processing
