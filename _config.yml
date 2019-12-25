@@ -33,7 +33,7 @@ incremental: false
 collections:
   members:
     output: true
-        permalink: members/:name
+     permalink: member/:name
     sort-by: tier    
     
     
