@@ -33,9 +33,14 @@ incremental: false
 collections:
   members:
     output: true
-        permalink: /members/:title
+    permalink: /members/:title
+
+defaults:
+ - scope:
+      path: ""
+      type: "members"
     values:
-        layout: members
+      layout: members
 
 # Markdown Processing
 kramdown:
