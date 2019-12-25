@@ -1,8 +1,8 @@
 ---
-title: Rahul Roychoudhuri
+title: Charlotte Imianowski
 layout: members
-position: Principal Investigator
-tier:a
+position: Doctoral scientist
+tier:c
 picture: rahul.jpg
 ---
 
