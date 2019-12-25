@@ -13,7 +13,8 @@ permalink: /team/
 
 
 {% assign number_printed = 0 %}
-{% for member in site.members %}
+{% assign members_sorted = site.members | sort: 'tier' %}
+{% for member in members_sorted %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
