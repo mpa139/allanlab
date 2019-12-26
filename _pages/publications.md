@@ -56,7 +56,7 @@ permalink: /publications/
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><a href="%data%"target="_blank">%journal%\</b></a> <b>%volume%</b> %issue%%pages% (%date%)</br></br>' //Formats output
+var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><a href="%data%"target="_blank">%journal%\</b> <b>%volume%</b> %issue%%pages% (%date%)</a></br></br>' //Formats output
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
