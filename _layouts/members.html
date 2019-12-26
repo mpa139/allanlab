@@ -7,16 +7,22 @@ layout: gridlay
  {% if page.picture %}
 	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="100%" style="float: left" alt="Photo of {{ page.title }}"/>
   {% endif %}
+  email: {{ page.email }}<br>
 </div>
  
 <div class="col-sm-8">
 
-  <h2>{{ page.fullname }}</h2>
-  <h3>{{ page.position }}</h3>
+  <h3>{{ page.fullname }}</h3>
+  <b>{{ page.position }}<b> <br />
 
     {{ content }}
+
+
+
 	
-	<h3>Publications</h3>
+{% if page.pubmed_searchterm %}	
+
+  <h3>Publications</h3>
 	
 	
 
@@ -112,7 +118,7 @@ function formatReferences(summary) {
 
 </Script>
 
-
+{% endif %}
 	
 </div>
 </div>
