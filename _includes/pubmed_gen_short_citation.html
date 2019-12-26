@@ -36,7 +36,7 @@ getPubmed(idURL).then(function(data) {
     getPubmed(summaryURL).then(function(summary) {
         publications = formatReferences(summary);
         console.log(publications);	
-		document.getElementById("{{ include.pubmed_searchterm }}").innerHTML = publications;
+		document.getElementById("pubmed_result").innerHTML = publications;
 		
     }, function(status) {
         publications = 'Something went wrong getting the ids.';
