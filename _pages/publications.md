@@ -48,6 +48,8 @@ permalink: /publications/
 
 ## Full publication list
 
+<div class="col-sm-8">
+
 <p id="demo" ></p>
 
 <Script>
@@ -139,4 +141,5 @@ function formatReferences(summary) {
 } 
 
 </Script>
+</div>
 
