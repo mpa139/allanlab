@@ -7,7 +7,7 @@ layout: gridlay
  {% if page.picture %}
 	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="100%" style="float: left" alt="Photo of {{ page.title }}"/>
   {% endif %}
-  <br />
+  <br /><br />
   
   {% if page.email %}	
   <b>Email: </b>{{ page.email }}<br>
@@ -20,12 +20,9 @@ layout: gridlay
  
 <div class="col-sm-8">
 
-  <h3>{{ page.fullname }}</h3>
-  <b>{{ page.position }}</b> <br />
-
+  <h3>{{ page.fullname }} - {{ page.position }}</h3>
+  
     {{ content }}
-
-
 
 	
 {% if page.pubmed_searchterm %}	
