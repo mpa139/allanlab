@@ -5,7 +5,7 @@ position: Doctoral Scientist
 tier: d
 picture: charlotte.jpg
 email: cji27@cam.ac.uk 
-pubmed_searchterm: "imianowski cj" [author] 
+pubmed_searchterm: ‘imianowski cj’ [author] 
 ---
 
 Charlotte graduated in 2016 with a BA in Cell and Systems Biology from the University of Oxford. Her research involved interrogating the function of a tumour suppressor gene in colorectal cancer.
