@@ -1,7 +1,7 @@
 ---
 fullname: Rahul Roychoudhuri
 layout: members
-position: Principal investigator
+position: Principal Investigator
 tier: a
 picture: rahul.jpg
 email: rr257@cam.ac.uk

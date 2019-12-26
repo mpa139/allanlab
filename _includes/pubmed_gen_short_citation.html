@@ -5,7 +5,7 @@
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-var HTMLpublication = '<a href="%data%" target="_blank"><b><i>%journal%\</i></b> <b>%volume%</b> %issue%%pages% (%date%)</a>' //Formats output
+var HTMLpublication = '<a href="%data%" target="_blank"><b><i>%journal%\</i></b>&nbsp;&nbsp;<b>%volume%</b> %issue%%pages% (%date%)</a>' //Formats output
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
