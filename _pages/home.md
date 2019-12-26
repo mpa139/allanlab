@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ### Immunoregulation: Uncovering the 'brakes' on immune activation 
-T cells drive immune activation and promote clearance of infections and cancer. However, their function can also promote deleterious autoimmune and allergic inflammation. The immune system therefore employs suppressive mechanisms, referred to as immunoregulatory mechanisms, to restrain excessive immune activation. While immunoregulatory mechanisms play a beneficial role in preventing inflammation, they can also suppress immune responses during chronic infections and cancer in a process known as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and are important therapeutic targets. 
+T cells drive immune activation and promote clearance of infections and cancer. However, their function can also cause  autoimmune and allergic inflammation. The immune system therefore employs suppressive mechanisms, referred to as immunoregulatory mechanisms, to restrain excessive immune activation. While immunoregulatory mechanisms play a beneficial role in preventing inflammation, they can also suppress immune responses during chronic infections and cancer in a process known as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and are important therapeutic targets. 
 
 {% include carousel.html %}
 
