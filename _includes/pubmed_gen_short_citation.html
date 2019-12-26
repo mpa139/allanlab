@@ -1,5 +1,5 @@
 
-<td id="demo" ></td>
+<span id="short_citation" ></span>
 
 <Script>
 
@@ -42,7 +42,7 @@ getPubmed(idURL).then(function(data) {
     getPubmed(summaryURL).then(function(summary) {
         publications = formatReferences(summary);
         console.log(publications);	
-		document.getElementById("demo").innerHTML = publications;
+		document.getElementById("short_citation").innerHTML = publications;
 		
     }, function(status) {
         publications = 'Something went wrong getting the ids.';
