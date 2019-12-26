@@ -17,7 +17,7 @@ To this end, we utilise molecular and cellular immunology, cutting-edge mouse ge
 
 We are located at the Department of Pathology at the University of Cambridge. We work closely with collaborators in the Department and broader Cambridge science community and take advantage of the world-class research facilities of the University of Cambridge. 
 
- **We are looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate new PhD students, Postdocs, and Master's students [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!**
 
 ### Publication highlights
 (For a full list see [Publications](publications))
