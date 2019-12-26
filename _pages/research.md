@@ -9,11 +9,9 @@ permalink: /research/
 ### Immunoregulation: Uncovering the 'brakes' on immune activation 
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system therefore employs suppressive mechanisms, referred to as immunoregulatory mechanisms, to restrain excessive immune activation. While immunoregulatory mechanisms play a beneficial role in preventing inflammation, they can also suppress immune responses during chronic infections and cancer in a process known as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and are important therapeutic targets. 
 
-Our research aims to understand the molecular and cellular mechanisms underpinning host immunoregulation in infection, inflammation and cancer. We hope that this may enable development of new therapies aimed at manipulating immune function in patients with **inflammation** and **cancer**. To this end, we utilise molecular and cellular immunology, cutting-edge mouse genetics and tumour immunity models, and functional genomics to enable the discovery and characterisation of novel host immunoregulatory mechanisms (<span id="30778251"></span>). And, read <span id="29540581"></span> and <span id="29379213"></span>.
+Our research aims to understand the molecular and cellular mechanisms underpinning host immunoregulation in infection, inflammation and cancer. We hope that this may enable development of new therapies aimed at manipulating immune function in patients with **inflammation** and **cancer**. To this end, we utilise molecular and cellular immunology, cutting-edge mouse genetics and tumour immunity models, and functional genomics to enable the discovery and characterisation of novel host immunoregulatory mechanisms (<span id="30778251"></span>). {% include pubmed_gen_short_citation.html pubmed_searchterm = "30778251" %}
+ And, read <span id="29540581"></span> {% include pubmed_gen_short_citation.html pubmed_searchterm = "29540581" %} and <span id="29379213"></span>. {% include pubmed_gen_short_citation.html pubmed_searchterm = "29379213" %}
 
-{% include pubmed_gen_short_citation.html pubmed_searchterm = "30778251" %}
-{% include pubmed_gen_short_citation.html pubmed_searchterm = "29540581" %}
-{% include pubmed_gen_short_citation.html pubmed_searchterm = "29379213" %}
 
 
 
