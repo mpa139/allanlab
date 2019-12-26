@@ -22,12 +22,9 @@ layout: gridlay
 
   <h3>{{ page.fullname }}</h3>
   <h4>{{ page.position }}</h4>
-  <hr />
     {{ content }}
-
 	
 {% if page.pubmed_searchterm %}	
-
   <h3>Publications</h3>
 	
 	{% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
