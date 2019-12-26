@@ -13,6 +13,9 @@ Our research aims to understand the molecular and cellular mechanisms underpinni
 {% include pubmed_gen_short_citation.html pubmed_searchterm = "30778251" %}
 
 
+(<span id="pubmed_result"></span>). 
+{% include pubmed_gen_short_citation.html pubmed_searchterm = "30778251" %}
+
 
 {% include carousel.html %}
 
