@@ -11,11 +11,6 @@ T cells drive immune activation and promote clearance of infections and cancer. 
 
 Our research aims to understand the molecular and cellular mechanisms underpinning host immunoregulation in infection, inflammation and cancer. We hope that this may enable development of new therapies aimed at manipulating immune function in patients with **inflammation** and **cancer**. To this end, we utilise molecular and cellular immunology, cutting-edge mouse genetics and tumour immunity models, and functional genomics to enable the discovery and characterisation of novel host immunoregulatory mechanisms (<span id="pubmed_result"></span>). 
 {% include pubmed_gen_short_citation.html pubmed_searchterm = "30778251" %}
- And, read <span id="pubmed_result"></span> 
- {% include pubmed_gen_short_citation.html pubmed_searchterm = "29540581" %} 
- and <span id="pubmed_result"></span>. 
- {% include pubmed_gen_short_citation.html pubmed_searchterm = "29379213" %}
-
 
 
 
