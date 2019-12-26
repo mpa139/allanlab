@@ -1,4 +1,4 @@
-<span id="short_citation" ></span> <Script>
+<Script>
 var HTMLpublication = '<a href="%data%" target="_blank"><b><i>%journal%\</i></b> (%date%) <b>%volume%</b> %issue%%pages%</a>' //Formats output
 
 var publications, idStringList;
@@ -36,7 +36,7 @@ getPubmed(idURL).then(function(data) {
     getPubmed(summaryURL).then(function(summary) {
         publications = formatReferences(summary);
         console.log(publications);	
-		document.getElementById("short_citation").innerHTML = publications;
+		document.getElementById("{{ include.pubmed_searchterm }}").innerHTML = publications;
 		
     }, function(status) {
         publications = 'Something went wrong getting the ids.';
