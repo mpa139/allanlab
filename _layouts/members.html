@@ -1,10 +1,11 @@
 ---
 layout: gridlay
 ---
-<div class="col-sm-4" clearfix>
+<br /><br />
+<div class="col-sm-2" clearfix>
 
  {% if page.picture %}
-	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="75%" style="float: left" alt="Photo of {{ page.title }}"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="80%" style="float: left" alt="Photo of {{ page.title }}"/>
   {% endif %}
 </div>
  
@@ -33,7 +34,7 @@ var pubmedSummaryAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.f
 var database = "db=pubmed";
 var returnmode = "&retmode=json";
 var returnmax = "&retmax=100";
-var searchterm = "{{ page.pubmed_searchterm }}";
+var searchterm = "&term={{ page.pubmed_searchterm }})";
 var returntype = "&rettype=abstract";
 var idURL = pubmedSearchAPI + database + returnmode + returnmax + searchterm
 console.log(idURL);
