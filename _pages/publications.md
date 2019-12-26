@@ -3,6 +3,7 @@ title: "Roychoudhuri Lab - Publications"
 layout: gridlay
 excerpt: "Roychoudhuri Lab -- Publications."
 sitemap: false
+pubmed_searchterm: Roychoudhuri R [author]
 permalink: /publications/
 ---
 
@@ -50,7 +51,7 @@ permalink: /publications/
 
 <div class="col-sm-8">
 
-	{% include pubmed_gen_reflist.html pubmed_searchterm = "roychoudhuri r [author]" %}
+	{% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
 
 
 </div>
