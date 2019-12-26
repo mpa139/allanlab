@@ -7,7 +7,15 @@ layout: gridlay
  {% if page.picture %}
 	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="100%" style="float: left" alt="Photo of {{ page.title }}"/>
   {% endif %}
-  email: {{ page.email }}<br>
+  <br />
+  
+  {% if page.email %}	
+  <b>Email: </b>{{ page.email }}<br>
+  {% endif %}
+  
+   {% if page.tel %}	
+  <b>Tel: </b>{{ page.tel }}<br>
+  {% endif %}
 </div>
  
 <div class="col-sm-8">
@@ -32,7 +40,7 @@ layout: gridlay
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><a href="%data%"target="_blank">%journal%\</b></a> <b>%volume%</b> %issue%%pages% (%date%)</br></br>' //Formats output
+var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><b><a href="%data%" target="_blank">%journal%\</b> <b>%volume%</b> %issue%%pages% (%date%)</a></br></br>' //Formats output
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";

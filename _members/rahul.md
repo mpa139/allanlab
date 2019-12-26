@@ -5,6 +5,7 @@ position: Principal investigator
 tier: a
 picture: rahul.jpg
 email: rr257@cam.ac.uk
+tel: +44 1223 496315
 pubmed_searchterm: roychoudhuri r [author]
 ---
 
