@@ -48,16 +48,6 @@
   highlight: 1
   news2: 
 
-- title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
-  image: roychoudhuri_ni_2016_a.png
-  description: We find that BACH2 functions as a steric repressor of AP-1 transcription factors in CD8+ T cells, restraining TCR-driven terminal effector differentiation to preserve long-lived memory responses 
-authors: Roychoudhuri et al.
-  link:
-    url: ../media/Roychoudhuri NI 2016.pdf
-    display: Nat Immunol. 2016 17:851-860. 
-  highlight: 1
-  news2:   
-
 - title: "BACH2 promotes Treg-mediated tumour immunosuppression"
   image: roychoudhuri_jci_2016_a.png
   description: We find that BACH2 promotes tumour immunosuppression through its role in Foxp3+ Treg cell differentiation. These results are consistent with the results of a large <a href="https://www.nature.com/articles/nature20792"> in vivo screen of host immunosuppressive factors</a> published in Nature by the Adams lab. 
