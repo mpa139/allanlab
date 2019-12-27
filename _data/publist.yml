@@ -38,7 +38,6 @@
   highlight: 1
   news2: 
 
-
 - title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
   image: clever_cell_2016_a.png
   description: We find that that the HIF prolyl hydroxylases PHD1, PHD2 and PHD3 as key drivers of the sensitivity of T cell differentiation to environmental oxygen concentration in tissues with consequences for the permissivity of the lung to cancer metastasis.
@@ -48,3 +47,14 @@
     display: Cell. 2016 166:1117-1131
   highlight: 1
   news2: 
+
+- title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
+  image: roychoudhuri_ni_2016_a.png
+  description: We find that BACH2 functions as a steric repressor of AP-1 transcription factors in CD8+ T cells, restraining TCR-driven terminal effector differentiation to preserve long-lived memory responses 
+authors: Roychoudhuri et al.
+  link:
+    url: ../media/Roychoudhuri NI 2016.pdf
+    display: Nat Immunol. 2016 17:851-860. 
+  highlight: 1
+  news2: Commentary: Sidwell T, Kallies A. Bach2 is required for B cell and T cell memory differentiation (2016). Nat Immunol 17:744-5.  
+
