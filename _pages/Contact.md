@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Contact us"
-layout: textlay
+layout: default
 excerpt: "Contact"
 sitemap: false
 permalink: /contact
