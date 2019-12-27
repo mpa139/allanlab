@@ -49,10 +49,7 @@ permalink: /publications/
 
 ## Full publication list
 
-<div class="col-sm-8">
 
-	{% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
+{% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
 
-
-</div>
 
