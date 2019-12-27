@@ -1,3 +1,31 @@
+
+
+
+- title: "Protocols for integrative genome-wide analysis of transcription factor binding and chromatin accessibility in lymphocytes"
+  image: sadiyah_CPI_2019_a.png
+  description: Here, Firas publishes a useful set of experimental and bioinformatic protocols to enable integrative analysis of TF binding and chromatin accessibility in lymphocytes. 
+  authors: Sadiyah MF, Roychoudhuri R.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/31483104
+    display: Curr Protoc Immunol. 2019 126(1):e84. 
+  highlight: 1
+  news2:
+
+
+
+- title: "A new monogenic inflammatory disease called BRIDA"
+  image: afzali_NI_2017_b.png
+  description: Here, we describe for the first time a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). The work, resulted from an international collaboration with clinicians and scientists in the UK and the US leading to the initial identification of patients with the disorder. We have since identified a further individuals with inactivating BACH2 mutations.
+  authors: Afzali <i>et al.i>
+  link:
+    url: media/Afzali NI 2017.pdf
+    display: Nat Immunol. 2017 Jul;18(7):813-823. 
+  highlight: 1
+  news2: 
+
+
+
+
 - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
   image: STS_news.png
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
