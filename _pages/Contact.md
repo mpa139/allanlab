@@ -8,13 +8,13 @@ permalink: /contact
 
 # Contact 
 
-We are located at: 
-
-Department of Pathology,
-University of Cambridge,
-Tennis Court Road,
-Cambridge,
-CB2 1QP.
-
-**Tel:** +44 (0)1223 333690
-**Email:** rr257@cam.ac.uk
+We are located at: <br>
+<br>
+Department of Pathology,<br>
+University of Cambridge,<br>
+Tennis Court Road,<br>
+Cambridge,<br>
+CB2 1QP.<br>
+<br>
+**Tel:** +44 (0)1223 333690<br>
+**Email:** rr257@cam.ac.uk<br>
