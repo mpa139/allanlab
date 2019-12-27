@@ -8,7 +8,7 @@
   highlight: 1
   news2:
 
-- title: "A monogenic inflammatory disease called BRIDA"
+- title: "A new human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
   image: afzali_NI_2017_b.png
   description: Here, we described for the first time a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). The work, resulted from an international collaboration with clinicians and scientists in the UK and the US.
   authors: Afzali et al.
@@ -28,9 +28,9 @@
   highlight: 1
   news2: 
 
-- title: "High levels of extracellular potassium in tumours suppresses T cell activation"
+- title: "High levels of extracellular potassium in tumours suppress T cell activation"
   image: eil_nature_2016_b.png
-  description: Here, we show that cell death within tumours releases intracellular potassium into the extracellular space causing profound suppression of T cell activation and anti-tumour immunity.
+  description: Here, we show that cell death within tumours releases intracellular potassium into the extracellular space causing profound suppression of T cell activation and anti-tumour immunity. Engineering CD8+ T cells to be resistant to high extracellular potassium levels in tumours improves adoptive immunotherapy.
   authors: Eil et al.
   link:
     url: ../media/Eil Nature 2016.pdf
@@ -51,7 +51,7 @@
 - title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
   image: roychoudhuri_ni_2016_a.png
   description: We find that BACH2 functions as a steric repressor of AP-1 transcription factors in CD8+ T cells, restraining TCR-driven terminal effector differentiation to preserve long-lived memory responses 
-  authors: Roychoudhuri et al.
+  authors:
   link:
     url: ../media/Roychoudhuri NI 2016.pdf
     display: Nat Immunol. 2016 17:851-860. 
@@ -59,17 +59,17 @@
   news2: Commentary in Sidwell T, Kallies A. Bach2 is required for B cell and T cell memory differentiation (2016). Nat Immunol 17:744-5.  
 
 
-- title: "BACH2 promotes Treg-mediated tumour immunosuppression"
+- title: "BACH2 promotes tumour immunosuppression through its function in Treg cell development"
   image: roychoudhuri_jci_2016_a.png
   description: We find that BACH2 promotes tumour immunosuppression through its role in Foxp3+ Treg cell differentiation. These results are consistent with the results of a large <a href="https://www.nature.com/articles/nature20792"> in vivo screen of host immunosuppressive factors</a> published by the Adams lab. 
-  authors: Roychoudhuri et al.
+  authors: 
   link:
     url: ../media/Roychoudhuri JCI 2016.pdf
     display: J Clin Invest. 2016 126:599-604.
   highlight: 1
   news2: 
 
-- title: "The transcriptional repressor BACH2 is required for Treg cell development"
+- title: "The transcriptional repressor BACH2 is required for Treg cell development and suppression of lethal inflammation"
   image: Roychoudhuri_nature_2013_a.png
   description: Here, we established the critical function of the transcription factor BACH2 in Treg cell development, required for immunological tolerance and suppression of lethal inflammation. Commentary in Kallies A, Vasanthakumar A (2013). Transcription factor Bach2 balances tolerance and immunity. Immunol Cell Biol. 91:491-2.
   authors: Roychoudhuri et al.
@@ -77,4 +77,4 @@
     url: ../media/Roychoudhuri Nature 2013.pdf
     display: Nature. 2013 498:506-10.
   highlight: 1
-  news2: Recommended by F1000 
+  news2: **Recommended by F1000**
