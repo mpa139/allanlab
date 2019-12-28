@@ -32,11 +32,11 @@ We are located at the Department of Pathology at the University of Cambridge. We
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
+  <p style="margin: 0px 0px 0px 0px;">{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
