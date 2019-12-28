@@ -10,7 +10,7 @@ layout: gridlay
   <br /> &nbsp <br /> 
   
   {% if page.email %}	
-  <b>Email: </b>{{ page.email }}<br>
+  <b>Email: </b><a href="{{ page.email }}">{{ page.email }}</a><br>
   {% endif %}
   
    {% if page.tel %}	
