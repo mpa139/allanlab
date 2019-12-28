@@ -5,7 +5,7 @@ excerpt: "Roychoudhuri Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-
+<br />
 # Group Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
@@ -48,5 +48,6 @@ permalink: /team/
 {% endif %}
 
 ### Lab photos
+<br />
 
-<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Ut92U8o6HR6gh9QRS-DE'});Pixlee.addSimpleWidget({widgetId:'24170'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
+<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'CcW-ROKwr2OMysCod8OD'});Pixlee.addSimpleWidget({widgetId:'24171'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
