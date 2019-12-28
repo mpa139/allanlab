@@ -15,7 +15,7 @@ Our research aims to understand the molecular and cellular mechanisms underpinni
 
 To this end, we utilise molecular and cellular immunology, cutting-edge mouse genetics and tumour immunity models, and functional genomics to enable the discovery and characterisation of novel host immunoregulatory mechanisms (see [Research](research)).
 
-We are located at the Department of Pathology at the University of Cambridge. We work closely with collaborators in the Department and broader Cambridge science community and take advantage of the world-class research facilities of the University of Cambridge. 
+We are located at the Department of Pathology at the University of Cambridge. We work closely with collaborators within both the Univeristy and the broader Cambridge science community, including the laboratories of Prof Klaus Okkenhaug, Adrian Liston, Gosia Trynka and Tim Halim. In addition, our science benefits from access to the world-class research facilities of the University of Cambridge. 
 
  **We are looking for passionate new PhD students, Postdocs, and Master's students [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!**
 
