@@ -47,3 +47,6 @@ permalink: /team/
 </div>
 {% endif %}
 
+### Lab photos
+
+<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Ut92U8o6HR6gh9QRS-DE'});Pixlee.addSimpleWidget({widgetId:'24170'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
