@@ -21,7 +21,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p style="padding-top: 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /></p>
@@ -48,7 +48,6 @@ permalink: /publications/
 {% endif %}
 
 ## Full publication list
-
 
 {% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
 
