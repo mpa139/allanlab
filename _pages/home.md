@@ -38,7 +38,7 @@ We are located at the Department of Pathology at the University of Cambridge. We
   <p style="margin: 5px 0px 0px 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; padding: 7px 10px 0px 0px;" /></p>
   <p style="margin: 0px 0px 0px 0px;">{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="./media/{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
