@@ -7,9 +7,10 @@ permalink: /contact
 ---
 # Contact
 
-We are located at the [Division of Immunology](https://www.path.cam.ac.uk/directory/imm-div) at the [Department of Pathology](https://www.path.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk): <br>
+We are located at: <br>
 <br>
-Roychoudhuri Lab,<br> 
+Roychoudhuri Lab,<br>
+Division of Immunology,<br>
 Department of Pathology,<br>
 University of Cambridge,<br>
 Tennis Court Road,<br>
