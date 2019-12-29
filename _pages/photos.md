@@ -3,7 +3,7 @@ title: "Roychoudhuri Lab - Team"
 layout: gridlay
 excerpt: "Roychoudhuri Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: /photos/
 ---
 <br />
 # Lab photos
