@@ -50,4 +50,3 @@ permalink: /team/
 ### Lab photos
 <br />
 
-{% include image-gallery.html folder="{{ site.url }}{{ site.baseurl }}/images/gallery" %}
