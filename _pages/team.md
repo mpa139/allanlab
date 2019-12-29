@@ -47,9 +47,8 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Lab photos
 <br />
-
+### Lab photos
 
 {% include image-gallery.html folder="/images/gallery" %}
 
