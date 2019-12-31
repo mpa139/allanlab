@@ -5,7 +5,7 @@
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley
 
-var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><a href="%data%" target="_blank"><b><i>%journal%</i></b>&nbsp;<b>%volume%</b> %issue%%pages% (%date%)</a>{% if exists {{ site.url }}{{ site.baseurl }}/media/fulltext/%PMID%.pdf %}<a href="{{ site.url }}{{ site.baseurl }}/media/fulltext/%PMID%.pdf">Full text</a>{% endif %}</br></br> ' //Formats output
+var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><a href="%data%" target="_blank"><b><i>%journal%</i></b>&nbsp;<b>%volume%</b> %issue%%pages% (%date%)</a> %fulltext%</br></br> ' //Formats output
 
 
 
@@ -55,6 +55,17 @@ getPubmed(idURL).then(function(data) {
     publications = 'Something went wrong getting the ids.';
 });
 
+function doesFileExist(urlToFile) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('HEAD', urlToFile, false);
+    xhr.send();
+     
+    if (xhr.status == "404") {
+        return false;
+    } else {
+        return true;
+    }
+}
 
 function formatReferences(summary) {
     var publicationList = '';
@@ -87,7 +98,12 @@ function formatReferences(summary) {
                 publication = publication.replace('%pages%', '');
                 publication = publication.replace('%date%', '');
             }
-            publicationList = publication + publicationList;
+            if (doesFileExist(summary.result[refs].uid+'.pdf')== true) {
+			publication = publication.replace('%fulltext%', summary.result[refs].uid+'.pdf')
+			} else {
+			publication.replace('%fulltext%', '')
+			}
+			publicationList = publication + publicationList;
         }
     }
     return (publicationList);
