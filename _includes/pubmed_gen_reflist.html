@@ -99,7 +99,7 @@ function formatReferences(summary) {
                 publication = publication.replace('%date%', '');
             }
             if (doesFileExist(window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf')== true) {
-			publication = publication.replace('%fulltext%', '<a href="'+window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf"><img style="height:1.2em; vertical-align: bottom;" src="'+window.location.origin+'/images/icons/pdf_icon.png"> [Full text]</a>')
+			publication = publication.replace('%fulltext%', '<a href="'+window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf"><img style="height:0.8em; vertical-align: bottom;" src="'+window.location.origin+'/images/icons/pdf_icon.png"> [Full text]</a>')
 			} else {
 			publication = publication.replace('%fulltext%', '')
 			}
