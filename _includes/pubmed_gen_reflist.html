@@ -98,8 +98,8 @@ function formatReferences(summary) {
                 publication = publication.replace('%pages%', '');
                 publication = publication.replace('%date%', '');
             }
-            if (doesFileExist(summary.result[refs].uid+'.pdf')== true) {
-			publication = publication.replace('%fulltext%', summary.result[refs].uid+'.pdf')
+            if (doesFileExist(window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf')== true) {
+			publication = publication.replace('%fulltext%', window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf')
 			} else {
 			publication.replace('%fulltext%', '')
 			}
