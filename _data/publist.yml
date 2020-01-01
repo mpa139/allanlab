@@ -44,7 +44,7 @@
   authors: 
   link:
     url: Clever Cell 2016.pdf
-    display: <b><i>Cell</i></b>nbsp; 2016 <b>166</b>:1117-1131
+    display: <b><i>Cell</i></b>&nbsp; 2016 <b>166</b>:1117-1131
   highlight: 1
   news2: 
 
@@ -56,7 +56,7 @@
     url: Roychoudhuri NI 2016.pdf
     display: <b><i>Nat Immunol</i></b>&nbsp; 2016 <b>17</b>:851-860. 
   highlight: 1
-  news2: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
+  news1: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
 
 
 - title: "The transcription factor BACH2 promotes tumour immunosuppression through its function in Treg cell development"
@@ -77,4 +77,4 @@
     url: Roychoudhuri Nature 2013.pdf
     display: <b><i>Nature</i></b>&nbsp; 2013 <b>498</b>:506-10.
   highlight: 1
-  news2: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
+  news1: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
