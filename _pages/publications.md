@@ -27,7 +27,8 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="../media/{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><i>Published in:</p>
+  <p><strong><a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; padding-left: 20px;" href="../media/{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
