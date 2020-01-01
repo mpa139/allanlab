@@ -86,7 +86,7 @@ function formatReferences(summary) {
             if (summary.result[refs].volume !== '') {
                 publication = publication.replace('%volume%', ' ' + summary.result[refs].volume);
                 publication = publication.replace('%issue%', '(' + summary.result[refs].issue + ')');
-                if (summary.result[refs].pages!==''){publication = publication.replace('%pages%', ': ' + summary.result[refs].pages + '. ')} else {publication = publication.replace('. ')};
+                if (summary.result[refs].pages!==''){publication = publication.replace('%pages%', ': ' + summary.result[refs].pages + '. ')} else {publication = publication.replace('%pages%','. ')};
                 var date = summary.result[refs].pubdate.slice(0, 4);
                 publication = publication.replace('%date%', date + '');
             } else {
