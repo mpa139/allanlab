@@ -95,7 +95,7 @@ function formatReferences(summary) {
                 publication = publication.replace('%pages%', '');
                 publication = publication.replace('%date%', '');
             }
-            if (pdf_files.includes(summary.result[refs].uid+'.pdf'==true){
+            if (pdf_files.includes(summary.result[refs].uid+'.pdf')==true){
 			publication = publication.replace('%fulltext%', '<a style="background: url('+window.location.origin+'/images/icons/pdf_icon.png) no-repeat left center; padding-left: 20px;" href="'+window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf">[PDF]</a>')
 			} else {
 			publication = publication.replace('%fulltext%', '')
