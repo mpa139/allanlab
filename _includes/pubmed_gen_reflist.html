@@ -13,7 +13,7 @@
 
 //From "http://www.alexhadik.com/blog/2014/6/12/create-pubmed-citations-automatically-using-pubmed-api" adapted from reply to blog post by Les Ansley and modified by Rahul Roychoudhuri to include links to available full text pdfs
 
-var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><a href="%data%" target="_blank"><b><i>%journal%</i></b>&nbsp; %date%<b>%volume%</b> %issue%%pages%</a>&nbsp; %fulltext%</br></br> ' //Formats output
+var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><a href="%data%" target="_blank"><b><i>%journal%</i></b>&nbsp;%date%<b>%volume%</b> %issue%%pages%</a>&nbsp; %fulltext%</br></br> ' //Formats output
 
 
 var pdf_files = "{{ filelist }}";
@@ -86,7 +86,7 @@ function formatReferences(summary) {
             if (summary.result[refs].volume !== '') {
                 publication = publication.replace('%volume%', ' ' + summary.result[refs].volume);
                 publication = publication.replace('%issue%', '(' + summary.result[refs].issue + ')');
-                publication = publication.replace('%pages%', ': ' + summary.result[refs].pages + '. ');
+                if (summary.result[refs].pages!==''){publication = publication.replace('%pages%', ': ' + summary.result[refs].pages + '. ')} else {publication = publication.replace('. ')};
                 var date = summary.result[refs].pubdate.slice(0, 4);
                 publication = publication.replace('%date%', date + '');
             } else {
