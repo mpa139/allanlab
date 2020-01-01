@@ -3,11 +3,10 @@
 
 {% for file in site.static_files %}
   {% if file.extname == ".pdf" and file.path contains 'media/fulltext/' %} 
-   {% assign filelist = filelist | append: file.name %}
+   {% assign filelist = filelist | append: file.name | append: ' '%}
   {% endif %}
 {% endfor %}
 
-{{ filelist }}
 <p id="demo" ></p>
 
 <Script>
@@ -17,7 +16,7 @@
 var HTMLpublication = '<b>\%title%\</b><br />%authors%<br /><a href="%data%" target="_blank"><b><i>%journal%</i></b>&nbsp;%date%<b>%volume%</b> %issue%%pages%</a>&nbsp; %fulltext%</br></br> ' //Formats output
 
 
-var sitefiles = "{{ site.static_files }}";
+var pdf_files = "{{ filelist }}";
 
 var publications, idStringList;
 var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
@@ -96,7 +95,7 @@ function formatReferences(summary) {
                 publication = publication.replace('%pages%', '');
                 publication = publication.replace('%date%', '');
             }
-            if (sitefiles.includes('/media/fulltext/'+summary.result[refs].uid+'.pdf'==true){
+            if (pdf_files.includes(summary.result[refs].uid+'.pdf'==true){
 			publication = publication.replace('%fulltext%', '<a style="background: url('+window.location.origin+'/images/icons/pdf_icon.png) no-repeat left center; padding-left: 20px;" href="'+window.location.origin+'/media/fulltext/'+summary.result[refs].uid+'.pdf">[PDF]</a>')
 			} else {
 			publication = publication.replace('%fulltext%', '')
