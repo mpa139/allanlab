@@ -1,4 +1,13 @@
 
+{% filelist = '' %}
+
+{% for file in site.static_files %}
+  {% if file.extname == ".pdf" and file.path contains 'media/fulltext/' %} 
+   {{ filelist=filelist + file.name }}
+  {% endif %}
+{% endfor %}
+
+{% filelist %}
 <p id="demo" ></p>
 
 <Script>
