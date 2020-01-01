@@ -4,7 +4,7 @@
   authors: Sadiyah MF, Roychoudhuri R.
   link:
     url: sadiyah2019.pdf
-    display: <i>Curr Protoc Immunol</i> 2019 126:e84. 
+    display: <b><i>Curr Protoc Immunol</i></b>&nbsp; 2019 <b>126</b>:e84. 
   highlight: 1
   news2:
 
@@ -14,7 +14,7 @@
   authors: 
   link:
     url: Afzali NI 2017.pdf
-    display: <i>Nat Immunol</i> 2017 18:813-823. 
+    display: <b><i>Nat Immunol</i></b>&nbsp; 2017 <b>18</b>:813-823. 
   highlight: 1
   news2: 
 
@@ -24,7 +24,7 @@
   authors: Igarashi K, Kurosaki T and Roychoudhuri R
   link:
     url: Igarashi NRI 2017.pdf
-    display: <i>Nat Rev Immunol</i> 2017 17:437-450. 
+    display: <b><i>Nat Rev Immunol</i></b>&nbsp; 2017 <b>17</b>:437-450. 
   highlight: 1
   news2: 
 
@@ -34,7 +34,7 @@
   authors: 
   link:
     url: Eil Nature 2016.pdf
-    display: <i>Nature</i> 2016 537:539-543.
+    display: <b><i>Nature</i></b>&nbsp; 2016 <b>537</b>:539-543.
   highlight: 1
   news2: 
 
@@ -44,28 +44,28 @@
   authors: 
   link:
     url: Clever Cell 2016.pdf
-    display: <i>Cell</i> 2016 166:1117-1131
+    display: <b><i>Cell</i></b>nbsp; 2016 <b>166</b>:1117-1131
   highlight: 1
   news2: 
 
 - title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
   image: roychoudhuri_ni_2016_a.png
-  description: BACH2 functions as a steric repressor of AP-1 transcription factors in CD8+ T cells, restraining TCR-driven terminal effector differentiation to preserve long-lived memory CD8+ T cell responses 
+  description: The transcription factor BACH2 functions as a steric repressor of AP-1 transcription factors in CD8+ T cells, restraining TCR-driven terminal effector differentiation to preserve long-lived memory CD8+ T cell responses 
   authors:
   link:
     url: Roychoudhuri NI 2016.pdf
-    display: <i>Nat Immunol</i> 2016 17:851-860. 
+    display: <b><i>Nat Immunol</i></b>&nbsp; 2016 <b>17</b>:851-860. 
   highlight: 1
   news2: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
 
 
-- title: "BACH2 promotes tumour immunosuppression through its function in Treg cell development"
+- title: "The transcription factor BACH2 promotes tumour immunosuppression through its function in Treg cell development"
   image: roychoudhuri_jci_2016_a.png
   description: BACH2 promotes tumour immunosuppression through its role in Foxp3+ Treg cell differentiation. These results are consistent with the results of a large <a href="https://www.nature.com/articles/nature20792"> in vivo screen of host immunosuppressive factors</a> published by the Adams lab. 
   authors: 
   link:
     url: Roychoudhuri JCI 2016.pdf
-    display: <i>J Clin Invest</i> 2016 126:599-604.
+    display: <b><i>J Clin Invest</i></b>&nbsp; 2016 <b>126</b>:599-604.
   highlight: 1
   news2: 
 
@@ -75,6 +75,6 @@
   authors: 
   link:
     url: Roychoudhuri Nature 2013.pdf
-    display: <i>Nature</i> 2013 498:506-10.
+    display: <b><i>Nature</i></b>&nbsp; 2013 <b>498</b>:506-10.
   highlight: 1
   news2: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
