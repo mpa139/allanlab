@@ -12,10 +12,10 @@
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p style="margin: 5px 0px 0px 0px;"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; padding: 7px 10px 0px 0px;" /></p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p>{{ publi.link.display }}&nbsp; <a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; padding-left: 20px;" href="../media/{{ publi.link.url }}"><b>[PDF]</b></a></p>
+  <p>{{ publi.link.display }}&nbsp; <a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; text-decoration: none; padding-left: 20px;" href="../media/{{ publi.link.url }}"><b>[PDF]</b></a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
