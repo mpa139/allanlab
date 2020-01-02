@@ -8,7 +8,7 @@ permalink: /
 
 ## Welcome to the Roychoudhuri Lab
 
-### Inflammation and cancer immunosuppression
+### Immune regulation and cancer immunosuppression
 
 T cells have a powerful ability to drive immune activation and promote clearance of infections and cancer. However, they can also promote deleterious autoimmune and allergic inflammation. The immune system employs a variety of suppressive mechanisms, collectively referred to as immunoregulatory mechanisms, to restrain excessive T cell activation. While immunoregulatory mechanisms therefore play a beneficial role, they can also suppress immune responses against cancer in a deleterious process known as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and have important consequences in **inflammation** and **cancer**.  
 
