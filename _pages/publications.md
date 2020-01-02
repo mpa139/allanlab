@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Publications"
-layout: gridlay
+layout: researchlay
 excerpt: "Roychoudhuri Lab -- Publications."
 sitemap: false
 pubmed_searchterm: Roychoudhuri R [author]
