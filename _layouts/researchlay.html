@@ -24,12 +24,6 @@ layout: default
 {% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}
 {% endfor %}
 
-<h4>Affiliations: </h4>
-
-{% for item in site.data.affiliations %}
-{% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}
-{% endfor %}
-
 <h4>Facilities: </h4>
 
 {% for item in site.data.facilities %}
