@@ -14,15 +14,13 @@ We believe that fundamental new discoveries in the field of immunoregulation wil
 
 #### Immunoregulatory mechanisms drive cancer immunosuppression
 
-T cells have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregulatory immune ‘checkpoints’ PD-1 and CTLA-4 have revolutionised the treatment of patients with certain types of metastatic cancer, for example in those with advanced metastatic melanoma (Fig. 1) and PD-L1+ non-small cell lung cancer (Fig. 2). 
-
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png){: style="width: 300px; float: right; border: 10px"}
 
-
-However, these therapies, which are thought to work primarily by affecting CD8+ T cells, are ineffective at inducing durable responses in a majority of patients and a majority of cancer types. Thus, there is a need to develop new and mechanistically distinct modes of immunotherapy. A major aim of the fundamental immunology research in the laboratory is to uncover new immunoregulatory mechanisms whose dysregulation in tumours contributes to cancer immunosuppression. A second major aim of the research is to uncover immunoregulatory mechanisms that function to restrict autoimmune and allergic inflammation. The research aims to inform the development of new immune based therapies in the mid-term for patients with autoimmune and allergic inflammation and cancer.  
+T cells have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregulatory immune ‘checkpoints’ PD-1 and CTLA-4 have revolutionised the treatment of patients with certain types of metastatic cancer, for example in those with advanced metastatic melanoma (Fig. 1) and PD-L1+ non-small cell lung cancer (Fig. 2). 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/GaronNEJM2015OS.png){: style="width: 300px; float: left; border: 10px"}
 
+However, these therapies, which are thought to work primarily by affecting CD8+ T cells, are ineffective at inducing durable responses in a majority of patients and a majority of cancer types. Thus, there is a need to develop new and mechanistically distinct modes of immunotherapy. A major aim of the fundamental immunology research in the laboratory is to uncover new immunoregulatory mechanisms whose dysregulation in tumours contributes to cancer immunosuppression. A second major aim of the research is to uncover immunoregulatory mechanisms that function to restrict autoimmune and allergic inflammation. The research aims to inform the development of new immune based therapies in the mid-term for patients with autoimmune and allergic inflammation and cancer.  
 
 ### Research themes
 #### Transcriptional and epigenetic control of regulatory T (Treg) cell development and maintenance
@@ -44,7 +42,7 @@ Metastasis of cancer cells from primary tumours to distant organs is a principal
 
 ### Research Highlights
 (For a full list of publications **see below**)
-<div id="textid">
+<div id="gridid">
 {% include publication_highlights.html %}
 </div>
 
