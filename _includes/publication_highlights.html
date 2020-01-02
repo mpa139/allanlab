@@ -1,5 +1,18 @@
+{% for publi in site.data.publist %}
+<div class="col-sm-12 clearfix">
+ <div class="well" style="overflow: hidden; padding-bottom:7px;">
+  <pubtit>{{ publi.title }}</pubtit>
+  {% if page.url == "/" %}<p style="margin: 5px 0px 0px 0px;">{% endif; %}<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; {% if page.url == "/" %}padding: 7px 10px 0px 0px;{% endif; %}" />{% if page.url == "/" %}</p>{% endif; %}
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p>{{ publi.link.display }}&nbsp; <a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; text-decoration: none; padding-left: 20px;" target="_blank" href="../media/{{ publi.link.url }}">[PDF]</a></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+{% endfor %}
 
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -33,4 +46,5 @@
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} 
+-->
