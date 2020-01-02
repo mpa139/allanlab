@@ -14,22 +14,28 @@ layout: default
 
 <h4>Collaborators: </h4>
 
+<ul style="display: block; list-style-type: none; margin-top: 1em; margin-bottom: 1 em; margin-left: 0; margin-right: 0;">
 {% for item in site.data.collaborations %}
 {% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}
 {% endfor %}
+</ul>
+
 
 <h4>Affiliations: </h4>
 
+<ul style="display: block; list-style-type: none; margin-top: 1em; margin-bottom: 1 em; margin-left: 0; margin-right: 0;">
 {% for item in site.data.affiliations %}
 {% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}
 {% endfor %}
+</ul>
 
-<h4>Facilities: </h4>
+<h4>Facilities and resources: </h4>
 
+<ul style="display: block; list-style-type: none; margin-top: 1em; margin-bottom: 1 em; margin-left: 0; margin-right: 0;">
 {% for item in site.data.facilities %}
 {% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}
 {% endfor %}
-
+</ul>
 
 
   </div>
