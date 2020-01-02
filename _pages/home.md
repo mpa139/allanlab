@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### Immunoregulation: Uncovering the 'brakes' on immune activation 
+#### Immunoregulation: Uncovering the 'brakes' on immune activation in inflammation and cancer
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system therefore employs suppressive mechanisms, referred to as immunoregulatory mechanisms, to restrain excessive immune activation. While immunoregulatory mechanisms play a beneficial role in preventing inflammation, they can also suppress immune responses during chronic infections and cancer in a process known as immunosuppression. Immunoregulatory mechanisms therefore function as 'brakes' on immune activation and are important therapeutic targets. 
 
 Our research aims to understand the molecular and cellular mechanisms underpinning host immunoregulation in infection, inflammation and cancer. We hope that this may enable development of new therapies aimed at manipulating immune function in patients with **inflammation** and **cancer**.
