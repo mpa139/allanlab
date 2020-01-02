@@ -14,6 +14,6 @@ permalink: /publications/
 
 {% include publication_highlights.html %}
 
-## Publications
+## All Publications
 
 {% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
