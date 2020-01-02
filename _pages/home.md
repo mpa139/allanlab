@@ -13,7 +13,7 @@ Our research aims to uncover the molecular and cellular mechanisms underpinning 
 
 {% include carousel.html %}
 
-We utilise cutting-edge molecular and cellular immunology, functional genomics, and mouse genetics and cancer models, and to enable the discovery and characterisation of novel host immunoregulatory mechanisms (see [Research](research)).
+We utilise cutting-edge approaches in molecular and cellular immunology, functional genomics and mouse genetics to uncover and characterise novel host immunoregulatory mechanisms (see [Research](research)).
 
 We are located at the Department of Pathology at the University of Cambridge and work closely with collaborators within both the University and broader Cambridge immunology communities, including the Okkenhaug, Liston, Trynka, Halim and Linterman laboratories. Our science benefits from access to the world-class research facilities of the University of Cambridge.
 
