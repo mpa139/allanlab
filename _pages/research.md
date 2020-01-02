@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Research"
-layout: researchlay
+layout: homelay
 excerpt: "Roychoudhuri Lab -- Research"
 sitemap: false
 permalink: /research/
