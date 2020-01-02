@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Research"
-layout: textlay
+layout: researchlay
 excerpt: "Roychoudhuri Lab -- Research"
 sitemap: false
 permalink: /research/
@@ -8,8 +8,6 @@ permalink: /research/
 
 ### Immunoregulation: Uncovering the 'brakes' on immune activation 
 
-
-{% include carousel.html %}
 
 
 ### Transcriptional and epigenetic control of Treg lineage specification and maintenance
