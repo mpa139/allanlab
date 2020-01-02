@@ -8,8 +8,12 @@ permalink: /publications/
 ---
 
 <br />
+
+## Publication Highlights
+(For a full list of publications see below)
+
+{% include publication_highlights.html %}
+
 ## Publications
 
 {% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
-
-
