@@ -79,7 +79,9 @@ function formatReferences(summary) {
             publication = HTMLpublication.replace('%data%', 'http://www.ncbi.nlm.nih.gov/pubmed/' + refs);
             authors += summary.result[refs].lastauthor;
             publication = publication.replace('%authors%', authors);
-            publication = publication.replace('%title%', summary.result[refs].title);
+			var title_edited=(summary.result[refs].title).replace("<sup>", "");
+			title_edited=(title_edited.replace("</sup>", "");
+            publication = publication.replace('%title%', title_edited);
             publication = publication.replace('%journal%', summary.result[refs].source);
             publication = publication.replace('%PMID%', summary.result[refs].uid);
             //Alter formatting if article is In Press
