@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Vacancies"
-layout: researchlay
+layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies

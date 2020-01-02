@@ -23,8 +23,8 @@ To this end, we utilise cutting-edge molecular and cellular immunology, function
 
 ### Publication highlights
 (For a full list see [Publications](publications))
-
+<div id="gridid">
 {% include publication_highlights.html %}
-
+</div>
 <p> &nbsp; </p>
 
