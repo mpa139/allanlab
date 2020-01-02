@@ -80,8 +80,8 @@ function formatReferences(summary) {
             authors += summary.result[refs].lastauthor;
             publication = publication.replace('%authors%', authors);
 			var title_edited=summary.result[refs].title;
-			var title_edited_a=title_edited.replace(/<sup>/g, "");
-			var title_edited_b=title_edited_a.replace(/</sup>/g, "");
+			var title_edited_a=title_edited.replace('<sup>', '');
+			var title_edited_b=title_edited_a.replace('</sup>', '');
             publication = publication.replace('%title%', title_edited_b);
             publication = publication.replace('%journal%', summary.result[refs].source);
             publication = publication.replace('%PMID%', summary.result[refs].uid);
