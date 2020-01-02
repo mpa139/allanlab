@@ -1,12 +1,4 @@
-- title: "Protocols for integrative genome-wide analysis of transcription factor binding and chromatin accessibility in lymphocytes"
-  image: sadiyah_CPI_2019_a.png
-  description: Experimental and computational protocols to enable integrative analysis of TF binding and chromatin accessibility in lymphocytes. 
-  authors: Sadiyah MF, Roychoudhuri R.
-  link:
-    url: sadiyah2019.pdf
-    display: <b><i>Curr Protoc Immunol</i> 2019</b> 126:e84. 
-  highlight: 1
-  news2:
+
 
 - title: "A new human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
   image: afzali_NI_2017_b.png
@@ -17,6 +9,16 @@
     display: <b><i>Nat Immunol</i> 2017</b> 18:813-823. 
   highlight: 1
   news2: 
+  
+- title: "Protocols for integrative genome-wide analysis of transcription factor binding and chromatin accessibility in lymphocytes"
+  image: sadiyah_CPI_2019_a.png
+  description: Experimental and computational protocols to enable integrative analysis of TF binding and chromatin accessibility in lymphocytes. 
+  authors: Sadiyah MF, Roychoudhuri R.
+  link:
+    url: sadiyah2019.pdf
+    display: <b><i>Curr Protoc Immunol</i> 2019</b> 126:e84. 
+  highlight: 1
+  news2:
 
 - title: "BACH transcription factors in innate and adaptive immunity"
   image: igarashi_nri_2017_b.png
