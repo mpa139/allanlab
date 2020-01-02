@@ -8,7 +8,7 @@ permalink: /publications/
 ---
 
 <br />
-<!--
+<!---
 ## Publication Highlights
 (For a full list of publications see below)
 
