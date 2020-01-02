@@ -1,6 +1,6 @@
 ---
 title: "Roychoudhuri Lab - Vacancies"
-layout: textlay
+layout: researchlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
@@ -14,9 +14,11 @@ You will have the chance to work on grand challenges in the field immunoregulati
 
 ### Current open positions
 
-Current openings :
-[CRUK Cambridge Cancer Centre PhD programme studentship](https://crukcambridgecentre.org.uk/research/programmes/cellular-and-molecular-biology),
-[Department of Pathology PhD Programme](https://www.path.cam.ac.uk/graduate/fully-funded-studentships).
+Current openings:  
+
+[CRUK Cambridge Cancer Centre PhD programme studentship](https://crukcambridgecentre.org.uk/research/programmes/cellular-and-molecular-biology)  
+
+[Department of Pathology PhD Programme](https://www.path.cam.ac.uk/graduate/fully-funded-studentships)  
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:rr257@cam.ac.uk). State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. If you are applying to a specific advertisement, note this in your email.
