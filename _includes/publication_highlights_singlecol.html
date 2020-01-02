@@ -1,7 +1,6 @@
 
 {% for publi in site.data.publist %}
 
-<div class="col-sm-6 clearfix">
  <div class="well" style="overflow: hidden; padding-bottom:7px;">
   <pubtit>{{ publi.title }}</pubtit>
   {% if page.url == "/" %}<p style="margin: 5px 0px 0px 0px;">{% endif; %}<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; {% if page.url == "/" %}padding: 7px 10px 0px 0px;{% endif; %}" />{% if page.url == "/" %}</p>{% endif; %}
@@ -11,6 +10,5 @@
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
-</div>
 
 {% endfor %}
