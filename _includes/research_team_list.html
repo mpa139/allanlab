@@ -2,8 +2,8 @@
 {% for member in members_sorted %}
 <div>
   <a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">
-  <b><a style="text-decorations:none; color:inherit;" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}</a></b> - 
-  {{ member.position }}<br />
+  <b><a style="text-decorations:none; color:inherit;" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}</a></b><br />
+  &nbsp;&nbsp;- {{ member.position }}<br /><br />
 </div>
 
 {% endfor %}

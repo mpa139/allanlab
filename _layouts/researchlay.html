@@ -10,26 +10,29 @@ layout: default
 <h3>Research Team</h3>
 
 {% include research_team_list.html %} 
-
-[More information about team members][/team/]
-[Join us!](/openings/)
+<br />
+<a href="team">More information about the team</a><br />
+<a href="openings">Join us!</a><br />
 
 <h4>Collaborators: </h4>
-Klaus Okkenhaug<br />
-David Adams  <br />
-Nicholas Restifo  <br />
-Enrico Lugli  <br />
-Luca Gattinoni  <br />
-Tim Halim  <br />
+
+{% for item in site.data.collaborations %}
+
+{% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a>{% endif %}
+
+{% endfor %}
+
 
 <h4>Affiliations: </h4>
-Division of Immunology,<br />
 Department of Pathology,<br />
-University of Cambridge<br />
+University of Cambridge.<br /> <br />
+
+Babraham Institute (BI)<br /> <br />
 
 CRUK Cambridge Cancer Centre<br />
 
 <h4>Facilities: </h4>
+
 
 
   </div>
