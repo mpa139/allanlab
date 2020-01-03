@@ -15,7 +15,7 @@ We believe that fundamental new discoveries in the field of immunoregulation wil
 
 ### Immunoregulatory mechanisms drive cancer immunosuppression  
 
-<figure style="width:45%;float: right; display:block">![Clinical responses of advanced metastatic melanoma patients to immune checkpoint inhibitor therapy.]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png)
+<figure style="width:45%; min-width: 300px; float: right; display:block">![Clinical responses of advanced metastatic melanoma patients to immune checkpoint inhibitor therapy.]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png)
 <figcaption><b>Figure 1. Clinical responses of advanced metastatic melanoma patients to immune checkpoint inhibitor therapy.</b> Progression-free survival (RECIST criteria) of patients with advanced melanoma at a median follow-up of 2 years in all patients assigned to treatment. Responses of individuals randomised to either anti-CTLA-4 (ipilimumab), or combined anti-PD-1 (nivolumab) and anti-CTLA-4 (ipilimumab) treatment groups are shown. Data from Hodi <i>et al., Lancet Oncol</i> 2016)
 </figcaption></figure>
 
