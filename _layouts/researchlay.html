@@ -14,27 +14,30 @@ layout: default
 
 <h4>Collaborators: </h4>
 
-<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 6 em; margin-left: 0; margin-right: 0; padding-left: 0;">
+<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.collaborations %}
 <li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
 {% endfor %}
+</li>
 </ul>
 
 
 <h4>Environment: </h4>
 
-<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 6 em; margin-left: 0; margin-right: 0; padding-left: 0;">
+<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.affiliations %}
 <li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
 {% endfor %}
+</li>
 </ul>
 
 <h4>Facilities and resources: </h4>
 
-<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 6 em; margin-left: 0; margin-right: 0; padding-left: 0;">
+<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.facilities %}
 <li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
 {% endfor %}
+</li>
 </ul>
 
 
