@@ -14,7 +14,11 @@ We believe that fundamental new discoveries in the field of immunoregulation wil
 
 ### Immunoregulatory mechanisms drive cancer immunosuppression
 
+<figure>
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png){: style="width: 450px; float: right; border: 10px"}
+<figcaption>have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregu
+</figcaption>
+</figure>
 <!--![]({{ site.url }}{{ site.baseurl }}/images/respic/GaronNEJM2015OS.png){: style="width: 450px; float: right; border: 10px"}-->
 
 T cells have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregulatory immune ‘checkpoints’ PD-1 and CTLA-4 have revolutionised the treatment of patients with certain types of metastatic cancer, for example in those with advanced metastatic melanoma (Fig. 1) and PD-L1+ non-small cell lung cancer (Fig. 2). 
