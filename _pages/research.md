@@ -12,11 +12,10 @@ T cells drive immune activation and promote clearance of infections and cancer. 
 
 We believe that fundamental new discoveries in the field of immunoregulation will pave the way for immune-based therapies for patients with presently incurable diseases.
 
-### Immunoregulatory mechanisms drive cancer immunosuppression
+### Immunoregulatory mechanisms drive cancer immunosuppression  
 
 <figure>
-![]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png){: style="width: 450px; float: right; border: 10px"}
-<figcaption>have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregu
+<figcaption style="caption-side: bottom; font-style: italic; font-size: smaller; float: right;  width: 30%;   text-align: right;   text-indent: 0;  margin: 0.5em;   padding: 0.5em;"><b>Figure 1.</b> have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregu
 </figcaption>
 </figure>
 <!--![]({{ site.url }}{{ site.baseurl }}/images/respic/GaronNEJM2015OS.png){: style="width: 450px; float: right; border: 10px"}-->
