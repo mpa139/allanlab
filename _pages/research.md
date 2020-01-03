@@ -6,6 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
+<div id="research_contentid" >
 ### Immunoregulation: Uncovering the 'brakes' on immune activation 
 
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation. Immunoregulatory mechanisms also suppress beneficial anti-tumour T cell responses to drive deleterious immunosuppression in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in inflammation and cancer.
@@ -44,6 +45,7 @@ Cancers adapt to their immune environment to evade attack. According to the canc
 ### Innate and adaptive immunity to cancer metastasis
 
 Metastasis of cancer cells from primary tumours to distant organs is a principal cause of cancer morbidity and mortality. Metastases develop in individuals despite the vulnerability of metastasising cancer cells to immune attack. Innate lymphocytes such as natural killer (NK) cells play a critical role in elimination of early metastatic tumour cells. In addition, newly established metastases express similar mutated neo-antigens to the originating tumour but the timing with which neo-antigen-specific CD4+ and CD8+ T cell responses are recruited to early metastases compared with primary tumours, and their phenotype and function, are distinct. Using mouse primary and metastatic tumour models in conjunction with cellular and molecular immunology approaches, this project focusses on gaining a detailed understanding of the earliest immune events that occur upon cancer metastasis and the immunoregulatory mechanisms by their rejection of metastases is prevented. 
+</div>
 
 ### Research Highlights
 (For a full list of publications **see below**)
