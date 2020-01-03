@@ -12,8 +12,9 @@ img { margin-bottom: 24px;
 h1, h2, h3, h4, h5, h6 {
   color:#333333;
     font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-
 }
+
+
 
 body {
 	padding-top: 70px;
@@ -30,6 +31,10 @@ figcaption {
     text-align: right;
     margin-top: -20px;
     margin-bottom: 20px;
+	display: table-caption;
+    caption-side: bottom;
+	font-style: italic;
+    font-size: smaller;
 }
 
 
