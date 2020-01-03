@@ -11,7 +11,7 @@ permalink: /research/
 
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation. Immunoregulatory mechanisms also suppress beneficial anti-tumour T cell responses to drive deleterious immunosuppression in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in inflammation and cancer.
 
-We believe that fundamental new discoveries in the field of immunoregulation will pave the way for immune-based therapies for patients with presently incurable diseases.
+Fundamental discovery in the field of immunoregulation will pave the way for immune-based therapies for patients with presently incurable diseases.
 
 ### Immunoregulatory mechanisms drive cancer immunosuppression  
 
@@ -19,7 +19,7 @@ We believe that fundamental new discoveries in the field of immunoregulation wil
 <figcaption><b>Figure 1. Clinical responses of advanced metastatic melanoma patients to immune checkpoint inhibitor therapy.</b> Progression-free survival (RECIST criteria) of patients with advanced melanoma at a median follow-up of 2 years in all patients assigned to treatment. Responses of individuals randomised to either anti-CTLA-4 (ipilimumab), or combined anti-PD-1 (nivolumab) and anti-CTLA-4 (ipilimumab) treatment groups are shown. Data from Hodi <i>et al., Lancet Oncol</i> 2016)
 </figcaption></figure>
 
-T cells have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregulatory immune ‘checkpoints’ PD-1 and CTLA-4 have revolutionised the treatment of patients with certain types of metastatic cancer, for example in those with advanced metastatic melanoma (Fig. 1) and PD-L1+ non-small cell lung cancer. 
+Immunotherapies targeting the immunoregulatory immune ‘checkpoints’ PD-1 and CTLA-4 have revolutionised the treatment of patients with certain types of metastatic cancer, for example in those with advanced metastatic melanoma (Fig. 1) and PD-L1+ non-small cell lung cancer. 
 
 
 However, these therapies, which are thought to work primarily by affecting CD8+ T cells, are ineffective at inducing durable responses in a majority of patients and a majority of cancer types. Thus, there is a need to develop new and mechanistically distinct modes of immunotherapy. A major aim of the fundamental immunology research in the laboratory is to uncover new immunoregulatory mechanisms whose dysregulation in tumours contributes to cancer immunosuppression. A second major aim of the research is to uncover immunoregulatory mechanisms that function to restrict autoimmune and allergic inflammation. The research aims to inform the development of new immune based therapies in the mid-term for patients with autoimmune and allergic inflammation and cancer.  
