@@ -19,7 +19,7 @@ To this end, our lab utilises cutting-edge molecular immunology, functional geno
 
  **We are looking for passionate new PhD students, Postdocs, and Master's students [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!**
   
-<p style="background-color: light-green;">The laboratory is currently in the process of moving to the [University of Cambridge](https://www.cam.ac.uk) [Department of Pathology](https://www.path.cam.ac.uk/) from the [Babraham Institute](https://www.babraham.ac.uk/our-research/lymphocyte/rahul-roychoudhuri), enabling a focus on disease processes and better access to University of Cambridge research facilities and clinical samples.</p>
+<p style="background-color: #7FFFD4;">The laboratory is currently in the process of moving to the [University of Cambridge](https://www.cam.ac.uk) [Department of Pathology](https://www.path.cam.ac.uk/) from the [Babraham Institute](https://www.babraham.ac.uk/our-research/lymphocyte/rahul-roychoudhuri), enabling a focus on disease processes and better access to University of Cambridge research facilities and clinical samples.</p>
   
 ### Publication highlights
 (For a full list see [Publications](publications))
