@@ -9,14 +9,14 @@ layout: default
 <h3>Research Team</h3>
 
 {% include research_team_list.html %} 
-<b>&nbsp;<a href="/team">[Team]</a>&nbsp;
-<a href="/vacancies">[Join us!]</a></b><br />
+<b>&nbsp;<a style="color: inherit;" href="/team">[Team]</a>&nbsp;
+<a style="color: inherit;" href="/vacancies">[Join!]</a></b><br />
 
 <h4>Collaborators: </h4>
 
 <ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.collaborations %}
-<li>{% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
+<li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
 {% endfor %}
 </ul>
 
@@ -25,7 +25,7 @@ layout: default
 
 <ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.affiliations %}
-<li>{% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
+<li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
 {% endfor %}
 </ul>
 
@@ -33,7 +33,7 @@ layout: default
 
 <ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 3 em; margin-left: 0; margin-right: 0; padding-left: 0;">
 {% for item in site.data.facilities %}
-<li>{% if item.link %}<a href="{{ item.link }}" style="text-decoration:none; color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
+<li>{% if item.link %}<a href="{{ item.link }}" style="color: inherit;" target = "_blank">{% endif %}{{ item.title }}{% if item.link %}</a><br />{% endif %}</li>
 {% endfor %}
 </ul>
 
