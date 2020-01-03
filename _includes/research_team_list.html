@@ -1,8 +1,12 @@
 {% assign members_sorted = site.members | sort: 'tier' %}
 {% for member in members_sorted %}
 <div>
-  <a href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">
-  <a style="text-decorations:none; color:inherit;" href="{{ site.url }}{{ site.baseurl }}/team/">{{ member.fullname }}</a><br />
+<ul style="display: block; list-style-type: none; margin-top: 0em; margin-bottom: 6 em; margin-left: 0; margin-right: 0; padding-left: 0;">
+<li>
+  {{ member.fullname }}<br />
+  &nbsp;{{ member.position }}
+</li>
+</ul>
 </div>
 
 {% endfor %}
