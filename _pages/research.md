@@ -15,6 +15,7 @@ We believe that fundamental new discoveries in the field of immunoregulation wil
 ### Immunoregulatory mechanisms drive cancer immunosuppression  
 
 <figure>
+<!--![]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png){: style="width: 450px; float: right; border: 10px"}-->
 <figcaption style="caption-side: bottom; font-style: italic; font-size: smaller; float: right;  width: 30%;   text-align: right;   text-indent: 0;  margin: 0.5em;   padding: 0.5em;"><b>Figure 1.</b> have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregu
 </figcaption>
 </figure>
