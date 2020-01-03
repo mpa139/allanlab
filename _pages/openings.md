@@ -28,4 +28,6 @@ There are several programmes supporting postdoctoral fellowships in the laborato
 ### Master's and Bachelor's internships
 If you are looking for a Masters project in the laboratory, contact me by email with a copy of your CV, a start and end date of the internship, and a brief statement of why you'd be interested in joining the laboratory.
 
-{% include carousel.html %}
+<div style="width:80%; display: inline-block; float:none; vertical-align: top; clear: both;">
+ {% include carousel.html %}
+ </div>
