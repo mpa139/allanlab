@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## Immunoregulation: Uncovering the 'brakes' on immune activation 
+### Immunoregulation: Uncovering the 'brakes' on immune activation 
 
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation. Immunoregulatory mechanisms also suppress beneficial anti-tumour T cell responses to drive deleterious immunosuppression in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in inflammation and cancer.
 
@@ -14,12 +14,9 @@ We believe that fundamental new discoveries in the field of immunoregulation wil
 
 ### Immunoregulatory mechanisms drive cancer immunosuppression  
 
-<figure>
-![]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png){: style="width: 450px; float: right"}
-<figcaption>
-<b>Figure 1.</b> have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregu
-</figcaption>
-</figure>
+<figure stype="width:60vh;">![]({{ site.url }}{{ site.baseurl }}/images/respic/HodiLancetOncol2016PFS.png){: style="width: 450px; float: right" :class="img-responsive"}
+<figcaption><b>Figure 1.</b> Progression-free survival (RECIST criteria) of patients with advanced melanoma at a median follow-up of 2 years in all patients assigned to treatment. Responses of individuals randomised to either anti-CTLA-4 (ipilimumab), or combined anti-PD-1 (nivolumab) and anti-CTLA-4 (ipilimumab) treatment groups are shown. Data from Hodi <i>et al., Lancet Oncol</i> 2016)
+</figcaption></figure>
 
 T cells have an ability to recognise and kill cancer cells but their function is often suppressed within tumours preventing immune-mediated clearance of disease. Immunotherapies targeting the immunoregulatory immune ‘checkpoints’ PD-1 and CTLA-4 have revolutionised the treatment of patients with certain types of metastatic cancer, for example in those with advanced metastatic melanoma (Fig. 1) and PD-L1+ non-small cell lung cancer (Fig. 2). 
 
@@ -27,11 +24,13 @@ T cells have an ability to recognise and kill cancer cells but their function is
 However, these therapies, which are thought to work primarily by affecting CD8+ T cells, are ineffective at inducing durable responses in a majority of patients and a majority of cancer types. Thus, there is a need to develop new and mechanistically distinct modes of immunotherapy. A major aim of the fundamental immunology research in the laboratory is to uncover new immunoregulatory mechanisms whose dysregulation in tumours contributes to cancer immunosuppression. A second major aim of the research is to uncover immunoregulatory mechanisms that function to restrict autoimmune and allergic inflammation. The research aims to inform the development of new immune based therapies in the mid-term for patients with autoimmune and allergic inflammation and cancer.  
 
 ### Research themes
-#### Transcriptional and epigenetic control of regulatory T (Treg) cell development and maintenance
+### Transcriptional and epigenetic control of regulatory T (Treg) cell development and maintenance
 
 Cells with dedicated immunoregulatory function exist within the T cell lineage. Whereas effector CD4+ and CD8+ T cells promote immune activation, CD4+ regulatory T (Treg) cells, dependent upon the transcription factor Foxp3, suppress their function, preventing excessive autoimmune and allergic reactions. Treg cells therefore represent an important immunoregulatory mechanism underpinning peripheral tolerance and stability of Treg populations is required throughout life to prevent lethal inflammation. In cancer, however, regulatory T cells powerfully limit effector responses and their stability is a barrier to immune-mediated clearance of disease. This project aims to better define the transcriptional and epigenetic mechanisms that drive Treg lineage specification. We are also interested in the signalling, transcriptional and epigenetic mechanisms that control Treg population dynamics and lineage stability during inflammation and cancer, and the potential for immunotherapies to affect these aspects of Treg biology.
 
-![Treg development](/images/respic/treg_development.png){:class="img-responsive"}
+<figure stype="width:80vh;">![]({{ site.url }}{{ site.baseurl }}/images/respic/treg_development.png){: style="width: 450px; float: right" class="img-responsive"}
+<figcaption><b>Figure 2.</b> Immunoregulatory function within the T cell lineage. CD4+ effector and regulatory T (Treg) cells arise from common precursor cells within the thymus and periphery by exert opposing functions. Treg-mediated restraint of effector cell function is a critical immunoregulatory mechanism required to prevent lethal inflammation. Peripheral tolerance is also maintained by extrinsic immunoregulatory signals received by conventional T cells in tissues. 
+</figcaption></figure>
 
 We have shown that alternate lineage repression by the transcriptional repressor BACH2 is required to stabilise early Treg cell development with consequences for immune homeostasis (Nature 2013, Nature 2015) and tumour immunity (J Clin Invest 2016). We have shown that the PHD family of HIF TF prolyl hydroxylases enable induced Treg differentiation to be modulated by extracellular oxygen concentrations and drive permissivity of the lung to tumour metastasis (Cell 2016). These findings show that the immunoregulatory mechanisms involved in Treg differentiation have consequences for both inflammation and anti-cancer immunity. 
 
