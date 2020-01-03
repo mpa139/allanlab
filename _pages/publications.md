@@ -8,5 +8,6 @@ permalink: /publications/
 ---
 
 ## Publications
-
+<div style="font-family: Helvetica,Arial,sans-serif; font-size: 15">
 {% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
+</div>
