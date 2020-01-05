@@ -7,7 +7,8 @@ permalink: /
 ---
 
 <h2 style="margin-bottom:6px">Welcome to the Roychoudhuri Lab</h2>
-<h3 style="margin-top:16px">Immune regulation in inflammation and cancer</h3>
+<h3 style="margin-top:16px">Molecular regulation of T cell immunity in inflammation and cancer</h3>
+<!--<h3 style="margin-top:16px">Immune regulation in inflammation and cancer</h3>-->
 <!--h3 style="margin-top:16px">T cell tolerance and cancer immunosuppression</h3>-->
 <!--<h3 style="margin-top:16px">Immunoregulation and cancer immunosuppression</h3>-->
 
