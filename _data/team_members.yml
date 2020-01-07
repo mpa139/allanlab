@@ -44,6 +44,15 @@
   education3: Topics- Deep Learning, Image Registration, Interpretability
   education4:
 
+- name: Mariana Da Silva
+  photo: mariana.jpg
+  info: PhD student, started January 2020
+  email: mariana.ferreira_teixeira_da_silva(at)kcl.ac.uk
+  number_educ: 2
+  education1: BSc and MSc in Biomedical Engineering and Biophysics from University of Lisbon
+  education2: Current research project is on building sensitive models of cognition using interpretable deep learning
+  education3:
+  education4:
 
 - name: "This could be you !"
   photo: rock.jpg
