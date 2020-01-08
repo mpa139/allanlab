@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Roychoudhuri Lab at the University of Cambridge
-email: your-email@domain.com
+title: Roychoudhuri Lab - Immune regulation in inflammation and cancer
+email: rr257@cam.ac.uk  
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Immune regulation in inflammation and cancer. We are located at the Department of Pathology at the University of Cambridge, Cambridge, UK. We study the immunoregulatory mechanisms that suppress immune activation under homeostasis and cancer immunosuppression. We are interested in the differentiation and function of CD4+ T cells, including Foxp3+ regulatory T cells, and CD8+ T cells with cytotoxic function. We are interested in the mechanisms that restrict T cell activation and CD8+ T cell memory in the context of adoptive immunotherapy and immune checkpoint blockade therapy. 
 baseurl: ""
 url: "http://roychoudhurilab.org"
 
