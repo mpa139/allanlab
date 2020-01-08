@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <h2 style="margin-bottom:6px">Welcome to the Roychoudhuri Lab</h2>
-<h3 style="margin-top:16px">Molecular regulation of T cell immunity in inflammation<br>and cancer</h3>
+<h3 style="margin-top:16px">Molecular regulation of T cell function in inflammation<br>and cancer</h3>
 <!--<h3 style="margin-top:16px">Immune regulation in inflammation and cancer</h3>-->
 <!--h3 style="margin-top:16px">T cell tolerance and cancer immunosuppression</h3>-->
 <!--<h3 style="margin-top:16px">Immunoregulation and cancer immunosuppression</h3>-->
@@ -21,7 +21,7 @@ To this end, our lab utilises cutting-edge molecular immunology, functional geno
 
  **We are looking for passionate new PhD students, Postdocs, and Master's students [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!**
   
-<p style="background-color: #E2FFE1; padding: 10px;"><b>Note:</b> The laboratory is in the process of moving to the [University of Cambridge](https://www.cam.ac.uk) [Department of Pathology](https://www.path.cam.ac.uk/) from the [Babraham Institute](https://www.babraham.ac.uk/our-research/lymphocyte/rahul-roychoudhuri), enabling better access to clinical samples, translational research collaborations and University of Cambridge research facilities.</p>
+<!-- <p style="background-color: #E2FFE1; padding: 10px;"><b>Note:</b> The laboratory is in the process of moving to the [University of Cambridge](https://www.cam.ac.uk) [Department of Pathology](https://www.path.cam.ac.uk/) from the [Babraham Institute](https://www.babraham.ac.uk/our-research/lymphocyte/rahul-roychoudhuri), enabling better access to clinical samples, translational research collaborations and University of Cambridge research facilities.</p> -->
   
 ### Publication highlights
 (For a full list see [Publications](publications))
