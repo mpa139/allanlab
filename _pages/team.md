@@ -28,7 +28,7 @@ permalink: /team/
   <h4> <a style="text-decorations:none; color:inherit;" href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">{{ member.fullname }}</a></h4>
   {{ member.position }}<br>
   email: {{ member.email }}<br>
-  <i>>>> <a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i>
+  <i>>> <a style="text-decorations:none; " href="{{ site.url }}{{ site.baseurl }}{{ member.url }}">More information</a></i>
   <ul style="overflow: hidden">
 
   </ul>
