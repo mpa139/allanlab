@@ -74,6 +74,8 @@ Our specific areas of interest include:
   </a>
 </div>
 
+Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
+
 We are grateful for funding from Academy of Medical Sciences, [Springboard Awards](https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard) and [Wellcome](https://wellcome.ac.uk/funding). Our collaborations with the [Developing Human Connectome Project](http://www.developingconnectome.org/) are funded by the ERC.
 
 <figure class="fourth">
