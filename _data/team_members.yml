@@ -55,6 +55,16 @@
   education3:
   education4:
 
+- name: Logan Williams
+  photo: logan.png
+  info: PhD student, started March 2020
+  email: lwil274(at)aucklanduni.ac.nz
+  number_educ: 3
+  education1: BSc in Biomedical Science, BMedSc(Hons) is Neonatal Medicine, MBChB from The University of Auckland, New Zealand
+  education2: Current research project is on investigating neurodevelopmental impairment in early life using imaging genetics
+  education3: Twitter- @lzjwilliams
+  education4:
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
