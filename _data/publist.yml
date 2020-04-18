@@ -2,8 +2,8 @@
 
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
-  description: Nasrallah, Imianowski, et al., using CRISPR-based mutagenesis of disease-associated enhancer homologs in mice, reveal a regulatory switch for signal-driven GARP expression by Treg cells. The function of the enhancer is required for Treg cells to control gut inflammation. 
-  authors:
+  description: CRISPR-based mutagenesis of disease-associated distal enhancer homologs in mice reveals a regulatory switch for signal-driven GARP expression by Treg cells. The function of the enhancer is required for Treg cells to control gut inflammation. 
+  authors: Nasrallah, Imianowski, et al.
   link:
     url: embargoed.pdf
     display: <b><i>Nature</i> 2020</b> (in press). 
@@ -12,8 +12,8 @@
 
 - title: "BACH2 promotes the functional quiescence and maintenance of resting Treg cells"
   image: Grant_Yang_Bach2_JEM.png
-  description: Grant, Yang, et al. show that the transcription factor BACH2 is repurposed following Treg lineage specification and its high expression in resting Treg cells is required for their quiescence and durable maintenance. Durable maintenance of resting Treg cell responses is required for immune homeostasis and cancer immunosuppression
-  authors:
+  description: The transcription factor BACH2 is repurposed following Treg lineage specification and its high expression in resting Treg cells is required for their quiescence and durable maintenance. Durable maintenance of resting Treg cell responses is required for immune homeostasis and cancer immunosuppression.
+  authors: Grant, Yang, et al.
   link:
     url: embargoed.pdf
     display: <b><i>J Exp Med</i> 2020</b> (in press). 
