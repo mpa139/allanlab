@@ -2,7 +2,7 @@
 
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
-  description: CRISPR-based mutagenesis of a disease-associated enhancer homologue in mice reveals a distal enhancer required for Treg cells to limit gut inflammation
+  description: CRISPR-based mutagenesis of a disease-associated enhancer homolog in mice reveals a regulatory switch for signal-driven GARP expression by Treg cells
   authors: Nasrallah, Imianowski, et al.
   link:
     url: embargoed.pdf
@@ -12,7 +12,7 @@
 
 - title: "BACH2 promotes the functional quiescence and maintenance of resting Treg cells"
   image: Grant_Yang_Bach2_JEM.png
-  description: The transcription factor BACH2 is repurposed following Treg lineage specification and is required for the quiescence and durable maintenance of resting Treg cells during homeostasis and cancer 
+  description: The transcription factor BACH2 is repurposed following Treg lineage specification and is required for the quiescence and durable maintenance of resting Treg cells in homeostasis and cancer immunosuppression
   authors: Grant, Yang, et al.
   link:
     url: embargoed.pdf
