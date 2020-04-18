@@ -3,7 +3,7 @@
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
   description: CRISPR-based mutagenesis of disease-associated distal enhancer homologs in mice reveals a regulatory switch for signal-driven GARP expression by Treg cells. The function of the enhancer is required for Treg cells to control gut inflammation. 
-  authors: Nasrallah, Imianowski, et al.
+  authors: Nasrallah R, Imianowski C, et al.
   link:
     url: embargoed.pdf
     display: <b><i>Nature</i> 2020</b> (in press). 
@@ -13,7 +13,7 @@
 - title: "BACH2 promotes the functional quiescence and maintenance of resting Treg cells"
   image: Grant_Yang_Bach2_JEM.png
   description: The transcription factor BACH2 is repurposed following Treg lineage specification and its high expression in resting Treg cells is required for their quiescence and durable maintenance. Durable maintenance of resting Treg cell responses is required for immune homeostasis and cancer immunosuppression.
-  authors: Grant, Yang, et al.
+  authors: Grant FM, Yang J, et al.
   link:
     url: embargoed.pdf
     display: <b><i>J Exp Med</i> 2020</b> (in press). 
@@ -23,10 +23,10 @@
 - title: "A human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
   image: afzali_NI_2017_b.png
   description: The discovery of a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). The work, resulted from an international collaboration with clinicians and scientists in the UK and the US.
-  authors: 
+  authors:
   link:
     url: Afzali NI 2017.pdf
-    display: <b><i>Nat Immunol</i> 2017</b> 18:813-823. 
+    display: <b><i>Nat Immunol</i> (2017)</b> 18:813-823. 
   highlight: 1
   news2: 
   
@@ -36,7 +36,7 @@
   authors: Sadiyah MF, Roychoudhuri R.
   link:
     url: sadiyah2019.pdf
-    display: <b><i>Curr Protoc Immunol</i> 2019</b> 126:e84. 
+    display: <b><i>Curr Protoc Immunol</i> (2019)</b> 126:e84. 
   highlight: 1
   news2:
 
@@ -46,27 +46,27 @@
   authors: Igarashi K, Kurosaki T and Roychoudhuri R
   link:
     url: Igarashi NRI 2017.pdf
-    display: <b><i>Nat Rev Immunol</i> 2017</b> 17:437-450. 
+    display: <b><i>Nat Rev Immunol</i> (2017)</b> 17:437-450. 
   highlight: 1
   news2: 
 
 - title: "High levels of extracellular potassium in tumours suppress T cell activation"
   image: eil_nature_2016_b.png
   description: Cell death within tumours releases intracellular potassium into the extracellular space causing profound suppression of T cell activation and anti-tumour immunity. Engineering CD8+ T cells to be resistant to high extracellular potassium levels in tumours improves adoptive immunotherapy.
-  authors: 
+  authors:
   link:
     url: Eil Nature 2016.pdf
-    display: <b><i>Nature</i> 2016</b> 537:539-543.
+    display: <b><i>Nature</i> (2016)</b> 537:539-543.
   highlight: 1
   news2: 
 
 - title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
   image: clever_cell_2016_a.png
   description: The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to environmental local oxygen concentrations within tissues, promoting Treg cell differentiation and permissivity of the lung to cancer metastasis.
-  authors: 
+  authors:
   link:
     url: Clever Cell 2016.pdf
-    display: <b><i>Cell</i> 2016</b> 166:1117-1131
+    display: <b><i>Cell</i> (2016)</b> 166:1117-1131
   highlight: 1
   news2: 
 
@@ -76,7 +76,7 @@
   authors:
   link:
     url: Roychoudhuri NI 2016.pdf
-    display: <b><i>Nat Immunol</i> 2016</b> 17:851-860. 
+    display: <b><i>Nat Immunol</i> (2016)</b> 17:851-860. 
   highlight: 1
   news2: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
 
@@ -87,7 +87,7 @@
   authors: 
   link:
     url: Roychoudhuri JCI 2016.pdf
-    display: <b><i>J Clin Invest</i> 2016</b> 126:599-604.
+    display: <b><i>J Clin Invest</i> (2016)</b> 126:599-604.
   highlight: 1
   news2: 
 
@@ -97,6 +97,6 @@
   authors: 
   link:
     url: Roychoudhuri Nature 2013.pdf
-    display: <b><i>Nature</i> 2013</b> 498:506-10.
+    display: <b><i>Nature</i> (2013)</b> 498:506-10.
   highlight: 1
   news2: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
