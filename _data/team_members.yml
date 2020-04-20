@@ -25,16 +25,6 @@
   number_educ: 1
   education1: Master Leiden University with Milan Allan
 
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
-
 - name: Damianos Chatzopoulos
   photo: Damianos.jpg
   info: PhD Student, started December 2017
@@ -61,16 +51,6 @@
   number_educ: 2
   education1: Master Leiden University with Milan Allan
   education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Vincent Stalman
-  photo: Photo Vincent.jpg
-  info: PhD Student, started November 2018
-  email: stalman@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master University of Amsterdam with Diego Hofman
-  education2:
   education3:
   education4:
 
