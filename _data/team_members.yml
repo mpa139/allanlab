@@ -56,7 +56,7 @@
 
 - name: Kees van Oosten
   photo: DSC_1032.JPG
-  info: Fine mechanical engineer associated with the FMD working in our group
+  info: FFine mechanical engineer (also associated with the FMD)
   email: Oosten@fmd.physics.leidenuniv.nl
   number_educ: 2
   education1: Leidse instrumentmakers School
@@ -64,11 +64,21 @@
 
 - name: Freek Groenewoud
   photo: Freek.jpg
-  info: Fine mechanical engineer associated with the FMD working in our group
+  info: Fine mechanical engineer (also associated with the FMD)
   email: Groenewoud@physics.leidenuniv.nl
   number_educ: 2
   education1: Leidse Instrumentmaker School
   education2: Mechanical Engineer , Hogeschool  Delft
+  education3:
+  education4:
+
+- name: Hugo van Bohemen
+  photo: rock.jpg
+  info: Fine mechanical engineer (also associated with the FMD)
+  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+  number_educ: 0
+  education1:
+  education2:
   education3:
   education4:
 
