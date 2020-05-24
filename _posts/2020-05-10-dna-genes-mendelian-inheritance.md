@@ -2,11 +2,10 @@
 layout: post
 title:  "Genetics Part I: DNA, Genes & Mendelian Inheritance"
 date:   2020-05-10 20:00
-thumbnail: /img/blog-pictures/blog-1/rosalind-franklin.jpg
-excerpt: An introduction to some fundamental concepts and terminlogy.
+author: Logan Williams
 ---
 
-My name is Logan, and this is the first blog in a series on the field of imaging genetics. 
+This is the first blog in a series on the field of imaging genetics. 
 
 A little bit about me: I moved to London in March 2020 to start a PhD under the supervision of [Dr. Emma Robinson](https://scholar.google.co.uk/citations?user=WXAAOb0AAAAJ&hl=en) and [Professor David Edwards](https://scholar.google.co.uk/citations?user=jPBN0G8AAAAJ&hl=en) at the [Centre for the Developing Brain](https://www.developingbrain.co.uk/about-the-centre-for-the-developing-brain/). The aim of my research is to understand how genetics influences brain development in babies, the ultimate goal of which is to improve the outcomes of babies who are at risk of poor neurodevelopmental outcomes. This means that I work alongside many different experts, all who approach this problem with their own perspective. This blog series is an attempt to bring these distinct fields, and their unique perspectives, into a single resource that is accessible and clear. Throughout this series, I hope to:<br>
 1. Provide an overview of imaging genetics as a new scientific discipline<br>
