@@ -36,7 +36,8 @@ I’ve been using the term genetics to refer to the instructions responsible for
 | <img src="/images/blogs/genetics/first-blog/dna_deoxyribonucleic_acid.jpg" alt="Deoxyribonucleic acid" title="Deoxyribonucleic acid" width="900"> |
 |:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid).* Structure of DNA. Courtesy: National Human Genome Research Institute |
-<br>
+
+
 If humans all have DNA, how is there so much diversity in the human population? It is the ordering of the [base pairs](https://www.genome.gov/genetics-glossary/Base-Pair) along DNA that encodes variation! It is helpful to draw an analogy between DNA and a book: the ordering of letters within a book is important for forming different words, and different combinations of words conveys different information. The amount of information encoded in human DNA is astounding: our full set of DNA ([genome](https://www.genome.gov/genetics-glossary/Genome)) is ~3,289,000,000 base pairs long!
 
 ### Genes and Alleles 
