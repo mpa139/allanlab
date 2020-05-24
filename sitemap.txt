@@ -4,3 +4,4 @@ https://metrics-lab.github.io/vacancies/
 https://metrics-lab.github.io/publications/
 https://metrics-lab.github.io/research/
 https://metrics-lab.github.io/resources/
+https://metrics-lab.github.io/blogs/
