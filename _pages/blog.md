@@ -5,10 +5,20 @@ excerpt: "METRICS Lab -- Blog"
 sitemap: false
 permalink: /blogs/
 ---
-## Blog 
+# Blogs
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for blog in site.data.bloglist %}
+{% if blog.highlight == 1 %}
+
+{{ blog.link.display }}
+
+{{ blog.authors }}
+
+{{ blog.description }}
+
+{{ blog.title }}
+
+
+{% endif %} 
+
+{% endfor %}
