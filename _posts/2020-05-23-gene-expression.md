@@ -2,8 +2,7 @@
 layout: post
 title:  "Genetics Part II: Gene Expression"
 date:   2020-05-22 20:00
-thumbnail: /img/blog-pictures/blog-1/rosalind-franklin.jpg
-excerpt: An overview of the processes involved in converting genetic information into biological processes.
+author: Logan Williams
 ---
 
 Although the last blog covered the fundamentals of genetics, it largely ignored the process by which genetic code is converted into a biological process. The aim of this blog is to describe this conversion process in some detail.    
