@@ -104,3 +104,4 @@ Non-Mendelian inheritance poses significant challenges for scientists looking to
 2. The instructions for all biological processes are encoded in DNA <br>
 3. Genes are segments of DNA that encode a specific biological process, which can influence either a single trait or multiple traits <br>
 4. Many human traits and medical disorders follow non-Mendelian inheritance, a term used to describe the complex interplay between genes 
+<br>
