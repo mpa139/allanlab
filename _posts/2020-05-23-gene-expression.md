@@ -78,4 +78,4 @@ In this blog, we delved into the processes that convert genetic information into
 2. Translation converts the mRNA transcript into a polypeptide chain
 3. Gene expression varies across different cell types, and across different life stages
 4. A majority of the human genome is non-coding, and is important for the regulation of gene expression 
-    
+<br>
