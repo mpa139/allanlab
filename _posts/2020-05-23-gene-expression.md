@@ -26,7 +26,7 @@ Because the RNA copy is shuttled from one cell compartment to another, it is kno
 |:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Transcription).* Overview of transcription. Courtesy: National Human Genome Research Institute |
 
-
+<br>
 ### Translation
 Once mRNA reaches the cytoplasm, the genetic information encoded in the base sequence can be converted into a functional product in a process known as [translation](https://www.genome.gov/genetics-glossary/Translation) (figure 2). The first part of this process is deciphering the information in the mRNA molecule, which is stored in units called [codons](https://www.genome.gov/genetics-glossary/Codon). Each codon is a set of three bases. As there are four different bases (A, U, C, G), there are 4x4x4 = 64 possible codons. Of these 64 codons, 61 specify 20 unique building blocks of the human body, known as [amino acids](https://www.genome.gov/genetics-glossary/Amino-Acids). The three remaining codons indicate the end of the amino acid sequence ([stop codon](https://www.genome.gov/genetics-glossary/Stop-Codon)). Table 1 shows the conversion between codons and amino acids. As there are more codons than amino acids, several codons specify a single amino acid. This means that there is redundancy in our genetic code, the significance of which will be revealed in the next blog!  
 
@@ -34,14 +34,14 @@ Once mRNA reaches the cytoplasm, the genetic information encoded in the base seq
 |:--:| 
 | *[Figure 2](https://www.genome.gov/genetics-glossary/Translation).* Overview of translation. Courtesy: National Human Genome Research Institute |
 
-
+<br>
 The biological machinery responsible for converting codons into amino acids is known as the [ribosome](https://www.genome.gov/genetics-glossary/Ribosome). The ribosome itself is a large, complex molecule composed of two subunits (one large and one small). The ribosome facilitates this conversion by matching each codon on the mRNA molecule with its corresponding amino acid. The amino acid is transferred to the ribosome by another RNA molecule, aptly named [transfer RNA](https://www.genome.gov/genetics-glossary/Transfer-RNA) (tRNA). Along with a specific amino acid, each tRNA molecule has an important region called the [anticodon](https://www.genome.gov/genetics-glossary/Anticodon), which is a set of three bases that are complementary to the codon encoding the amino acid attached to the tRNA. 
 
 | <img src="/images/blogs/genetics/second-blog/codons.jpg" alt="Codons" title="Codons" width="900"> |
 |:--:| 
 | *[Table 1](https://cnx.org/contents/GFy_h8cu@9.87:QEibhJMi@8/The-Genetic-Code).* Conversion between codons and amino acids. Courtesy: Openstax CNX |
 
-
+<br>
 The first step in translation is known as [initiation](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/translation-polypeptides/a/the-stages-of-translation). In this step the ribosome, mRNA transcript and first tRNA-amino acid come together to form the initiation complex. All mRNAs share the same first codon, which codes for the amino acid methionine. There are three sites in the ribosome where the tRNA can interact, and the first methionine tRNA always docks in the middle (P site). In the P site, the methionine codon and anticodon align. 
 
 The next step in translation is [elongation](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/translation-polypeptides/a/the-stages-of-translation), where subsequent amino acids are added. The tRNA carrying next amino acid in mRNA sequence docks adjacent to the initial methionine tRNA in the A site, and binds to its corresponding codon. A chemical bond forms between methionine and incoming amino acid. When this bond forms, the methionine is uncoupled from its tRNA in the P site. This chemical bond between two amino acids known as [peptide bond](https://www.genome.gov/genetics-glossary/Peptide), and chain of amino acids referred to as a polypeptide. The latter term usually reserved for cases where there are more than four amino acids, as two amino acids linked together are known as dipeptide; and three amino acids linked together known as tripeptide. After formation of the peptide bond, the mRNA transcript is shifted along the ribosome by one codon. This shifts the empty tRNA into the E site, and the tRNA carrying the dipeptide into the P site. The empty A site exposes a new codon, allowing the elongation process to repeat. 
@@ -62,7 +62,7 @@ Before introducing the concept of a gene promoter, I described DNA as though it 
 |:--:| 
 | *[Figure 3](https://www.genome.gov/genetics-glossary/Promoter).* RNA polymerase binding to a gene promoter. Courtesy: National Human Genome Research Institute |
 
-
+<br>
 ### Regulation after transcription: mRNA processing 
 Regulation of transcription occurs even after the synthesis of mRNA. I have explained genes as a contiguous stretch of DNA entirely dedicated to encoding an amino acid sequence. In fact, genes have regions of non-coding DNA scattered through them too! Regions of coding DNA within a gene are called [exons](https://www.genome.gov/genetics-glossary/Exon), and non-coding regions are known as [introns](https://www.genome.gov/genetics-glossary/Intron) (figure 4). Before an mRNA transcript can be translated, the introns need to be removed and the exons need to be pasted together in a process known as [splicing](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-eukaryotes/a/regulation-after-transcription), so that a contiguous polypeptide chain can be produced. The parcellation of genes into exons and introns can be exploited to create different amino acid sequence variations from a single gene in a process known as [alternative splicing](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-eukaryotes/a/regulation-after-transcription).
 
@@ -70,6 +70,7 @@ Regulation of transcription occurs even after the synthesis of mRNA. I have expl
 |:--:| 
 | *[Figure 4](https://www.genome.gov/genetics-glossary/Exon).* Introns are removed and exons are pasted together during splicing. Courtesy: National Human Genome Research Institute |
 
+<br>
 In this blog, we delved into the processes that convert genetic information into biological processes, and how these processes are regulated. The next blog will explore the mechanism responsible for DNA sequence variation, how these mechanisms can impact protein coding, and how this manifests as phenotypic variation in humans. 
 
 ### Take-home points:  
