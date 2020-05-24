@@ -37,7 +37,7 @@ I’ve been using the term genetics to refer to the instructions responsible for
 |:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid).* Structure of DNA. Courtesy: National Human Genome Research Institute |
 
-
+<br>
 If humans all have DNA, how is there so much diversity in the human population? It is the ordering of the [base pairs](https://www.genome.gov/genetics-glossary/Base-Pair) along DNA that encodes variation! It is helpful to draw an analogy between DNA and a book: the ordering of letters within a book is important for forming different words, and different combinations of words conveys different information. The amount of information encoded in human DNA is astounding: our full set of DNA ([genome](https://www.genome.gov/genetics-glossary/Genome)) is ~3,289,000,000 base pairs long!
 
 ### Genes and Alleles 
@@ -48,7 +48,6 @@ Just as different genes encode different traits through variation in base pair s
 | <img src="/images/blogs/genetics/first-blog/gene.jpg" alt="Gene" title="Gene" width="900"> |
 |:--:| 
 | *[Figure 2](https://www.genome.gov/genetics-glossary/Gene).* Representation of a gene. Courtesy: National Human Genome Research Institute  |
-
 
 ### Chromosomes
 There are many levels of organization within the human genome. The entire 3,289,000,000 base pairs don’t exist as a single DNA molecule but as 46 distinct packages called [chromosomes](https://www.genome.gov/genetics-glossary/Chromosome). In our analogy, chromosomes are like the chapters of the book. Together these 46 chromosomes form 23 pairs (figure 3). The 23rd pair are known as the sex chromosomes, which determine the sex of a person (distinct from gender). Females have two X chromosomes, and males have one X chromosome and one Y chromosome. 
