@@ -35,7 +35,7 @@ Once mRNA reaches the cytoplasm, the genetic information encoded in the base seq
 
 The biological machinery responsible for converting codons into amino acids is known as the [ribosome](https://www.genome.gov/genetics-glossary/Ribosome). The ribosome itself is a large, complex molecule composed of two subunits (one large and one small). The ribosome facilitates this conversion by matching each codon on the mRNA molecule with its corresponding amino acid. The amino acid is transferred to the ribosome by another RNA molecule, aptly named [transfer RNA](https://www.genome.gov/genetics-glossary/Transfer-RNA) (tRNA). Along with a specific amino acid, each tRNA molecule has an important region called the [anticodon](https://www.genome.gov/genetics-glossary/Anticodon), which is a set of three bases that are complementary to the codon encoding the amino acid attached to the tRNA. 
 
-| <img src="/images/blogs/genetics/second-blog/codons.jpg" alt="Codons" title="Codons" width="900"
+| <img src="/images/blogs/genetics/second-blog/codons.jpg" alt="Codons" title="Codons" width="900"> |
 |:--:| 
 | *[Table 1](https://cnx.org/contents/GFy_h8cu@9.87:QEibhJMi@8/The-Genetic-Code).* Conversion between codons and amino acids. Courtesy: Openstax CNX |
 
@@ -55,14 +55,14 @@ The expression of a gene is initiated when RNA polymerase binds to the gene [pro
 
 Before introducing the concept of a gene promoter, I described DNA as though it only encoded proteins. In fact, only ~1% of DNA encodes proteins (coding DNA). The other 99% of DNA ([non-coding DNA](https://www.genome.gov/genetics-glossary/Non-Coding-DNA)) is essential for the regulation of gene expression, as discussed above. 
 
-| <img src="/images/blogs/genetics/second-blog/promoter.jpg" alt="Promoter" title="Promoter" width="900" |
+| <img src="/images/blogs/genetics/second-blog/promoter.jpg" alt="Promoter" title="Promoter" width="900"> |
 |:--:| 
 | *[Figure 3](https://www.genome.gov/genetics-glossary/Promoter).* RNA polymerase binding to a gene promoter. Courtesy: National Human Genome Research Institute |
 
 ### Regulation after transcription: mRNA processing 
 Regulation of transcription occurs even after the synthesis of mRNA. I have explained genes as a contiguous stretch of DNA entirely dedicated to encoding an amino acid sequence. In fact, genes have regions of non-coding DNA scattered through them too! Regions of coding DNA within a gene are called [exons](https://www.genome.gov/genetics-glossary/Exon), and non-coding regions are known as [introns](https://www.genome.gov/genetics-glossary/Intron) (figure 4). Before an mRNA transcript can be translated, the introns need to be removed and the exons need to be pasted together in a process known as [splicing](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-eukaryotes/a/regulation-after-transcription), so that a contiguous polypeptide chain can be produced. The parcellation of genes into exons and introns can be exploited to create different amino acid sequence variations from a single gene in a process known as [alternative splicing](https://www.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-eukaryotes/a/regulation-after-transcription).
 
-| <img src="/images/blogs/genetics/second-blog/exon.jpg" alt="Exon" title="Exon" width="900" |
+| <img src="/images/blogs/genetics/second-blog/exon.jpg" alt="Exon" title="Exon" width="900"> |
 |:--:| 
 | *[Figure 4](https://www.genome.gov/genetics-glossary/Exon).* Introns are removed and exons are pasted together during splicing. Courtesy: National Human Genome Research Institute |
 
