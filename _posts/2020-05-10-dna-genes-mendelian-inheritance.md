@@ -34,11 +34,10 @@ Having explored the motivation for investigating the relationship between geneti
 I’ve been using the term genetics to refer to the instructions responsible for coding the structure and function of the human body, and all its variation. To be more specific, this is the role of a molecule called deoxyribonucleic acid ([DNA](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid)). DNA is structured like a ladder twisted around its long axis (figure 1), composed of two strands (imagine the side rails of the ladder). This structure is formally known as a [double helix](https://www.genome.gov/genetics-glossary/Double-Helix). Along the length of each strand is a sequence of chemicals called bases. In all living organisms, there are four different bases: adenine (A), thymine (T), guanosine (G) and cytosine (C). The rungs of the ladder are formed by a linkage between two bases, and there are specific rules that govern how these bases link together (pair): (A) can only pair with (G), and (T) can only pair with (C). This means that strands in a DNA molecule are not identical, but mirror images of one another (known as complementary). 
 
 
-
-<div style="text-align:center>
-            <img src="/images/blogs/genetics/first-blog/dna_deoxyribonucleic_acid.jpg" alt="DNA" title="Deoxyribonucleic acid" width="500">                                                                                                                                     </div>
-
+| ![deoxyribonucleic acid](/images/genetics/first-blog/dna_deoxyribonucleic_acid.jpg "Deoxyribonucleic acid") |
+|:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid).* Structure of DNA. Courtesy: National Human Genome Research Institute |
+
 
 
 If humans all have DNA, how is there so much diversity in the human population? It is the ordering of the [base pairs](https://www.genome.gov/genetics-glossary/Base-Pair) along DNA that encodes variation! It is helpful to draw an analogy between DNA and a book: the ordering of letters within a book is important for forming different words, and different combinations of words conveys different information. The amount of information encoded in human DNA is astounding: our full set of DNA ([genome](https://www.genome.gov/genetics-glossary/Genome)) is ~3,289,000,000 base pairs long!
