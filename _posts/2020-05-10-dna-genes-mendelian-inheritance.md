@@ -36,7 +36,7 @@ I’ve been using the term genetics to refer to the instructions responsible for
 
 
 
-| <img src="/images/blogs/genetics/first-blog/dna_deoxyribonucleic_acid.jpg" alt="DNA" title="Deoxyribonucleic acid" width="150" height="100" /> |
+| <img src="/images/blogs/genetics/first-blog/dna_deoxyribonucleic_acid.jpg" alt="DNA" title="Deoxyribonucleic acid" width="300" /> |
 |:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid).* Structure of DNA. Courtesy: National Human Genome Research Institute |
 
