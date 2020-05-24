@@ -22,7 +22,7 @@ After this RNA copy is synthesized, it is transported from inside the [nucleus](
 
 Because the RNA copy is shuttled from one cell compartment to another, it is known as [messenger RNA](https://www.genome.gov/genetics-glossary/messenger-rna) (mRNA). This is to distinguish it from the other types of RNA, some of which will be discussed later in this blog. 
 
-| <img src="/images/blogs/genetics/second-blog/transcription.jpg" alt="Transcription" title="Transcription" width="400"> |
+| <img src="/images/blogs/genetics/second-blog/transcription.jpg" alt="Transcription" title="Transcription" width="900"> |
 |:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Transcription).* Overview of transcription. Courtesy: National Human Genome Research Institute |
 
