@@ -45,7 +45,7 @@ If DNA contains the full set of instructions encoding every characteristic ([tra
 Just as different genes encode different traits through variation in base pair sequence, variations in a single trait like eye colour are also due to differences in sequence. The gene encoding blue eye colour is largely identical to the gene encoding brown eye colour, only differing at specific points along the sequence. These different versions of a gene are known as [alleles](https://www.genome.gov/genetics-glossary/Allele). 
 
 
-| ![gene](/images/blogs/genetics/first-blog/gene.jpg "Gene") |
+| <img src="/images/blogs/genetics/first-blog/gene.jpg" alt="Gene" title="Gene" width="900"> |
 |:--:| 
 | *[Figure 2](https://www.genome.gov/genetics-glossary/Gene).* Representation of a gene. Courtesy: National Human Genome Research Institute  |
 
@@ -54,7 +54,7 @@ Just as different genes encode different traits through variation in base pair s
 There are many levels of organization within the human genome. The entire 3,289,000,000 base pairs don’t exist as a single DNA molecule but as 46 distinct packages called [chromosomes](https://www.genome.gov/genetics-glossary/Chromosome). In our analogy, chromosomes are like the chapters of the book. Together these 46 chromosomes form 23 pairs (figure 3). The 23rd pair are known as the sex chromosomes, which determine the sex of a person (distinct from gender). Females have two X chromosomes, and males have one X chromosome and one Y chromosome. 
 Under a microscope, each pair of chromosomes have a unique banding pattern. These bands correspond (roughly) to genes organized along the length of each chromosome. The genes at each location are identical but aren’t necessarily the same version (allele). In other words, each pair of chromosomes contains the same genes at the same location. This means that we have two copies of every gene, not just one. The fact that we have two copies of every gene has important implications for reproduction 
 
-| ![karyotype](/images/blogs/genetics/first-blog/karyotype.jpg "Karyotype") |
+| <img src="/images/blogs/genetics/first-blog/karyotype.jpg" alt="Karyotype" title="Karyotype" width="900"> |
 |:--:| 
 | *[Figure 3](https://www.genome.gov/genetics-glossary/Karyotype).* Example of a human karyotype. Courtesy: National Human Genome Research Institute |
 
@@ -64,7 +64,7 @@ Offspring are the product of both parents in that they receive genetic informati
 
 The chromosome that each parent contributes from a pair is random, and because each chromosome contains a particular allele, the resulting combination of alleles in the offspring is also random. We can view the possible outcomes of this process in a diagram known as a [Punnett square](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-introduction-to-heredity/a/probabilities-in-genetics) (figure 4). In this example, we are considering the possible outcomes from two parents who each have two different alleles for the gene A. By convention different alleles are denoted by upper- and lower-case letters (for gene A, these are A and a). 
 
-| ![punnett square](/images/blogs/genetics/first-blog/punnett-square.jpg "Punnett Square") |
+| <img src="/images/blogs/genetics/first-blog/punnett-square.jpg" alt="Karyotype" title="Karyotype" width="900"> |
 |:--:| 
 | *[Figure 4](https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-introduction-to-heredity/a/probabilities-in-genetics).* Example of a punnett square. Courtesy: Khan Academy |
 
@@ -76,7 +76,8 @@ For each parent, the probability of either the A or a allele being passed down t
 
 These different combinations of alleles are referred to as [genotype](https://www.genome.gov/genetics-glossary/genotype). Offspring who have inherited two identical alleles (either AA or aa) are referred to as [homozygous](https://www.genome.gov/genetics-glossary/homozygous), and individuals to have inherited two different alleles (Aa) are referred to as [heterozygous](https://www.genome.gov/genetics-glossary/heterozygous). The trait expressed as a result of a genotype is known as a [phenotype](https://www.genome.gov/genetics-glossary/Phenotype). As mentioned above, the relationship between genes and traits (or genotype and phenotype) is not straightforward. Let’s go through a typical example (figure 5). In this example, we are looking at the gene W, which encodes wing shape in flies. The W gene has two alleles (W and w), and can form three different genotypes (WW, Ww and ww). From figure 5 we can see that flies with the genotypes WW and Ww have normal wings, and that flies with the genotype ww have wrinkled wings. We can simplify this inheritance pattern by recognizing that any fly who has inherited the W allele will have normal wings, and that a fly without a W allele (i.e. ww) will have wrinkled wings. The pattern of inheritance for the wrinkled wing phenotype is known as [recessive](https://www.genome.gov/genetics-glossary/Recessive) – the trait will only be expressed in the absence of the W allele. Alternatively, the inheritance of the normal wing phenotype is known as [dominant](https://www.genome.gov/genetics-glossary/Dominant) – the presence of the W allele masks the presence of the w allele. 
 
-| ![phenotype](/images/blogs/genetics/first-blog/phenotype.jpg "Phenotype") |
+
+| <img src="/images/blogs/genetics/first-blog/phenotype.jpg" alt="Phenotype" title="Phenotype" width="900"> |
 |:--:| 
 | *[Figure 5](https://www.genome.gov/genetics-glossary/Phenotype).* Relationship between allele, genotype and phenotype in a fly for the *W* gene.  Courtesy: National Human Genome Research Institute | 
 
