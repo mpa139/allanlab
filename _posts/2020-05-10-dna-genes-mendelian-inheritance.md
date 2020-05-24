@@ -33,7 +33,7 @@ Having explored the motivation for investigating the relationship between geneti
 ### DNA
 I’ve been using the term genetics to refer to the instructions responsible for coding the structure and function of the human body, and all its variation. To be more specific, this is the role of a molecule called deoxyribonucleic acid ([DNA](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid)). DNA is structured like a ladder twisted around its long axis (figure 1), composed of two strands (imagine the side rails of the ladder). This structure is formally known as a [double helix](https://www.genome.gov/genetics-glossary/Double-Helix). Along the length of each strand is a sequence of chemicals called bases. In all living organisms, there are four different bases: adenine (A), thymine (T), guanosine (G) and cytosine (C). The rungs of the ladder are formed by a linkage between two bases, and there are specific rules that govern how these bases link together (pair): (A) can only pair with (G), and (T) can only pair with (C). This means that strands in a DNA molecule are not identical, but mirror images of one another (known as complementary). 
 
-| <img src="/images/blogs/genetics/first-blog/dna_deoxyribonucleic_acid.jpg" alt="Deoxyribonucleic acid" title="Deoxyribonucleic acid" width="1200"> |
+| <img src="/images/blogs/genetics/first-blog/dna_deoxyribonucleic_acid.jpg" alt="Deoxyribonucleic acid" title="Deoxyribonucleic acid" width="900"> |
 |:--:| 
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid).* Structure of DNA. Courtesy: National Human Genome Research Institute |
 <br>
