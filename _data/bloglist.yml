@@ -1,0 +1,18 @@
+- title: "Genetics"
+  image: dna.jpeg
+  description: An introduction to some fundamental concepts and terminlogy
+  authors: LZJ Williams
+  link:
+    url: https://metrics-lab.github.io/2020/05/10/dna-genes-mendelian-inheritance.html
+    display:  Genetics I: DNA, Genes & Mendelian Inheritance
+  highlight: 1
+
+
+- title: "Genetics"
+  image: transcription.jpeg
+  description: An overview of the processes involved in converting genetic information into biological processes
+  authors: LZJ Williams
+  link:
+    url: https://metrics-lab.github.io/2020/05/22/gene-expression.html
+    display:  Genetics II: Gene Expression
+  highlight: 1
