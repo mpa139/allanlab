@@ -17,9 +17,9 @@ We run tutorials on a variety of topics including machine learning, medical imag
 
 [Gaussian Processes models in developmental neuroimaging​](https://github.com/metrics-lab/talks_and_tutorials/blob/master/GaussianProcessModels_in_Developmentalneuroimaging.pdf)
 
-[Cortical surface mesh modelling and fMRI analysis](https://github.com/metrics-lab/talks_and_tutorials/blob/master/cortical_surface_imaging_and_fMRI_analysis.pdf
+[Cortical surface mesh modelling and fMRI analysis](https://github.com/metrics-lab/talks_and_tutorials/blob/master/cortical_surface_imaging_and_fMRI_analysis.pdf)
 
-[Using Animal Models in Perinatal Brain Research](https://github.com/metrics-lab/talks_and_tutorials/blob/master/Animal_Models_Of_Perinatal_Research%20%2B%20Preclinical_Imaging%20-%20Sept2019.pdf
+[Using Animal Models in Perinatal Brain Research](https://github.com/metrics-lab/talks_and_tutorials/blob/master/Animal_Models_Of_Perinatal_Research%20%2B%20Preclinical_Imaging%20-%20Sept2019.pdf)
 
 [Registration with Deep Learning]({{ site.baseurl }}/downloads/DLRegistration_2019_10_28.pdf)
 
