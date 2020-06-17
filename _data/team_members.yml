@@ -20,10 +20,11 @@
 
 - name: Koen M Bastiaans
   photo: Koen.jpg
-  info: PhD Student, started Sep 2015
+  info: Postdoc, started Sep 2015
   email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  number_educ: 2
+  education1: PhD with Milan Allan, Leiden University
+  education2: Master Leiden University with Milan Allan
 
 - name: Damianos Chatzopoulos
   photo: Damianos.jpg
