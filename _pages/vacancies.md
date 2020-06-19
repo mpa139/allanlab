@@ -14,13 +14,13 @@ You will have the chance to work on grand challenges in the field immunoregulati
 
 ### Current open positions
 
-####[Research Assistant in the Roychoudhuri Lab at the University of Cambridge Department of Pathology](http://www.jobs.cam.ac.uk/job/26099/)####
+###[Research Assistant in the Roychoudhuri Lab at the University of Cambridge Department of Pathology](http://www.jobs.cam.ac.uk/job/26099/)###
 We are looking to recruit a qualified and highly motivated Research Assistant to undertake and support our research in cancer immunology and inflammation at the University of Cambridge Department of Pathology; Deadline 31st July. 
 
 
-####[CRUK Cambridge Cancer Centre PhD programme studentship](https://crukcambridgecentre.org.uk/research/programmes/cellular-and-molecular-biology)####
+###[CRUK Cambridge Cancer Centre PhD programme studentship](https://crukcambridgecentre.org.uk/research/programmes/cellular-and-molecular-biology)###
 
-####[Department of Pathology PhD Programme](https://www.path.cam.ac.uk/graduate/fully-funded-studentships)####
+###[Department of Pathology PhD Programme](https://www.path.cam.ac.uk/graduate/fully-funded-studentships)###
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:rr257@cam.ac.uk). State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. If you are applying to a specific advertisement, note this in your email.
