@@ -9,7 +9,7 @@ permalink: /contact
 
 The laboratory is located at the [Immunology Division](https://www.path.cam.ac.uk/directory/immunology-division) at the [Department of Pathology](https://www.path.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk).<br><br> 
 
-**Our location is:**<br>
+**We are located at:**<br>
 <br>
 Roychoudhuri Lab,<br>
 Division of Immunology,<br>
