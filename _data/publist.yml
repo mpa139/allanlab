@@ -68,4 +68,14 @@
     display: IEEE TMI Sept 2020
   highlight: 1
   news2:
+  
+- title: "Fetal whole heart blood flow imaging using 4D cine MRI. "
+  image: flow.gif
+  description:
+  authors: TA Roberts, JFP van Amerom, A Uus, ..., M Deprez, JV Hajnal
+  link:
+    url: 
+    display: Nature Communications 2020
+  highlight: 1
+  news2:
 
