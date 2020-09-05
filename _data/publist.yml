@@ -19,26 +19,6 @@
   highlight:
   news2:
   
-  - title: "Higher order spherical harmonics reconstruction of fetal diffusion MRI with intensity correction"
-  image: fetal_diffusion.png
-  description:
-  authors: M Deprez, AN Price, D Christiaens, G Lockwood Estrin, L Cordero Grande, J Hutter, A Daducci, JD Tournier, MA Rutherford, S Counsell, M Bach Cuadra, JV Hajnal,
-  link:
-    url: https://doi.org/10.1109/tmi.2019.2943565
-    display: IEEE TMI Apr 2020
-  highlight: 1
-  news2:
-   
-  - title: "Deformable Slice-to-Volume Registration for Motion Correction in Fetal Body MRI "
-  image: fetal-body-dsvr.png
-  description:
-  authors: Alena Uus, Tong Zhang, Laurence Jackson, Mary Rutherford, Joseph V. Hajnal, Maria Deprez
-  link:
-    url: https://doi.org/10.1109/TMI.2020.2974844
-    display: IEEE TMI Sept 2020
-  highlight: 1
-  news2:
-
 - title: "A multi-modal parcellation of human cerebral cortex"
   image: HCPMPM.png
   description:
