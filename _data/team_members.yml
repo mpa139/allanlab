@@ -96,6 +96,15 @@
   education3: 
   education4:  
 
+- name: Hai Le
+  photo: rock.jpg
+  info: PhD student, started October 2020
+  email:  le.hai(at)kcl.ac.uk
+  number_educ: 2
+  education1: King's College London.
+  education2: Current research project is on Characterising abnormal early brain development and links to neuropsychiatric disorders using diffusion MRI and machine learning
+  education3: 
+  education4: 
 
 - name: "This could be you !"
   photo: rock.jpg
