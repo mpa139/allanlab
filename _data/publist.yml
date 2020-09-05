@@ -1,3 +1,23 @@
+- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
+  image: TBG_SL.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  link:
+    url: https://arxiv.org/abs/2008.13766
+    display:  arXiv:2008.13766
+  highlight: 1
+  news2:
+
+- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
+  image: YSR.png
+  description: We report on a peculiar YSR state in Fe(Se,Te) that can be tuned by the tip.
+  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+  link:
+    url: https://arxiv.org/abs/2006.12840
+    display:  arXiv:2006.12840
+  highlight: 1
+  news2:
+
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
   description:
