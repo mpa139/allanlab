@@ -13,7 +13,7 @@
   info: Lab Lead
   email: maria.deprez(at)kcl.ac.uk
   number_educ: 3
-  education1: Expertise Surface to Volume Reconstruction, Image Segmentation, Image reconstruction, machine learning
+  education1: Expertise Motion Correction of Fetal MRI, Image Registration and Segmentation, Spatio-temporal Atlases, Machine Learning
   education2: PhD Imperial College
   education3: Postdoc positions Oxford University, King's College London
 
@@ -72,9 +72,29 @@
   email:  suryava.bhattacharya(at)kcl.ac.uk
   number_educ: 2
   education1: MEng in Biomedical Engineering, King's College London
-  education2: Current research project is on quantitative MRI in fetus
+  education2: Current research project is on Quantitative mapping of developing fetal organs using dynamic MRI and artificial neural networks
   education3: 
   education4:
+  
+- name: Lindsay Munroe
+  photo: Lindsay.jpg
+  info: PhD student, started October 2020
+  email:  lindsay.munroe(at)kcl.ac.uk
+  number_educ: 2
+  education1: BSc Mathematics from St. Andrews University and MSc from Oxford University in Mathematics and Theoretical Computer Science.
+  education2: Current research project is on Mining for iron in the brain: a deep learning approach
+  education3: 
+  education4:
+  
+- name: Yilan Dong
+  photo: 
+  info: PhD student, started October 2020
+  email:  yilan.dong(at)kcl.ac.uk
+  number_educ: 2
+  education1: BSc in Biomedical Engineering, Northwestern UniversityChina and MSc in Healthcare Technologies King's College London.
+  education2: Current research project is on Machine learning to uncover the early origins of neurodevelopmental disorders
+  education3: 
+  education4:  
 
 
 - name: "This could be you !"
