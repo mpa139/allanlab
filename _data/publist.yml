@@ -52,7 +52,7 @@
 - title: "Higher order spherical harmonics reconstruction of fetal diffusion MRI with intensity correction"
   image: fetal_diffusion.png
   description:
-  authors: M Deprez, AN Price, D Christiaens, G Lockwood Estrin, L Cordero Grande, J Hutter, A Daducci, JD Tournier, MA Rutherford, S Counsell, M Bach Cuadra, JV Hajnal,
+  authors: M Deprez, AN Price, D Christiaens, ..., A Daducci, JD Tournier, MA Rutherford, S Counsell, M Bach Cuadra, JV Hajnal
   link:
     url: https://doi.org/10.1109/tmi.2019.2943565
     display: IEEE TMI Apr 2020
