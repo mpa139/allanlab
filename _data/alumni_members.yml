@@ -40,3 +40,14 @@
   education2:
   education3:
   education4:
+
+- name: Freek Groenewoud
+  photo: Freek.jpg
+  info: Fine mechanical engineer (also associated with the FMD)
+  email: Groenewoud@physics.leidenuniv.nl
+  number_educ: 2
+  duration: In the Allan Lab 2018 - 2020
+  education1: Leidse Instrumentmaker School
+  education2: Mechanical Engineer , Hogeschool  Delft
+  education3:
+  education4:
