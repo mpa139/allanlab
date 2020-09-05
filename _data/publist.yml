@@ -26,7 +26,7 @@
   link:
     url: https://doi.org/10.1109/tmi.2019.2943565
     display: IEEE TMI Apr 2020
-  highlight:
+  highlight: 1
   news2:
    
   - title: "Deformable Slice-to-Volume Registration for Motion Correction in Fetal Body MRI "
@@ -36,7 +36,7 @@
   link:
     url: https://doi.org/10.1109/TMI.2020.2974844
     display: IEEE TMI Sept 2020
-  highlight:
+  highlight: 1
   news2:
 
 - title: "A multi-modal parcellation of human cerebral cortex"
