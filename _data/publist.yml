@@ -20,7 +20,7 @@
   news2:
   
   - title: "Higher order spherical harmonics reconstruction of fetal diffusion MRI with intensity correction"
-  image:
+  image: fetal_diffusion.png
   description:
   authors: M Deprez, AN Price, D Christiaens, G Lockwood Estrin, L Cordero Grande, J Hutter, A Daducci, JD Tournier, MA Rutherford, S Counsell, M Bach Cuadra, JV Hajnal,
   link:
@@ -30,7 +30,7 @@
   news2:
    
   - title: "Deformable Slice-to-Volume Registration for Motion Correction in Fetal Body MRI "
-  image:
+  image: fetal-body-dsvr.png
   description:
   authors: Alena Uus, Tong Zhang, Laurence Jackson, Mary Rutherford, Joseph V. Hajnal, Maria Deprez
   link:
