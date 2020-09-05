@@ -33,4 +33,4 @@ Here is a list of open source softwares:
 
 - Pipelines for Neonatal cortical surface extraction are available from the [developing Human Connectome Project (dHCP) github ](https://github.com/DevelopingHCP)
 
-- [SVRTK](https://github.com/SVRTK) - [MIRTK](https://github.com/BioMedIA/MIRTK) based SVR reconstruction
+- [SVRTK](https://svrtk.github.io/) - Reconstruction tools for fetal MRI
