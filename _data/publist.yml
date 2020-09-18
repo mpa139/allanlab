@@ -26,7 +26,16 @@
     url: https://arxiv.org/abs/2006.12840
     display:  arXiv:2006.12840
   highlight: 1
-  news2:
+
+- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+  image: SmartPub.png
+  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
+    display: Nanotechnology 30, 335702 (2019)
+  highlight: 1
+  news1: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
@@ -98,16 +107,6 @@
     url: https://aip.scitation.org/doi/10.1063/1.5043267
     display:  Rev. Sci. Instrum. 89, 093709 (2018)
   highlight: 0
-  news2:
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
   news2:
 
 - title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
