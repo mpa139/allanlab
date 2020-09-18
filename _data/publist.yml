@@ -1,3 +1,13 @@
+- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
+  image: TBG_ARPES.png
+  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
+    display:  PRB 102, 115416
+  highlight: 0
+  news2:
+
 - title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
@@ -25,16 +35,6 @@
   link:
     url: https://arxiv.org/abs/2005.05140
     display:  arXiv:2005.05140
-  highlight: 0
-  news2:
-
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
-  link:
-    url: https://arxiv.org/abs/2005.00362
-    display:  arXiv:2005.00362
   highlight: 0
   news2:
 
