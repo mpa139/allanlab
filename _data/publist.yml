@@ -47,15 +47,15 @@
   highlight: 0
   news2:
 
-- title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
+- title: "Observation of flat bands in twisted bilayer graphene"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
   authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
   link:
-    url: https://arxiv.org/abs/2002.02289
-    display:  arXiv:2002.02289
+    url: https://www.nature.com/articles/s41567-020-01041-x
+    display:  Nature Physics (2020)
   highlight: 1
-  news2:
+  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840">NRC</a>
 
 - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
   image: STS_news.png
