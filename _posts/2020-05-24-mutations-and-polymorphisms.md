@@ -18,7 +18,7 @@ Although the term mutation is commonly used to refer to a rare DNA sequence vari
 | *[Figure 1](https://www.genome.gov/genetics-glossary/Mutation).* Different types of mutations. Courtesy: National Human Genome Research Institute |
 
 <br>
-Some of the more common reasons that mutations occur include: There are number of reasons mutations can occur, including:
+There are number of reasons mutations can occur, including:
 - DNA copying mistakes made during cell division
 - Exposure to ionizing radiation e.g. x-rays 
 - Exposure to chemicals called mutagens e.g. cigarette smoke
