@@ -5,7 +5,7 @@ date:   2020-10-05 20:00
 author: Mariana da Silva 
 excerpt: An introduction to interpretability in deep learning 
 ---
-###What is interpretable deep learning? 
+### What is interpretable deep learning? 
 
 In this series of blogs we look at the rising field of Interpretable Deep Learning, with a focus on computer vision tasks. Before digging into specific methods of interpretability, it is important to understand the motivations behind this hot-topic.
 
@@ -17,7 +17,7 @@ Besides being useful for end-users and even ethical committees and regulatory ag
 
 Owing to these multiple motivations, the field of Interpretable Deep Learning has therefore gained a lot of momentum in recent years. But what is interpretability? 
 
-###Interpretability vs Explainability
+### Interpretability vs Explainability
 
 There is no formal definition of what interpretability in DL entails, or even a common notion of how it is measured and evaluated. **Interpretability** and **explainability** are often used interchangeably in the context of deep learning, although these two terms are not in fact identical: 
 1. **Interpretability** is about the extent to which humans can consistently  predict what is going to happen to a model’s result, given a change in input or in model parameters.
@@ -25,7 +25,7 @@ There is no formal definition of what interpretability in DL entails, or even a 
 
 Even though there is a subtle difference between these two concepts, it is not hard to understand that they are highly related, and that interpretability is a necessary condition to ultimately allow for explainability. Because these two concepts are often used with the same meaning, it is frequent to refer to the result of interpretability methods as **explanations**.
 
-###Types of interpretability
+### Types of interpretability
 
 Methods  of  interpretable  deep  learning  can  be  grouped  into  two  main  categories:  
 1. **Intrinsic interpretability** is achieved with models that are inherently interpretable in their structure. This includes  models  where the decision process can be “followed”, such  as  decision- tree types of models and the use of  attention mechanisms,  and also models with incorporated  interpretability  constraints, such as the learning of disentangled features. These methods are further explained and discussed in Part III of this blog series.
