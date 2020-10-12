@@ -47,21 +47,21 @@ The other class of mutations are point mutation, which describe the substitution
 Despite mutation sounding like a negative thing, not all mutations are bad. In fact, the variation that exists between humans is the result of mutations! But we wouldn’t usually refer to common variations between humans as mutations. Instead, we use the term polymorphism. It is important to distinguish polymorphism from allele: a polymorphism is the variation in DNA at a specific site (locus) in a gene that gives rise to a unique gene variant (allele). The threshold for what defines a common variant differs, but a popular threshold is that the less common variant of a polymorphism must be present in ≥1% of the population. 
 
 ### Single nucleotide polymorphisms 
-The most common type of polymorphism is known as a single nucleotide polymorphism (SNP, pronounced ‘snip’), which occur 1 in 1000 base pairs in the human genome (ref). When describing the frequency of a SNP in the human population, it is usually given in terms of the minor allele (the variant that is less common). Although SNPs can have functional consequences like changes in protein structure, SNPs are more often used as genetic markers in large genetic association studies. The ability to use SNPs as genetic markers is a consequence of a phenomenon known as linkage disequilibrium. But in order to understand linkage disequilibrium, it is important to cover another concept known as crossing over. 
+The most common type of polymorphism is known as a single nucleotide polymorphism (SNP, pronounced ‘snip’), which occur 1 in 1000 base pairs in the human genome. When describing the frequency of a SNP in the human population, it is usually given in terms of the minor allele (the variant that is less common). Although SNPs can have functional consequences like changes in protein structure, SNPs are more often used as genetic markers in large genetic association studies. The ability to use SNPs as genetic markers is a consequence of a phenomenon known as linkage disequilibrium. But in order to understand linkage disequilibrium, it is important to cover another concept known as crossing over. 
 
 | <img src="/images/blogs/genetics/third-blog/snps.jpg" alt="Single nucleotide polymorphism" title="Single nucleotide polymorphism" width="900"> |
 |:--:| 
 | *[Figure 4](https://www.genome.gov/genetics-glossary/Single-Nucleotide-Polymorphisms).* Example of a single nucleotide polymorphism. Courtesy: National Human Genome Research Institute |
 
 ### Crossing over 
-During the formation of egg and sperm cells, paired chromosomes (one inherited from each parent) align so that when the parent cell divides, the total number of chromosomes in the resulting egg or sperm is 23 instead of 46 (figure x). When this pairing occurs, the chromosomes can  become tangled and swap genetic information. This crossing over of genetic information results in new combinations of genetic material on a single chromosome, and is an important cause of genetic and phenotypic variation seen among offspring. 
+During the formation of egg and sperm cells, paired chromosomes (one inherited from each parent) align so that when the parent cell divides, the total number of chromosomes in the resulting egg or sperm is 23 instead of 46 (figure 5). When this pairing occurs, the chromosomes can  become tangled and swap genetic information. This crossing over of genetic information results in new combinations of genetic material on a single chromosome, and is an important cause of genetic and phenotypic variation seen among offspring. 
 
 | <img src="/images/blogs/genetics/third-blog/crossing_over.jpg" alt="Crossing over" title="Crossing over" width="900"> |
 |:--:| 
 | *[Figure 5](https://www.genome.gov/genetics-glossary/Crossing-Over).* Crossing over occurs during the production of germline cells (eggs or sperm). Courtesy: National Human Genome Research Institute |
 
 ### Linkage disequilibrium
-Linkage disequilibrium describes the degree to which a SNP variant is inherited with another SNP variant. If we think about a contiguous stretch of DNA, SNP variants that are closer together are more likely to be inherited together. Alternatively, SNPs that are at opposite ends of the chromosomes are more likely to be uncoupled by crossing over, and inherited independent of one another (linkage equilibrium) (figure). 
+Linkage disequilibrium describes the degree to which a SNP variant is inherited with another SNP variant. If we think about a contiguous stretch of DNA, SNP variants that are closer together are more likely to be inherited together. Alternatively, SNPs that are at opposite ends of the chromosomes are more likely to be uncoupled by crossing over, and inherited independent of one another (linkage equilibrium) (figure 6). 
 
 | <img src="/images/blogs/genetics/third-blog/linkage-disequilibrium.jpg" alt="Linkage disequilibrium" title="Linkage disequilibrium" width="900"> |
 |:--:| 
@@ -69,9 +69,9 @@ Linkage disequilibrium describes the degree to which a SNP variant is inherited 
 
 <br>
 The rate at which linkage disequilibrium in a population reduces is dependent on several factors, including:
-•	Population size
-•	Number of generations for which the population has existed
-•	Number of founding chromosomes in the population
+1. Population size
+2. Number of generations for which the population has existed
+3. Number of founding chromosomes in the population
 
 The last point is a reference to the founder effect, which is the reduction in genetic variation that results when a subset of a large population is used to establish a new colony. It is referring to the variation in a population when it is founded, rather than the total number of chromosomes in an individual or the population. This means that different human sub-populations have different degrees and patterns of LD. African-descent populations are the most ancestral and have smaller regions of linkage disequilibrium. On the other hand, European-descent and Asian-descent populations were created by founder events and therefore have larger regions of linkage disequilibrium. 
 
