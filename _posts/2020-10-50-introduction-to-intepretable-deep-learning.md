@@ -32,7 +32,7 @@ Methods  of  interpretable  deep  learning  can  be  grouped  into  two  main  c
 
 2. **Post-hoc interpretability** refers to the application of methods that analyze a model’s decisions after its training. Examples  of  this include  feature  visualization  and  feature  attribution  methods. 
 
-| <img src="/images/blogs/genetics/second-blog/transcription.jpg" alt="Transcription" title="Transcription" width="900"> |
+| <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 1.** Examples of intrinsic and post-hoc interpretability methods.|
 
