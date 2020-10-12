@@ -12,6 +12,7 @@ Feature attribution methods, or saliency methods, are one of the most popular lo
 | <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 1.** Input image and corresponding saliency maps obtained using two different feature attribution methods on a classification network. When considering the category “dog”, both visualization results show that the network focuses on the face of the dog. Figure source: Selvaraju *et al*. (2016). DOI: 10.1007/s11263-019-01228-7|
+
 <br>
 ### Gradient-based methods
 
