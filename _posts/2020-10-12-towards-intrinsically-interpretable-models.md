@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interpretable Deep Learning Part III: Towards Intrinsically Interpretable Models"
-date:   2020-10-08 20:00
+date:   2020-10-12 20:00
 author: Mariana da Silva 
 ---
 
@@ -20,14 +20,14 @@ In training, the outputs from one capsule (child) are routed to capsules in the 
 Capsule networks are inherently more interpretable networks than traditional neural networks as capsules tend to **encode specific semantic concepts**. Experiments have shown that when trained using the MNIST dataset, different  dimensions  of  the  activity  vector  of  a  capsule  controlled  different features, including scale and thickness, localized part, stroke thickness, and width and translation. 
 
 
-| <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/third-post/figure1-6.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 1.** Experiments on MNIST showed that different dimensions of the capsules are responsible for encoding different characteristics of the digits. Source: [1]|
 
 <br>
 The intrinsic interpretability of CapsNets has been explored for multiple settings, including medical imaging. One main disadvantage of these networks is that they are **highly computationally intensive**, and therefore cannot be applied (at least with the resources available today) to high-resolution or high-dimensional data. 
 
-| <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/third-post/figure2-6.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 2.** Comparison of learned features on the last layer on a convolutional GAN and a convolutional Capsule GAN for image synthesis of cortical axon data. Similar features are shown to be encoded in the same capsule, and different capsules are responsible for capturing qualitatively different features in the images. Source: [2]|
 
@@ -35,7 +35,7 @@ The intrinsic interpretability of CapsNets has been explored for multiple settin
 
 Beta-VAE [3] is a type of variational autoencoder that seeks to discover **interpretable, or disentangled, latent representations**. It modifies VAEs with an adjustable hyperparameter β  that balances latent channel capacity and independence constraints with reconstruction accuracy. In other words, the hyperparameter controls the **emphasis on learning statistically independent latent factors**. On the celeb-A dataset, for example, the β-VAE was shown to discover, in an unsupervised manner, factors that encode skin colour, transition from an elderly to younger, and image saturation. 
 
-| <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/third-post/figure3-6.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 3.** Comparison of disentangling performance of beta-VAE and vanilla VAE. Beta-VAE is capable of learning disentangled factors such as azimuth, emotion and hair, while VAE learns an entangled representation. Source: [3]|
 
@@ -51,7 +51,7 @@ Attention mechanisms in recurrent neural networks can be used as methods of intr
 
 At each time step t the agent receives a small fraction of the entire image, centred around position lt, and uses this information to decide which location to attend to at the next step t + 1.  After a fixed number of  such  steps,  the  agent  makes  a  classification  decision,  receiving  at  this  point  a  scalar  reward determined by its classification accuracy.  The goal of the agent is to maximize these rewards along its trajectory, and by doing so it learns to **attend to the most informative regions** of the image for the task at hand. The path results can therefore be used to “follow” the decisions and create an explanation map of the classification.
 
-| <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/third-post/figure4-6.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 4.** Trajectory taken by the model for classification of Alzheimer’s in three representative brains. By taking this path, the agent attends to regions known to be affected by Alzheimer’s disease, such as the hippocampus, parahippocampal gyrus, lateral ventricles and parietal cortex. Source: [4]|
 
@@ -61,7 +61,7 @@ In order to condition CNNs to be more interpretable, Zhang [5] has proposed a me
 
 The method is initiated by designing templates of part location candidates. Each template T is a matrix with the same size of the feature map and describes the ideal distribution of activation for the feature map when the target mainly triggers a specific unit in the feature map. Given the joint probability of fitting a feature map to a template, the loss of a filter is formulated as the mutual information between the feature map and the templates. The loss encourages a low entropy of spatial distributions of neural activations, i.e. the **filter is encouraged to activate a single location on the feature map**. It also encourages a low entropy of inter-category activations, i. e. **each filter in the conv-layer is assigned to a certain category**, the category c whose images activate the filter the most. If the input image belongs to the target category, then the loss expects the filter’s feature map to match a template well; otherwise, the filter needs to remain inactivated. The study assumes that if a filter repetitively activates various feature-map regions, then it is more likely to describe low-level textures (e.g. colors and edges), instead of high-level parts. 
 
-| <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/third-post/figure5-6.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 5.** Visualization of filters in top layers in interpretable CNNs and in ordinary CNNs. The interpretable CNN is shown to usually encode head parts in its top layers, when trained for classification of animals. Source: [5]|
 
