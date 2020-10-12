@@ -9,7 +9,7 @@ In the previous post I identified different types of interpretability in deep le
 
 Feature attribution methods, or saliency methods, are one of the most popular local explanation methods for the interpretation of tasks of image classification or regression. These post-hoc techniques typically produce a heat-map showing **how important each region or pixel of a particular picture is for its classification**, i.e. which features of the input are most relevant for the resulting model output. In other words, they identify the regions of an image that a model is “looking at” in order to make its prediction. 
 
-| <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/second-post/figure1.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 1.** Input image and corresponding saliency maps obtained using two different feature attribution methods on a classification network. When considering the category “dog”, both visualization results show that the network focuses on the face of the dog. Figure source: Selvaraju *et al*. (2016). DOI: 10.1007/s11263-019-01228-7|
 
@@ -19,7 +19,7 @@ Gradient-based saliency methods are based on the calculation of the gradient (or
 
 The simplest method of gradient-based attribution, simply referred to as **Gradient·Input**, is computed by taking the signed gradients of the output with respect to the input and multiplying them with the input itself. **Integrated gradients**  [1] can be seen as an extension of this method, and are defined as the integral of the gradients from a given baseline to the input image. This baseline is defined by the user and is often chosen to be zero (an all black image). A series of images are linearly interpolated between the baseline and the original image, and the resulting Gradients are summed across this series of interpolated images, as exemplified in Fig. 2.
 
-| <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/second-post/figure2.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 2.** Feature attribution using the Integrated Gradients method on an image of a fireboat. The baseline chosen to calculate the interpolated images is a black image. The resulting saliency map, also shown superimposed over the input image, highlights the pixels comprising the boat's water cannons and jets of water as being the most important to its decision to classify the image in the fireboat category. Figure source: tensorflow.org/tutorials/interpretability/integrated_gradients|
 
@@ -45,7 +45,7 @@ Furthermore, recent work [4] has demonstrated that simple data processing steps 
 
 Another known flaw of these methods is **mode collapse**: these types of gradient-based approaches can often generate high-response outputs even if a non-existing class is requested for explanations, as exemplified in the image below, from a study by [5]: 
 
-| <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/second-post/figure3.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 3.** Comparison of several saliency methods on an image of a wild Tusker. When explaining the ground-truth class ”Tusker”, the methods can localize the object correctly (first row). But when asked to explain a non-existing class (in this case “Cloak”), these approaches can still generate a similar saliency map, or generate dispersive and irregular artifacts. Source: [5]|
 
@@ -53,14 +53,14 @@ In this example it is clear that no cloaks are visible in the image of a Tusker 
 
 Saliency maps may also be vulnerable to **adversarial attacks**, as investigated by Ghobarni et al. [6]. In this study, the authors engineer perturbation noise that does not result in a change of label on the input images, but that can result in saliency maps that shift dramatically to highlight features that would not be considered salient by human perception. In other words, inputs are assigned the same predicted label, yet with very different interpretations. The adversarial attacks are applied to popular gradient-based feature attribution methods, as shown in Fig. 4.
 
-| <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/second-post/figure4.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 4.** Example of adversarial attacks against feature-attribution maps developed by Ghorbani et al. The top row shows the original images and their saliency maps using 3 different methods, considering their true labels (‘Llama’, ‘Monarch’, and ‘Llama’ again). The bottom row shows the perturbed images, with perturbations specifically designed to not change the predicted label. The corresponding saliency maps change completely when the noise is added, showing the fragility of these methods to adversarial attacks. Source: [6]|
 
 Finally, saliency methods may be the state-of-the-art visual attribution method for single class classification tasks and when the inputs contain a single instance of that class, but their performance worsens when dealing with **multi-class prediction**, or when **multiple instances of a class are present in a single data input** (Fig. 5.).
 
 
-| <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
+| <img src="/images/blogs/intepretable-DL/second-post/figure5.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 5.** When applied to images classified as Alzheimer’s Disease (characterized by changes in multiple regions of the brain, as well as high inter-subject variability), post-hoc saliency methods fail to capture all class-relevant features, and produce noisy heatmaps.|
 
