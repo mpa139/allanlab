@@ -47,7 +47,7 @@ Another known flaw of these methods is **mode collapse**: these types of gradien
 
 | <img src="/images/blogs/intepretable-DL/second-post/figure3.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
-| **Figure 3.** Comparison of several saliency methods on an image of a wild Tusker. When explaining the ground-truth class ”Tusker”, the methods can localize the object correctly (first row). But when asked to explain a non-existing class (in this case “Cloak”), these approaches can still generate a similar saliency map, or generate dispersive and irregular artifacts. Source: [5]|
+| **Figure 3.** Comparison of several saliency methods on an image of a wild Tusker. When explaining the ground-truth class ”Tusker”, the methods can localize the object correctly (first row). But when asked to explain a non-existing class (in this case “Cloak”), these approaches can still generate a similar saliency map, or generate dispersive and irregular artifacts. Figure source: [5]|
 
 In this example it is clear that no cloaks are visible in the image of a Tusker elephant in the wild. However, computing an attribution map using a target of interest that is not present in the image results in heatmaps that are similar to the ones computed for the true class, for popular saliency methods such as CAM and Guided Back Propagation.
 
