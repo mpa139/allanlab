@@ -35,6 +35,7 @@ Methods  of  interpretable  deep  learning  can  be  grouped  into  two  main  c
 | <img src="/images/blogs/intepretable-DL/Interpretable-DL.jpg" alt="Interpretable-DL" title="Interpretable-DL" width="900"> |
 |:--:| 
 | **Figure 1.** Examples of intrinsic and post-hoc interpretability methods.|
+<br>
 
 With further subsets, they can be classified based on their scope:
 1. **Global interpretability**: understanding how the model makes decisions, based on an integrated analysis of its structure and learned parameters. 
