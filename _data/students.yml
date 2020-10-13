@@ -8,3 +8,10 @@
   education3: Skills- Deep learning and Medical image processing
   education4: Interests- Biomimicry in deep learning and unravelling the mysteries of the brain
 
+- name: Helena Sousa
+  photo: Helena.jpg
+  info: MSc Student
+  email: helena.sousa(at)kcl.ac.uk
+  number_educ: 2
+  education1: BSc in Biomedical Engineering and Biophysics from Faculty of Sciences of the University of Lisbon
+  education2: Current master thesis project focuses on MRI image-to-image translation of neonate's brain scans using deep generative models
