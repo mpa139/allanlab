@@ -97,7 +97,7 @@
   education4:  
 
 - name: Hai Le
-  photo: rock.jpg
+  photo: metrics.jpg
   info: PhD student, started October 2020
   email:  le.hai(at)kcl.ac.uk
   number_educ: 2
@@ -117,7 +117,7 @@
   education4: 
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: metrics.jpg
   info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
   email: emma.robinson[at]kcl.ac.uk
   number_educ: 0
