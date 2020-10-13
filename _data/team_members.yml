@@ -105,6 +105,16 @@
   education2: Current research project is on Characterising abnormal early brain development and links to neuropsychiatric disorders using diffusion MRI and machine learning
   education3: 
   education4: 
+  
+- name: Simon Dahan
+  photo: Simon.jpg
+  info: PhD student, started October 2020
+  email:  simon.dahan(at)kcl.ac.uk
+  number_educ: 3
+  education1: Engineering Master’s Degree in Computer Science at Télécom Paris
+  education2: MSc in Artificial Intelligence & Machine Learning at Imperial College London
+  education3: Current research project is on applying deep learning on brain surfaces from fMRI data to predict brain states for preterm infants.
+  education4: 
 
 - name: "This could be you !"
   photo: rock.jpg
