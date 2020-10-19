@@ -1,3 +1,13 @@
+- name: Ezequiel Ortiz
+  photo: zeke.jpg
+  info: MSc Student
+  email: ezequiel.ortiz(at)kcl.ac.uk
+  number_educ: 4
+  education1: Biomedical Engineering Beng at Kings
+  education2: Spacio-temporal deep learning with spiking neural networks 
+  education3: Skills- Deep learning and Medical image processing
+  education4: Interests- Biomimicry in deep learning and unravelling the mysteries of the brain
+
 - name: Helena Sousa
   photo: Helena.jpg
   info: MSc Student
