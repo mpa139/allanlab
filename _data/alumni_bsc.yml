@@ -1,1 +1,11 @@
 #- name: 
+- name: Shaheim Ogbomo-Harmitt
+  photo: Shaheim.jpg
+  info: BSc Student
+  email: shaheim.ogbomo-harmitt(at)kcl.ac.uk
+  number_educ: 4
+  education1: Biomedical Engineering BEng at KCL
+  education2: BSc project: Discovering Biomarkers for Preterm Birth from Multimodal Imaging using Stacked Generalisation
+  education3: Currently pursuing a fully-funded MRes in Biomedical and Translational Sciences and a PhD in Biomedical Engineering at KCL.
+  education4: Research focus is on applying machine learning into neuro- and cardiac imaging.
+
