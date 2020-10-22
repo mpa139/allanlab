@@ -18,5 +18,3 @@ permalink: /vacancies/
 
 Interesting in developing novel algorithms for:
 1. [Machine learning enabled assessment of brain development in fetuses with congenital heart disease](https://kcl-mrcdtp.com/wp-content/uploads/sites/201/2020/10/Theme-4-Project-Catalogue-2021-Entry.pdf). Click [here](https://kcl-mrcdtp.com/studentships/mrc-dtp-studentships/application-process/#) for information on how to apply!
-2.  [Deep Learning prediction of brain states from fMRI](https://www.imagingcdt.com/project/reading-minds-with-deep-learning-predicting-behavioural-states-from-functional-imaging-data/) 
-3. [Detecting neurological disease through deep generative modelling of the developing brain](https://www.imagingcdt.com/project/detecting-neurological-disease-through-deep-generative-modelling-of-the-developing-brain/)
