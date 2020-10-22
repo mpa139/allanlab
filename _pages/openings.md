@@ -12,8 +12,11 @@ permalink: /vacancies/
 
 3 Year Research Associate position in [Deep Learning driven surface to volume brain registration](https://my.corehr.com/pls/kingrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=024287) In collaboration with [Wellcome Centre for Integrative Neuroimaging](https://www.ndcn.ox.ac.uk/divisions/fmrib) Oxford University and the Donders Institute
 
+
+
 ### Applications for PhD and Postdoc positions
 
 Interesting in developing novel algorithms for:
-1.  [Deep Learning prediction of brain states from fMRI](https://www.imagingcdt.com/project/reading-minds-with-deep-learning-predicting-behavioural-states-from-functional-imaging-data/) 
-2. [Detecting neurological disease through deep generative modelling of the developing brain](https://www.imagingcdt.com/project/detecting-neurological-disease-through-deep-generative-modelling-of-the-developing-brain/)
+1. [Machine learning enabled assessment of brain development in fetuses with congenital heart disease](https://kcl-mrcdtp.com/wp-content/uploads/sites/201/2020/10/Theme-4-Project-Catalogue-2021-Entry.pdf). Click [here](https://kcl-mrcdtp.com/studentships/mrc-dtp-studentships/application-process/#) for information on how to apply!
+2.  [Deep Learning prediction of brain states from fMRI](https://www.imagingcdt.com/project/reading-minds-with-deep-learning-predicting-behavioural-states-from-functional-imaging-data/) 
+3. [Detecting neurological disease through deep generative modelling of the developing brain](https://www.imagingcdt.com/project/detecting-neurological-disease-through-deep-generative-modelling-of-the-developing-brain/)
