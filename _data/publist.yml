@@ -1,3 +1,12 @@
+- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
+  image: TBG_ARPES.png
+  description:
+  link:
+    url: https://www.nature.com/articles/s41378-020-00209-y
+    display:  Microsyst Nanoeng 6, 99 (2020)
+  highlight: 0
+  news2:
+
 - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
   image: TBG_ARPES.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
@@ -14,7 +23,7 @@
   authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
   link:
     url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766
+    display:  arXiv:2008.13766 (2020)
   highlight: 1
   news2:
 
@@ -24,7 +33,7 @@
   authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
   link:
     url: https://arxiv.org/abs/2006.12840
-    display:  arXiv:2006.12840
+    display:  arXiv:2006.12840 (2020)
   highlight: 1
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
@@ -43,7 +52,7 @@
   authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
   link:
     url: https://arxiv.org/abs/2005.05140
-    display:  arXiv:2005.05140
+    display:  arXiv:2005.05140 (2020)
   highlight: 0
   news2:
 
