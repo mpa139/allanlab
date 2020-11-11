@@ -10,6 +10,11 @@ permalink: /vacancies
 
 **Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship.**
 
+I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the [Marie Curie fellowship] (currently closed, next deadline probably Fall 2021 {{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf).
+
+
+---
+
 We are always looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
@@ -25,7 +30,7 @@ It might be interesting to look at some past job advertisements. While the proje
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+
 
 ### Master projects for Leiden University students
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
