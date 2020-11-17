@@ -1,5 +1,6 @@
 - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
   image: TBG_ARPES.png
+  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
   description:
   link:
     url: https://www.nature.com/articles/s41378-020-00209-y
@@ -13,7 +14,7 @@
   authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416
+    display:  PRB 102, 115416 (2020)
   highlight: 0
   news2:
 
@@ -35,16 +36,6 @@
     url: https://arxiv.org/abs/2006.12840
     display:  arXiv:2006.12840 (2020)
   highlight: 1
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
@@ -76,6 +67,15 @@
   highlight: 1
   news2:
 
+- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+  image: SmartPub.png
+  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
+    display: Nanotechnology 30, 335702 (2019)
+  highlight: 1
+  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
 - title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
   image: PbSpub.png
