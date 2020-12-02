@@ -4,7 +4,7 @@ layout: members
 position: Postdoctoral Scientist
 tier: c
 picture: paula.jpg
-email: paula.kuo@babraham.ac.uk
+email: pk516@cam.ac.uk
 pubmed_searchterm: kuo paula [author] 
 ---
 
