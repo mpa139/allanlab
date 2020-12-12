@@ -7,7 +7,7 @@ permalink: /about.html
 ---
 # About
 
-![GitHub Logo](/images/bilab_short_transparent.png)  
+![bilab Logo](/images/bilab_short_transparent.png)  
 The  Building Informatics and Visualization Lab (biLAB) is part of the [Department of Civil and Urban Engineering](https://engineering.nyu.edu/academics/departments/civil-and-urban-engineering) at the [NYU Tandon School of Engineering](https://engineering.nyu.edu/). It focuses on understanding the operational challenges associated with construction and operation of facilities and infrastructure systems in urban settings.
 
 The research team works on information modeling and visualization to quantify the impact of architecture on human experience in the built environment, understand and improve the behaviors of existing/new facilities and civil infrastructure systems for next generation construction, maintenance, and operations. The research team takes advantage of advancements in technology in information modeling and visualization to integrate and provide information that engineers, owners, and facility operators need, at the right level of detail and visual form.
@@ -25,10 +25,10 @@ They work on developing information repositories and visualization platforms to 
 <b>Understanding the context under which Civil Infrastructure Systems (CIS) operate</b>  
 *How sensors and models can be integrated to better understand system behaviors?*  
   
-<b>Healthier building systems</b>
+<b>Healthier building systems</b>  
 *How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*  
   
 <b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
   
-*Tools utilized*: Building information models, data driven methodologies, advanced visualization
+<b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
 
