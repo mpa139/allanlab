@@ -1,4 +1,4 @@
-# Allan Lab Website
+# biLAB NYU forked Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
 
