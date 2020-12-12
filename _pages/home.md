@@ -12,13 +12,43 @@ Building Informatics and Visualization Lab (biLAB) is part of the Department of 
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
+        <li data-target="#carousel" data-slide-to="10"></li>
+        <li data-target="#carousel" data-slide-to="11"></li>
+        <li data-target="#carousel" data-slide-to="12"></li>
+        <li data-target="#carousel" data-slide-to="13"></li>
+        <li data-target="#carousel" data-slide-to="14"></li>
+        <li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bilab_short_transparent.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide4.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide6.jfif" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide7.jfif" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide8.jfif" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide9.jfif" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide10.jfif" alt="Slide 10" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide11.jfif" alt="Slide 11" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide12.jfif" alt="Slide 12" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide13.png" alt="Slide 13" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide14.png" alt="Slide 13" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide15.png" alt="Slide 13" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide16.png" alt="Slide 13" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
