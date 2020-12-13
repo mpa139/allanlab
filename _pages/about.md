@@ -16,19 +16,30 @@ They work on developing information repositories and visualization platforms to 
 
 ## Our Research Domain:
 
-<b>Architecture and Neuroscience</b>  
+<span style="color:blue"><b>Architecture and Neuroscience</b></span>  
 *How can we quantify the impact of architectural design features on human experience? Can we use the findings to improve the design practice for better and healtier experiences in the built environment?*  
   
-<b>Urban Challenges for AEC/FM</b>  
+<span style="color:blue"><b>Urban Challenges for AEC/FM</b></span>  
 *How can the design, construction and facilities management processes be improved to tackle with  the challenges imposed by urban settings?*  
   
-<b>Understanding the context under which Civil Infrastructure Systems (CIS) operate</b>  
+<span style="color:blue"><b>Understanding the context under which Civil Infrastructure Systems (CIS) operate</b></span>  
 *How sensors and models can be integrated to better understand system behaviors?*  
   
-<b>Healthier building systems</b>  
+<span style="color:blue"><b>Healthier building systems</b></span>  
 *How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*  
   
+
+
 <b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
   
 <b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
 
+![Dr.Ergan](/images/semiha2.jpg) The biLab is spearheaded by Prof. Semiha Ergan, Associate Professor of the Department of Civil and Urban Engineering.
+
+[Prof. Ergan's NYU profile](https://engineering.nyu.edu/faculty/semiha-ergan)
+
+[Prof. Ergan on Google Scholar](https://scholar.google.com/citations?user=WYwmI0wAAAAJ&hl=en)
+
+[Prof. Ergan on ResearchGate](https://www.researchgate.net/profile/Semiha_Ergan)
+
+Please check [Job Openings page](/jobopening) for openings in the research group.
