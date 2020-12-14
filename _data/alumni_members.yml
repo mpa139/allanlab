@@ -2,7 +2,7 @@
   photo: Sunnam-150x150.jpg
   duration: "Expected graduation date: May 2019"
   info: "Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent."
-  email: -
+  email: "-"
   number_educ: 1
   education1: <a href="/downloads/ResearchPoster_RaghuramSunnam.pdf">Research poster</a>
   education2:
@@ -13,7 +13,7 @@
   photo: xue-yang3.jpg
   duration: "Graduated: September 2014"
   info: "Research Project: A formal approach to provide information support for troubleshooting of HVAC related problems."
-  email: -
+  email: "-"
   number_educ: 2
   education1: Sheryl worked on developing a formal approach to identify applicable HVAC system components and information requirements that an HVAC mechanic should consider during troubleshooting of indoor air problems, generate the applicable information, and present them to mechanics to better conceive all the clues in relation to the space/system being evaluated.
   education2: <a href="/downloads/Sheryl_Xue-Yang_An-approach-for-diagnosing-HVAC-problems-and-optimizing-control-strategy-during-HVAC-corrective-maintenance-tasks.pdf">Research poster</a>
@@ -24,7 +24,7 @@
   photo: tae-gao1.jpg
   duration: "Graduated: December 2013"
   info: "Research Project: Complete And Accurate As-Built BIM Based On An As-Designed BIM And Progressive Laser Scans."
-  email: -
+  email: "-"
   number_educ: 2
   education1: "Te developed a framework that supports the update of an as-designed BIM into an as-built BIM by incorporating geometric information captured by progressive laser scans.<br>
 The framework is composed of three main parts:<br>
