@@ -193,5 +193,12 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## High school students hosted
+
+Summer 2018:  
+Tina Wong, <b>Stuyvesant High School</b>
+Daniel Gomez, <b>Stuyvesant High School</b>
+
+Summer 2017:
+Connie Tsang, <b>Hunter College High School</b>
+Jason Cheung, <b>Stuyvesant High School</b>

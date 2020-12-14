@@ -8,37 +8,90 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
+- name: Neda Talebzadeh, MS (Project)
   photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
+  info: "Research Project: TBD (May 2019)"
+  email: -
   number_educ: 0
   education1:
 
-- name: Rémi Claessen
+- name: Prateek Khourasia, MS in Computer Science and Engineering (Project)
   photo: rock.jpg
-  info: Master student
-  email: remi.c60000@gmail.com
+  info: "Research Project: Data analysis on building automation systems for system degradation (December 2016)"
+  email: -
   number_educ: 0
   education1:
 
-- name: Maialen Larrazabal Ortego
+- name: Zeyu Meng, MS in Computer Science and Engineering (Project)
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: "Research Project: Data analysis on building automation systems for system efficiencies (December 2016)"
+  email: -
   number_educ: 0
   education1:
 
-- name: Sergio Barquero Pierantoni
+- name: Robert Chiarelli, MS in Computer Science and Engineering (Thesis)
+  photo: Robert Chiarelli.jpg
+  info: "Research Project: Development of a system architecture for customizing BIMs for FM tasks"
+  email: -
+  number_educ: 1
+  education1: "Graduation date: May 2017"
+
+- name: Emanuele Morbidoni, MS in Civil and Urban Engineering (Project)
   photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
+  info: "Research Project: Automated safety compliance checking in BIMs (August 2016)"
+  email: -
   number_educ: 0
   education1:
 
-- name: Evert Stolte
+- name: Rodrigo Barbosa Lima, MS in Civil and Urban Engineering (Thesis)
+  photo: IMG_5070 (2).jpg
+  info: "Research Project: Analysis of construction impact on airport operations"
+  email: -
+  number_educ: 2
+  education1: "Expected graduation date: May 2016"
+  education2: <a href="/downloads/ResearchPoster_Rodrigo.pdf">Research poster</a>
+  
+- name: Luiz Eduardo Da Silva Arruda, MS in Civil and Urban Engineering (Thesis)
+  photo: Luiz.jpg
+  info: "Research Project: Dveloping interactive virtual environments from BIMs for user tests in the built environment"
+  email: -
+  number_educ: 2
+  education1: "Expected graduation date: May 2016"
+  education2: <a href="/downloads/research_poster - v4b.pdf">Research poster</a>
+
+- name: LPriscila Daher Russo Dias, MS in Civil and Urban Engineering (Thesis)
+  photo: priscila.dias.civil.engineer.jfif
+  info: "Research Project: Capturing requirements of facilities management tasks for as-built BIM deliverables"
+  email: -
+  number_educ: 2
+  education1: "Expected graduation date: December 2015"
+  education2: <a href="/downloads/Dias_Priscila_Poster.pdf">Research poster</a>
+
+- name: Naveen D'Souza Lazar, MS in Civil and Urban Engineering
+  photo: Naveen.jpg
+  info: "Research Project: Analysis of renovation challenges in historical landmarks"
+  email: -
+  number_educ: 2
+  education1: "Expected graduation date: December 2015"
+  education2: <a href="/downloads/Naveen-poster.pdf">Research poster</a>
+
+- name: Dhruv Patel, MS in Civil and Urban Engineering (Project)
   photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
+  info: "Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)"
+  email: -
   number_educ: 0
-  education1:
+  education1: 
+
+- name: 
+  photo: rock.jpg
+  info: "Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)"
+  email: -
+  number_educ: 0
+  education1: 
+
+- name: 
+  photo: rock.jpg
+  info: "Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)"
+  email: -
+  number_educ: 0
+  education1: 
