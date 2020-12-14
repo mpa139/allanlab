@@ -10,7 +10,7 @@ permalink: /team/
 
 Positions are available at [PhD](/downloads/Flier-PhD-Ergan_Oct15.pdf) and [PostDoc](/downloads/Flier-Postdoc-Darpa-Ergan.pdf) levels in BiLAB. please contact Prof. Ergan for details.  
 
-![team](/images/research_group.jpeg | width=50)
+![team](/images/research_group.jpeg width=50)
 
 Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-bachelor-students), [High school students hosted](high-school-students-hosted), and [Alumni](#alumni).
 
