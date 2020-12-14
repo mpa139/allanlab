@@ -34,7 +34,9 @@ They work on developing information repositories and visualization platforms to 
   
 <b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
 
-![Dr.Ergan](/images/semiha2.jpg) The biLab is spearheaded by Prof. Semiha Ergan, Associate Professor of the Department of Civil and Urban Engineering.
+![Dr.Ergan](/images/semiha2.jpg){ width=50% }  
+
+The biLab is spearheaded by Prof. Semiha Ergan, Associate Professor of the Department of Civil and Urban Engineering.
 
 [Prof. Ergan's NYU profile](https://engineering.nyu.edu/faculty/semiha-ergan)
 
