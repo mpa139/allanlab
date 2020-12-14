@@ -1,6 +1,6 @@
 - name: Zhengbo Zou
   photo: zz.jpg
-  info: PhD Candidate, expected graduation - December 2020
+  info: PhD Candidate, expected graduation - December 2020 <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>
   email: zzou@nyu.edu
   number_educ: 4
   education1: "Research Project: Impact of construction on urban quality of life"
@@ -10,7 +10,7 @@
 
 - name: Xinran Yu
   photo: Xinran_Yu5.jpg
-  info: PhD Candidate, expected graduation - December 2020
+  info: PhD Candidate, expected graduation - December 2020 <a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&hl=sra">Google Scholar</a>
   email: nyu@nyu.edu
   number_educ: 2
   education1: "Research project: Building-grid interactions and improving demand response in buildings"
