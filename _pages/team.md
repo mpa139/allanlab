@@ -1,19 +1,20 @@
 ---
-title: "Allan Lab - Team"
+title: "Research Group | biLAB"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Research Group biLAB"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Research Group
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+Positions are available at [PhD](/downloads/Flier-PhD-Ergan_Oct15.pdf) and [PostDoc](/downloads/Flier-Postdoc-Darpa-Ergan.pdf) levels in BiLAB. please contact Prof. Ergan for details.  
 
+![team](/images/research_group.jpeg)
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-bachelor-students), [High school students hosted](high-school-students-hosted), and [Alumni](#alumni).
 
-## Staff
+## PhD Student
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
