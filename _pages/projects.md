@@ -11,7 +11,7 @@ permalink: /Projects/
 
 ## Current Projects
 
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -31,4 +31,4 @@ permalink: /Projects/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
-</div>
+</div> -->
