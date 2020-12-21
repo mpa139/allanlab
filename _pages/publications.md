@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "biLAB | Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "biLAB | Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -52,11 +52,19 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Journal and Submitted Papers
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+## Book Chapter
+
+{% for book in site.data.books %}
+
+  {{ book.apa }} <br>
 
 {% endfor %}
