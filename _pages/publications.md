@@ -65,7 +65,7 @@ permalink: /publications/
 
 {% for book in site.data.books %}
 
-  {{ book.apa }} <br>
+  {{ book.apa }} <br />
 
 {% endfor %}
 
@@ -75,7 +75,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf19 }} <br>
+  {{ conf.conf19 }} <br />
 
 {% endfor %}
 
@@ -83,7 +83,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf18 }} <br>
+  {{ conf.conf18 }} <br />
 
 {% endfor %}
 
@@ -91,7 +91,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf17 }} <br>
+  {{ conf.conf17 }} <br />
 
 {% endfor %}
 
@@ -99,7 +99,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf16 }} <br>
+  {{ conf.conf16 }} <br />
 
 {% endfor %}
 
@@ -107,7 +107,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf15 }} <br>
+  {{ conf.conf15 }} <br />
 
 {% endfor %}
 
@@ -115,7 +115,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf14 }} <br>
+  {{ conf.conf14 }} <br />
 
 {% endfor %}
 
@@ -123,7 +123,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf13 }} <br>
+  {{ conf.conf13 }} <br />
 
 {% endfor %}
 
@@ -131,7 +131,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf12 }} <br>
+  {{ conf.conf12 }} <br />
 
 {% endfor %}
 
@@ -139,7 +139,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf10 }} <br>
+  {{ conf.conf10 }} <br />
 
 {% endfor %}
 
@@ -147,7 +147,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf09 }} <br>
+  {{ conf.conf09 }} <br />
 
 {% endfor %}
 
@@ -155,7 +155,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf08 }} <br>
+  {{ conf.conf08 }} <br />
 
 {% endfor %}
 
@@ -163,7 +163,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf07 }} <br>
+  {{ conf.conf07 }} <br />
 
 {% endfor %}
 
@@ -171,7 +171,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf06 }} <br>
+  {{ conf.conf06 }} <br />
 
 {% endfor %}
 
@@ -179,7 +179,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf05 }} <br>
+  {{ conf.conf05 }} <br />
 
 {% endfor %}
 
@@ -187,7 +187,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf04 }} <br>
+  {{ conf.conf04 }} <br />
 
 {% endfor %}
 
@@ -195,7 +195,7 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf02 }} <br>
+  {{ conf.conf02 }} <br />
 
 {% endfor %}
 
@@ -203,6 +203,6 @@ permalink: /publications/
 
 {% for conf in site.data.conference %}
 
-  {{ conf.conf02 }} <br>
+  {{ conf.conf02 }} <br />
 
 {% endfor %}
