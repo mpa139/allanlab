@@ -51,7 +51,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
+  
 ## Journal and Submitted Papers
 
 {% for publi in site.data.publist %}
@@ -60,7 +60,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
+  
 ## Book Chapter
 
 {% for book in site.data.books %}
@@ -68,7 +68,7 @@ permalink: /publications/
   {{ book.apa }} <br />
 
 {% endfor %}
-
+  
 ## Conferences
 
 ### 2019
@@ -195,7 +195,7 @@ permalink: /publications/
 
 {% for conf in site.data.conf03 %}
 
-  {{ conf.conf02 }} <br />
+  {{ conf.conf03 }} <br />
 
 {% endfor %}
 
