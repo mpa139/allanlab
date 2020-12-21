@@ -68,3 +68,141 @@ permalink: /publications/
   {{ book.apa }} <br>
 
 {% endfor %}
+
+## Conferences
+
+### 2019
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf19 }} <br>
+
+{% endfor %}
+
+### 2018
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf18 }} <br>
+
+{% endfor %}
+
+### 2017
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf17 }} <br>
+
+{% endfor %}
+
+### 2016
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf16 }} <br>
+
+{% endfor %}
+
+### 2015
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf15 }} <br>
+
+{% endfor %}
+
+### 2014
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf14 }} <br>
+
+{% endfor %}
+
+### 2013
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf13 }} <br>
+
+{% endfor %}
+
+### 2012
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf12 }} <br>
+
+{% endfor %}
+
+### 2010
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf10 }} <br>
+
+{% endfor %}
+
+### 2009
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf09 }} <br>
+
+{% endfor %}
+
+### 2008
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf08 }} <br>
+
+{% endfor %}
+
+### 2007
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf07 }} <br>
+
+{% endfor %}
+
+### 2006
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf06 }} <br>
+
+{% endfor %}
+
+### 2005
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf05 }} <br>
+
+{% endfor %}
+
+### 2004
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf04 }} <br>
+
+{% endfor %}
+
+### 2003
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf02 }} <br>
+
+{% endfor %}
+
+### 2002
+
+{% for conf in site.data.conference %}
+
+  {{ conf.conf02 }} <br>
+
+{% endfor %}
