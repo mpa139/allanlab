@@ -1,4 +1,9 @@
-# biLAB NYU forked Allan Lab Website
+# biLAB NYU
+
+This is the website of building informatics and visualization lab NYU.
+
+Modified following template:  
+# Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
 
