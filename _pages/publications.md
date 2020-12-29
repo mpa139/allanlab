@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Lorenzo's group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Lorenzo's group -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+<!--(For a full list see [below](#full-list)) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -24,12 +24,12 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well" style="height:320px;">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; margin-top: 15px; margin-bottom: 25px" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -49,8 +49,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
+<!-- <p> &nbsp; </p> -->
 
 ## Full List
 
@@ -58,6 +57,21 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+<button type="button" class="btn btn-success" onclick="location.href = '{{ publi.pdf }}';" style="padding: 3px 6px 3px;margin-left:8px;font-size: 10px;">
+  PDF
+</button>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{ publi.bibid }}" style="padding: 3px 6px 3px;margin-left:8px;font-size: 10px;">
+  Bibtex
+</button>
+<div class="modal fade" id="{{ publi.bibid }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+ <div class="modal-dialog" role="document">
+  <div class="modal-content">
+   <div class="modal-header"> <i> {{ publi.title }} </i> <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+   </div>
+   <div class="modal-body"><p>{{ publi.bibtex | newline_to_br}}</p></div>
+  </div>
+ </div>
+</div>
 
 {% endfor %}
 

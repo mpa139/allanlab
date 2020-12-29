@@ -1,10 +1,91 @@
-- name: Gijsbert Verdoes
-  photo: verdoes.jpg
-  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
+- name: Chunzhi Su, Ph.D. 2018
+  photo: Chunzhi.jpg
+  info: Bringing Modular Concurrency Control to the Next Level, UT Austin
+  now: Google
+  number_educ: 1
+  education1: Shanghai Jiao Tong University
+  
+- name: Trinabh Gupta, Ph.D. 2017
+  photo: Trinabh.jpg
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/63351/GUPTA-DISSERTATION-2017.pdf?sequence=1&isAllowed=y'>Toward practical and private online services</a>, UT Austin
+  now: Assistant Processor, UC Santa Barbara
+  number_educ: 1
+  education1: No idea
+  
+- name: Chao Xie, Ph.D. 2016
+  photo: chao.jpg
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/42014/XIE-DISSERTATION-2016.pdf?sequence=1&isAllowed=y'>High Performance Transactional Storage</a>, UT Austin
+  now: Google
   number_educ: 1
   education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+  
+- name: Manos Kapritsos, Ph.D. 2014
+  photo: mk.png
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/28366/KAPRITSOS-DISSERTATION-2014.pdf?sequence=1&isAllowed=y'>Replicating Multithreaded Services</a>, UT Austin
+  now: Assistant Professor, University of Michigan Ann Arbor
+  number_educ: 1
+  education1: Shanghai Jiao Tong University
+
+- name: Yang Wang, Ph.D. 2014
+  photo: Yang.jpg
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/28370/WANG-DISSERTATION-2014.pdf?sequence=1&isAllowed=y'>Separating Data from Metadata for Robustness and Scalability</a>, UT Austin
+  now: Assistant Professor, The Ohio State University
+  number_educ: 1
+  education1: Tsinghua University
+
+- name: Edmund Wong, Ph.D. 2013
+  photo: Ed.jpeg
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/21358/WONG-DISSERTATION-2013.pdf?sequence=1'>Raising the BAR in Dependable Cooperative Services</a>, UT Austin
+  now: Cisco Meraki
+  number_educ: 1
+  education1: Carnegie Mellon University
+  
+- name: Allen Clement, Ph.D. 2010
+  photo: Allen.jpg
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/ETD-UT-2010-12-2359/CLEMENT-DISSERTATION.pdf?sequence=2&isAllowed=y'>UpRight Fault Tolerance</a>, UT Austin
+  now: Google
+  number_educ: 1
+  education1: Princeton University
+ 
+- name: Harry C. Li, Ph.D. 2009
+  photo: Harry.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/29627/lih92313.pdf?sequence=2&isAllowed=y'>Robust Peer-to-Peer Systems</a>, UT Austin
+  now: Independent Consultant
+  number_educ: 1
+  education1: Brown University
+  
+- name: Jeff Napper, Ph.D. 2008
+  photo: Jeff.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/3966/napperj20737.pdf?sequence=2&isAllowed=y'>Robust Multithreaded Applications</a>, UT Austin
+  now: Cisco
+  number_educ: 1
+  education1: UT Austin
+  
+- name: Jean-Philippe Martin, Ph.D. 2006
+  photo: jp.jpg 
+  info: <a href='https://repositories.lib.utexas.edu/bitstream/handle/2152/2828/martinj80831.pdf?sequence=2&isAllowed=y'>Byzantine Fault Tolerance and Beyond</a>, UT Austin
+  now: Google
+  number_educ: 1
+  education1: EPFL
+
+- name: Jian Yin, Ph.D. 2003
+  photo: rock.jpg 
+  info: Volume Leases - A Scalable Cache-Consistency Framework, UT Austin
+  now: Pacific Northwest National Laboratories
+  number_educ: 1
+  education1: No Idea
+
+- name: Evelyn Tumlin Pierce, 2000
+  photo: Lyn.jpg 
+  info: <a href='https://www.cs.utexas.edu/ftp/techreports/tr01-07.ps.gz'>Self-Adjusting Quorum Systems for Byzantine Fault Tolerance</a>, UT Austin
+  now:
+  number_educ: 1
+  education1: Princeton
+  
+- name: Sriram Rao, Ph.D. 1999
+  photo: Sriram.jpg 
+  info: <a href='https://pdfs.semanticscholar.org/c431/898aad2b2020f0c5e51b22faae1d13a57724.pdf'>Egida - A Toolkit for Low-Overhead Fault Tolerance</a>, UT Austin
+  now: Facebook
+  number_educ: 1
+  education1: No idea
+  

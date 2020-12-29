@@ -1,222 +1,819 @@
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "Obladi: Oblivious Serializable Transactions in the Cloud"
+  image: Obladi.jpg
+  description: Obladi, the first system to provide ACID transactions while also hiding access patterns, turning the demands of supporting transactions on ORAM into a performance opportunity
+  authors: Natacha Crooks, Matthew Burke, Ethan Cecchetti, Sitar Harel, Rachit Agarwal and Lorenzo Alvisi
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics
+    url: https://www.usenix.org/conference/osdi18/presentation/crooks
+    display:  OSDI'18
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 1
-  news2: 
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
-  highlight: 1
-  news2: 
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2: 
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-  
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
   news2:
+  bibid: obladi_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks18Obladi.pdf
+  bibtex: |+
+    @inproceedings {222619,
+    author = {Natacha Crooks and Matthew Burke and Ethan Cecchetti and Sitar Harel and Rachit Agarwal and Lorenzo Alvisi},
+    title = {Obladi: Oblivious Serializable Transactions in the Cloud},
+    booktitle = {13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18)},
+    year = {2018},
+    isbn = {978-1-931971-47-8},
+    address = {Carlsbad, CA},
+    pages = {727--743},
+    url = {https://www.usenix.org/conference/osdi18/presentation/crooks},
+    publisher = {{USENIX} Association},
+    }
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+- title: "Pretzel: Email encryption and provider-supplied functions are compatible"
+  image: Pretzel.jpg
+  description: Pretzel demonstrates that email can be encrypted end-to-end and service providers can still compute over it, at tolerable cost
+  authors: Trinabh Gupta, Henrique Fingler, Lorenzo Alvisi, Michael Walfish
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013) 
+    url: http://doi.acm.org/10.1145/3098822.3098835
+    display:  SIGCOMM'17
+  highlight: 0
+  news2:
+  bibid: pretzel_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/pretzel-sigcomm17.pdf
+  bibtex: |+
+    @inproceedings{Gupta:2017:PEE:3098822.3098835,
+    author = {Gupta, Trinabh and Fingler, Henrique and Alvisi, Lorenzo and Walfish, Michael},
+    title = {Pretzel: Email Encryption and Provider-supplied Functions Are Compatible},
+    booktitle = {Proceedings of the Conference of the ACM Special Interest Group on Data Communication},
+    series = {SIGCOMM '17},
+    year = {2017},
+    isbn = {978-1-4503-4653-5},
+    location = {Los Angeles, CA, USA},
+    pages = {169--182},
+    numpages = {14},
+    url = {http://doi.acm.org/10.1145/3098822.3098835},
+    doi = {10.1145/3098822.3098835},
+    acmid = {3098835},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {encrypted email, linear classifiers, secure two-party computation},
+    }
+
+- title: "Bringing Modular Concurrency Control to the Next Level"
+  image: Bringing.jpg
+  description: Tebaldi, a distributed key-value store that explores new ways to harness the performance opportunity of combining different specialized concurrency control mechanisms
+  authors: Chunzhi Su, Natacha Crooks, Cong Ding, Lorenzo Alvisi and Chao Xie 
+  link:
+    url: http://doi.acm.org/10.1145/3035918.3064031
+    display:  SIGMOD'17
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+  news2:
+  bibid: bringing_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Su17Bringing.pdf
+  bibtex: |+
+    @inproceedings{Su:2017:BMC:3035918.3064031,
+     author = {Su, Chunzhi and Crooks, Natacha and Ding, Cong and Alvisi, Lorenzo and Xie, Chao},
+     title = {Bringing Modular Concurrency Control to the Next Level},
+     booktitle = {Proceedings of the 2017 ACM International Conference on Management of Data},
+     series = {SIGMOD '17},
+     year = {2017},
+     isbn = {978-1-4503-4197-4},
+     location = {Chicago, Illinois, USA},
+     pages = {283--297},
+     numpages = {15},
+     url = {http://doi.acm.org/10.1145/3035918.3064031},
+     doi = {10.1145/3035918.3064031},
+     acmid = {3064031},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {distributed database, modular concurrency control, transaction},
+    }
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+- title: "Seeing Is Believing: A Client-Centric Specification of Database Isolation"
+  image: Seeing.jpg
+  description: "Our approach to isolation is premised on a simple observation: applications view storage systems as black-boxes that transition through a series of states, a subset of which are observed by applications"
+  authors: Natacha Crooks, Youer Pu, Lorenzo Alvisi and Allen Clement
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013) 
+    url: http://doi.acm.org/10.1145/3087801.3087802
+    display:  PODC'17
   highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+  news2:
+  bibid: seeing_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf
+  bibtex: |+
+    @inproceedings{Crooks:2017:SBC:3087801.3087802,
+     author = {Crooks, Natacha and Pu, Youer and Alvisi, Lorenzo and Clement, Allen},
+     title = {Seeing is Believing: A Client-Centric Specification of Database Isolation},
+     booktitle = {Proceedings of the ACM Symposium on Principles of Distributed Computing},
+     series = {PODC '17},
+     year = {2017},
+     isbn = {978-1-4503-4992-5},
+     location = {Washington, DC, USA},
+     pages = {73--82},
+     numpages = {10},
+     url = {http://doi.acm.org/10.1145/3087801.3087802},
+     doi = {10.1145/3087801.3087802},
+     acmid = {3087802},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {acid, cloud storage, concurrency control, consistency, database, distributed storage, distributed systems, eventual consistency, isolation, serializability, transactions, weak consistency},
+    } 
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1    
+- title: "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+  image: Occult.jpg
+  description: Occult, the first scalable, geo-replicated data store that provides causal consistency without the possibility of slowdown cascades, a key obstacle to the deployment at scale
+  authors: Syed Akbar Mehdi, Cody Littley, Natacha Crooks, Lorenzo Alvisi, Nathan Bronson and Wyatt Lloyd
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
+    url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi
+    display:  NSDI'17
   highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+  news2:
+  bibid: occult_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf
+  bibtex: |+
+    @inproceedings {201457,
+    author = {Syed Akbar Mehdi and Cody Littley and Natacha Crooks and Lorenzo Alvisi and Nathan Bronson and Wyatt Lloyd},
+    title = {I Can{\textquoteright}t Believe It{\textquoteright}s Not Causal! Scalable Causal Consistency with No Slowdown Cascades},
+    booktitle = {14th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 17)},
+    year = {2017},
+    isbn = {978-1-931971-37-9},
+    address = {Boston, MA},
+    pages = {453--468},
+    url = {https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi},
+    publisher = {{USENIX} Association},
+    }
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+- title: "TARDiS: A Branch-And-Merge Approach to Weak Consistency"
   image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  description: This paper presents the design, implementation, and evaluation of TARDiS, a transactional key-value store explicitly designed for weakly-consistent systems
+  authors: Natacha Crooks, Youer Pu, Nancy Estrada, Trinabh Gupta, Lorenzo Alvisi and Allen Clement
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: http://doi.acm.org/10.1145/2882903.2882951
+    display:  SIGMOD'16
   highlight: 0
-  news2: 
+  news2:
+  bibid: tardis_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks16Tardis.pdf
+  bibtex: |+
+    @inproceedings{Crooks:2016:TBA:2882903.2882951,
+     author = {Crooks, Natacha and Pu, Youer and Estrada, Nancy and Gupta, Trinabh and Alvisi, Lorenzo and Clement, Allen},
+     title = {TARDiS: A Branch-and-Merge Approach To Weak Consistency},
+     booktitle = {Proceedings of the 2016 International Conference on Management of Data},
+     series = {SIGMOD '16},
+     year = {2016},
+     isbn = {978-1-4503-3531-7},
+     location = {San Francisco, California, USA},
+     pages = {1615--1628},
+     numpages = {14},
+     url = {http://doi.acm.org/10.1145/2882903.2882951},
+     doi = {10.1145/2882903.2882951},
+     acmid = {2882951},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {causal consistency, databases, distributed systems, eventual consistency, geo-distribution, merging, replication, transactions, weak consistency},
+    } 
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: "Scalable and private media consumption with Popcorn"
   image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+  description: We describe the design, implementation, and evaluation of Popcorn, a media delivery system that hides clients’ consumption (even from the content distributor)
+  authors: Trinabh Gupta, Natacha Crooks, Whitney Mulhern, Srinath Setty, Lorenzo Alvisi and Michael Walfish
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh
+    display:  NSDI'16
   highlight: 0
+  news2:
+  bibid: popcorn_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Gupta16Scalable.pdf
+  bibtex: |+
+    @inproceedings {194912,
+    author = {Trinabh Gupta and Natacha Crooks and Whitney Mulhern and Srinath Setty and Lorenzo Alvisi and Michael Walfish},
+    title = {Scalable and Private Media Consumption with Popcorn},
+    booktitle = {13th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 16)},
+    year = {2016},
+    isbn = {978-1-931971-29-4},
+    address = {Santa Clara, CA},
+    pages = {91--107},
+    url = {https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/gupta-trinabh},
+    publisher = {{USENIX} Association},
+    }
+
+- title: "High-Performance ACID via Modular Concurrency Control"
+  image: dummy.png
+  description: Callas, a distributed database system that offers to unmodified, transactional ACID applications the opportunity to achieve a level of performance that can currently only be reached by rewriting all or part of the application in a BASE/NoSQL style
+  authors: Chao Xie, Chunzhi Su, Cody Littley, Lorenzo Alvisi, Manos Kapritsos and Yang Wang
+  link:
+    url: http://doi.acm.org/10.1145/2815400.2815430
+    display:  SOSP'15
+  highlight: 0
+  news2:
+  bibid: callas_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Chao15Callas.pdf
+  bibtex: |+
+    @inproceedings{Xie:2015:HAV:2815400.2815430,
+     author = {Xie, Chao and Su, Chunzhi and Littley, Cody and Alvisi, Lorenzo and Kapritsos, Manos and Wang, Yang},
+     title = {High-performance ACID via Modular Concurrency Control},
+     booktitle = {Proceedings of the 25th Symposium on Operating Systems Principles},
+     series = {SOSP '15},
+     year = {2015},
+     isbn = {978-1-4503-3834-9},
+     location = {Monterey, California},
+     pages = {279--294},
+     numpages = {16},
+     url = {http://doi.acm.org/10.1145/2815400.2815430},
+     doi = {10.1145/2815400.2815430},
+     acmid = {2815430},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+    }
+
+- title: "Salt: Combining ACID and BASE in a Distributed Database"
+  image: dummy.png
+  description: Salt, a distributed database that allows developers to improve the performance and scalability of their ACID applications through the incremental adoption of the BASE approach
+  authors: Chao Xie, Chunzhi Su, Manos Kapritsos, Yang Wang, Navid Yaghmazadeh, Lorenzo Alvisi and Prince Mahajan
+  link:
+    url: https://www.usenix.org/conference/osdi14/technical-sessions/presentation/xie
+    display:  OSDI'14
+  highlight: 0
+  news2:
+  bibid: salt_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Chao14Salt.pdf
+  bibtex: |+
+    @inproceedings {186202,
+    author = {Chao Xie and Chunzhi Su and Manos Kapritsos and Yang Wang and Navid Yaghmazadeh and Lorenzo Alvisi and Prince Mahajan},
+    title = {Salt: Combining {ACID} and {BASE} in a Distributed Database},
+    booktitle = {11th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 14)},
+    year = {2014},
+    isbn = { 978-1-931971-16-4},
+    address = {Broomfield, CO},
+    pages = {495--509},
+    url = {https://www.usenix.org/conference/osdi14/technical-sessions/presentation/xie},
+    publisher = {{USENIX} Association},
+    }
+
+- title: "Lazy Means Smart: Reducing Repair Bandwidth Costs in Erasure-coded Distributed Storage"
+  image: dummy.png
+  description: We propose lazy recovery, a technique to reduce recovery bandwidth demands down to the level of replicated storage
+  authors: Mark Silberstein, Lakshmi Ganesh, Yang Wang, Lorenzo Alvisi, Mike Dahlin
+  link:
+    url: http://doi.acm.org/10.1145/2611354.2611370
+    display:  SYSTOR'14  Best Paper Award!
+  highlight: 0
+  news2:
+  bibid: lazysmart_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Silberstein14Lazy.pdf
+  bibtex: |+
+    @inproceedings{Silberstein:2014:LMS:2611354.2611370,
+     author = {Silberstein, Mark and Ganesh, Lakshmi and Wang, Yang and Alvisi, Lorenzo and Dahlin, Mike},
+     title = {Lazy Means Smart: Reducing Repair Bandwidth Costs in Erasure-coded Distributed Storage},
+     booktitle = {Proceedings of International Conference on Systems and Storage},
+     series = {SYSTOR 2014},
+     year = {2014},
+     isbn = {978-1-4503-2920-0},
+     location = {Haifa, Israel},
+     pages = {15:1--15:7},
+     articleno = {15},
+     numpages = {7},
+     url = {http://doi.acm.org/10.1145/2611354.2611370},
+     doi = {10.1145/2611354.2611370},
+     acmid = {2611370},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {Distributed storage systems, Erasure codes, Repair bandwidth},
+    }
+
+- title: "Exalt: Empowering Researchers to Evaluate Large-Scale Storage Systems"
+  image: dummy.png
+  description: Exalt, a library that gives back to researchers the ability to test the scalability of today’s large storage systems
+  authors: Yang Wang, Manos Kapritsos, Lara Schmidt, Lorenzo Alvisi and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/wang_yang
+    display:  NSDI'14
+  highlight: 0
+  news2:
+  bibid: exalt_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Yang14Exalt.pdf
+  bibtex: |+
+    @inproceedings {179795,
+    author = {Yang Wang and Manos Kapritsos and Lara Schmidt and Lorenzo Alvisi and Mike Dahlin},
+    title = {Exalt: Empowering Researchers to Evaluate Large-Scale Storage Systems},
+    booktitle = {11th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 14)},
+    year = {2014},
+    isbn = {978-1-931971-09-6},
+    address = {Seattle, WA},
+    pages = {129--141},
+    url = {https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/wang_yang},
+    publisher = {{USENIX} Association},
+    }
+
+- title: "What's a Little Collusion Between Friends?"
+  image: dummy.png
+  description: This paper proposes a fundamentally different approach to addressing the challenge posed by colluding nodes to the sustainability of cooperative service
+  authors: Edmund L. Wong and Lorenzo Alvisi
+  link:
+    url: http://doi.acm.org/10.1145/2484239.2484242
+    display: PODC'13
+  news2:
+  bibid: collusion_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong13What.pdf
+  bibtex: |+
+    @inproceedings{Wong:2013:WLC:2484239.2484242,
+     author = {Wong, Edmund L. and Alvisi, Lorenzo},
+     title = {What's a Little Collusion Between Friends?},
+     booktitle = {Proceedings of the 2013 ACM Symposium on Principles of Distributed Computing},
+     series = {PODC '13},
+     year = {2013},
+     isbn = {978-1-4503-2065-8},
+     location = {Montr\&\#233;al, Qu\&\#233;bec, Canada},
+     pages = {240--249},
+     numpages = {10},
+     url = {http://doi.acm.org/10.1145/2484239.2484242},
+     doi = {10.1145/2484239.2484242},
+     acmid = {2484242},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {collusion, cooperative services, game theory, p2p},
+    }
+
+- title: "SoK: The Evolution of Sybil Defense via Social Networks"
+  image: dummy.png
+  description: This paper surveys the evolution of sybil defense protocols that leverage the structural properties of the social graph underlying a distributed system to identify sybil identities
+  authors: Lorenzo Alvisi, Allen Clement, Alessandro Epasto, Silvio Lattanzi and Alessandro Panconesi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6547122
+    display: Oakland'13
+  news2:
+  bibid: sok_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Alvisi13SoK.pdf
+  bibtex: |+
+    @inproceedings{6547122,
+    author={L. Alvisi and A. Clement and A. Epasto and S. Lattanzi and A. Panconesi},
+    booktitle={2013 IEEE Symposium on Security and Privacy},
+    title={SoK: The Evolution of Sybil Defense via Social Networks},
+    year={2013},
+    volume={},
+    number={},
+    pages={382-396},
+    keywords={security of data;social networking (online);SoK framework;social network;sybil defense protocol;sybil identity;random walks theory;community detection algorithm;graph white-listing;Protocols;Communities;Image edge detection;Facebook;Robustness;Detection algorithms},
+    doi={10.1109/SP.2013.33},
+    ISSN={1081-6011},
+    month={May},}
+
+- title: "Robustness in the Salus scalable block store"
+  image: dummy.png
+  description: Salus, a block store that seeks to maximize simultaneously both scalability and robustness
+  authors: Yang Wang, Manos Kapritsos, ZuochengRen, Prince Mahajan, Jeevitha Kirubanandam, Lorenzo Alvisi and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/wang_yang
+    display: NSDI'13
+  news2:
+  bibid: robustness_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Yang13Salus.pdf
+  bibtex: |+
+    @inproceedings {180322,
+    author = {Yang Wang and Manos Kapritsos and Zuocheng Ren and Prince Mahajan and Jeevitha Kirubanandam and Lorenzo Alvisi and Mike Dahlin},
+    title = {Robustness in the Salus Scalable Block Store},
+    booktitle = {Presented as part of the 10th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 13)},
+    year = {2013},
+    isbn = {978-1-931971-00-3},
+    address = {Lombard, IL},
+    pages = {357--370},
+    url = {https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/wang_yang},
+    publisher = {{USENIX}},
+    }
+
+- title: "All about Eve: Execute-Verify Replication for Multi-Core Systems"
+  image: dummy.png
+  description: Eve, a new Execute-Verify architecture that allows state machine replication to scale to multi-core server
+  authors: Manos Kapritsos, Yang Wang, Vivien Quema, Allen Clement, Lorenzo Alvisi and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos
+    display: OSDI'12
+  news2:
+  bibid: eve_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Kapritsos12All.pdf
+  bibtex: |+
+    @inproceedings {180267,
+    author = {Manos Kapritsos and Yang Wang and Vivien Quema and Allen Clement and Lorenzo Alvisi and Mike Dahlin},
+    title = {All about Eve: Execute-Verify Replication for Multi-Core Servers},
+    booktitle = {Presented as part of the 10th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 12)},
+    year = {2012},
+    isbn = {978-1-931971-96-6},
+    address = {Hollywood, CA},
+    pages = {237--250},
+    url = {https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos},
+    publisher = {{USENIX}},
+    }
+
+- title: "Gnothi: Separating Data and Metadata for Efficient and Available Storage Replication"
+  image: dummy.png
+  description: Gnothi, a block replication system that separates data from metadata to provide efficient and available storage replication
+  authors: Yang Wang, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.usenix.org/conference/atc12/technical-sessions/presentation/wang
+    display: USENIX ATC'12
+  news2:
+  bibid: gnothi_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wang12Gnothi.pdf
+  bibtex: |+
+    @inproceedings {181008,
+    author = {Yang Wang and Lorenzo Alvisi and Mike Dahlin},
+    title = {Gnothi: Separating Data and Metadata for Efficient and Available Storage Replication},
+    booktitle = {Presented as part of the 2012 {USENIX} Annual Technical Conference ({USENIX} {ATC} 12)},
+    year = {2012},
+    isbn = {978-931971-93-5},
+    address = {Boston, MA},
+    pages = {413--424},
+    url = {https://www.usenix.org/conference/atc12/technical-sessions/presentation/wang},
+    publisher = {{USENIX}},
+    }
+
+- title: "Regret freedom isn't free"
+  image: dummy.png
+  description: Cooperative, peer-to-peer (P2P) services—distributed systems consisting of participants from multiple administrative domains(MAD) must deal with the threat of arbitrary (Byzantine) failures while incentivizing the cooperation of potentially selfish (rational) nodes that such services rely on to function
+  authors: Edmund L. Wong, Isaac Levy, Lorenzo Alvisi, Allen Clement, and Mike Dahlin
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-25873-2_7
+    display: OPODIS'11
+  news2:
+  bibid: regret_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong11Regret.pdf
+  bibtex: |+
+    @InProceedings{10.1007/978-3-642-25873-2_7,
+    author="Wong, Edmund L.
+    and Levy, Isaac
+    and Alvisi, Lorenzo
+    and Clement, Allen
+    and Dahlin, Mike",
+    editor="Fern{\`a}ndez Anta, Antonio
+    and Lipari, Giuseppe
+    and Roy, Matthieu",
+    title="Regret Freedom Isn't Free",
+    booktitle="Principles of Distributed Systems",
+    year="2011",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="80--95",
+    abstract="Cooperative, peer-to-peer (P2P) services---distributed systems consisting of participants from multiple administrative domains (MAD)---must deal with the threat of arbitrary (Byzantine) failures while incentivizing the cooperation of potentially selfish (rational) nodes that such services rely on to function. This paper investigates how to specify conditions (i.e., a solution concept) for rational cooperation in an environment that also contains Byzantine and obedient peers. We find that regret-free approaches---which, inspired by traditional Byzantine fault tolerance, condition rational cooperation on identifying a strategy that proves a best response regardless of how Byzantine failures occur---are unattainable in many fault-tolerant distributed systems. We suggest an alternative regret-braving approach, in which rational nodes aim to best respond to their expectations regarding Byzantine failures: the chosen strategy guarantees no regret only to the extent that such expectations prove correct. While work on regret-braving solution concepts is just beginning, our preliminary results show that these solution concepts are not subject to the fundamental limitations inherent to regret freedom.",
+    isbn="978-3-642-25873-2"
+    }
+
+- title: "Depot: Cloud Storage with Minimal Trust"
+  image: dummy.png
+  description: Depot, a cloud storage system that minimizes trust assumptions
+  authors: Prince Mahajan, Srinath Setty, Sangmin Lee, Allen Clement, Lorenzo Alvisi, Mike Dahlin, and Michael Walfish
+  link:
+    url: http://doi.acm.org/10.1145/2063509.2063512
+    display: OSDI'10
+  news2:
+  bibid: depot_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Mahajan10Depot.pdf
+  bibtex: |+
+    @article{Mahajan:2011:DCS:2063509.2063512,
+     author = {Mahajan, Prince and Setty, Srinath and Lee, Sangmin and Clement, Allen and Alvisi, Lorenzo and Dahlin, Mike and Walfish, Michael},
+     title = {Depot: Cloud Storage with Minimal Trust},
+     journal = {ACM Trans. Comput. Syst.},
+     issue_date = {December 2011},
+     volume = {29},
+     number = {4},
+     month = dec,
+     year = {2011},
+     issn = {0734-2071},
+     pages = {12:1--12:38},
+     articleno = {12},
+     numpages = {38},
+     url = {http://doi.acm.org/10.1145/2063509.2063512},
+     doi = {10.1145/2063509.2063512},
+     acmid = {2063512},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {Byzantine fault tolerance, Cloud storage, Fork-Join-Causal (FJC) consistency, fork consistency},
+    } 
+
+- title: "It's On Me! The Benefit of Altruism in BAR Environments"
+  image: dummy.png
+  description: Cooperation, a necessity for any peer-to-peer (P2P) cooperative service, is often achieved by rewarding good behavior now with the promise of future benefits
+  authors: Edmund L. Wong, Joshua B. Leners, and Lorenzo Alvisi
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-15763-9_41
+    display: DISC'10
+  news2:
+  bibid: onmealtruism_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Wong10It.pdf
+  bibtex: |+
+    @InProceedings{10.1007/978-3-642-15763-9_41,
+    author="Wong, Edmund L.
+    and Leners, Joshua B.
+    and Alvisi, Lorenzo",
+    editor="Lynch, Nancy A.
+    and Shvartsman, Alexander A.",
+    title="It's on Me! The Benefit of Altruism in BAR Environments",
+    booktitle="Distributed Computing",
+    year="2010",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="406--420",
+    abstract="Cooperation, a necessity for any peer-to-peer (P2P) cooperative service, is often achieved by rewarding good behavior now with the promise of future benefits. However, in most cases, interactions with a particular peer or the service itself eventually end, resulting in some last exchange in which departing participants have no incentive to contribute. Without cooperation in the last round, cooperation in any prior round may be unachievable. In this paper, we propose leveraging altruistic participants that simply follow the protocol as given. We show that altruism is a simple, necessary, and sufficient way to incentivize cooperation in a realistic model of a cooperative service's last exchange, in which participants may be Byzantine, altruistic, or rational and network loss is explicitly considered. By focusing on network-level incentives in the last exchange, we believe our approach can be used as the cornerstone for incentivizing cooperation in any cooperative service.",
+    isbn="978-3-642-15763-9"
+    }
+
+- title: "UpRight Cluster Services"
+  image: dummy.png
+  description: The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services.
+  authors: Allen Clement, Manos Kapritsos, Sangmin Lee, Yang Wang, Lorenzo Alvisi, Mike Dahlin, and Taylor Riché
+  link:
+    url: https://www.sigops.org/s/conferences/sosp/2009/program.html#session7
+    display: SOSP'09
+  news2:
+  bibid: upright_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/clement-sosp09.pdf
+  bibtex: |+
+    @inproceedings{Clement:2009:UCS:1629575.1629602,
+    author = {Clement, Allen and Kapritsos, Manos and Lee, Sangmin and Wang, Yang and Alvisi, Lorenzo and Dahlin, Mike and Riche, Taylor},
+    title = {Upright Cluster Services},
+    booktitle = {Proceedings of the ACM SIGOPS 22Nd Symposium on Operating Systems Principles},
+    series = {SOSP '09},
+    year = {2009},
+    isbn = {978-1-60558-752-3},
+    location = {Big Sky, Montana, USA},
+    pages = {277--290},
+    numpages = {14},
+    url = {http://doi.acm.org/10.1145/1629575.1629602},
+    doi = {10.1145/1629575.1629602},
+    acmid = {1629602},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    abstract="The UpRight library seeks to make Byzantine fault tolerance (BFT) a simple and viable alternative to crash fault tolerance for a range of cluster services. We demonstrate UpRight by producing BFT versions of the Zookeeper lock service and the Hadoop Distributed File System (HDFS). Our design choices in UpRight favor simplifying adoption by existing applications; performance is a secondary con- cern. Despite these priorities, our BFT Zookeeper and BFT HDFS implementations have performance comparable with the originals while providing additional robustness.",
+    keywords = {byzantine fault tolerance, cluster services, reliability}
+    } 
+
+- title: "Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults"
+  image: dummy.png
+  description: The paper demonstrates that existing protocols are dangerously fragile, (2) defines a set of principles for constructing BFT services that remain useful even when Byzantine faults occur, and (3) applies these principles to construct a new protocol, Aardvark.
+  authors: Allen Clement, Mirco Marchetti, Edmund Wong, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.usenix.org/legacy/events/nsdi09/tech/#wed
+    display: NSDI'09
+  news2:
+  bibid: making_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Clement09Making.pdf
+  bibtex: |+
+    @inproceedings{Clement:2009:MBF:1558977.1558988,
+    author = {Clement, Allen and Wong, Edmund and Alvisi, Lorenzo and Dahlin, Mike and Marchetti, Mirco},
+    title = {Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults},
+    booktitle = {Proceedings of the 6th USENIX Symposium on Networked Systems Design and Implementation},
+    series = {NSDI'09},
+    year = {2009},
+    location = {Boston, Massachusetts},
+    pages = {153--168},
+    numpages = {16},
+    url = {http://dl.acm.org/citation.cfm?id=1558977.1558988},
+    acmid = {1558988},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+    } 
+
+
+
+- title: "FlightPath: Obedience vs. Choice in Cooperative Services"
+  image: dummy.png
+  description: FlightPath, a novel peer-to-peer streaming application that provides a highly reliable data stream to a dynamic set of peers using approximate equilibria.
+  authors: Harry C. Li, Allen Clement, Mirco Marchetti, Manos Kapritsos, Luke Robison, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.usenix.org/legacy/events/osdi08/tech/#wed
+    display: OSDI'08
+  news2:
+  bibid: flightpath_bibtex
+  pdf: https://www.usenix.org/legacy/events/osdi08/tech/full_papers/li_h/li_h.pdf
+  bibtex: |+
+    @inproceedings{Li:2008:FOV:1855741.1855766,
+    author = {Li, Harry C. and Clement, Allen and Marchetti, Mirco and Kapritsos, Manos and Robison, Luke and Alvisi, Lorenzo and Dahlin, Mike},
+    title = {FlightPath: Obedience vs. Choice in Cooperative Services},
+    booktitle = {Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation},
+    series = {OSDI'08},
+    year = {2008},
+    location = {San Diego, California},
+    pages = {355--368},
+    numpages = {14},
+    url = {http://dl.acm.org/citation.cfm?id=1855741.1855766},
+    acmid = {1855766},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+    } 
+
+- title: "Matrix Signatures: From MACs to Digital Signatures in Distributed Systems"
+  image: dummy.png
+  description: We present a general implementation for providing the prop- erties of digital signatures using MACs in a system consisting of any number of untrusted clients and n servers, up to f of which are Byzantine.
+  authors: Amitanand S. Aiyer, Lorenzo Alvisi, Rida A. Bazzi, and Allen Clement
+  link:
+    url: http://www.disc-conference.org/disc2008/mirror/index.html
+    display: DISC'08
+  news2:
+  bibid: matrix_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Aiyer08Matrix,
+    author    = {Amitanand S. Aiyer and
+               Lorenzo Alvisi and
+               Rida A. Bazzi and
+               Allen Clement},
+    title     = {Matrix Signatures: From MACs to Digital Signatures in Distributed
+               Systems},
+    booktitle = {Distributed Computing, 22nd International Symposium, {DISC} 2008,
+               Arcachon, France, September 22-24, 2008. Proceedings},
+    pages     = {16--31},
+    year      = {2008},
+    crossref  = {DBLP:conf/wdag/2008},
+    url       = {https://doi.org/10.1007/978-3-540-87779-0\_2},
+    doi       = {10.1007/978-3-540-87779-0\_2},
+    timestamp = {Tue, 13 Jun 2017 10:37:55 +0200},
+    biburl    = {https://dblp.org/rec/bib/conf/wdag/AiyerABC08},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+
+- title: "BAR Primer"
+  image: dummy.png
+  description: The goal of this paper is to demystify the process by presenting the full al- gorithmic development cycle that, starting from the classic synchronous Repeated Terminating Reliable Broadcast (R- TRB) problem statement, leads to a provably BAR-tolerant solution.
+  authors: Allen Clement, Harry Li, Jeff Napper, Jean-Philippe Martin, Lorenzo Alvisi, Mike Dahlin
+  link:
+    url: http://2008.dsn.org
+    display: DSN'08
+  news2:
+  bibid: barprimer_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/clement08Bar.pdf
+  bibtex: |+
+    @INPROCEEDINGS{Clement08Primer,
+    author = {A. Clement and H. Li and J. Napper and J. Martin and L. Alvisi and M. Dahlin},
+    booktitle = {2008 IEEE International Conference on Dependable Systems and Networks With FTCS and DCC (DSN)},
+    title = {BAR primer},
+    year = {2008},
+    volume = {00},
+    number = {},
+    pages = {287-296},
+    keywords={Protocols;Lead;Games;Nash equilibrium;Peer to peer computing;Safety;Conferences},
+    doi = {10.1109/DSN.2008.4630097},
+    url = {doi.ieeecomputersociety.org/10.1109/DSN.2008.4630097},
+    ISSN = {1530-0889},
+    month={June}
+    }
+
+- title: "Zyzzyva: Speculative Byzantine Fault Tolerance"
+  image: dummy.png
+  description: We present Zyzzyva, a protocol that uses speculation to reduce the cost and simplify the design of Byzantine fault tolerant state machine replication.
+  authors: Ramakrishna Kotla, Lorenzo Alvisi, Mike Dahlin, Allen Clement, and Edmund Wong
+  link:
+    url: http://sosp2007.org/index.html
+    display: SOSP'07 Best Paper Award!
+  news2:
+  bibid: zyzzyvasosp_bibtex
+  pdf: http://sosp2007.org/papers/sosp052-kotla.pdf
+  bibtex: |+
+    @inproceedings{Kotla07Zyzzyva,
+    author = {Kotla, Ramakrishna and Alvisi, Lorenzo and Dahlin, Mike and Clement, Allen and Wong, Edmund},
+    title = {Zyzzyva: Speculative Byzantine Fault Tolerance},
+    booktitle = {Proceedings of Twenty-first ACM SIGOPS Symposium on Operating Systems Principles},
+    series = {SOSP '07},
+    year = {2007},
+    isbn = {978-1-59593-591-5},
+    location = {Stevenson, Washington, USA},
+    pages = {45--58},
+    numpages = {14},
+    url = {http://doi.acm.org/10.1145/1294261.1294267},
+    doi = {10.1145/1294261.1294267},
+    acmid = {1294267},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {byzantine fault tolerance, output commit, replication, speculative execution},
+    }
+    
+- title: "Bounded Wait-Free Implementation of Optimally Resilient Byzantine Storage without (Unproven) Cryptographic Assumptions"
+  image: dummy.png
+  description: We present the first optimally resilient, bounded, wait-free implementation of a distributed atomic register, tolerating Byzantine readers and (up to one-third of) Byzantine servers, without the use of unproven cryptographic primitives or requiring communication among servers.
+  authors: Amitanand S. Aiyer, Lorenzo Alvisi, Rida A. Bazzi, and Allen Clement
+  link:
+    url: http://www2.cs.ucy.ac.cy/~disc07/
+    display: DISC'07
+  news2:
+  bibid: bounded_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Aiyer07Bounded,
+    author    = {Amitanand S. Aiyer and
+               Lorenzo Alvisi and
+               Rida A. Bazzi},
+    title     = {Bounded wait-free implementation of optimally resilient byzantine
+               storage without (unproven) cryptographic assumptions},
+    booktitle = {Proceedings of the Twenty-Sixth Annual {ACM} Symposium on Principles
+               of Distributed Computing, {PODC} 2007, Portland, Oregon, USA, August
+               12-15, 2007},
+    pages     = {310--311},
+    year      = {2007},
+    crossref  = {DBLP:conf/podc/2007},
+    url       = {https://doi.org/10.1145/1281100.1281147},
+    doi       = {10.1145/1281100.1281147},
+    timestamp = {Tue, 06 Nov 2018 11:07:18 +0100},
+    biburl    = {https://dblp.org/rec/bib/conf/podc/AiyerAB07},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+
+- title: "The Paxos Register"
+  image: dummy.png
+  description: We introduce the Paxos register to simplify and unify the presentation of Paxos-style consensus protocols. 
+  authors: Harry C. Li, Allen Clement, Amitanand S. Aiyer, and Lorenzo Alvisi
+  link:
+    url: https://dblp.org/db/conf/srds/srds2007
+    display: SRDS'07
+  news2:
+  bibid: bounded_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Li07Paxos,
+    author = {Li, Harry C. and Clement, Allen and Aiyer, Amitanand S. and Alvisi, Lorenzo},
+    title = {The Paxos Register},
+    booktitle = {Proceedings of the 26th IEEE International Symposium on Reliable Distributed Systems},
+    series = {SRDS '07},
+    year = {2007},
+    isbn = {0-7695-2995-X},
+    pages = {114--126},
+    numpages = {13},
+    url = {http://dl.acm.org/citation.cfm?id=1308172.1308227},
+    acmid = {1308227},
+    publisher = {IEEE Computer Society},
+    address = {Washington, DC, USA},
+    } 
+
+- title: "Truth In Advertising: Lightweight Verification of Route Integrity"
+  image: dummy.png
+  description: We design and evaluate a lightweight route verification mechanism that enables a router to discover route failures and inconsistencies between advertised Internet routes and actual paths taken by the data packets.
+  authors: Edmund L. Wong, Praveen Balasubramanian, Lorenzo Alvisi, Mohamed G. Gouda, Vitaly Shmatikov
+  link:
+    url: https://www.podc.org/podc2007/
+    display: PODC'07
+  news2:
+  bibid: truth_bibtex
+  pdf: http://www.cs.cornell.edu/lorenzo/papers/Aiyer08Matrix.pdf
+  bibtex: |+
+    @inproceedings{Wong07Truth,
+    author = {Wong, Edmund L. and Balasubramanian, Praveen and Alvisi, Lorenzo and Gouda, Mohamed G. and Shmatikov, Vitaly},
+    title = {Truth in Advertising: Lightweight Verification of Route Integrity},
+    booktitle = {Proceedings of the Twenty-sixth Annual ACM Symposium on Principles of Distributed Computing},
+    series = {PODC '07},
+    year = {2007},
+    isbn = {978-1-59593-616-5},
+    location = {Portland, Oregon, USA},
+    pages = {147--156},
+    numpages = {10},
+    url = {http://doi.acm.org/10.1145/1281100.1281123},
+    doi = {10.1145/1281100.1281123},
+    acmid = {1281123},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {BGP, interdomain routing, security},
+    } 
+
+- title: "SafeStore: A Durable and Practical Storage System"
+  image: dummy.png
+  description: We design and evaluate a lightweight route verification mechanism that enables a router to discover route failures and inconsistencies between advertised Internet routes and actual paths taken by the data packets.
+  authors: Ramakrishna Kotla, Lorenzo Alvisi, and Mike Dahlin
+  link:
+    url: https://www.usenix.org/legacy/events/usenix07/tech/kotla.html
+    display: USENIX ATC'07  Best Paper Award!
+  news2:
+  bibid: safestore_bibtex
+  pdf: https://www.usenix.org/legacy/events/usenix07/tech/kotla/kotla.pdf
+  bibtex: |+
+    @inproceedings{Kotla07Safestore,
+    author    = {Ramakrishna Kotla and
+               Lorenzo Alvisi and
+               Michael Dahlin},
+    title     = {SafeStore: {A} Durable and Practical Storage System},
+    booktitle = {Proceedings of the 2007 {USENIX} Annual Technical Conference, Santa
+               Clara, CA, USA, June 17-22, 2007},
+    pages     = {129--142},
+    year      = {2007},
+    crossref  = {DBLP:conf/usenix/2007},
+    url       = {http://www.usenix.org/events/usenix07/tech/kotla.html},
+    timestamp = {Wed, 04 Jul 2018 13:06:34 +0200},
+    biburl    = {https://dblp.org/rec/bib/conf/usenix/KotlaAD07},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+
+
+- title: "BAR Gossip"
+  image: dummy.png
+  description: We present the first peer-to-peer data streaming application that guarantees predictable throughput and low latency in the BAR (Byzantine/Altruistic/Rational) model.
+  authors: Harry C. Li, Allen Clement, Edmund L. Wong, Jeff Napper, Indrajit Roy, Lorenzo Alvisi, Michael Dahlin
+  link:
+    url: https://www.usenix.org/legacy/event/osdi06/tech/full_papers/li/li.pdf
+    display: OSDI'06
+  news2:
+  bibid: gossip_bibtex
+  pdf: https://www.usenix.org/legacy/events/osdi06/tech/li.html
+  bibtex: |+
+    @inproceedings{Li07Gossip,
+    author = {Li, Harry C. and Clement, Allen and Wong, Edmund L. and Napper, Jeff and Roy, Indrajit and Alvisi, Lorenzo and Dahlin, Michael},
+    title = {BAR Gossip},
+    booktitle = {Proceedings of the 7th Symposium on Operating Systems Design and Implementation},
+    series = {OSDI '06},
+    year = {2006},
+    isbn = {1-931971-47-1},
+    location = {Seattle, Washington},
+    pages = {191--204},
+    numpages = {14},
+    url = {http://dl.acm.org/citation.cfm?id=1298455.1298474},
+    acmid = {1298474},
+    publisher = {USENIX Association},
+    address = {Berkeley, CA, USA},
+    } 
