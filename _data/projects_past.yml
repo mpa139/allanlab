@@ -37,23 +37,101 @@
   highlight: 1
   news2:
 
-- title: "Urban facade inspection: Computer-vision based condition assessment of building facades captured through LIDAR"
-  image: prj3.png
-  authors: Ergan, S., Radwan, A., Zou, Zhengbo, Tseng, H., and Han, X.
-  description: For high densely populated cities like the New York City, façade inspection is a mandatory routine every 5 years for the buildings that have more than 6 floors. The current inspection are mainly based on visual check and the results are based on the inspectors’ experience. The objectives of this research are (1) to identify the required information for the decision making of façade inspection and (2) support the façade inspection process with an objective way of detecting façade defects using point clouds.
+- title: "Immersive and Interactive Workspaces for Collaborative Design"
+  image: past_prj3.png
+  authors: '''
+  Frazier, J., Akinci, B., and Ergan, S. (2013). “ An approach for capturing requirements of collaborative design teams to facilitate evaluation of energy efficient retrofit design options”, Proceedings of Architecture Engineering Institute, Pennsylvania State University, April 3-5, 2013, State College, USA, pp. 123-132. DOI: http://dx.doi.org/10.1061/9780784412909.013.
+  Yang, X., Liu, Y., Ergan, S., Akinci, B., Leicht, R., and Messner, J. (2013). “Lessons learned from developing immersive virtual mock-ups to support energy efficient retrofit decision making”, Proceedings of ASCE International Workshop on Computing in Civil Engineering, June 23-25, 2013, University of Southern California, Los Angeles, USA, pp. 210-217. DOI: http://dx.doi.org/10.1061/9780784413029.027.
+  Yang, S., Ergan, S., and Knox, K. (2014). “Information requirements for evaluating advanced energy retrofit design options in immersive and interactive work settings,” Journal of Buildings (under review).
+  '''
+  description: 'Develop the information architecture and framework for implementing intelligent workspaces in a high quality digital media environment to facilitate rich interactions with building information models, simulation and analysis tools for integrated teams.  Through richer interactions and reduction in auxiliary cognitive load, the team can more rapidly reach decisions on integrated decisions for energy retrofits. The overall project focuses on this theme with the following main objectives : (1) understanding multi stakeholder requirements (such as collaborative design teams, facility managers) while they interact with such immersive and interactive workspaces and (2) evaluating various immersive and interactive environments  in terms of satisfying the identified requirements, and understanding the characteristics of different immersive and interactive workspaces in terms of facilitating rich interactions with building information models, simulation and analysis tools for multi stakeholder decision making in energy efficient retrofits.'
   highlight: 1
   news2:
 
-- title: "Customized building operations: Defining operational signatures of HVAC system configurations through data analytics on historical BAS data"
-  image: prj3.png
-  authors: Ergan, S., Radwan, A., Zou, Zhengbo, Tseng, H., and Han, X.
-  description: 'This study aims to identify critical parameters of HVAC systems that drive the changes in the building energy-use profiles and develop an automated approach for identifying HVAC operational signatures that result in certain energy profiles in buildings, OperAtional Signature Identification System (OASIS). The OASIS relies on data-driven methodologies and is composed of three major steps: data preprocessing, feature selection, and signature discovery and analysis. The approach was tested on several air handling units (AHUs). The results showed that it is possible to define operational signatures for facility operators that are specific to a given building for running AHUs at these custom settings that correspond to energy efficient consumption in buildings.'
+- title: "Advanced Information Modeling and Visualization for Dam Risk Assessment"
+  image: past_prj4.png
+  authors: '''
+  Gulgec, N., Ergan, S., Akinci, B., and Kelly, C. (2015). "Integrated Information Repository for Risk Assessment of Embankment Dams: Requirements Identification for Evaluating the Risk of Internal Erosion." Journal of Computing in Civil Engineering,  DOI: 10.1061/(ASCE)CP.1943-5487.0000509 , 04015038.
+  Kasireddy, V., Ergan, S., and Akinci, B., Gulgec, N. (2015). “Visualization requirements of engineers for risk assessment of embankment dams”, Visualization in Engineering 2015, 3:1 (16 January 2015). http://www.viejournal.com/content/3/1/1.
+  Jung, I., Frazier, J., Akinci, B., Berges, M.,  Ergan, S., Garrett, J., and Kelly, C. (2013). “Towards dam information modeling: best practices learned from the AEC/FM domain”, Proceedings of International Commission on Large Dams (ICOLD), August 12-16, 2013, Seattle, Washington, USA, pp. 1251-1260.
+  Kasireddy, V., Ergan, S., and Akinci, B. (2014). “Visualization requirements of engineers for risk assessment of embankment dams”, Accepted for publication in Proceedings of International Symposium on Automation and Robotics in Construction (ISARC), July 09-11, 2014, Sydney, Australia, pp. 746-753. http://www.iaarc.org/publications/fulltext/isarc2014_submission_116.pdf.
+  '''
+  description: "The objective of this project is to identify information and visualization requirements of various engineers involved in risk assessment of dams to support their decision making with ease of access to the necessary data and with flexibility in generating views from such data for understanding the dam behavior over time. The project aims at developing an integrated information model that contains such data and enables generation of views for engineers based on the engineering domain you are looking at the risk."
   highlight: 1
-  news2:
+  news2: 
 
-- title: "Neuroscience for architecture: Quantification of impact of architecture on human experience in the built environment"
-  image: prj4.png
-  authors: Ergan, S., Radwan, A., Zou, Zhengbo, Tseng, H., and Han, X.
-  description: The impact of built environment on the human responsiveness and performance has long been argued; however, the interrelations between neuroscience and built environment, and the degree to which the built environment contributes to increased human performance and context awareness has not been completely understood yet.  Towards this understanding,this project is at the intersection of Neuroscience and Architecture to quantify the impact of architectural design features on human performance and experience. This project utilizes advanced visualization, virtual reality and body area sensor networks to capture human bodily states while people interact with architectural layouts in virtual settings.
+- title: "Building Energy Dashboards"
+  image: past_prj5.png
+  authors: '''
+  Kumaraswamy, V., Ergan, S., and Akinci, B. (2014). “A taxonomy for building energy dashboards”, Proceedings of International Conference on Computing in Civil and Building Engineering ICCCBE/CIB W078, June 23-25, 2014, Florida, USA, pp. 2192-2199. DOI: http://dx.doi.org/10.1061/9780784413616.272.
+  '''
+  description: "Energy Information Visualization” of the EEB  Hub Project, information architecture and framework for implementing customized dashboards for various stakeholders in the EEB Hub and parties involved in AER projects are being developed. The plan and documentation of the energy related dashboards are being developed for the Building 101 and Building 661 in the Navy Yard. The use cases of the energy related dashboards are being defined, prioritized according to the requirements and implemented in a prototype. This work plan directly contributes to the EEB Hub’s overall goal which is to decrease energy consumption 20% by 2020 by informing decision makers, occupants and public."
   highlight: 1
-  news2:
+  news2: 
+
+- title: "Airport safety during capital improvement projects"
+  image: past_prj6.png
+  authors: '''
+  
+  '''
+  description: "Despite the increased number of safety programs and technologies being implemented during construction times, the number of incidents and accidents is in an incline and a systematic look at the underlying reasons behind incidents/accidents caused by construction operations and a formal way of proactively discovering such causes are needed. This research looks at the impact of construction operations on airport operations during capital improvement projects and utilizes data driven methodologies and information models to identify problems in phasing plans ahead of time."
+  highlight: 1
+  news2: 
+
+- title: "A formal approach to define HVAC sequence of operations to enable interpretation of the design intent for system behavior assessment"
+  image: past_prj7.png
+  authors: '''
+  Sunnam, R., Ergan, S., Akinci, B. (2015). “Deviation analysis of the design intent and implemented controls of HVAC systems using sensor data: a case study” International Workshop on Computing in Civil Engineering, June 21-23, 2015, Texas, Austin, pp. 223-231. DOI: http://dx.doi.org/10.1061/9780784479247.028.
+  Sunnam, R., Ergan, S., and Akinci, B. (2014). “Challenges in interpreting the design intent from HVAC sequence of operations to assess the system behavior: a case study”, Proceedings of International Conference on Computing in Civil and Building Engineering ICCCBE/CIB W078, June 23-25, 2014, Florida, USA, pp. 1465-1472. DOI: http://dx.doi.org/10.1061/9780784413616.182.
+  '''
+  description: "HVAC control design intent is primarily transferred through textual narratives called Sequence of Operations (SOOs).  The current guidelines only define how the information may be presented but do not address to the information requirements of the SOOs. A case study analyzed on a 5 story LEED platinum certified commercial building showed that only 21% of the information items were clearly interpreted using the SOOs of an air handling unit (AHU) in that building. This research aims to provide a formalized approach to represent the information requirements of SOOs to enable unambiguous representation of HVAC system controls design intent for better building energy control."
+  highlight: 1
+  news2: 
+
+- title: "Utilization of game engines and virtual models to identify FM requirements for BIM deliverables"
+  image: past_prj8.png
+  authors: '''
+  Dias, P.D., and Ergan, S. (2016). “The need for representing facility information with customized LOD for specific FM tasks.” ASCE Construction Research Congress, San Juan, Puerto Rico, May 31- June 2, 2016. (abstract accepted).
+  '''
+  description: "The objective of this research is to identify the facilities managers’ requirements on as-built BIM delivered by contractors, with a focus on the maintenance of HVAC systems. This study builds on the level of development (LOD) effort by AIA and Industry Foundation Classes (IFC) data standard by buildingSmart to show the level of detail of the geometric, spatial and semantic facility information needed to perform specific FM tasks. The research method includes a) the extraction of properties of HVAC system components in IFC and representation of the components in LOD levels and b) developing virtual models of components based on LOD specification to conduct workshops with expert facility operators."
+  highlight: 1
+  news2: 
+
+- title: "Data analysis on highly sensed buildings for understanding patterns in building performance and energy use"
+  image: past_prj9.png
+  authors: '''
+  Mora, M., Ergan, S., Chen, H., Deng, H., Huang, A., Maurer, J., Wang, N. (2015. “Learning about performance of building systems and facility operations through a capstone project course.” International Workshop on Computing in Civil Engineering, June 21-23, 2015, Texas, Austin, pp. 305-312. DOI: http://dx.doi.org/10.1061./9780784479247.038.
+  Gomez, A. R., Guindon, S., Pianka, T., Patel, N., Kasireddy, V., Li, E., Li, J., Ergan. S., and Berges, M. (2014). “Lessons learned from monitoring electricity consumption in a research lab through a capstone project course”, Accepted for publication in Proceedings of International Conference on Computing in Civil and Building Engineering ICCCBE/CIB W078, June 23-25, 2014, Florida, USA, pp. 2111-2118, DOI: http://dx.doi.org/10.1061/9780784413616.262.
+  Knox, K., Sanchez, A., Liu, X., Ergan, S., and Akinci, B. (2013). “Providing systems engineering perspective in a capstone project setting to monitor performance of HVAC systems”, Proceedings of ASCE International Workshop on Computing in Civil Engineering, June 23-25, 2013, University of Southern California, Los Angeles, USA, pp. 194-201. DOI: http://dx.doi.org/10.1061/9780784413029.025.
+  '''
+  description: "This project includes application of data driven methodologies to 24/7 streaming data on HVAC systems and energy use in a highly sensed facility to identify patterns in building system performance and energy use for enabling setting of proactive management strategies."
+  highlight: 1
+  news2: 
+
+- title: "Model and embedded sensor based safety at job sites for insurance policies"
+  image: past_prj10.png
+  authors: '''
+  Vakilinezhad, M., Dias, P., and Ergan, S. (2016). “Achieving model-based safety at construction sites: BIM and safety requirements representation.” 33rd CIB W78 Conference on Construction Informatics, October 21-November 2, 2016, Brisbane, Australia.
+  '''
+  description: "In 2013 alone, more than 20% of the 4000 worker fatalities were in the construction industry with major causes identified as falls, struck by an object, electrocution, and caught- in/between. In addition to fatalities, there are many reported and unreported near misses that occur on a daily basis at construction job sites (OSHA 2015). Such problems can only be eliminated if they are proactively identified as risks, and precautions are taken ahead of time for minimization of accidents/incidents. This funded project aims to proactively identify job related safety issues at construction sites before accidents and near misses occur to help with setting insurance policies."
+  highlight: 1
+  news2: 
+
+- title: "Challenges faced while developing interactive virtual models for FM use"
+  image: past_prj11.png
+  authors: '''
+  Nopachinda, S., and Ergan, S. (2016). "Challenges in converting Building Information Models into virtual environments for FM operations and user studies in the built environment." 16th International Conference in Computing in Civil and Building Engineering, 6-8 July, 2016, Osaka, Japan.
+  Yang, S., and Ergan, S. (2014). “Evaluation of visualization techniques for use by facility operators during monitoring tasks”, Automation in Construction, 44 (August), 103–118.  DOI: 10.1016/j.autcon.2014.03.023.  
+  Ergan, S., Yang, X. (2015). “Value of 3D gaming engine based virtual models in understanding behaviors of facility operators during FM.” CIB W78 Conference, October 27-29, 2015, Eindhoven, The Netherlands.
+  Ergan, S., and Yang, X. (2016). Energy Accounts: Architectural Representations of Energy, Climate, and the Future (Visualization to support facility operations and maintenance), Editors: Barber, D., Braham, W., and Willis, D. Routledge.
+  '''
+  description: "Bottlenecks exist in generating virtual models from commercial BIM tools and open source gaming engines, which hinder the wide adoption of BIMs use in facilities management phase of civil infrastructure systems. Objective of this project is to identify challenges with converting building information models into virtual models  and enabling component interactions in virtual worlds."
+  highlight: 1
+  news2: 
+
+- title: "Analysis of renovation challenges in historical landmarks"
+  image: past_prj12.png
+  authors: '''
+  Lazar, N.D., and Ergan, S. (2016). “Challenges and lessons learned in the renovation of historical landmarks: A study on an iconic cathedral.” ASCE Construction Research Congress, San Juan, Puerto Rico, May 31- June 2, 2016. (paper accepted).
+  '''
+  description: "Renovation projects play a critical role in upgrading the existing infrastructure and preservation of historical landmarks. Challenges in the current renovation projects include the lack of up-to-date facility geometric information that reflects the as-is geometric and spatial information and seamless integration of the proposed renovation projects with the existing parts of facilities. Building Information Modelling (BIM) and laser scanning have been the remedies for these challenges within the current practice.  However, there are still process improvements required for best practices in the implementation of these two technologies. Challenges in the current practice and process improvements have been analyzed in an iconic landmark building facility analyzed in this study. The initial project included one of the largest gothic style cathedrals in North America and a flagship renovation project on its mechanical system. The research team was involved in the mapping of existing facilities, alignment of the proposed systems with existing systems and overcoming the spatial conflicts in implementing the proposed renovation. This research identifies the challenges the construction teams face as they work on aligning the existing systems with the proposed systems, and the lessons learned from the modelling and laser scanning of legacy facilities during ongoing major renovation."
