@@ -1,3 +1,44 @@
+- title: "Byzantine Ordered Consensus without Byzantine Oligarchy"
+  image: Obladi.jpg
+  description: 
+  authors: Yunhao Zhang, Srinath Setty, Qi Chen, Lidong Zhou and Lorenzo Alvisi
+  link:
+    url: https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao
+    display:  OSDI'20
+  highlight: 1
+  news2:
+  bibid: byzorder_bibtex
+  pdf: https://www.usenix.org/system/files/osdi20-zhang_yunhao_0.pdf
+  bibtex: |+
+    @inproceedings{zhang2020byzantine,
+    title={Byzantine Ordered Consensus without Byzantine Oligarchy},
+    author={Zhang, Yunhao and Setty, Srinath and Chen, Qi and Zhou, Lidong and Alvisi, Lorenzo},
+    booktitle={14th $\{$USENIX$\}$ Symposium on Operating Systems Design and Implementation ($\{$OSDI$\}$ 20)},
+    pages={633--649},
+    year={2020}
+    }
+
+
+- title: "Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log"
+  image: Obladi.jpg
+  description: Scalog is a new implementation of the shared log abstraction thatoffers an unprecedented combination of features for continu-ous smooth delivery of service
+  authors: Cong Ding, David Chu, Evan Zhao, Xiang Li, Lorenzo Alvisi and Robbert van Renesse
+  link:
+    url: https://www.usenix.org/conference/nsdi20/presentation/ding
+    display:  NSDI'20
+  highlight: 1
+  news2:
+  bibid: scalog_bibtex
+  pdf: https://www.cs.cornell.edu/lorenzo/papers/Ding20Scalog.pdf
+  bibtex: |+
+    @inproceedings{ding2020scalog,
+    title={Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log},
+    author={Ding, Cong and Chu, David and Zhao, Evan and Li, Xiang and Alvisi, Lorenzo and van Renesse, Robbert},
+    booktitle={17th $\{$USENIX$\}$ Symposium on Networked Systems Design and Implementation ($\{$NSDI$\}$ 20)},
+    pages={325--338},
+    year={2020}
+    }
+
 - title: "Obladi: Oblivious Serializable Transactions in the Cloud"
   image: Obladi.jpg
   description: Obladi, the first system to provide ACID transactions while also hiding access patterns, turning the demands of supporting transactions on ORAM into a performance opportunity
@@ -89,7 +130,7 @@
   link:
     url: http://doi.acm.org/10.1145/3087801.3087802
     display:  PODC'17
-  highlight: 1
+  highlight: 0
   news2:
   bibid: seeing_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf
@@ -119,7 +160,7 @@
   link:
     url: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi
     display:  NSDI'17
-  highlight: 1
+  highlight: 0
   news2:
   bibid: occult_bibtex
   pdf: http://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf

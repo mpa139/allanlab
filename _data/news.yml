@@ -1,11 +1,20 @@
+- date: 9. November 2020
+  headline: "Cong successfully defends his dissertation. Congratulations!"
+
+- date: 5. November 2020
+  headline: "Natacha wins the  SIGOPS Dennis M. Ritchie Doctoral Dissertation Award for her dissertation <a href='https://nacrooks.github.io/bibliography/publications/thesis.pdf'> 'A Client-Centric Approach to Transactional Datastores' </a>."
+
+- date: 4. November 2020
+  headline: "Yunhao wins the Jay Lepreau Best Paper Award at OSDI for his paper <a href='https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao'> 'Byzantine Ordered Consensus without Byzantine Oligarchy' </a>."
+
 - date: 28. May 2020
-  headline: "Sowmya, Florian and Yunhao win the CS department distinguished TA award for their contribution to CS4410 - operating systems."
+  headline: "Sowmya, Florian and Yunhao win the CS department distinguished TA award for their contributions to CS4410 Operating Systems."
 
 - date: 25. February 2020
   headline: "Cong presents Scalog at NSDI <a href='https://www.usenix.org/conference/nsdi20/presentation/ding'>Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log</a>"
 
 - date: 15. December 2019
-  headline: "Natacha successfully defends her dissertation 'A client-centric approach to transactional datastores'. She will be an assistant professor at UC Berkeley starting at 2020 Fall. Congratulations Natacha!"
+  headline: "Natacha successfully defends her dissertation. She will be an assistant professor at UC Berkeley starting at 2020 Fall. Congratulations Natacha!"
 
 - date: 10. September 2019
   headline: "Youer receives another one year fellowship from <a href='https://www.initc3.org'>IC3</a> for her work on unveiling the deep connections between Nakamoto's consensus and traditonal distributed consensus protocols."

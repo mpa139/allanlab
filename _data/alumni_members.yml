@@ -1,3 +1,17 @@
+- name: Cong Ding
+  photo: Cong.jpg
+  info: TBD
+  now: Confluent
+  number_educ: 1
+  education1: UT Austin
+
+- name: Natacha Crooks
+  photo: Natacha.jpg
+  info: <a href='https://nacrooks.github.io/bibliography/publications/thesis.pdf'>A client-centric approach to transactional datastores</a>
+  now: UC Berkeley
+  number_educ: 1
+  education1: UT Austin
+
 - name: Chunzhi Su, Ph.D. 2018
   photo: Chunzhi.jpg
   info: Bringing Modular Concurrency Control to the Next Level, UT Austin
