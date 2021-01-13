@@ -1,6 +1,6 @@
 - title: "Byzantine Ordered Consensus without Byzantine Oligarchy"
   image: Obladi.jpg
-  description: 
+  description: In this award-winning work, we ask: how to express, reason about and enforce specific properties about how the state machine replication protocols orders the commands.
   authors: Yunhao Zhang, Srinath Setty, Qi Chen, Lidong Zhou and Lorenzo Alvisi
   link:
     url: https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao
@@ -21,7 +21,7 @@
 
 - title: "Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log"
   image: Obladi.jpg
-  description: Scalog is a new implementation of the shared log abstraction thatoffers an unprecedented combination of features for continu-ous smooth delivery of service
+  description: Scalog is a new implementation of the shared log abstraction thatoffers an unprecedented combination of features for continuous smooth delivery of service
   authors: Cong Ding, David Chu, Evan Zhao, Xiang Li, Lorenzo Alvisi and Robbert van Renesse
   link:
     url: https://www.usenix.org/conference/nsdi20/presentation/ding
