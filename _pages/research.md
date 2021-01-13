@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-Our research aims to understand how to design and build distributed systems worthy of the  trust that government, businesses, and the public  increasingly put in them. We investigate both foundational and applied aspects of reliable distributed computing; at its best, our work leverages the former to shape the latter.
+Our research aims to understand how to design and build distributed systems worthy of the trust that government, businesses, and the public  increasingly put in them. We investigate both foundational and applied aspects of reliable distributed computing; at its best, our work leverages the former to shape the latter.
  
-Over the last four years, much of of our group's attention has focused mitigating the tension between consistency and performance.
+Between 2014 and 2018, much of of our group's attention has focused mitigating the tension between consistency and performance.
 
 **Modular Concurrency Control**  The last decade has seen a rift between the proponents  of the ACID paradigm, which offers programmers an elegant and powerful abstraction for structuring applications and reasoning about concurrency, and the advocates of BASE, an alternative approach  based on more limited isolation guarantees and a more streamlined API. One of the main goals of our work has been restore the promise of ease of programming combined with availability and performance that has become a casualty of the ACID vs BASE debate.  
 
