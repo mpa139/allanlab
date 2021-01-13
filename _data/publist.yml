@@ -21,7 +21,7 @@
 
 - title: "Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log"
   image: Obladi.jpg
-  description: Scalog is a new implementation of the shared log abstraction thatoffers an unprecedented combination of features for continuous smooth delivery of service
+  description: Scalog is a new implementation of the shared log abstraction that offers an unprecedented combination of features for continuous smooth delivery of service
   authors: Cong Ding, David Chu, Evan Zhao, Xiang Li, Lorenzo Alvisi and Robbert van Renesse
   link:
     url: https://www.usenix.org/conference/nsdi20/presentation/ding
