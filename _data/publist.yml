@@ -1,6 +1,6 @@
 - title: "Byzantine Ordered Consensus without Byzantine Oligarchy"
   image: Obladi.jpg
-  description: In this award-winning work, we ask: how to express, reason about and enforce specific properties about how the state machine replication protocols orders the commands.
+  description: In this award-winning work, we ask and answer how to express, reason about and enforce specific properties about how the state machine replication protocols orders the commands.
   authors: Yunhao Zhang, Srinath Setty, Qi Chen, Lidong Zhou and Lorenzo Alvisi
   link:
     url: https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao
