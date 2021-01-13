@@ -32,3 +32,18 @@
   email: yz2327 [at] cornell [dot] edu 
   intro: I like eating Baozi!
   research: I do research in BFT consensus.
+
+
+- name: Florian Suri-Payer
+  photo: Florian.jpg
+  info: Ph.D. Student
+  email: fsp [at] cs [dot] cornell [dot] edu 
+  intro: I like playing tennis!
+  research: I do research in BFT databases.
+
+- name: Sowmya Dharanipragada
+  photo: Sowmya.jpg
+  info: Ph.D. Student
+  email: yz2327 [at] cornell [dot] edu 
+  intro: I like spicy food and get distracted by puppies. 
+  research: I do research in encrypted databases.

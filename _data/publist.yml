@@ -1,5 +1,5 @@
 - title: "Byzantine Ordered Consensus without Byzantine Oligarchy"
-  image: Obladi.jpg
+  image: byzorder.jpg
   description: In this award-winning work, we ask and answer how to express, reason about and enforce specific properties about how the state machine replication protocols orders the commands.
   authors: Yunhao Zhang, Srinath Setty, Qi Chen, Lidong Zhou and Lorenzo Alvisi
   link:
@@ -20,7 +20,7 @@
 
 
 - title: "Scalog: Seamless Reconfiguration and Total Order in a Scalable Shared Log"
-  image: Obladi.jpg
+  image: scalog.jpg
   description: Scalog is a new implementation of the shared log abstraction that offers an unprecedented combination of features for continuous smooth delivery of service
   authors: Cong Ding, David Chu, Evan Zhao, Xiang Li, Lorenzo Alvisi and Robbert van Renesse
   link:
