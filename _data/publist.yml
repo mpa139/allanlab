@@ -16,6 +16,26 @@
     display:  Nature Communications 12, 298 (2021)
   highlight: 1
 
+- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
+  image: TBG_ARPES.png
+  description:
+  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  link:
+    url: https://dx.doi.org/10.1038/s41535-020-00303-4
+    display: npj Quantum Mater. 6, 7 (2021)
+  highlight: 0
+  news2:
+
+- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
+  image: TBG_SL.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  link:
+    url: https://arxiv.org/abs/2008.13766
+    display:  arXiv:2008.13766 (2020)
+  highlight: 1
+  news2:
+
 - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
   image: Direct.png
   authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
@@ -43,26 +63,6 @@
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
     display:  PRB 102, 115416 (2020)
-  highlight: 0
-  news2:
-
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766 (2020)
-  highlight: 1
-  news2:
-
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-  link:
-    url: https://arxiv.org/abs/2005.05140
-    display:  arXiv:2005.05140 (2020)
   highlight: 0
   news2:
 
