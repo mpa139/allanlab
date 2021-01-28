@@ -16,9 +16,11 @@ They work on developing information repositories and visualization platforms to 
 
 # Our Team
 
-<img src="/images/semiha2.jpg" width="40%"/>
+<img src="/images/semiha2.jpg" width="30%"/>
 
-#### biLAB is spearheaded by Prof. Semiha Ergan, Associate Professor of the Department of Civil and Urban Engineering.
+Dr. Semiha Ergan is a faculty at NYU Tandon School of Engineering, Department of Civil and Urban Engineering with a courtesy appointment at NYU Department of Computer Science and Engineering. She is also an associated faculty member at Center for Urban Science and Progress (CUSP). Prior to joining NYU, she was a research faculty at Carnegie Mellon University, where she also received a Ph.D. in civil engineering.
+
+Her current research interests include IT to support design, construction and operations of civil infrastructure systems, studying urban challenges for AEC/FM, building informatics for efficient and healthier buildings, quantification of human experience in the built environment, and infrastructure information modeling and visualization.
 
 [Prof. Ergan's NYU profile](https://engineering.nyu.edu/faculty/semiha-ergan)
 
