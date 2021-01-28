@@ -1,10 +1,10 @@
 
 <div class="well">
-<h4>News</h4>
+<h3>News</h3>
 
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
-<h3>{{ article.headline }}</h3>
+<h4>{{ article.headline }}</h4>
 <p>{{ article.text }}</p>
 {% endfor %}
 
