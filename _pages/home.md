@@ -7,6 +7,7 @@ permalink: /
 ---
 Building Informatics and Visualization Lab (biLAB) is part of the Department of Civil and Urban Engineering at the NYU Tandon School of Engineering. It focuses on understanding the operational challenges associated with construction and operation of facilities and infrastructure systems in urban settings.  
 
+**Preview Only**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -93,7 +94,7 @@ Building Informatics and Visualization Lab (biLAB) is part of the Department of 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-<!-- 
+<!--
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
