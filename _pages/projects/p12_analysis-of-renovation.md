@@ -8,6 +8,7 @@ permalink: /projects/analysis-of-renovation
 
 {% assign prj = site.data.projects_past[11] %}
 # {{ prj.title }}
+![](/images/pubpic/{{ prj.image }}){:class="img-responsive"}
 {{ prj.description }}  
 <br><br>
 

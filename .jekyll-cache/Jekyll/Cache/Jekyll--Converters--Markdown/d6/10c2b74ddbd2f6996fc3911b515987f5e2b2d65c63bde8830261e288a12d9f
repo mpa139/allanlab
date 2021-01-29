@@ -1,0 +1,17 @@
+I"D
+<h1 id="a-formal-approach-to-define-hvac-sequence-of-operations-to-enable-interpretation-of-the-design-intent-for-system-behavior-assessment">A formal approach to define HVAC sequence of operations to enable interpretation of the design intent for system behavior assessment</h1>
+<p><img src="/images/pubpic/past_prj7.png" alt="" class="img-responsive" />
+HVAC control design intent is primarily transferred through textual narratives called Sequence of Operations (SOOs).  The current guidelines only define how the information may be presented but do not address to the information requirements of the SOOs. A case study analyzed on a 5 story LEED platinum certified commercial building showed that only 21% of the information items were clearly interpreted using the SOOs of an air handling unit (AHU) in that building. This research aims to provide a formalized approach to represent the information requirements of SOOs to enable unambiguous representation of HVAC system controls design intent for better building energy control.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<ul>
+  <li>
+    <p>Sunnam, R., Ergan, S., Akinci, B. (2015). “Deviation analysis of the design intent and implemented controls of HVAC systems using sensor data: a case study” International Workshop on Computing in Civil Engineering, June 21-23, 2015, Texas, Austin, pp. 223-231. DOI: http://dx.doi.org/10.1061/9780784479247.028.</p>
+  </li>
+  <li>
+    <p>Sunnam, R., Ergan, S., and Akinci, B. (2014). “Challenges in interpreting the design intent from HVAC sequence of operations to assess the system behavior: a case study”, Proceedings of International Conference on Computing in Civil and Building Engineering ICCCBE/CIB W078, June 23-25, 2014, Florida, USA, pp. 1465-1472. DOI: http://dx.doi.org/10.1061/9780784413616.182.</p>
+  </li>
+</ul>
+:ET

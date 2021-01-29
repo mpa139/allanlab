@@ -1,0 +1,8 @@
+I"
+<h1 id="emotionally-intelligent-buildings-responsive-virtual-environments-using-biometric-sensing">Emotionally intelligent buildings: Responsive virtual environments using biometric sensing</h1>
+<p><img src="/images/pubpic/prj2.png" alt="" class="img-responsive" />
+This project aims to quantitatively measure human experience in designed spaces and create responsive virtual environments. It builds of off findings of a recent DARPA project on neuroscience for architecture where requirements for designed spaces for boosting human experience were defined. The responsive environments are generated using labeled emotions of users in biometric sensor data captured while users navigate in virtual spaces.  The three-step approach includes (1) automatically checking BIM of a new design against requirements for enhanced human experience in designed spaces, (2) automatically labeling human experiences on the arousal and valence scale using biometric data captured in distinctly configured virtual spaces, (3) developing reasoning mechanisms to transform spaces based on the streaming BSN data. This research aims to provide the much-needed design guidelines for architects to follow when designing spaces with human experience in mind.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+:ET
