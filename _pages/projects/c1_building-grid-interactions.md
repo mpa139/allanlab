@@ -11,6 +11,7 @@ permalink: /projects/building-grid-interactions
 {{ prj.description }}  
 <br><br>
 
+### Related Papers
 {% for paper in prj.pp %}
 * {{ paper[1] }}
 {% endfor %}
