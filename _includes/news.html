@@ -1,13 +1,11 @@
-
 <div class="well">
-<h3>News</h3>
+    <h3>News</h3>
 
-{% for article in site.data.news limit:3 %}
-{{ article.date }}
-<h4>{{ article.headline }}</h4>
-<p>{{ article.text }}</p>
-{% endfor %}
+    {% for article in site.data.news limit:3 %}
+    <h4>{{ article.headline }}</h4>
+    {{ article.text | markdownify}}
+    {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">Past News</a></h4>
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">Past News</a></h4>
 
-    </div>
+</div>

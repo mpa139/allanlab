@@ -38,6 +38,7 @@ Positions are available at [PhD](/downloads/Flier-PhD-Ergan_Oct15.pdf) and [Post
 
 Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-bachelor-students), [High school students hosted](#high-school-students-hosted), and [Alumni](#alumni).
 
+<br>
 
 ## PhD Students
 {% assign number_printed = 0 %}
@@ -100,6 +101,8 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<br>
+<br>
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
@@ -154,6 +157,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 </div>
 {% endif %}
 
+<br>
 
 ## Alumni
 
@@ -188,6 +192,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 </div>
 {% endif %}
 
+<br>
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
@@ -212,9 +217,9 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 {{ member.name }}
 {% endfor %}
 </div>
-
 </div>
 
+<br>
 
 ## High school students hosted
 
@@ -225,3 +230,4 @@ Daniel Gomez, <b>Stuyvesant High School</b>
 Summer 2017:  
 Connie Tsang, <b>Hunter College High School</b>  
 Jason Cheung, <b>Stuyvesant High School</b>  
+<br>
