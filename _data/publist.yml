@@ -45,8 +45,8 @@
   image: Direct.png
   authors: Yu, X., Ergan, S., & Dedemen, G.
   description: 
-  link: https://doi.org/10.1016/j.apenergy.2019.113497
-    url: 
+  link: 
+    url: https://doi.org/10.1016/j.apenergy.2019.113497 
     display: Applied Energy, 253, 113497. 2019.
   highlight: 0
   news2:
@@ -67,8 +67,8 @@
   image: Direct.png
   authors: Zou, Z., Arruda, L., & Ergan, S.
   description:
-  link: https://doi.org/10.3846/jcem.2018.5689
-    url: 
+  link: 
+    url: https://doi.org/10.3846/jcem.2018.5689 
     display: Journal of Civil Engineering and Management, 24(6), 481-498. 2018.
   highlight: 0
   news2:
