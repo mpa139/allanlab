@@ -5,7 +5,7 @@ excerpt: "biLAB | Projects."
 sitemap: false
 permalink: /projects/
 ---
-# Research Domains
+<!-- # Research Domains
 <br>
 <span style="color:blue"><b>Architecture and Neuroscience</b></span>  
 *How can we quantify the impact of architectural design features on human experience? Can we use the findings to improve the design practice for better and healtier experiences in the built environment?*  
@@ -22,7 +22,7 @@ permalink: /projects/
 <b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
 
 <b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
-<br><br><br>
+<br><br><br> -->
 # Projects
 <br>
 Click images to see more details about projects.
