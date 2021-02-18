@@ -105,6 +105,8 @@
   highlight: 0
   news2:
 
+## 2016
+
 - title: "Leveraging BIM to provide automated support for efficient troubleshooting of HVAC-related problems"
   image: Direct.png
   authors: Yang, X. and Ergan, S.
@@ -125,6 +127,27 @@
   highlight: 0
   news2:
 
+- title: "Integrated information repository for risk assessment of embankment dams: Requirements identification for evaluating the risk of internal erosion"
+  image: Direct.png
+  authors: Gulgec, N., Ergan, S., Akinci, B., and Kelly, C.
+  description:
+  link:
+    url: https://doi.org/10.1061/(ASCE)CP.1943-5487.0000509 , 04015038.
+    display: ASCE Journal of Computing in Civil Engineering, 30(3), 04015038.1-12. 2016.
+  highlight: 0
+  news2:
+
+- title: "Evaluation of different features for matching point clouds to building information models"
+  image: Direct.png
+  authors: Gao, T., Ergan, S., Akinci, B., and Garrett, J. H.
+  description:
+  link:
+    url: http://doi.org/10.1061/(ASCE)CP.1943-5487.0000425.
+    display: Journal of Computing in Civil Engineering, 30(1), 04014107.1-13. 2016.
+  highlight: 0
+  news2:
+
+## 2015
 - title: "Requirements of integrated design teams while  evaluating advanced energy retrofit design options in immersive virtual environments"
   image: Direct.png
   authors: Yang, S., Ergan, S., and Knox, K.
@@ -145,16 +168,6 @@
   highlight: 0
   news2:
 
-- title: "Integrated information repository for risk assessment of embankment dams: Requirements identification for evaluating the risk of internal erosion"
-  image: Direct.png
-  authors: Gulgec, N., Ergan, S., Akinci, B., and Kelly, C.
-  description:
-  link:
-    url: https://doi.org/10.1061/(ASCE)CP.1943-5487.0000509 , 04015038.
-    display: ASCE Journal of Computing in Civil Engineering, 30(3), 04015038.1-12. 2016.
-  highlight: 0
-  news2:
-
 - title: "Visualization requirements of engineers for risk assessment of embankment dams"
   image: Direct.png
   authors: Kasireddy, V., Ergan, S., and Akinci, B., Gulgec, N.
@@ -165,6 +178,8 @@
   highlight: 0
   news2:
 
+## 2014
+
 - title: "Evaluation of visualization techniques for use by facility operators during monitoring tasks"
   image: Direct.png
   authors: Yang, S., and Ergan, S.
@@ -172,16 +187,6 @@
   link:
     url: http://doi.org/10.1016/j.autcon.2014.03.023
     display: Elsevier Automation in Construction, 44 (August), 103–118. 2014.
-  highlight: 0
-  news2:
-
-- title: "Evaluation of different features for matching point clouds to building information models"
-  image: Direct.png
-  authors: Gao, T., Ergan, S., Akinci, B., and Garrett, J. H.
-  description:
-  link:
-    url: http://doi.org/10.1061/(ASCE)CP.1943-5487.0000425.
-    display: Journal of Computing in Civil Engineering, 30(1), 04014107.1-13. 2016.
   highlight: 0
   news2:
 
@@ -195,6 +200,9 @@
   highlight: 0
   news2:
 
+## 2013
+
+## 2012
 - title: "An automated approach for developing integrated model-based project histories to support estimation of activity production rates"
   image: Direct.png
   authors: Ergan, S., and Akinci, B.
@@ -205,6 +213,7 @@
   highlight: 0
   news2:
 
+## 2011
 - title: "Analysis of modeling effort and impact of different levels of detail in building information models"
   image: Direct.png
   authors: Leite, F., Akcamete, A., Akinci, B., Atasoy, G., and Ergan, S.
@@ -215,6 +224,7 @@
   highlight: 0
   news2:
 
+## 2010
 - title: "Automated generation of customized field data collection templates to support information needs of cost estimators"
   image: Direct.png
   authors: Ergan, S., and Akinci, B.
@@ -235,6 +245,8 @@
   highlight: 0
   news2:
 
+## 2009
+
 - title: "Contextual information requirements of cost estimators from past construction projects"
   image: Direct.png
   authors: Ergan, S., and Akinci, B.
@@ -244,6 +256,8 @@
     display: ASCE Journal of Construction Engineering and Management, 135(9), September issue, 841-852. 2009.
   highlight: 0
   news2:
+
+## 2008
 
 - title: "Technological assessment and process implications of field data capture technologies for construction and facility/infrastructure management"
   image: Direct.png
@@ -255,6 +269,8 @@
   highlight: 0
   news2:
 
+## 2007
+## 2006
 - title: "Modeling and analyzing the impact of technology on data capture and transfer processes at construction sites: a case study"
   image: Direct.png
   authors: Akinci, B. Ergan, S., Ergen, E., Karaesmen, I. Z., and Keceli, F.
@@ -265,6 +281,7 @@
   highlight: 0
   news2:
 
+## 2005
 - title: "Prediction of organizational effectiveness in construction companies"
   image: Direct.png
   authors: Dikmen, I., Birgonul, T., and Ergan, S.
