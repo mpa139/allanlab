@@ -1,3 +1,56 @@
+## 2021
+- title: "Extracting building characteristics essential for energy performances from façade images through deep transfer learning"
+  image: Direct.png
+  authors: Yu, X., & Ergan, S.
+  description: 
+  link:
+    url: 
+    display: (in preparation).
+  highlight: 0
+  news2:
+  
+## 2020
+- title: "Key Variables in Determining Energy Shaving Capacity of Buildings during Demand Response Events"
+  image: Direct.png
+  authors: Yu, X., & Ergan, S.
+  description: 
+  link:
+    url: https://doi.org/10.1061/(ASCE)CO.1943-7862.0001949
+    display: Journal of Construction Engineering and Management, 147(1), 04020146, 2020.
+  highlight: 0
+  news2:
+
+- title: "Quantifying the Impact of Urban Form on Human Experience: An Experiment using Virtual Environments and Electroencephalogram"
+  image: Direct.png
+  authors: Zou, Z., Ergan, S., Fisher-Gewirtzman, D., & Curtis, C.
+  description: 
+  link:
+    url: 
+    display: Journal of Computing in Civil Engineering. 2020.
+  highlight: 0
+  news2:
+
+- title: "Towards Optimal Control of Air Handling Units using Deep Reinforcement Learning and Recurrent Neural Network"
+  image: Direct.png
+  authors: Zou, Z., Yu, X., & Ergan, S.
+  description: 
+  link: https://doi.org/10.1016/j.buildenv.2019.106535
+    url: 
+    display: Building and Environment, 106535. 2020.
+  highlight: 0
+  news2:
+
+## 2019
+- title: "A data-driven approach to extract operational signatures of HVAC systems and analyze impact on electricity consumption"
+  image: Direct.png
+  authors: Yu, X., Ergan, S., & Dedemen, G.
+  description: 
+  link: https://doi.org/10.1016/j.apenergy.2019.113497
+    url: 
+    display: Applied Energy, 253, 113497. 2019.
+  highlight: 0
+  news2:
+
 - title: "Quantifying human experience in architectural spaces with integrated virtual reality and body sensor networks"
   image: Direct.png
   authors: Ergan, S., Radwan, A., Zou, Zhengbo, Tseng, H., and Han, X.
@@ -5,6 +58,18 @@
   link:
     url: https://doi.org/10.1061/(ASCE)CP.1943-5487.0000812
     display: ASCE Journal of Computing in Civil Engineering, 33(2), 04018062.1- 13. 2019
+  highlight: 0
+  news2:
+
+## 2018
+
+- title: "Characteristics of Models that Impact Transformation of BIMs to Virtual Environments to Support Facility Management Operations"
+  image: Direct.png
+  authors: Zou, Z., Arruda, L., & Ergan, S.
+  description:
+  link: https://doi.org/10.3846/jcem.2018.5689
+    url: 
+    display: Journal of Civil Engineering and Management, 24(6), 481-498. 2018.
   highlight: 0
   news2:
 
@@ -18,6 +83,8 @@
   highlight: 0
   news2:
 
+## 2017
+
 - title: "BIM for FM: Information requirements to support HVAC-related corrective maintenance"
   image: Direct.png
   authors: Yang, X. and Ergan, S.
@@ -25,16 +92,6 @@
   link:
     url: https://doi.org/10.1061/(ASCE)AE.1943-5568.0000272
     display: ASCE Journal of Architectural Engineering, 23(4), 04017023-1- 13. 2017.
-  highlight: 0
-  news2:
-
-- title: "Characteristics of models that impact transformation of BIMs to virtual environments to support FM operations"
-  image: Direct.png
-  authors: Arruda, L.E.S., Zou, Z., and Ergan, S.
-  description:
-  link:
-    url: 
-    display: Journal of Civil Engineering and Management, T&F. (accepted). 2018.
   highlight: 0
   news2:
 
