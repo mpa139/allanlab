@@ -8,7 +8,7 @@ permalink: /team/
 
 # Our Lab
 
-The Building Informatics and Visualization Lab (biLAB) is part of the [Department of Civil and Urban Engineering](https://engineering.nyu.edu/academics/departments/civil-and-urban-engineering) at the [NYU Tandon School of Engineering](https://engineering.nyu.edu/). It focuses on understanding the operational challenges associated with construction and operation of facilities and infrastructure systems in urban settings.
+<!-- The Building Informatics and Visualization Lab (biLAB) is part of the [Department of Civil and Urban Engineering](https://engineering.nyu.edu/academics/departments/civil-and-urban-engineering) at the [NYU Tandon School of Engineering](https://engineering.nyu.edu/). It focuses on understanding the operational challenges associated with construction and operation of facilities and infrastructure systems in urban settings.
 
 The research team works on information modeling and visualization to quantify the impact of architecture on human experience in the built environment, understand and improve the behaviors of existing/new facilities and civil infrastructure systems for next generation construction, maintenance, and operations. The research team takes advantage of advancements in technology in information modeling and visualization to integrate and provide information that engineers, owners, and facility operators need, at the right level of detail and visual form.
 
@@ -28,7 +28,7 @@ Her current research interests include IT to support design, construction and op
 
 [Prof. Ergan on ResearchGate](https://www.researchgate.net/profile/Semiha_Ergan)
 
-Please check [Job Openings page](/jobopening) for openings in the research group.
+Please check [Job Openings page](/jobopening) for openings in the research group. -->
 
 ### Join Us!
 
