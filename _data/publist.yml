@@ -8,7 +8,7 @@
     display: (in preparation).
   highlight: 0
   news2:
-  
+
 ## 2020
 - title: "Key Variables in Determining Energy Shaving Capacity of Buildings during Demand Response Events"
   image: Direct.png
@@ -34,8 +34,8 @@
   image: Direct.png
   authors: Zou, Z., Yu, X., & Ergan, S.
   description: 
-  link: https://doi.org/10.1016/j.buildenv.2019.106535
-    url: 
+  link: 
+    url: https://doi.org/10.1016/j.buildenv.2019.106535 
     display: Building and Environment, 106535. 2020.
   highlight: 0
   news2:
