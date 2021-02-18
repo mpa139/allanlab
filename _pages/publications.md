@@ -27,6 +27,22 @@ permalink: /publications/
   
 ## Conferences
 
+### 2021
+
+{% for conf in site.data.conf21 %}
+
+  {{ conf.conf21 }} <br />
+
+{% endfor %}
+
+### 2020
+
+{% for conf in site.data.conf20 %}
+
+  {{ conf.conf20 }} <br />
+
+{% endfor %}
+
 ### 2019
 
 {% for conf in site.data.conf19 %}
