@@ -1,6 +1,6 @@
 - name: Raghuram Sunnam, PhD
   photo: Sunnam-150x150.jpg
-  duration: "Expected graduation date: May 2019"
+  duration: "Graduated: May 2019"
   info: "Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent."
   email: "-"
   number_educ: 1
@@ -35,3 +35,23 @@ The framework is composed of three main parts:<br>
   education2:
   education3:
   education4:
+
+- name: Zhengbo Zou, PhD
+  photo: zz.jpg
+  duration: "Graduated: Dec 2020"
+  info: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>'
+  email: zz1658@nyu.edu
+  number_educ: 4
+  education1: "Research Project: Impact of construction on urban quality of life"
+  education2: Quantification of impact of architecture design on human experience project, Lead Researcher
+  education3: <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a>
+  education4: <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a>
+
+- name: Xinran Yu, PhD
+  photo: Xinran_Yu5.jpg
+  duration: "Graduated: Dec 2020"
+  info: 'Research project: Building-grid interactions and improving demand response in buildings <br><a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&hl=sra">Google Scholar</a>'
+  email: celiayu@nyu.edu
+  number_educ: 2
+  education1: "Research project: Building-grid interactions and improving demand response in buildings"
+  education2: <a href="/downloads/poster_Celia.pdf">Research poster</a>

@@ -1,21 +1,3 @@
-- name: Zhengbo Zou
-  photo: zz.jpg
-  info: PhD Candidate, expected graduation - December 2020 <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>
-  email: zz1658@nyu.edu
-  number_educ: 4
-  education1: "Research Project: Impact of construction on urban quality of life"
-  education2: Quantification of impact of architecture design on human experience project, Lead Researcher
-  education3: <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a>
-  education4: <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a>
-
-- name: Xinran Yu
-  photo: Xinran_Yu5.jpg
-  info: PhD Candidate, expected graduation - December 2020 <a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&hl=sra">Google Scholar</a>
-  email: celiayu@nyu.edu
-  number_educ: 2
-  education1: "Research project: Building-grid interactions and improving demand response in buildings"
-  education2: <a href="/downloads/poster_Celia.pdf">Research poster</a>
-
 - name: Zhuoya Shi
   photo: Zhuoya.jpg
   info: PhD Candidate, expected graduation date - May 2022
