@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "NDS Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Network and Data Science Lab at Vanderbilt University."
 sitemap: false
 permalink: /
 ---
