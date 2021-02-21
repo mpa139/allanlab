@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "Network and Data Science Lab at Vanderbilt University."
 sitemap: false
-permalink: /allnews.html
+permalink: /news.html
 ---
 
 # News
