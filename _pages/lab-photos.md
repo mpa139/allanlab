@@ -2,7 +2,7 @@
 title: "NDS Lab - Pictures"
 layout: piclay
 excerpt: "NDS Lab -- Pictures"
-permalink: /pictures/
+permalink: /lab-photos/
 ---
 
 # NDS Lab Photos
