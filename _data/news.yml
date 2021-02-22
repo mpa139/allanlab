@@ -1,27 +1,32 @@
+- date:
+  headline: "<b><h3>2021</h3></b>"
 
 - date: 2/2021 
   headline: "<b>Tyler receives Innovative Teaching Award from the School of Engineering at VU</b>"
 
 - date: 2/2021 
-  headline: "<b>Welcome new MS!</b> <br /> <span style=\"color: #808080\">Kayla joins NDS Lab</span>"
+  headline: "<b>Welcome new MS member!</b> <br /> <span style=\"color: #808080\">Kayla joins NDS Lab</span>"
 
 - date: 2/2021 
-  headline: "<b>Welcome new BS!</b> <br /> <span style=\"color: #808080\">Chet joins NDS Lab</span>"
+  headline: "<b>Welcome new BS member!</b> <br /> <span style=\"color: #808080\">Chet joins NDS Lab</span>"
 
 - date: 2/2021 
   headline: "<b>Tutorial on GNNs given at AAAI'21</b>"
 
 - date: 1/2021
-  headline: "<b>Welcome new Phds!</b> <br /> <span style=\"color: #808080\">Nate and Yu join NDS Lab</span>"
+  headline: "<b>Welcome new PhD members!</b> <br /> <span style=\"color: #808080\">Nate and Yu join NDS Lab</span>"
+
+- date:
+  headline: "<b><h3>2020</h3></b>"
 
 - date: 12/2020
   headline: "<b>1 paper accepted to AAAI'21!</b>"
 
 - date: 12/2020
-  headline: "<b>Welcome new BSs!</b> <br /> <span style=\"color: #808080\">Ben, Jack, Trevor, and Udit join NDS Lab</span>"
+  headline: "<b>Welcome new BS members!</b> <br /> <span style=\"color: #808080\">Ben, Jack, Trevor, and Udit join NDS Lab</span>"
 
 - date: 12/2020
-  headline: "<b>Welcome new MS!</b> <br /> <span style=\"color: #808080\">Cole joins NDS Lab</span>"
+  headline: "<b>Welcome new MS member!</b> <br /> <span style=\"color: #808080\">Cole joins NDS Lab</span>"
 
 - date: 10/2020
   headline: "<b>1 paper accepted to WSDM'21</b>"
