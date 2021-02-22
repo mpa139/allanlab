@@ -1,14 +1,14 @@
 
 <div class="well">
-<h4>News</h4>
+  <h3><b>News</b></h3>
 
-{% for article in site.data.news limit:14 %}
+{% for article in site.data.news limit:11 %}
 
 {% if article.headline == "YEAR" %}
-  <h4>{{ article.date }}</h4><br>
+  <h4>{{ article.date }}</h4>
 {% else %}
   {{ article.date }}<br>
-  <em>{{ article.headline }}</em><br>
+  <em>{{ article.headline }}</em><br><br>
 {% endif %}
 
 <!-- {{ article.date }}
