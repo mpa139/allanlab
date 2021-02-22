@@ -75,6 +75,11 @@ permalink: /people/
 
 
 
+
+
+
+
+
 ## PhDs
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
@@ -91,7 +96,7 @@ permalink: /people/
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  {% if member.number_educ == 0 %}
   {% endif %}
 
   {% if member.number_educ == 1 %}
@@ -162,6 +167,8 @@ permalink: /people/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}  <br>email: <{{ member.email }}></i> 
   <ul style="overflow: hidden">
+  {% if member.number_educ == 0 %}
+  {% endif %}
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -219,6 +226,9 @@ permalink: /people/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
+
+  {% if member.number_educ == 0 %}
+  {% endif %}
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
