@@ -2,10 +2,24 @@
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:9 %}
-{{ article.date }}
+{% for article in site.data.news limit:14 %}
+
+{% if article.headline == "YEAR" %}
+  <h4>{{ article.date }}</h4><br>
+{% else %}
+  {{ article.date }}<br>
+  <em>{{ article.headline }}</em><br>
+{% endif %}
+
+<!-- {{ article.date }}
 <p>{{ article.headline }}</p>
+-->
+    
 {% endfor %}
+
+
+
+
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/news.html">... see all News</a></h4>
 
