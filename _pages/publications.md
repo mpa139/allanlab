@@ -47,7 +47,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Full List
 
-Currently under heavy development. Please check back soon!
+This page is currently under heavy development. Please check back soon!
 
 {% for publi in site.data.publist %}
 
