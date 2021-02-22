@@ -18,7 +18,7 @@ permalink: /news.html
 {% for article in site.data.news %}
 
 {% if article.headline == "YEAR" %}
-  <h3>{{ article.date }}</h3><br>
+  <h3><b>{{ article.date }}</b></h3><br>
 {% else %}
   {{ article.date }}<br>
   <em>{{ article.headline }}</em><br>
