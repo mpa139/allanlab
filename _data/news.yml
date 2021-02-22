@@ -1,4 +1,4 @@
-- date: "<b>2021</b>"
+- date: 2021
   headline: "YEAR"
 
 - date: 2/2021 
@@ -16,8 +16,8 @@
 - date: 1/2021
   headline: "<b>Welcome new PhD members!</b> <br /> <span style=\"color: #808080\">Nate and Yu join NDS Lab</span>"
 
-- date:
-  headline: "<b><h3>2020</h3></b>"
+- date: 2020
+  headline: "YEAR"
 
 - date: 12/2020
   headline: "<b>1 paper accepted to AAAI'21!</b>"
