@@ -92,6 +92,9 @@ permalink: /people/
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
+  {% endif %}
+
+  {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
