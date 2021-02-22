@@ -43,7 +43,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 -->
 
-You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ)).
+You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ).
 
 ## Full List
 
