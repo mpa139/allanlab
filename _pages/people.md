@@ -12,7 +12,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Faculty
 {% assign number_printed = 0 %}
-{% for member in site.data.faculty_members %}
+{% for member in site.data.faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
