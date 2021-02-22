@@ -7,7 +7,7 @@ permalink: /
 ---
 
 Welcome! This page is currently under heavy construction. Please check back soon! 
-For now, you can see our memebers [here](people).
+<!-- For now, you can see our memebers [here](people). -->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
