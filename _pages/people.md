@@ -1,7 +1,7 @@
 ---
-title: "NDS Lab - Team"
+title: "NDS Lab - Members"
 layout: gridlay
-excerpt: "NDS Lab: Team members"
+excerpt: "NDS Lab: Members"
 sitemap: false
 permalink: /people/
 ---
@@ -21,7 +21,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -137,7 +137,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
