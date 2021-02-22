@@ -7,8 +7,14 @@ permalink: /lab-photos/
 
 # NDS Lab Photos
 
+This page is currently under heavy development. Please check back soon!
+
+
+
+<!-- 
 #### Example youtube video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idhere......" frameborder="0" allowfullscreen></iframe>
+-->
 
 <!-- Gallery -->
 {% assign number_printed = 0 %}
@@ -48,9 +54,3 @@ permalink: /lab-photos/
 
 <p> &nbsp; </p>
 
-
-## B
-Example B
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/B.jpg" width="60%">
-</figure>
