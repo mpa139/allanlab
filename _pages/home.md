@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<img src="/images/logo/Logo_NDS.png" width="80%">
-
 Welcome! This page is currently under heavy construction. Please check back soon! 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
