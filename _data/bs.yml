@@ -1,0 +1,54 @@
+- name: Ben Van Sleen
+  photo: BenVanSleen.png
+  info: Computer Engineering BS, Economics BS
+  email: benjamin.h.van.sleen@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  
+- name: Chet Weissberg
+  photo: ChetWeissberg.png
+  info: Computer Science BS
+  email: chet.l.weissberg@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  
+- name: Jack O'Keefe
+  photo: JackOKeefe.png
+  info: Computer Science BS, Economics BS
+  email: jack.m.okeefe@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Trevor Pillow
+  photo: TrevorPillow.png
+  info: Computer Science BS
+  email: trevor.pillow@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Udit Malik
+  photo: UditMalik.png
+  info: Computer Science BS
+  email: udit.malik@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
