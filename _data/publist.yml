@@ -1,7 +1,7 @@
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  Phys. Rev. Research 3, 013153
