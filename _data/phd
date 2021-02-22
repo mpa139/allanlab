@@ -1,0 +1,23 @@
+#education can be bullets such as prev positions or links
+
+- name: Yu Wang
+  photo: YuWang.png
+  info: Computer Science PhD
+  email: yu.wang.1@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  
+  - name: Nate Hishon
+  photo: NateHishon.png
+  info: Computer Science PhD
+  email: nathaniel.e.hishon@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
