@@ -8,28 +8,6 @@
   education3: 
   education4: 
   education5: 
-  
-- name: Chet Weissberg
-  photo: NoPhoto.png
-  info: Computer Science BS
-  email: chet.l.weissberg@vanderbilt.edu
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-  education4: 
-  education5: 
-  
-- name: Jack O'Keefe
-  photo: NoPhoto.png
-  info: Computer Science BS, Economics BS
-  email: jack.m.okeefe@vanderbilt.edu
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-  education4: 
-  education5: 
 
 - name: Trevor Pillow
   photo: NoPhoto.png
@@ -42,10 +20,32 @@
   education4: 
   education5: 
 
+- name: Jack O'Keefe
+  photo: NoPhoto.png
+  info: Computer Science BS, Economics BS
+  email: jack.m.okeefe@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
 - name: Udit Malik
   photo: NoPhoto.png
   info: Computer Science BS
   email: udit.malik@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Chet Weissberg
+  photo: NoPhoto.png
+  info: Computer Science BS
+  email: chet.l.weissberg@vanderbilt.edu
   number_educ: 0
   education1: 
   education2: 
