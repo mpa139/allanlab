@@ -9,20 +9,16 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
+<!-- 
+## Highlights
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ))
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
-
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
@@ -34,25 +30,24 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endif %}
 {% endfor %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 <p> &nbsp; </p>
+-->
 
+You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ)).
 
 ## Full List
+
+Currently under heavy development. Please check back soon!
 
 {% for publi in site.data.publist %}
 
