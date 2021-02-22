@@ -23,7 +23,7 @@ permalink: /news.html
   {{ article.date }}<br>
   <em>{{ article.headline }}</em><br>
 {% endif %}
-</br>
+<br>
 
 {% endfor %}
 -->
