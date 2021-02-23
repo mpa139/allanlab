@@ -21,9 +21,9 @@ permalink: /news.html
   <h3><b>{{ article.date }}</b></h3><br>
 {% else %}
   {{ article.date }}<br>
-  <em>{{ article.headline }}</em><br>
+  <em>{{ article.headline }}</em><br>a
 {% endif %}
-<br>
+<br>b
 
 {% endfor %}
 -->
