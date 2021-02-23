@@ -25,4 +25,3 @@ permalink: /news.html
 {% endif %}
 
 {% endfor %}
--->
