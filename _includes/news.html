@@ -5,7 +5,7 @@
 {% for article in site.data.news limit:11 %}
 
 {% if article.headline == "YEAR" %}
-  <h4>{{ article.date }}</h4>
+  <h4 style="text-align:center">{{ article.date }}</h4>
 {% else %}
   {{ article.date }}<br>
   &nbsp; &nbsp; <em>{{ article.headline }}</em><br style="line-height: 15px" />
