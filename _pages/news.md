@@ -22,7 +22,8 @@ permalink: /news.html
 {% else %}
   {{ article.date }}<br>
   <div style="margin-left: 6px">
-  <em>{{ article.headline }}</em><br style="line-height: 20px" /></div>
+  <em>{{ article.headline }}</em><br style="line-height: 20px" />
+  </div>
 {% endif %}
 
 {% endfor %}
