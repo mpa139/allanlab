@@ -37,12 +37,12 @@
   education3:
   
 - name: Lida Zhang
-  photo: 
-  info: PhD Student
-  email: 
-  number_educ: 1
-  education1: 
-  education2: 
+  photo: lida.jpg
+  info: Ph.D. Student
+  email: lidazhang@tamu.edu
+  number_educ: 2
+  education1: M.S. with <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
+  education2: B.S. at Shandong University
   education3:
   
 - name: Arash Pakbin
