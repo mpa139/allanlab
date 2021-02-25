@@ -1,7 +1,7 @@
 - name: Bobak Mortazavi
   photo: bobak.jpg
   info: Lab Director, Assistant Professor of Computer Science & Engineering
-  email: bobakm@tamu.edu
+  email: bobak.mortazavi@gmail.com
   number_educ: 5
   education1: 
   education2:
@@ -15,6 +15,51 @@
   email: nathan@hurley.icu
   number_educ: 1
   education1: B.S. Abilene Christian University
+  education2: 
+  education3:
+  
+- name: Zepeng Huo
+  photo: zepeng.jpg
+  info: PhD Student
+  email: guangzhou92@tamu.edu
+  number_educ: 1
+  education1: 
+  education2: 
+  education3:
+  
+- name: Hoomaan Sajjadi
+  photo: hoomaan.jpg
+  info: PhD Student
+  email: hooman130@tamu.edu
+  number_educ: 1
+  education1: 
+  education2: 
+  education3:
+  
+- name: Lida Zhang
+  photo: 
+  info: PhD Student
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  education3:
+  
+- name: Arash Pakbin
+  photo: arash.jpg
+  info: PhD Student
+  email: a.pakbin@tamu.edu
+  number_educ: 1
+  education1: 
+  education2: 
+  education3:
+  
+- name: Zhale Nowroozilarki
+  photo: 
+  info: PhD Student
+  email: 
+  number_educ: 1
+  education1: 
   education2: 
   education3:
 
