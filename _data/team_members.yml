@@ -55,13 +55,13 @@
   education3:
   
 - name: Zhale Nowroozilarki
-  photo: 
-  info: PhD Student
-  email: 
-  number_educ: 1
-  education1: 
-  education2: 
-  education3:
+ photo: zhale.png
+ info: Ph.D. Student
+ email: zhale@tamu.edu
+ number_educ: 2
+ education1: M.S. University of Houston
+ education2: B.S. K. N. Toosi University of Technology
+ education3:
 
 #- name: Jianfeng (Jacky) Ge
 #  photo: Jacky.jpg
