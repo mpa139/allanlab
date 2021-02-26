@@ -20,19 +20,19 @@
   
 - name: Zepeng Huo
   photo: zepeng.jpg
-  info: PhD Student
+  info: PhD Student, started Jan 2018
   email: guangzhou92@tamu.edu
-  number_educ: 1
-  education1: 
-  education2: 
+  number_educ: 2
+  education1: M. Sc. in computer science, Texas A&M University
+  education2: B. Sc. in electrical engineering, Jilin University, China
   education3:
   
 - name: Hoomaan Sajjadi
   photo: hoomaan.jpg
-  info: PhD Student
+  info: PhD Student since 2018
   email: hooman130@tamu.edu
   number_educ: 1
-  education1: 
+  education1: B.S. in electrical engineering, Sharif University of Technology
   education2: 
   education3:
   
@@ -47,20 +47,20 @@
   
 - name: Arash Pakbin
   photo: arash.jpg
-  info: PhD Student
+  info: PhD Student, started Jan 2021
   email: a.pakbin@tamu.edu
-  number_educ: 1
-  education1: 
-  education2: 
+  number_educ: 2
+  education1: M.Sc. in computer science, Texas A&M University
+  education2: B.Sc. in electrical engineering, University of Tehran
   education3:
   
 - name: Zhale Nowroozilarki
   photo: zhale.jpg
-  info: PhD Student
+  info: Ph.D. Student, started Aug 2020
   email: zhale@tamu.edu
   number_educ: 2
-  education1: M.S. University of Houston
-  education2: B.S. K. N. Toosi University of Technology
+  education1: M.S. in Computational Health Informatics, University of Houston
+  education2: B.S. in Computer Engineering, K. N. Toosi University of Technology
   education3:
 
 #- name: Jianfeng (Jacky) Ge
