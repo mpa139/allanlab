@@ -134,7 +134,7 @@ permalink: /people/
   </ul>
   
   <div class="social-links">
-  <i>
+  <span>
   {% if member.website != 0 %}
   <a href="{{ member.website }}"> <i class="fa fa-link"></i></a>
   {% endif %}
@@ -147,7 +147,7 @@ permalink: /people/
   {% if member.twitter != 0 %}
   <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a>
   {% endif %}
-  </i>
+  </span>
   </div>
   
   
