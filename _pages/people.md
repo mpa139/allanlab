@@ -205,7 +205,7 @@ permalink: /people/
   </ul>
     
   <div class="social-links"> 
-  <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> 
+  {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
 </div>
     
 </div>
