@@ -8,6 +8,10 @@
   education3: 
   education4: 
   education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/benvansleen
+  twitter: 0
+  github: https://github.com/benvansleen
 
 - name: Trevor Pillow
   photo: TrevorPillow.png
@@ -19,6 +23,10 @@
   education3: 
   education4: 
   education5: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
 
 - name: Jack O'Keefe
   photo: JackOKeefe.png
@@ -30,6 +38,10 @@
   education3: 
   education4: 
   education5: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
 
 - name: Udit Malik
   photo: NoPhoto.png
@@ -41,6 +53,10 @@
   education3: 
   education4: 
   education5: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
 
 - name: Chet Weissberg
   photo: NoPhoto.png
@@ -52,3 +68,7 @@
   education3: 
   education4: 
   education5: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
