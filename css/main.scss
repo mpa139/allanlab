@@ -98,3 +98,21 @@ firstp {
     margin-top: 15px;
 	
 }
+
+/* added for social links */
+.social-links a {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #cddbe1;
+  text-align: center;
+  color: #69acc7;
+  display: inline-block;
+  padding-top: 8px;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  }
+  .social-links a:hover {
+    background: #69acc7;
+    border-color: #69acc7;
+    color: white; }
