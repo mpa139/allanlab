@@ -140,7 +140,6 @@ permalink: /people/
   {% if member.twitter != 0 %}
   <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a>
   {% endif %}
-  </span>
   </div>
   
   
