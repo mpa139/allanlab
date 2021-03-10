@@ -135,16 +135,16 @@ permalink: /people/
   </ul>
   
   {% if member.website != 0 %}
-  <a href="{{member.website}}"> <i class="fa fa-link">::before</i></a>
+  <a href="{{member.website}}"> <i class="fa fa-link"></i></a>
   
   {% if member.linkedin != 0 %}
-  <a href="{{member.linkedin}}"> <i class="fa fa-linkedin">::before</i></a>
+  <a href="{{member.linkedin}}"> <i class="fa fa-linkedin"></i></a>
 
   {% if member.github != 0 %}
-  <a href="{{member.github}}"> <i class="fa fa-github">::before</i></a>
+  <a href="{{member.github}}"> <i class="fa fa-github"></i></a>
 
   {% if member.twitter != 0 %}
-  <a href="{{member.twitter}}"> <i class="fa fa-twitter">::before</i></a>
+  <a href="{{member.twitter}}"> <i class="fa fa-twitter"></i></a>
   
   
 </div>
