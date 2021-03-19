@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-Welcome! This page is currently under heavy construction. Please check back soon! 
+
+We are the Network and Data Science (NDS) lab at Vanderbilt University, led by Tyler Derr. Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and data science for social good with applications in education, health, and political science.
+
 <!-- For now, you can see our memebers [here](people). -->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
@@ -27,9 +29,11 @@ Welcome! This page is currently under heavy construction. Please check back soon
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy2.jpg" alt="Slide 2" />
         </div>
+        <!-- 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy3.jpg" alt="Slide 3" />
         </div>
+        -->
     </div>
     
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
