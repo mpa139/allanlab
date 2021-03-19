@@ -8,4 +8,4 @@ permalink: /research/
 
 # Research
 
-This page is currently under heavy construction. Please check back soon!
+This page is currently under development. Please see our member's personal sites for more information regarding our research.
