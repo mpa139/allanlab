@@ -16,7 +16,7 @@ We are the Network and Data Science (NDS) lab at Vanderbilt University, led by T
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
+        <!-- <li data-target="#carousel" data-slide-to="2"></li> -->
     </ol>
 
     <!-- Items (and how to comment) -->
