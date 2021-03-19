@@ -7,8 +7,7 @@ permalink: /lab-photos/
 
 # NDS Lab Photos
 
-This page is currently under heavy development. Please check back soon!
-
+We haven't yet been able to have our first lab activity, but will hopefully have some photos to share soon!
 
 
 <!-- 
