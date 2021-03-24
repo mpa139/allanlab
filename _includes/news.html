@@ -2,8 +2,9 @@
     <h3>News</h3>
 
     {% for article in site.data.news limit:3 %}
-    <h4>{{ article.headline }}</h4>
+    <h4>{{ article.headline | markdownify}}</h4>
     {{ article.text | markdownify}}
+    <br>----
     {% endfor %}
 
     <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">Past News</a></h4>
