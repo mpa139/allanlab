@@ -1,48 +1,10 @@
-- name: Raghuram Sunnam, PhD
-  photo: Sunnam-150x150.jpg
-  duration: "Graduated: May 2019"
-  info: "Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent."
-  email: "-"
-  number_educ: 1
-  education1: <a href="/downloads/ResearchPoster_RaghuramSunnam.pdf">Research poster</a>
-  education2:
-  education3:
-  education4:
-
-- name: Xue Sheryl Yang, PhD
-  photo: xue-yang3.jpg
-  duration: "Graduated: September 2014"
-  info: "Research Project: A formal approach to provide information support for troubleshooting of HVAC related problems."
-  email: "-"
-  number_educ: 2
-  education1: Sheryl worked on developing a formal approach to identify applicable HVAC system components and information requirements that an HVAC mechanic should consider during troubleshooting of indoor air problems, generate the applicable information, and present them to mechanics to better conceive all the clues in relation to the space/system being evaluated.
-  education2: <a href="/downloads/Sheryl_Xue-Yang_An-approach-for-diagnosing-HVAC-problems-and-optimizing-control-strategy-during-HVAC-corrective-maintenance-tasks.pdf">Research poster</a>
-  education3:
-  education4:
-
-- name: Te Gao, PhD  
-  photo: tae-gao1.jpg
-  duration: "Graduated: December 2013"
-  info: "Research Project: Complete And Accurate As-Built BIM Based On An As-Designed BIM And Progressive Laser Scans."
-  email: "-"
-  number_educ: 2
-  education1: "Te developed a framework that supports the update of an as-designed BIM into an as-built BIM by incorporating geometric information captured by progressive laser scans.<br>
-The framework is composed of three main parts:<br>
-  (1) identifying different types of features that contribute in recognizing the correspondences between a point cloud and an as-designed BIM; <br>
-  (2) evaluating the performance of features for the mapping between a point cloud and an as-designed BIM; and <br>
-  (3) leveraging point clouds captured by progressive laser scans to retrieve a complete view of the building and increase the accuracy of the updated BIM."
-  education1: <a href="/downloads/Te_Gao_Generation-of-Accurate-and-Complete-As-is-BIMs_Te_Latest.pdf">Research poster</a>
-  education2:
-  education3:
-  education4:
-
 - name: Zhengbo Zou, PhD
   photo: zz.jpg
   duration: "Graduated: Dec 2020"
-  info: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>'
+  info: 'Currently a tenure track faculty at the University of British Columbia'
   email: zz1658@nyu.edu
   number_educ: 4
-  education1: "Research Project: Impact of construction on urban quality of life"
+  education1: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>'
   education2: Quantification of impact of architecture design on human experience project, Lead Researcher
   education3: <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a>
   education4: <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a>
@@ -50,8 +12,37 @@ The framework is composed of three main parts:<br>
 - name: Xinran Yu, PhD
   photo: Xinran_Yu5.jpg
   duration: "Graduated: Dec 2020"
-  info: 'Research project: Building-grid interactions and improving demand response in buildings <br><a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&hl=sra">Google Scholar</a>'
+  info: ''
   email: celiayu@nyu.edu
   number_educ: 2
-  education1: "Research project: Building-grid interactions and improving demand response in buildings"
+  education1: 'Research project: Building-grid interactions and improving demand response in buildings <br><a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&hl=sra">Google Scholar</a>'
   education2: <a href="/downloads/poster_Celia.pdf">Research poster</a>
+
+- name: Xue Sheryl Yang, PhD
+  photo: xue-yang3.jpg
+  duration: "Graduated: September 2014"
+  info: "Currently working at Autodesk Inc."
+  email: "-"
+  number_educ: 2
+  # education1: Sheryl worked on developing a formal approach to identify applicable HVAC system components and information requirements that an HVAC mechanic should consider during troubleshooting of indoor air problems, generate the applicable information, and present them to mechanics to better conceive all the clues in relation to the space/system being evaluated.
+  education1: "Research Project: A formal approach to provide information support for troubleshooting of HVAC related problems."
+  education2: <a href="/downloads/Sheryl_Xue-Yang_An-approach-for-diagnosing-HVAC-problems-and-optimizing-control-strategy-during-HVAC-corrective-maintenance-tasks.pdf">Research poster</a>
+  education3: 
+  education3:
+
+- name: Te Gao, PhD  
+  photo: tae-gao1.jpg
+  duration: "Graduated: December 2013"
+  info: "Currently working at Amazon Inc."
+  email: "-"
+  number_educ: 2
+  # education1: "Te developed a framework that supports the update of an as-designed BIM into an as-built BIM by incorporating geometric information captured by progressive laser scans.<br>
+# The framework is composed of three main parts:<br>
+  # (1) identifying different types of features that contribute in recognizing the correspondences between a point cloud and an as-designed BIM; <br>
+  # (2) evaluating the performance of features for the mapping between a point cloud and an as-designed BIM; and <br>
+  # (3) leveraging point clouds captured by progressive laser scans to retrieve a complete view of the building and increase the accuracy of the updated BIM."
+  education1: "Research Project: Complete And Accurate As-Built BIM Based On An As-Designed BIM And Progressive Laser Scans."
+  education2: <a href="/downloads/Te_Gao_Generation-of-Accurate-and-Complete-As-is-BIMs_Te_Latest.pdf">Research poster</a>
+  education3: 
+  education4:
+  education5:

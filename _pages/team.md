@@ -176,6 +176,27 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
   <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
   </ul>
 </div>
 
@@ -194,7 +215,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 
 <br>
 
-## Former visitors, BSc/ MSc students
+## Former visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -204,7 +225,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
@@ -216,12 +237,20 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 </div>
 
 <br>
 
 ## High school students hosted
+
+Summer 2020:
+David Ugo-Omernukwa, <b>Bronx High School of Science</b>
+Nyah Smith, <b>Computer Science High School</b>
+
+Summer 2019:
+InesVillegas Costa, <b>Bard High School Early College</b>
+Lauren Pehlivanian, <b>Stuyvesant High School</b>
 
 Summer 2018:  
 Tina Wong, <b>Stuyvesant High School</b>  
@@ -230,4 +259,7 @@ Daniel Gomez, <b>Stuyvesant High School</b>
 Summer 2017:  
 Connie Tsang, <b>Hunter College High School</b>  
 Jason Cheung, <b>Stuyvesant High School</b>  
-<br>
+
+Summer 2016:
+Danny Dirusso, <b>Dobbs Ferry School District</b>
+<br><br>

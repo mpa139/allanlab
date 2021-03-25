@@ -21,3 +21,17 @@
   number_educ: 0
   education1: 
   education2: 
+
+- name: Christopher Piper
+  photo: ../dummy.png
+  info: Part-time PhD Student, started Spring 2019
+  email: chp296@nyu.edu
+  number_educ: 0
+
+- name: Raghuram Sunnam
+  photo: Sunnam-150x150.jpg
+  info: Part-time PhD Student at Carnegie Mellon University
+  # info: "Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent."
+  # email: "-"
+  number_educ: 0
+  education1: <a href="/downloads/ResearchPoster_RaghuramSunnam.pdf">Research poster</a>

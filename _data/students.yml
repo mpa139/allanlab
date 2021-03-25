@@ -8,90 +8,183 @@
 #  education3:
 #  education4:
 
-- name: Neda Talebzadeh, MS (Project)
+- name: Poornachandra Venkadesh, MS in Civil and Urban Engineering (Project)
   photo: rock.jpg
-  info: "Research Project: TBD (May 2019)"
+  info: "Research Project: Building automation sensor mapping for a large office building (Fall 2019 - Spring 2020)"
   email: "-"
   number_educ: 0
   education1:
 
-- name: Prateek Khourasia, MS in Computer Science and Engineering (Project)
+- name: Neda Talebzadeh, MS in Civil and Urban Engineering (Project)
   photo: rock.jpg
-  info: "Research Project: Data analysis on building automation systems for system degradation (December 2016)"
+  info: "Research Project: Analysis of landmark buildings on energy impact in cities (Spring 2019)"
   email: "-"
   number_educ: 0
   education1:
 
-- name: Zeyu Meng, MS in Computer Science and Engineering (Project)
+- name: Yu Lu, MS in Electrical and Computer Engineering (Voluntary)
   photo: rock.jpg
-  info: "Research Project: Data analysis on building automation systems for system efficiencies (December 2016)"
+  info: "Research Project: Data analytics on BAS data for determining patterns (Spring 2018)"
   email: "-"
   number_educ: 0
   education1:
+
+- name: Siping Wang, MS (Voluntary)
+  photo: rock.jpg
+  info: "Research Project: Point cloud registration and documentation (Spring 2018)"
+  number_educ: 0
+
+- name: Yuerong Ren, MS in Civil and Urban Engineering (Project)
+  info: "Research Project: Developing VR models for user-studies (Summer 2018)"
+  number_educ: 0
+
+- name: Gokmen Dedemen, MS in Civil and Urban Engineering (Thesis)
+  info: "Research Project: Building informatics to improve building energy efficiency (Spring 2017 - Fall 2017)"
+  number_educ: 0
 
 - name: Robert Chiarelli, MS in Computer Science and Engineering (Thesis)
   photo: Robert Chiarelli.jpg
-  info: "Research Project: Development of a system architecture for customizing BIMs for FM tasks"
+  info: "Research Project: Customization of building information models for facilities management (Fall 2016 - Spring 2017)"
   email: "-"
-  number_educ: 1
-  education1: "Graduation date: May 2017"
+  number_educ: 0
 
-- name: Emanuele Morbidoni, MS in Civil and Urban Engineering (Project)
+- name: Zeyu Meng, MS in Computer Science and Engineering (Project)
   photo: rock.jpg
-  info: "Research Project: Automated safety compliance checking in BIMs (August 2016)"
+  info: "Research Project: Analysis of building sensor data for pattern identification in AHUs operations (Fall 2016)"
   email: "-"
   number_educ: 0
   education1:
 
-- name: Rodrigo Barbosa Lima, MS in Civil and Urban Engineering (Thesis)
-  photo: IMG_5070 (2).jpg
-  info: "Research Project: Analysis of construction impact on airport operations"
-  email: "-"
-  number_educ: 2
-  education1: "Expected graduation date: May 2016"
-  education2: <a href="/downloads/ResearchPoster_Rodrigo.pdf">Research poster</a>
-  
-- name: Luiz Eduardo Da Silva Arruda, MS in Civil and Urban Engineering (Thesis)
-  photo: Luiz.jpg
-  info: "Research Project: Dveloping interactive virtual environments from BIMs for user tests in the built environment"
-  email: "-"
-  number_educ: 2
-  education1: "Expected graduation date: May 2016"
-  education2: <a href="/downloads/research_poster - v4b.pdf">Research poster</a>
+- name: Ahmed Radwan (Project)
+  info: "Research Project: Neuroscience for architecture (Spring 2016)"
 
-- name: LPriscila Daher Russo Dias, MS in Civil and Urban Engineering (Thesis)
-  photo: priscila.dias.civil.engineer.jfif
-  info: "Research Project: Capturing requirements of facilities management tasks for as-built BIM deliverables"
+- name: Prateek Khourasia, MS in Computer Science and Engineering (Project)
+  photo: rock.jpg
+  info: "Research Project: Detecting deterioration in AHUs using machine learning approaches (Fall 2016)"
   email: "-"
-  number_educ: 2
-  education1: "Expected graduation date: December 2015"
-  education2: <a href="/downloads/Dias_Priscila_Poster.pdf">Research poster</a>
+  number_educ: 0
+  education1:
 
-- name: Naveen D'Souza Lazar, MS in Civil and Urban Engineering
-  photo: Naveen.jpg
-  info: "Research Project: Analysis of renovation challenges in historical landmarks"
+- name: Kashish, MS in Computer Science and Engineering (Report)
+  info: "Research Project: Analysis of AHU data for detecting patterns using SAX analysis (Fall 2016)"
+
+- name: Manya Mishra, MS in Civil and Urban Engineering (Report)
+  info: "Research Project: 3D modeling and virtual model generation for given testbeds (Summer 2016 - Spring 2017)"
+
+- name: Emanuele Morbidoni, MS in Civil and Urban Engineering (Project)
+  photo: rock.jpg
+  info: "Research Project: Converting OSHA narratives to computer interpretable rulesets (Summer 2016)"
   email: "-"
-  number_educ: 2
-  education1: "Expected graduation date: December 2015"
-  education2: <a href="/downloads/Naveen-poster.pdf">Research poster</a>
+  number_educ: 0
+  education1:
 
 - name: Dhruv Patel, MS in Civil and Urban Engineering (Project)
   photo: rock.jpg
-  info: "Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)"
+  info: "Research Project: Modifying BIMs for missing content for safety requirements checking (Summer 2016)"
   email: "-"
   number_educ: 0
   education1: 
 
-- name: 
-  photo: rock.jpg
-  info: "Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)"
+- name: Rodrigo Barbosa Lima, MS in Civil and Urban Engineering (Thesis)
+  photo: IMG_5070 (2).jpg
+  info: "Research Project: Construction impact on airport operations during capital improvement projects (Fall 2015 - Spring 2016)"
   email: "-"
-  number_educ: 0
-  education1: 
+  # number_educ: 2
+  # education1: "Expected graduation date: May 2016"
+  # education2: <a href="/downloads/ResearchPoster_Rodrigo.pdf">Research poster</a>
+  
+- name: Luiz Eduardo Da Silva Arruda, MS in Civil and Urban Engineering (Thesis)
+  photo: Luiz.jpg
+  info: "Research Project: Developing interactive virtual environments from BIMs for user tests in the built environment and facility operations (Fall 2015 - Spring 2016)"
+  email: "-"
+  # number_educ: 2
+  # education1: "Expected graduation date: May 2016"
+  # education2: <a href="/downloads/research_poster - v4b.pdf">Research poster</a>
 
-- name: 
-  photo: rock.jpg
-  info: "Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)"
+- name: Priscila Daher Russo Dias, MS in Civil and Urban Engineering (Thesis)
+  photo: priscila.dias.civil.engineer.jfif
+  info: "Research Project: Capturing requirements of facilities management tasks for as-built BIM deliverables (Spring 2015 - Fall 2016)"
   email: "-"
-  number_educ: 0
-  education1: 
+  # number_educ: 2
+  # education1: "Expected graduation date: December 2015"
+  # education2: <a href="/downloads/Dias_Priscila_Poster.pdf">Research poster</a>
+
+- name: Naveen D'Souza Lazar, MS in Civil and Urban Engineering (Voluntary Project)
+  photo: Naveen.jpg
+  info: "Research Project: Generation of BIM for existing mechanical systems for St. Patrick Cathedral (Fall 2015)"
+  email: "-"
+  # number_educ: 2
+  # education1: "Expected graduation date: December 2015"
+  # education2: <a href="/downloads/Naveen-poster.pdf">Research poster</a>
+
+- name: Bo Gu, MS in Civil and Environmental Engineering at Carnegie Mellon University (Project)
+  info: "Research Project: Generation of BIMs for existing buildings using documents and data sources generated throughout facility life cycle (Fall 2014, co-advised)"
+
+- name: Hanzhi Chen, MS in Civil and Environmental Engineering at Carnegie Mellon University (Project)
+  info: "Research Project: Creation of virtual worlds for immersive displays (Summer 2014)"
+
+- name: Varun Kumaraswamy, MS in Civil and Environmental Engineering at Carnegie Mellon University (Project)
+  info: "Research Project: Building energy dashboards (Fall 2013 - Summer 2014, co-advised)"
+
+- name: Chenhao Jin, MS in Civil and Environmental Engineering at Carnegie Mellon University (Project)
+  info: "Research Project: Analysis of HVAC alarm data distribution over a set of campus buildings (Spring 2012)"
+
+- name: Jennifer Frazier, MS in Civil and Environmental Engineering at Carnegie Mellon University (Project)
+  info: "Research Project: Design of a requirements elicitation protocol for risk assessment teams performing periodic risk assessment of embankment dams (Fall 2011 - Fall 2012, co-advised)"
+
+- name: Andrew Liang, BS in Computer Science (UGSRP)
+  info: "Research Project: Change detection using point cloud data (Summer 2020)"
+
+- name: Andy Deneris, BS in Mathmatics (UGSRP)
+  info: "Research Project: Flexible data representation in BIM (Summer 2020)"
+
+- name: Yoali Tchuenboi, BS in Civil and Urban Engineering (UG readings)
+  info: "Research Project: Registration of point clouds and processing (Fall 2019)"
+
+- name: Jessper Karlsson, BS in Sustainable Urban Environmental Program (UG readings)
+  info: "Research Project: Point cloud processing and using point clouds to create 3D models (Summer 2019)"
+
+- name: Chris Katsanos, BS in Civil and Urban Engineering (UG readings)
+  info: "Research Project: Preparing tutorials for an undergraduate course (Fall 2018)"
+
+- name: Anderson Oliveira (Intern)
+  info: "Research Project: Analysis of building sensor data in Mathlab (Summer 2016)"
+
+- name: Nailton Costa Mafra Silva (Intern)
+  info: "Research Project: Generation of Building Information Model of NYU buildings (Summer 2016)"
+
+- name: Carolina Silva Leles (Intern)
+  info: "Research Project: Generation of Building Information Model of NYU buildings (Summer 2016)"
+
+- name: Murilo Breder (Intern)
+  info: "Research Project: Generation of Building Information Model of NYU buildings (Summer 2016)"
+
+- name: Thayna Senos Xavier (Intern)
+  info: "Research Project: Generation of Building Information Model of NYU buildings (Summer 2016)"
+
+- name: My Pham, BS in Civil and Urban Engineering (Intern)
+  info: "Research Project: Generation of Building Information Model of NYU buildings (Summer 2016)"
+
+- name: Austin Vancouver Newell, BS in Civil and Urban Engineering (UG readings)
+  info: "Research Project: Virtual model development for user tests in architecture for neuroscience project (Spring 2016)"
+
+- name: Sue Nopachinda, BS in Civil and Urban Engineering (UG Honors Thesis)
+  info: "Research Projects: Challenges in converting Building Information Models into virtual worlds for facility management operations (Spring 2015 - Fall 2015)"
+
+- name: Sarah Zakrajsek Carnegie Mellon University (Intern)
+  info: "Research Project: Laser scanning and Building Information Modeling of a facility renovation project buildings (Summer 2011, co-advised)"
+
+- name: Jeannette Baker, Carnegie Mellon University (Intern)
+  info: "Research Project: Indentification of assumptions made during construction planning: a bridge construction case study (Summer 2011, co-advised)"
+
+- name: Arturo Martinez, Carnegie Mellon University (Project)
+  info: "Research Project: Analysis of work order and BAS of Gates building (Fall 2012, co-advised)"
+
+- name: Millard McElwee, Carnegie Mellon University (Project)
+  info: "Research Project: Modeling of clean rooms for Scott hall building (Spring 2013, co-advised)"
+
+- name: Christopher Ejiofor, Carnegie Mellon University (Project)
+  info: "Research Project: Modeling of clean rooms for Scott hall building (Spring 2013, co-advised)"
+
+- name: Michael Odeln, Carnegie Mellon University (Project)
+  info: "Research Project: Modeling of clean rooms for Scott hall building (Spring 2013, co-advised)"
