@@ -244,22 +244,22 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 
 ## High school students hosted
 
-Summer 2020:
-David Ugo-Omernukwa, <b>Bronx High School of Science</b>
-Nyah Smith, <b>Computer Science High School</b>
-
-Summer 2019:
-InesVillegas Costa, <b>Bard High School Early College</b>
-Lauren Pehlivanian, <b>Stuyvesant High School</b>
-
+Summer 2020:  
+David Ugo-Omernukwa, <b>Bronx High School of Science</b>  
+Nyah Smith, <b>Computer Science High School</b>  
+  
+Summer 2019:  
+InesVillegas Costa, <b>Bard High School Early College</b>  
+Lauren Pehlivanian, <b>Stuyvesant High School</b>  
+  
 Summer 2018:  
 Tina Wong, <b>Stuyvesant High School</b>  
 Daniel Gomez, <b>Stuyvesant High School</b>  
-
+  
 Summer 2017:  
 Connie Tsang, <b>Hunter College High School</b>  
 Jason Cheung, <b>Stuyvesant High School</b>  
-
-Summer 2016:
-Danny Dirusso, <b>Dobbs Ferry School District</b>
+  
+Summer 2016:  
+Danny Dirusso, <b>Dobbs Ferry School District</b>  
 <br><br>
