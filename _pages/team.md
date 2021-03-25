@@ -225,7 +225,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 {% endfor %}
 </div>
 
-<!-- <div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
@@ -237,7 +237,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div> -->
+</div>
 </div>
 
 <br>
