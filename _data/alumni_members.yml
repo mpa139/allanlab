@@ -1,7 +1,7 @@
 - name: Zhengbo Zou, PhD
   photo: zz.jpg
   duration: "Graduated: Dec 2020"
-  info: 'Currently a tenure track faculty at the University of British Columbia'
+  info: 'Currently a tenure track faculty at the <b>University of British Columbia</b>'
   email: zz1658@nyu.edu
   number_educ: 4
   education1: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>'
@@ -21,7 +21,7 @@
 - name: Xue Sheryl Yang, PhD
   photo: xue-yang3.jpg
   duration: "Graduated: September 2014"
-  info: "Currently working at Autodesk Inc."
+  info: "Currently working at <b>Autodesk Inc.</b>"
   email: "-"
   number_educ: 2
   # education1: Sheryl worked on developing a formal approach to identify applicable HVAC system components and information requirements that an HVAC mechanic should consider during troubleshooting of indoor air problems, generate the applicable information, and present them to mechanics to better conceive all the clues in relation to the space/system being evaluated.
@@ -33,7 +33,7 @@
 - name: Te Gao, PhD  
   photo: tae-gao1.jpg
   duration: "Graduated: December 2013"
-  info: "Currently working at Amazon Inc."
+  info: "Currently working at <b>Amazon Inc.</b>"
   email: "-"
   number_educ: 2
   # education1: "Te developed a framework that supports the update of an as-designed BIM into an as-built BIM by incorporating geometric information captured by progressive laser scans.<br>
