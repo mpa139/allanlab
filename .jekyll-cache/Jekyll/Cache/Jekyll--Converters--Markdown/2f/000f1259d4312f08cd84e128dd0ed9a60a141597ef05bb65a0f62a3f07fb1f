@@ -1,4 +1,4 @@
-I"�2<h1 id="our-lab">Our Lab</h1>
+I"|)<h1 id="our-lab">Our Lab</h1>
 
 <!-- The Building Informatics and Visualization Lab (biLAB) is part of the [Department of Civil and Urban Engineering](https://engineering.nyu.edu/academics/departments/civil-and-urban-engineering) at the [NYU Tandon School of Engineering](https://engineering.nyu.edu/). It focuses on understanding the operational challenges associated with construction and operation of facilities and infrastructure systems in urban settings.
 
@@ -101,9 +101,32 @@ Please check [Job Openings page](/jobopening) for openings in the research group
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/chris.jfif" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="/images/teampic/../dummy.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Christopher Piper</h4>
     <p><i>Part-time PhD Student, started Spring 2019<br />email: <a href="mailto:chp296@nyu.edu">chp296@nyu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/Sunnam-150x150.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Raghuram Sunnam</h4>
+    <p><i>Part-time PhD Student at Carnegie Mellon University<br />email: &lt;&gt;</i></p>
     <ul style="overflow: hidden">
 
   
@@ -126,236 +149,6 @@ Please check [Job Openings page](/jobopening) for openings in the research group
 
 <h2 id="master-and-bachelor-students">Master and Bachelor Students</h2>
 
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Neda Talebzadeh, MS (Project)</h4>
-    <p><i>Research Project: TBD (May 2019)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4>Prateek Khourasia, MS in Computer Science and Engineering (Project)</h4>
-    <p><i>Research Project: Data analysis on building automation systems for system degradation (December 2016)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Zeyu Meng, MS in Computer Science and Engineering (Project)</h4>
-    <p><i>Research Project: Data analysis on building automation systems for system efficiencies (December 2016)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4>Robert Chiarelli, MS in Computer Science and Engineering (Thesis)</h4>
-    <p><i>Research Project: Development of a system architecture for customizing BIMs for FM tasks</i></p>
-    <ul style="overflow: hidden">
-
-  
-  <li> Graduation date: May 2017 </li>
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Emanuele Morbidoni, MS in Civil and Urban Engineering (Project)</h4>
-    <p><i>Research Project: Automated safety compliance checking in BIMs (August 2016)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4>Rodrigo Barbosa Lima, MS in Civil and Urban Engineering (Thesis)</h4>
-    <p><i>Research Project: Analysis of construction impact on airport operations</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-  <li> Expected graduation date: May 2016 </li>
-  <li> <a href="/downloads/ResearchPoster_Rodrigo.pdf">Research poster</a> </li>
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Luiz Eduardo Da Silva Arruda, MS in Civil and Urban Engineering (Thesis)</h4>
-    <p><i>Research Project: Dveloping interactive virtual environments from BIMs for user tests in the built environment</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-  <li> Expected graduation date: May 2016 </li>
-  <li> <a href="/downloads/research_poster - v4b.pdf">Research poster</a> </li>
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4>LPriscila Daher Russo Dias, MS in Civil and Urban Engineering (Thesis)</h4>
-    <p><i>Research Project: Capturing requirements of facilities management tasks for as-built BIM deliverables</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-  <li> Expected graduation date: December 2015 </li>
-  <li> <a href="/downloads/Dias_Priscila_Poster.pdf">Research poster</a> </li>
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Naveen D’Souza Lazar, MS in Civil and Urban Engineering</h4>
-    <p><i>Research Project: Analysis of renovation challenges in historical landmarks</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-  <li> Expected graduation date: December 2015 </li>
-  <li> <a href="/downloads/Naveen-poster.pdf">Research poster</a> </li>
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4>Dhruv Patel, MS in Civil and Urban Engineering (Project)</h4>
-    <p><i>Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4></h4>
-    <p><i>Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4></h4>
-    <p><i>Research Project: Converting OSHA requirements into rulesets for automated safety compliance checking in BIMs  (May 2016)</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
 <p><br /></p>
 
 <h2 id="alumni">Alumni</h2>
@@ -363,55 +156,84 @@ Please check [Job Openings page](/jobopening) for openings in the research group
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/Sunnam-150x150.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Raghuram Sunnam, PhD</h4>
-    <p><i>Graduated: May 2019 <br /> Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent.</i></p>
-    <ul style="overflow: hidden">
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/xue-yang3.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Xue Sheryl Yang, PhD</h4>
-    <p><i>Graduated: September 2014 <br /> Research Project: A formal approach to provide information support for troubleshooting of HVAC related problems.</i></p>
-    <ul style="overflow: hidden">
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/tae-gao1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Te Gao, PhD</h4>
-    <p><i>Graduated: December 2013 <br /> Research Project: Complete And Accurate As-Built BIM Based On An As-Designed BIM And Progressive Laser Scans.</i></p>
-    <ul style="overflow: hidden">
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
     <p><img src="/images/teampic/zz.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Zhengbo Zou, PhD</h4>
-    <p><i>Graduated: Dec 2020 <br /> Research Project: Impact of construction on urban quality of life <br /> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&amp;hl=sra">Google Scholar</a></i></p>
+    <p><i>Graduated: Dec 2020 <br /> Currently a tenure track faculty at the <b>University of British Columbia</b></i></p>
     <ul style="overflow: hidden">
 
+  
+
+  
+
+  
+
+  
+  <li> Research Project: Impact of construction on urban quality of life <br /> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&amp;hl=sra">Google Scholar</a> </li>
+  <li> Quantification of impact of architecture design on human experience project, Lead Researcher </li>
+  <li> <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a> </li>
+  <li> <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a> </li>
+  
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/teampic/Xinran_Yu5.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Xinran Yu, PhD</h4>
-    <p><i>Graduated: Dec 2020 <br /> Research project: Building-grid interactions and improving demand response in buildings <br /><a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&amp;hl=sra">Google Scholar</a></i></p>
+    <p><i>Graduated: Dec 2020 <br /> </i></p>
     <ul style="overflow: hidden">
 
+  
+
+  
+  <li> Research project: Building-grid interactions and improving demand response in buildings <br /><a href="https://scholar.google.com/citations?user=XFSyBqgAAAAJ&amp;hl=sra">Google Scholar</a> </li>
+  <li> <a href="/downloads/poster_Celia.pdf">Research poster</a> </li>
+  
+
+  
+
+  
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/xue-yang3.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Xue Sheryl Yang, PhD</h4>
+    <p><i>Graduated: September 2014 <br /> Currently working at <b>Autodesk Inc.</b></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Research Project: A formal approach to provide information support for troubleshooting of HVAC related problems. </li>
+  <li> <a href="/downloads/Sheryl_Xue-Yang_An-approach-for-diagnosing-HVAC-problems-and-optimizing-control-strategy-during-HVAC-corrective-maintenance-tasks.pdf">Research poster</a> </li>
+  
+
+  
+
+  
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/tae-gao1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Te Gao, PhD</h4>
+    <p><i>Graduated: December 2013 <br /> Currently working at <b>Amazon Inc.</b></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Research Project: Complete And Accurate As-Built BIM Based On An As-Designed BIM And Progressive Laser Scans. </li>
+  <li> <a href="/downloads/Te_Gao_Generation-of-Accurate-and-Complete-As-is-BIMs_Te_Latest.pdf">Research poster</a> </li>
+  
+
+  
+
+  
   </ul>
   </div>
 
@@ -419,7 +241,7 @@ Please check [Job Openings page](/jobopening) for openings in the research group
 
 <p><br /></p>
 
-<h2 id="former-visitors-bsc-msc-students">Former visitors, BSc/ MSc students</h2>
+<h2 id="former-visitors-bscmsc-students">Former visitors, BSc/MSc students</h2>
 <div class="row">
 
   <div class="col-sm-4 clearfix">
@@ -432,9 +254,51 @@ Please check [Job Openings page](/jobopening) for openings in the research group
   <div class="col-sm-4 clearfix">
     <h4>Master students</h4>
 
+    <p>Poornachandra Venkadesh, graduated in May 2020</p>
+
+    <p>Neda Talebzadeh</p>
+
+    <p>Yu Lu</p>
+
+    <p>Siping Wang</p>
+
+    <p>Yuerong Ren</p>
+
+    <p>Gokmen Dedemen</p>
+
+    <p>Robert Chiarelli</p>
+
+    <p>Zeyu Meng</p>
+
+    <p>Ahmed Radwan</p>
+
+    <p>Prateek Khourasia</p>
+
+    <p>Kashish</p>
+
+    <p>Manya Mishra</p>
+
+    <p>Emanuele Morbidoni</p>
+
+    <p>Dhruv Patel</p>
+
+    <p>Rodrigo Barbosa Lima</p>
+
+    <p>Luiz Eduardo Da Silva Arruda</p>
+
+    <p>Priscila Daher Russo Dias</p>
+
+    <p>Naveen D’Souza Lazar</p>
+
     <p>Bo Gu, graduated in December 2014</p>
 
+    <p>Hanzhi Chen</p>
+
     <p>Varun Kumaraswamy, graduated in May 2014</p>
+
+    <p>Chenhao Jin</p>
+
+    <p>Jennifer Frazier</p>
 
     <p>Jason Jiang, graduated in May 2014</p>
 
@@ -484,12 +348,23 @@ Please check [Job Openings page](/jobopening) for openings in the research group
 
 <h2 id="high-school-students-hosted">High school students hosted</h2>
 
+<p>Summer 2020:<br />
+David Ugo-Omernukwa, <b>Bronx High School of Science</b><br />
+Nyah Smith, <b>Computer Science High School</b></p>
+
+<p>Summer 2019:<br />
+InesVillegas Costa, <b>Bard High School Early College</b><br />
+Lauren Pehlivanian, <b>Stuyvesant High School</b></p>
+
 <p>Summer 2018:<br />
 Tina Wong, <b>Stuyvesant High School</b><br />
 Daniel Gomez, <b>Stuyvesant High School</b></p>
 
 <p>Summer 2017:<br />
 Connie Tsang, <b>Hunter College High School</b><br />
-Jason Cheung, <b>Stuyvesant High School</b><br />
-<br /></p>
+Jason Cheung, <b>Stuyvesant High School</b></p>
+
+<p>Summer 2016:<br />
+Danny Dirusso, <b>Dobbs Ferry School District</b><br />
+<br /><br /></p>
 :ET

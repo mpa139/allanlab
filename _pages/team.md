@@ -215,7 +215,7 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 
 <br>
 
-## Former visitors
+## Former visitors, BSc/MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">

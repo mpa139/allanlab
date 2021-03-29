@@ -2,6 +2,7 @@
 ---
 
 @import "bootstrap";
+@import url(//db.onlinewebfonts.com/c/9ae5e19516bc6428f1327ff3311b2617?family=DINNextW01-Light);
 
 .navbar-custom {
   color: #ff5500;
@@ -24,6 +25,7 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+  font-family: "DINNextW01-Light";
 }
 
 figcaption {
