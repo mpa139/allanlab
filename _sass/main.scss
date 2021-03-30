@@ -2,8 +2,15 @@
 ---
 
 @import "bootstrap";
-// @import url(//db.onlinewebfonts.com/c/9ae5e19516bc6428f1327ff3311b2617?family=DINNextW01-Light);
-@font-face {font-family: "DINNextW01-Light"; src: url("//db.onlinewebfonts.com/t/9ae5e19516bc6428f1327ff3311b2617.eot"); src: url("//db.onlinewebfonts.com/t/9ae5e19516bc6428f1327ff3311b2617.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9ae5e19516bc6428f1327ff3311b2617.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9ae5e19516bc6428f1327ff3311b2617.woff") format("woff"), url("//db.onlinewebfonts.com/t/9ae5e19516bc6428f1327ff3311b2617.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9ae5e19516bc6428f1327ff3311b2617.svg#DINNextW01-Light") format("svg"); }
+@font-face {
+  font-family: 'DIN Next LT Pro';
+  src: local('DIN Next LT Pro Light'), local('DIN-Next-LT-Pro-Light'),
+      url('fonts/DINNextLTPro-Light/DINNextLTPro-Light.woff2') format('woff2'),
+      url('fonts/DINNextLTPro-Light/DINNextLTPro-Light.woff') format('woff'),
+      url('fonts/DINNextLTPro-Light/DINNextLTPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
 
 .navbar-custom {
   color: #ff5500;
