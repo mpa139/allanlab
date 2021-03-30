@@ -3,7 +3,7 @@ title: "biLAB | Projects"
 layout: gridlay
 excerpt: "biLAB | Projects."
 sitemap: false
-permalink: /projects/
+permalink: /projects_current/
 ---
 <!-- # Research Domains
 <br>
@@ -23,10 +23,9 @@ permalink: /projects/
 
 <b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
 <br><br><br> -->
-# Projects
-<br>
+# Current Projects
 Click images to see more details about projects.
-## Current Projects
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.projects_current %}
@@ -59,39 +58,4 @@ Click images to see more details about projects.
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-## Past Projects
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.projects_past %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  [![](/images/pubpic/{{ publi.image }}){:class="img-responsive"}]({{ site.url }}{{ site.baseurl }}/projects/{{ publi.addr }})
-  <!-- <p>{{ publi.description }}</p> -->
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
+<br>

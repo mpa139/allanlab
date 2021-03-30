@@ -12,11 +12,27 @@
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
     <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/"><img src="/images/bilab_short_transparent.png" width="106"/></a>
-	  <ul class="nav navbar-nav navbar-right navbar-custom">
+	  <ul class="nav navbar-nav navbar-right navbar-custom mr-auto">
 		<li><a style="font-weight : 600; color: #36373d" href="{{ site.url }}{{ site.baseurl }}/about">About</a></li>
 		<li><a style="font-weight : 600; color: #36373d" href="{{ site.url }}{{ site.baseurl }}/team">Research Team</a></li>
-		<li><a style="font-weight : 600; color: #36373d" href="{{ site.url }}{{ site.baseurl }}/projects">Projects</a></li>
-    	<li><a style="font-weight : 600; color: #36373d" href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
+
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-weight : 600; color: #36373d">Projects</a>
+			<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/projects_current">Current Projects</a></li>
+				<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/projects_past">Past Projects</a></li>
+			</ul>
+		</li>
+
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-weight : 600; color: #36373d">Publications</a>
+			<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/publications_journals">Journals</a></li>
+				<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/publications_books">Book Chapters</a></li>
+				<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/publications_confs">Conferences</a></li>
+			</ul>
+		</li>
+
 		<li><a style="font-weight : 600; color: #36373d" href="{{ site.url }}{{ site.baseurl }}/allnews">News</a></li>
 	  </ul>
 	</div>
