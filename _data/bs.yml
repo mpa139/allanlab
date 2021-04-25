@@ -44,7 +44,7 @@
   github: 0
 
 - name: Chet Weissberg
-  photo: NoPhoto.png
+  photo: ChetWeissberg.png
   info: Computer Science BS
   email: chet.l.weissberg@vanderbilt.edu
   number_educ: 0
@@ -56,4 +56,19 @@
   website: 0
   linkedin: 0
   twitter: 0
-  github: 0
+  github: https://github.com/chet-fatherofaidan-lordofthehighseas
+  
+- name: Sam Libaire
+  photo: SamLibaire.png
+  info: Computer Science BS
+  email: samuel.p.libaire@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/sam-libaire-79720b173/
+  twitter: 0
+  github: https://github.com/samliba
