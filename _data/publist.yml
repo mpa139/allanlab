@@ -1,4 +1,13 @@
 ## 2021
+- title: "An integrated approach to enable Hardware-in-the-loop for realtime VR, traffic simulation and sensor interactions: An Application in work zone safety"
+  image:
+  authors: Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K. (2021)
+  description:
+  link:
+    url:
+    display: Journal of Advanced Engineering Informatics
+  highlight: 0
+
 - title: "Extracting building characteristics essential for energy performances from façade images through deep transfer learning"
   image: Direct.png
   authors: Yu, X., & Ergan, S.
@@ -10,6 +19,9 @@
   news2:
 
 ## 2020
+
+
+
 - title: "Key Variables in Determining Energy Shaving Capacity of Buildings during Demand Response Events"
   image: Direct.png
   authors: Yu, X., & Ergan, S.

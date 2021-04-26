@@ -7,7 +7,7 @@ permalink: /publications_journals/
 ---
 
 
-# Journal and Submitted Papers
+# Selected Journal Papers
 
 {% for publi in site.data.publist %}
 ---

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications_confs/
 ---
 
-# Conferences
+# Selected Conference Papers
 
 ## 2021
 
