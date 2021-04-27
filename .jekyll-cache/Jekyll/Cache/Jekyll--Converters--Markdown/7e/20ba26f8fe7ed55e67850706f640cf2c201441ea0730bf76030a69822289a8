@@ -1,0 +1,95 @@
+I"f<!-- # Research Domains
+<br>
+<span style="color:blue"><b>Architecture and Neuroscience</b></span>  
+*How can we quantify the impact of architectural design features on human experience? Can we use the findings to improve the design practice for better and healtier experiences in the built environment?*  
+
+<span style="color:blue"><b>Urban Challenges for AEC/FM</b></span>  
+*How can the design, construction and facilities management processes be improved to tackle with  the challenges imposed by urban settings?*  
+
+<span style="color:blue"><b>Understanding the context under which Civil Infrastructure Systems (CIS) operate</b></span>  
+*How sensors and models can be integrated to better understand system behaviors?*  
+
+<span style="color:blue"><b>Healthier building systems</b></span>  
+*How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*  
+
+<b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
+
+<b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
+<br><br><br> -->
+<h1 id="current-projects">Current Projects</h1>
+<p>Click images to see more details about projects.</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality</pubtit>
+      <p><a href="/projects/"><img src="/images/pubpic/" alt="" class="img-responsive" /></a>
+  <!-- <p></p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</pubtit>
+      <p><a href="/projects/"><img src="/images/pubpic/" alt="" class="img-responsive" /></a>
+  <!-- <p></p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Building grid interactions: Improving demand-response performance of buildings through accurate electricity demand estimations</pubtit>
+      <p><a href="/projects/building-grid-interactions"><img src="/images/pubpic/prj1.jpg" alt="" class="img-responsive" /></a>
+  <!-- <p>This research project is about understanding how to improve the efficiency of DR implementation in buildings and how to improve the accuracy of the electricity saving potential estimates of buildings that are participating in DR programs. We are approaching this problem by (1) examining  a large pool of DR protocols in terms of the building information needed in each protocol and look at how building information models can help to streamline access to facility information; (2) automatically extracting synthesized DR related building information from existing BIMs; and (3) estimating the true saving potential of buildings by applying advanced data analysis techniques (e.g., machine learning, deep learning).</p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Emotionally intelligent buildings: Responsive virtual environments using biometric sensing</pubtit>
+      <p><a href="/projects/emotionally-intelligent-buildings"><img src="/images/pubpic/prj2.png" alt="" class="img-responsive" /></a>
+  <!-- <p>This project aims to quantitatively measure human experience in designed spaces and create responsive virtual environments. It builds of off findings of a recent DARPA project on neuroscience for architecture where requirements for designed spaces for boosting human experience were defined. The responsive environments are generated using labeled emotions of users in biometric sensor data captured while users navigate in virtual spaces.  The three-step approach includes (1) automatically checking BIM of a new design against requirements for enhanced human experience in designed spaces, (2) automatically labeling human experiences on the arousal and valence scale using biometric data captured in distinctly configured virtual spaces, (3) developing reasoning mechanisms to transform spaces based on the streaming BSN data. This research aims to provide the much-needed design guidelines for architects to follow when designing spaces with human experience in mind.</p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Urban facade inspection: Computer-vision based condition assessment of building facades captured through LIDAR</pubtit>
+      <p><a href="/projects/urban-facade-inspection"><img src="/images/pubpic/prj3.png" alt="" class="img-responsive" /></a>
+  <!-- <p>For high densely populated cities like the New York City, façade inspection is a mandatory routine every 5 years for the buildings that have more than 6 floors. The current inspection are mainly based on visual check and the results are based on the inspectors’ experience. The objectives of this research are (1) to identify the required information for the decision making of façade inspection and (2) support the façade inspection process with an objective way of detecting façade defects using point clouds.</p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Customized building operations: Defining operational signatures of HVAC system configurations through data analytics on historical BAS data</pubtit>
+      <p><a href="/projects/customized-building-operations"><img src="/images/pubpic/prj4.png" alt="" class="img-responsive" /></a>
+  <!-- <p>This study aims to identify critical parameters of HVAC systems that drive the changes in the building energy-use profiles and develop an automated approach for identifying HVAC operational signatures that result in certain energy profiles in buildings, OperAtional Signature Identification System (OASIS). The OASIS relies on data-driven methodologies and is composed of three major steps: data preprocessing, feature selection, and signature discovery and analysis. The approach was tested on several air handling units (AHUs). The results showed that it is possible to define operational signatures for facility operators that are specific to a given building for running AHUs at these custom settings that correspond to energy efficient consumption in buildings.</p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Neuroscience for architecture: Quantification of impact of architecture on human experience in the built environment</pubtit>
+      <p><a href="/projects/neuroscience-for-architecture"><img src="/images/pubpic/prj5.png" alt="" class="img-responsive" /></a>
+  <!-- <p>The impact of built environment on the human responsiveness and performance has long been argued; however, the interrelations between neuroscience and built environment, and the degree to which the built environment contributes to increased human performance and context awareness has not been completely understood yet.  Towards this understanding,this project is at the intersection of Neuroscience and Architecture to quantify the impact of architectural design features on human performance and experience. This project utilizes advanced visualization, virtual reality and body area sensor networks to capture human bodily states while people interact with architectural layouts in virtual settings.</p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<p><br /></p>
+:ET
