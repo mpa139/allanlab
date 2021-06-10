@@ -63,6 +63,15 @@
   education2: B.S. in Computer Engineering, K. N. Toosi University of Technology
   education3:
 
+- name: Sicong Huang
+  photo: sicong.jpeg
+  info: Ph.D. Student, started Jun 2021
+  email: siconghuang@tamu.edu
+  number_educ: 1
+  education1: B.S. in Computer Science, Texas A&M University
+  education2: 
+  education3:
+
 #- name: Jianfeng (Jacky) Ge
 #  photo: Jacky.jpg
 #  info: Postdoc, started Oct 2019
