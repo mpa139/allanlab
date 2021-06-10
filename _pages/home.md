@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "STMI Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "STMI Lab at Texas A&M University."
 sitemap: false
 permalink: /
 ---
