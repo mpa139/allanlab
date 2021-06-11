@@ -1,10 +1,10 @@
 - name: Bobak Mortazavi
   photo: bobak.jpg
   info: Lab Director, Assistant Professor of Computer Science & Engineering
-  email: bobak.mortazavi@gmail.com
+  email: bobakm@tamu.edu
   number_educ: 5
   education1: 
-  education2:
+  education2: 
   education3: 
   education4: 
   education5: 
@@ -73,7 +73,7 @@
   education3:
   
 - name: Ryan King
-  photo: sicong.jpeg
+  photo: ryan.jpg
   info: Ph.D. Student, started Aug 2021
   email: kingrc15@tamu.edu
   number_educ: 2

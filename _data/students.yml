@@ -8,37 +8,38 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
-  photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
-  number_educ: 0
-  education1:
+- name: Sorush Omidvar
+  photo: sorush.jpg
+  info: Master Student, started on Aug 2020
+  email: Sorush.Omidvar@tamu.edu
+  number_educ: 2
+  education1: Ph.D. in Engineering, University of Georgia
+  education2: B.Sc. in Civil Engineering, Amirkabir University of Technology
 
-- name: Rémi Claessen
-  photo: rock.jpg
-  info: Master student
-  email: remi.c60000@gmail.com
-  number_educ: 0
-  education1:
+# - name: Rémi Claessen
+#   photo: rock.jpg
+#   info: Master student
+#   email: remi.c60000@gmail.com
+#   number_educ: 0
+#   education1:
 
-- name: Maialen Larrazabal Ortego
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+# - name: Maialen Larrazabal Ortego
+#   photo: rock.jpg
+#   info: Master student
+#   email: m.ortego.larrazabal@umail.leidenuniv.nl
+#   number_educ: 0
+#   education1:
 
-- name: Sergio Barquero Pierantoni
-  photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+# - name: Sergio Barquero Pierantoni
+#   photo: rock.jpg
+#   info: Master student
+#   email: s.barquero.pierantoni@umail.leidenuniv.nl
+#   number_educ: 0
+#   education1:
 
-- name: Evert Stolte
-  photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
-  number_educ: 0
-  education1:
+# - name: Evert Stolte
+#   photo: rock.jpg
+#   info: Master student
+#   email: evert_3aug@hotmail.com
+#   number_educ: 0
+#   education1:

@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "STMI Lab at Texas A&M University."
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 # News

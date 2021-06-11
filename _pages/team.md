@@ -27,7 +27,7 @@ Jump to [Staff & PhDs](#Staff-&-PhDs), [master and bachelor students](#master-an
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -91,7 +91,7 @@ Jump to [Staff & PhDs](#Staff-&-PhDs), [master and bachelor students](#master-an
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -169,13 +169,6 @@ Jump to [Staff & PhDs](#Staff-&-PhDs), [master and bachelor students](#master-an
 ## Alumni
 <div class="row">
 
-<!-- <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div> -->
-
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
@@ -186,6 +179,13 @@ Jump to [Staff & PhDs](#Staff-&-PhDs), [master and bachelor students](#master-an
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+{% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
