@@ -4,7 +4,7 @@
 
 {% for article in site.data.news limit:5 %}
 <b>{{ article.date }}</b> <br>
-<p><b>{{ article.keyword }}</b>{{ article.headline }}</p>
+<p><b>{{ article.keyword }}</b> {{ article.headline }}</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews/">... see all News</a></h4>
