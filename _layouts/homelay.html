@@ -7,6 +7,17 @@ layout: default
 
 	{{ content }}
   </div>
-  <div id="newsid" class="col-sm-4" >
+  <!-- <div id="newsid" class="col-sm-4" >
 	{% include news.html %}
+  </div> -->
+  <div id="newsid" class="col-sm-4" >
+    <h4>News</h4>
+    
+    {% for article in site.data.news limit:25 %}
+    <b>{{ article.date }}</b> <br>
+    <p><b>{{ article.keyword }}</b> {{ article.headline }}</p>
+    {% endfor %}
+    
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews/">... see all News</a></h4>
+    
   </div>
