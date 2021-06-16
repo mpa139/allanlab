@@ -40,7 +40,8 @@ CD8+ T cell memory has been the focus of our prior research. However, we have re
 <div style="text-align:center"><figure style="width:80%; min-width: 350px; display: inline-block; float:none; vertical-align: top; clear: both;">
 ![Functions of Bach2 in Treg development and maintenance.]({{ site.url }}{{ site.baseurl }}/images/respic/Bach2_Treg_maintenance_cropped.png)
 <figcaption>
-<b>Figure 3. Long-term maintenance of Treg responses requires quiescent Bach2-expressing cells.</b></figcaption></figure></div>
+<b>Figure 3. Long-term maintenance of Treg responses requires quiescent Bach2-expressing cells. </b>
+</figcaption></figure></div>
 
 We have a long-standing interest in T cell memory. We conducted one of the earliest multiplexed single-cell gene expression analyses of immune cells revealing unappreciated heterogeneity in memory CD8+ T responses to vaccination (PNAS 2011). We defined transcriptional and epigenetic programmes of vaccine-induced memory T cells (Vaccine 2015, Cell Mol Immunol 2015). We have defined molecular mechanisms by which long-lived memory CD8+ T cell responses to viral infection are maintained (Nat Immunol 2016).  We have found that long-term maintenance of Treg populations is dependent upon the presence of a subset of functionally quiescent cells marked by high levels of Bach2 expression (**Fig. 3**, Grant, Yang et al., J Exp Med 2020). We have contributed to work showing that inhibition of AKT signalling enables expansion of T cells with a long-lived memory phenotype which mediates superior anti-tumour immune responses upon transfer into tumour-bearing recipients (Cancer Res, 2015), and that memory T cell–driven differentiation of naive cells impairs adoptive immunotherapy (J Clin Invest, 2015).
 
