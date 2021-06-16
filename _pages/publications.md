@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see below or go to [Google Scholar](https://scholar.google.com/citations?user=TOAg4GkAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,11 +52,54 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Journal Papers
 
 {% for publi in site.data.publist %}
 
+  {% if publi.journal == 1 %}
+
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
+
+{% endfor %}
+
+## Conference Papers
+
+{% for publi in site.data.publist %}
+
+  {% if publi.conference == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
+
+{% endfor %}
+
+## Workshops/Demos/Abstracts/Posters
+
+{% for publi in site.data.publist %}
+
+  {% if publi.workshop == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
+
+{% endfor %}
+
+## Patents
+
+{% for publi in site.data.publist %}
+
+  {% if publi.patent == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
 
 {% endfor %}
