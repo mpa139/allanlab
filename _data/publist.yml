@@ -1,6 +1,6 @@
 - title: "A Survey of Challenges and Opportunities in Sensing and Analytics for Risk Factors of Cardiovascular Disorders"
   image: SurveyOfChallengesAndOpp.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Need 3-4 sentence description
   authors: Hurley, N., Spatz, E., Krumholz, H., Jafari, R., Mortazavi, B.
   link:
     url: https://dl.acm.org/doi/10.1145/3417958
@@ -14,7 +14,7 @@
 
 - title: "Association of use of an intravascular microaxial left ventricular assist device vs intra-aortic balloon pump with in-hospital mortality and major bleeding among patients with acute myocardial infarction complicated by cardiogenic shock"
   image: AssociationOfUseOfAnIntra.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Need 3-4 sentence description
   authors: Dhruva, S., Ross, J., Mortazavi, B., Hurley, N., Krumholz, K., Curtis, J., Berkowitz, A., Masoudi, F., Messenger, J., Parzynski, C., Ngufor, C., Girotra, S., Amin, A., Shah, N., Desai, N.
   link:
     url: https://jamanetwork.com/journals/jama/article-abstract/2761003
@@ -28,7 +28,7 @@
 
 - title: "Developing Personalized Models of Blood Pressure Estimation with Wearable Sensors Using Minimally-Trained Domain Adversarial Neural Networks"
   image: DevelopingPersonalizedModels.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Need 3-4 sentence description
   authors: Zhang, L., Hurley, N., Ibrahim, B., Spatz, E., Krumholz, H., Jafari, R., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v126/zhang20a.html
@@ -42,7 +42,7 @@
 
 - title: "Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention"
   image: DynamicallyExtractingOutcome.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Need 3-4 sentence description
   authors: Lovelace, J., Hurley, N., Haimovich, A., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v126/lovelace20a.html
@@ -56,7 +56,7 @@
 
 - title: "BoXHED: Boosted eXact Hazard Estimator with Dynamic covariates"
   image: BoXHED.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Need 3-4 sentence description
   authors: Wang, X., Pakbin, A., Mortazavi, B., Zhao, H., Lee, D.K.K.
   link:
     url: https://icml.cc/Conferences/2020/Schedule?showEvent=6243
@@ -70,7 +70,7 @@
 
 - title: "Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery"
   image: UncertaintyQuantification.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: For activity recognition, the traditional methods would omit the whereabouts of the users, i.e. the context. We aim to make use of context information as a guidance to do finer-grained activity recognition. Furthermore, the model is coupled with an uncertainty quantification mechanism to reject unknown context to make sure the prediction is robust
   authors: Huo, Z., Pakbin, A., Chen, X., Hurley, N., Yuan, Y., Qian, X., Wang, Z., Huang, S., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v108/huo20a.html
@@ -471,6 +471,34 @@
   news2:
   journal: 1
   conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Sparse Gated Mixture-of-Experts to Separate andInterpret Patient Heterogeneity in EHR data"
+  image: 
+  description: 
+  authors: Huo, Z., Zhang L., Khera, R., Huang, S., Qian, X., Wang, Z., Mortazavi, B.
+  link:
+    url: 
+    display: "In Proceedings of the IEEE Conference on Biomedical and Health Informatics (BHI ’20) (Acceptance Rate: 33%)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "DynEHR: Dynamic adaptation of models with data heterogeneity in electronic health records"
+  image: 
+  description: 
+  authors: Zhang L., Chen, X., Chen, T., Wang, Z., Mortazavi, B.
+  link:
+    url: 
+    display: "In Proceedings of the IEEE Conference on Biomedical and Health Informatics (BHI ’20) (Acceptance Rate: 33%)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
   workshop: 0
   patent: 0
 
@@ -1019,3 +1047,4 @@
   conference: 0
   workshop: 0
   patent: 1
+
