@@ -7,6 +7,10 @@
     display:  ACM Transactions on Computing for Healthcare (2020)
   highlight: 1
   news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
 
 - title: "Association of use of an intravascular microaxial left ventricular assist device vs intra-aortic balloon pump with in-hospital mortality and major bleeding among patients with acute myocardial infarction complicated by cardiogenic shock"
   image: AssociationOfUseOfAnIntra.png
@@ -17,6 +21,10 @@
     display:   JAMA. 2020 Feb 25;323(8):734-45
   highlight: 1
   news2:
+  journal:
+  conference:
+  workshop:
+  patent: 
 
 - title: "Developing Personalized Models of Blood Pressure Estimation with Wearable Sensors Using Minimally-Trained Domain Adversarial Neural Networks"
   image: DevelopingPersonalizedModels.png
@@ -27,6 +35,10 @@
     display:  Machine Learning for Healthcare (MLHC 2020)
   highlight: 1
   news2: Acceptance Rate 35%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
 
 - title: "Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention"
   image: DynamicallyExtractingOutcome.png
@@ -37,6 +49,10 @@
     display:  Machine Learning for Healthcare (MLHC 2020)
   highlight: 1
   news2: Acceptance Rate 35%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
 
 - title: "BoXHED: Boosted eXact Hazard Estimator with Dynamic covariates"
   image: BoXHED.png
@@ -47,6 +63,10 @@
     display:  International Conference on Machine Learning (ICML 2020) 
   highlight: 1
   news2: Acceptance Rate 27%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
 
 - title: "Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery"
   image: UncertaintyQuantification.png
@@ -57,3 +77,945 @@
     display:  Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AIStats 2020)
   highlight: 1
   news2: Acceptance Rate 29%
+  journal: 0
+  conference: 1
+  workshop: 1
+  patent: 0
+
+- title: "Protocol for Project Recovery: Cardiac Surgery-Leveraging Digital Platform for Efficient Collection of Longitudinal Patient-Reported Outcome Data Towards Improving Postoperative Recovery"
+  image: 
+  description: 
+  authors: Mori, M., Brooks, C., Spatz, E., Mortazavi, B., Dhruva, S., Linderman, G., Grab, L., Zhang, Y., Geirsson, A., Chaudhry, S., Krumholz, H.
+  link:
+    url: https://bmjopen.bmj.com/content/10/9/e036959
+    display: BMJ Open (2020)
+  highlight: 0
+  news2: Accepted – In Press
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Intravascular Microaxial Left Ventricular Assist Device vs. Intra-aortic Balloon Pump for Cardiogenic Shock"
+  image: 
+  description: 
+  authors: Dhruva, S., Mortazavi, B., Desai, N.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32040163/
+    display: Journal of the American Medical Association (JAMA 2020)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Recommendations for Reporting Machine Analyses in Clinical Research"
+  image: 
+  description: 
+  authors: Stevens, L., Mortazavi, B., Deo, R., Curtis, L., Kao, D.
+  link:
+    url: 
+    display: "Circulation Cardiovascular Quality and Outcomes (Circ: CQO 2020)"
+  highlight: 0
+  news2: (Accepted - In Press)
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Using Intelligent Personal Annotations to Improve Human Activity Recognition for Movements in Natural Environments"
+  image: 
+  description: 
+  authors: Akbari, A., Solis, R., Jafari, R., Mortazavi, B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31940569/
+    display: IEEE Journal of Biomedical and Health Informatics (J-BHI 2020)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Federal Funding for Clinical Research Applying Machine Learning Techniques in 2017: An Analysis of the NIH RePORTER"
+  image: 
+  description: 
+  authors: Annapureddy, A., Angraal, S., Caraballo-Cordovez, C., Grimshaw, A., Huang, C., Mortazavi, B., Krumholz, HM.
+  link:
+    url: 
+    display: NPJ Digital Medicine (2017)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Understanding the Complex Relationship Between Contrast Volume During Percutaneous Coronary Intervention and the Risk of Acute Kidney Injury"
+  image: 
+  description: 
+  authors: Huang, C., Li, SX., Mahajan, S., Testani, J., Wilson, F., Mena, C., Masoudi, FM., Rumsfeld, J., Spertus, J., Mortazavi, B., Krumholz, HM.
+  link:
+    url: 
+    display: "JAMA Network Open. 2(11): e1916021-e1916021"
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Visualization of Emergency Department Clinical Data for Interpretable Patient Phenotyping"
+  image: 
+  description: 
+  authors: Hurley, N., Haimovich, A., Taylor, R., Mortazavi, B.
+  link:
+    url: https://arxiv.org/abs/1907.11039
+    display: "Elsevier Smart Health. (Special Issue: Proceedings of the ACM/IEEE Conference on Connected Health: Applications, Systems and Engineering Technologies"
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Predicting Mortality and Hospitalization in Patients with Heart Failure with Preserved Ejection Fraction"
+  image: 
+  description: 
+  authors: Angraal, S.+, Mortazavi, B.+, Gupta, A., Khera, R., Ahmad, T., Desai, N., Jacoby, D., Masoudi, F., Spertus, J., Krumholz, H. (+ equal contribution first authors)
+  link:
+    url: https://www.jacc.org/doi/full/10.1016/j.jchf.2019.06.013
+    display: JACC Heart Failure 
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0 
+
+- title: "Statistical Machine Learning Techniques to Enhance Risk Prediction of Bleeding After Percutaneous Coronary Intervention"
+  image: 
+  description: 
+  authors: Mortazavi, B., Bucholz, E., Desai, N., Huang, C., Curtis, J., Masoudi, F., Shaw, R., Negahban, S., Krumholz, H
+  link:
+    url: https://qtbo7q3z1714ao02314mlsq6-wpengine.netdna-ssl.com/wp-content/uploads/sites/154/2020/02/1.-Mortazavi-Statistical-Machine-Learning.pdf
+    display: JAMA Network Open
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Phenotypes of hypertensive ambulatory blood pressure patterns: Design and rationale of the ECHORN Hypertension Study"
+  image: 
+  description: 
+  authors: Spatz, E., Martinez-Brockman, J., Tessier-Sherman, B., Mortazavi, B., Roy, B., Schwartz, J., Nazario, C., Maharaj, R., Nunez, M., Adams, O. P., Burg, M., Nunez-Smith, M
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31641320/
+    display: Ethnicity and Disease.
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Enhancing the Prediction of Acute Kidney Injury Risk after Percutaneous Coronary Intervention using Machine Learning Techniques: A retrospective cohort study"
+  image: 
+  description: 
+  authors: Huang, C., Murugiah, K., Mahajan, S., Li, S-X., Dhruva, S., Haimovich, J., Wang, Y., Schulz, W., Testani, J., Wilson, F., Mena, C., Masoudi, F., Rumsfeld, J., Spertus, J., Mortazavi, B.*, Krumholz, H.* (* equal contribution senior author)
+  link:
+    url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002703
+    display: "Plos Medicine 15 (11): e1002703. "
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "A Survey on Smart Homes for Aging in Place: Toward Solutions to the Specific Needs of the Elderly"
+  image: 
+  description: 
+  authors: Nathan, V., Paul, S., Prioleau, T., Niu, Li, Mortazavi, B., Cambone, S., Veeraraghavan, A., Sabharwal, A., Jafari, R
+  link:
+    url: https://ieeexplore.ieee.org/document/8454407
+    display: "IEEE Signal Processing Magazine 35 (5): 111-119"
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Prediction of Adverse Events in Patients Undergoing Major Cardiovascular Procedures"
+  image: 
+  description: 
+  authors: Mortazavi, B., Desai, N., Zhang, J., Coppi, A., Warner, F., Krumholz, H., Negahban, S.
+  link:
+    url: https://ieeexplore.ieee.org/document/7865946
+    display:  IEEE Journal of Biomedical and Health Informatics (J-BHI) 21 (6), 1719-172
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Probabilistic Segmentation of Time-Series Audio Signals using Support Vector Machines"
+  image: 
+  description: 
+  authors: Kalantarian, H., Mortazavi, B., Pourhomayoun, M., Alshurafa, N., Sarrafzadeh, M.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0141933116300394?via%3Dihub
+    display: "Microprocessors and Microsystems. Vol. 46, pp: 96-104"
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Dynamic Computation Offloading of Low Power Wearable Health Monitoring Systems"
+  image: 
+  description: 
+  authors: Kalantarian, H., Sideris, C., Mortazavi, B., Alshurafa, N., Sarrafzadeh, M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28113209/
+    display:  "IEEE Transactions on Biomedical Engineering (TBME) 64 (3): 621-628"
+  highlight: 0
+  news2:
+  journal:
+  conference:
+  workshop:
+  patent: 
+
+- title: "Analysis of Machine Learning Techniques for Heart Failure Readmissions"
+  image: 
+  description: 
+  authors: Mortazavi, B., Downing, N., Bucholz, E., Dharmarajan, K., Manhapra, A., Li, S., Negahban, S., Krumholz, H.
+  link:
+    url: https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.116.003039
+    display: CIRCOUTCOMES, 116.003039
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "The Rickettsia Endosymbiont of Ixodes Pacificus Contains All Genes of De Novo Folate"
+  image: 
+  description: 
+  authors: Hunter, D., Torkelson, J., Bodnar, J., Mortazavi, B., Laurent, T., Deason, J., Thephavongsa, K., Zhong, J.
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144552
+    display: Biosynthesis. PLOS One 10 (12) e0144552
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "User-optimized Activity Recognition for Exergaming"
+  image: 
+  description: 
+  authors: Mortazavi, B., Pourhomayoun, M., Nyamathi, S., Wu, B., Lee, S.I., Sarrafzadeh, M.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1574119215002126?via%3Dihub
+    display: Elsevier Journal of Pervasive and Mobile Computing 26, 3-16
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Objectively Quantifying Walking Ability in Degenerative Spinal Disorder Patients using Sensor Equipped Smart Shoes"
+  image: 
+  description: 
+  authors: Lee, S.I., Park, E., Huang, A., Mortazavi, B., Garst, J.H., Jahanforouz, N., Espinal, M., Siero, T., Pollack, S., Afridi, M., Daneshvar, M., Ghias, S., Lu, D.C., Sarrafzadeh, M
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1350453316000485?via%3Dihub
+    display: Medical Engineering & Physics (Med Eng Phys) 38 (5). 442-449
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Quantitative Assessment of Hand Motor Function in Cervical Spinal Disorder Patients Using Target Tracking Tests"
+  image: 
+  description: 
+  authors: Lee, S.I., Li, C., Hoffman, H., Lu, D., Getachew, R., Mortazavi, B., Garst, J., Espinal, M., Razaghy, M., Ghalehsari, N., Paak, B., Chavam, A., Afridi, M., Ostowari, A., Ghasemzadeh, H., Lu, D., Sarrafzadeh, M.
+  link:
+    url: https://www.rehab.research.va.gov/jour/2016/536/pdf/JRRD-2014-12-0319.pdf
+    display: Journal of Rehabilitation Research and Development (J-RRD) 53 (6)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "A Comparison of Piezoelectric-Based Inertial Sensing and Audio-Based Detection of Swallows"
+  image: 
+  description: 
+  authors: Kalantarian, H., Mortazavi, B., Alshurafa, N., Sideris, C., Le, T., Sarrafzadeh, M.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2451847615300105?via%3Dihub
+    display: Elsevier Journal of Obesity. 1, 6-14
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0 
+  workshop: 0
+  patent: 0
+
+- title: "Can Smartwatches Replace Smartphones for Posture Tracking?"
+  image: 
+  description: 
+  authors: Mortazavi, B., Nemati, E., VanderWall, K., Flores-Rodriguez, H., Cai, J., Lucier, J., Naeim, A., Sarrafzadeh, M.
+  link:
+    url: https://www.mdpi.com/1424-8220/15/10/26783
+    display: Sensors. Vol. 15, no. 10, pp. 26783-26800
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Improving Biomedical Signal Search Results in Big Data Case-Based Reasoning Environments"
+  image: 
+  description: 
+  authors: Woodbridge, J., Mortazavi, B., Bui, A.A.T., Sarrafzadeh, M.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1574119215001728?via%3Dihub
+    display: Elsevier Journal of Pervasive and Mobile Computing 2016, vol 28, 69-80
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "A Prediction Model for Functional Outcomes in Spinal Cord Injured Patients Using Gaussian Process Regression"
+  image: 
+  description: 
+  authors: Lee, S.I., Mortazavi, B., Hoffman, H., Lu, D., Paak, B., Garst, J., Razaghy, M., Lu, D., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6963268
+    display: IEEE Journal of Biomedical and Health Informatics (J-BHI) Vol 20, 1:91-99
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Context-Aware Data Processing to Enhance Quality Measurements in Wireless Health Systems: An Application to MET Calculation of Exergaming Actions"
+  image: 
+  description: 
+  authors: Mortazavi, B., Pourhomayoun, M., Ghasemzadeh, H., Jafari, R., Roberts, C., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6932440
+    display: IEEE Internet of Things Journal  (J-IOT). Vol. 2, no. 1, pp. 84-93
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Designing a Robust Activity Recognition Framework for Health and Exergaming using Wearable Sensors"
+  image: 
+  description: 
+  authors: Alshurafa, N., Xu, W., Liu, J., Huang, M.C., Mortazavi, B., Roberts, C, Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6648432
+    display: IEEE Journal of Biomedical and Health Informatics (J-BHI). Vol. 18, no. 5, pp. 1636-1646
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Near-Realistic Mobile Exergames with Wireless Wearable Sensors"
+  image: 
+  description: 
+  authors: Mortazavi, B., Nyamathy, S., Lee, S.I., Wilkerson, T., Ghasemzadeh, H., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6678519
+    display: IEEE Journal of Biomedical and Health Informatics (J-BHI). Vol. 18, no. 2, pp. 449-456. Featured Article - March, 2014
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Pervasive Assessment of Motor Function: A Lightweight Grip Strength Tracking System"
+  image: 
+  description: 
+  authors: Lee, S.I., Ghasemzadeh, H., Mortazavi, B., Sarrafzadeh, M
+  link:
+    url: https://ieeexplore.ieee.org/document/6515611
+    display: IEEE Journal of Biomedical and Health Informatics (J-BHI). Vol. 17, no. 6, pp. 1023-1030
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Reinforcement Learning using EEG signals for Therapeutic Use of Music in Emotion Management"
+  image: 
+  description: 
+  authors: Dutta, E., Bothra, A., Chaspari, T., Ioerger, T., Mortazavi, B.
+  link:
+    url: https://ieeexplore.ieee.org/document/9175586
+    display: Proceedings of the 42nd International Conference of the IEEE Engineering and Medicine in Biology Society (EMBC 2020)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1 
+  workshop: 0
+  patent: 0
+
+- title: "Sparse Embedding for Interpretable Hospital Admission Prediction."
+  image: 
+  description: 
+  authors: Huo, Z, Sundararajhan, H, Hurley, N., Haimovich, A., Taylor, R., Mortazavi, B.
+  link:
+    url: https://ieeexplore.ieee.org/document/8856800
+    display: In Proceedings of the 41st International Conference of the IEEE Engineering and Medicine in Biology Society (EMBC 2019)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Predicting the meal macronutrient composition from continuous glucose monitors"
+  image: 
+  description: 
+  authors: Huo, Z., Mortazavi, B., Chaspari, T., Deutz, N., Reubush, L., Gutierrez-Osuna, R.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8834488
+    display:  "In Proceedings of the IEEE Conference on Biomedical and Health Informatics (BHI ’19) (Acceptance Rate: 31%, Oral Paper Acceptance Rate: 11%)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "A Human-centered Wearable Sensing Platform with Intelligent Automated Data Annotation Capabilities"
+  image: 
+  description: 
+  authors: Solis, R., Pakbin, A., Akbari, A., Mortazavi, B., Jafari, R.
+  link:
+    url: https://dl.acm.org/doi/10.1145/3302505.3310087
+    display: "ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI) (Acceptance Rate: 35%)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Tagging Wearable Accelerometers in Camera Frames through Information Translation between Vision Sensors and Accelerometers"
+  image: 
+  description: 
+  authors: Akbari, A., Liu, P., Mortazavi, B., Jafari, R.
+  link:
+    url: https://dl.acm.org/doi/10.1145/3302509.3311057
+    display: "International Conference on Cyber Physical Systems (ICCPS) (Acceptance Rate: 22%)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Adaptive Activity Monitoring with Uncertainty Quantification in Switching Gaussian Process Models"
+  image: 
+  description: 
+  authors: Ardiwibowo, R., Zhao, G., Wang, Z., Mortazavi, B., Huang, S., Qian, X.
+  link:
+    url: https://arxiv.org/abs/1901.02427
+    display: "AIStats 2019 (Acceptance Rate: 32%)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Interactive Dimensionality Reduction for Improving Patient Adherence in Remote Health Monitoring"
+  image: 
+  description: 
+  authors: Kalatzis, A., Mortazavi, B., Pourhomayoun, M
+  link:
+    url: https://ieeexplore.ieee.org/document/8947679
+    display: In Proceedings of the 2018 International Conference on Computational Science and Computational Intelligence (CSCI)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Prediction of ICU Readmissions Using Data at Patient Discharge"
+  image: 
+  description: 
+  authors: Pakbin, A., Rafi, P., Hurley, N., Schulz., W., Krumholz, H., Mortazavi, B.
+  link:
+    url: https://ieeexplore.ieee.org/document/8513181
+    display: In Proceedings of the 40th International Conference of the IEEE Engineering and Medicine in Biology Society
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Monitoring Lung Mechanics during Mechanical Ventilation using Machine Learning Algorithms"
+  image: 
+  description: 
+  authors: Hezarjaribi, N., Dutta, R., Xing, T., Murdoch, G., Mazrouee, S., Mortazavi, B., Ghassemzadeh, H.
+  link:
+    url: https://ieeexplore.ieee.org/document/8512483
+    display: In Proceedings of the 40th International Conference of the IEEE Engineering and Medicine in Biology Society
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Knowledge-Driven Dictionaries for Sparse Representation of Continuous Glucose Monitoring Signals"
+  image: 
+  description: 
+  authors: Goel, N., Chaspari, T., Mortazavi, B., Prioleau, T., Sabharwal, A., Gutierrez-Osuna, R.
+  link:
+    url: https://ieeexplore.ieee.org/document/8512262
+    display: In Proceedings of the 40th International Conference of the IEEE Engineering and Medicine in Biology Society
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Context-Aware Analytics for Activity Recognition"
+  image: 
+  description: 
+  authors: Pourhomayoun, M., Nemati, E., Mortazavi, B., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/7410873
+    display: In Proceedings of the Fourth International Conference on Data Analytics (Data Analytics 2015) (Best Paper Award)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Impact of Sensor Misplacement on Estimating Metabolic Equivalent of Task with Wearables"
+  image: 
+  description: 
+  authors: Alinia, P., Saeedi, R., Mortazavi, B., Ghasemzadeh, H.
+  link:
+    url: https://ieeexplore.ieee.org/document/7299385
+    display: In Proceedings of the 12th IEEE Conference on Wearable and Implantable Body Sensor Networks (BSN 2015)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Multiple Model Recognition for Near-Realistic Exergaming"
+  image: 
+  description: 
+  authors: Mortazavi, B., Pourhomayou, M., Nyamathi, S., Wu, B., Lee, S.I., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/7146520
+    display: In Proceedings of the 2015 IEEE Interantional Conference on Pervasive Computing and Communication (PerCom)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Support Vector Regression for Estimating the Metabolic Equivalent of Task of Exergaming Actions"
+  image: 
+  description: 
+  authors: Mortazavi, B., Pourhomayoun, M., Alshurafa, N., Chronley, M., Lee, S.I., Roberts, C.K., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/7038938
+    display: In Proceedings the Conference on Healthcare Innovations and Point-of-Care Technologies. (IEEE EMBS HIPT)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Multiple Model Analytics for Adverse Event Prediction in Remote Health Monitoring Systems"
+  image: 
+  description: 
+  authors: Pourhomayoun, M., Alshurafa, N., Mortazavi, B., Ghasemzadeh, H., Sarrafzadeh, M. 
+  link:
+    url: https://ieeexplore.ieee.org/document/7038886
+    display: In Proceedings of the Conference on Healthcare Innovations and Point-of-Care Technologies. (IEEE EMBS HIPT)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "User-Centric Exergaming with Fine-Grain Activity Recognition: A Dynamic Optimization Approach"
+  image: 
+  description: 
+  authors: Mortazavi, B., Lee, S.I., Sarrafzadeh, M.
+  link:
+    url: https://dl.acm.org/doi/10.1145/2638728.2638806
+    display: "In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication (Ubicomp ’14 Adjunct)"
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Determining the Single Best Axis for Exercise Repetition Recognition and Counting in SmartWatches"
+  image: 
+  description: 
+  authors: Mortazavi, B., Pourhomayoun, M., Alsheikh, G., Alshurafa, N., Lee, S.I., Sarafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6855613
+    display: Proceedings of the 11th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2014)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Anti-Cheating: Detecting Self-Inflicted and Impersonator Cheaters for Remote Health Monitoring Systems with Wearable Sensors"
+  image: 
+  description: 
+  authors: Alshurafa, N., Pourhomayoun, M., Nyamathi, S., Bao, L., Mortazavi, B., Eastwood, J., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6855623
+    display: In Proceedings of the 11th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2014)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Remote Monitoring Systems: What Impact Can Data Analytics Have on Cost?"
+  image: 
+  description: 
+  authors: Lee, S.I., Ghasemzadeh, H., Mortazavi, B., Lan, M., Ong, M., Sarrafzadeh, M.
+  link:
+    url: https://dl.acm.org/doi/10.1145/2534088.2534108
+    display: In Proceedings of Wireless Health 2013
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "MET Calculations from On-Body Accelerometers for Exergaming Movements"
+  image: 
+  description: 
+  authors: Mortazavi, B., Alsharufa, N., Lee, S.I., Lan, M., Chronley, M., Roberts, C.K., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6575520
+    display: In Proceedings of the 10th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2013)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "High Performance Multi-Dimensional Signal Search with Applications in Remote Medical Monitoring"
+  image: 
+  description: 
+  authors: Moazeni, M., Mortazavi, B., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6575494
+    display: In Proceedings of the 10th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2013)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Robust Human Intensity-Varying Activity Recognition using Stochastic Approximation in Wearable Sensors."
+  image: 
+  description: 
+  authors: Alsharufa, N., Xu, W., Liu, J., Huang, M.C., Mortazavi, B., Roberts, C.K., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6575515
+    display: In Proceedings of the 10th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2013)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Objective Assessment of Overexcited Hand Movements Using a Lightweight Sensory Device"
+  image: 
+  description: 
+  authors: Lee, S.I., Ghasemzadeh, H., Mortazavi, B., Yew, A., Getachew, R., Razaghy, M., Ghalehsari, N., Paak, B., Garst, J., Espinal, M., Kimball, J., Lu, D., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6575498
+    display: In Proceedings of the 10th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN 2013)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "A Monte Carlo Approach to Biomedical Time Series Search"
+  image: 
+  description: 
+  authors: Woodbridge, J., Mortazavi, B., Sarrafzadeh, M., Bui, A.
+  link:
+    url: https://ieeexplore.ieee.org/document/6392646
+    display: In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2012)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Aggregated Indexing of Biomedical Time-Series Data"
+  image: 
+  description: 
+  authors: Woodbridge, J., Mortazavi, B., Bui, A., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6366184
+    display: In Proceedings of the 2nd IEEE Conference on Healthcare Informatics, Imaging, and Systems Biology (HISB 2012)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Dynamic Task Optimization in Remote Diabetes Monitoring Systems"
+  image: 
+  description: 
+  authors: Suh, D. M. K., Woodbridge, J., Moin, T., Lan, M., Alshurafa, N., Samy, L., Mortazavi, B., Ghasemzadeh, H., Bui, A., Ahmadi, S., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6366181
+    display: In Proceedings of the 2nd IEEE Conference on Healthcare Informatics, Imaging, and Systems Biology (HISB 2012)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "High Performance Biomedical Time-Series Indexing Using Salient Segmentation"
+  image: 
+  description: 
+  authors: Woodbridge, J., Mortazavi, B., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6347137
+    display: In Proceedings of the 34th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC ’12)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Near-Realistic Motion Video Games with Enforced Activity"
+  image: 
+  description: 
+  authors: Mortazavi, B., Chu, K.C., Li, X., Tai, J., Kotekar, S., Sarrafzadeh, M.
+  link:
+    url: https://ieeexplore.ieee.org/document/6200521
+    display: International Conference on Wearable and Implantable Body Sensor Networks (BSN 2012)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "A Wireless Body-Wearable Sensor System of Designing Physically Interactive Video Games"
+  image: 
+  description: 
+  authors: Mortazavi, B., Hagopian, H., Woodbridge, J., Yadegar, B., Sarrafzadeh, M.
+  link:
+    url: https://www.scitepress.org/PublicationsDetail.aspx?ID=jdtEk99g9mI=&t=1
+    display: Proceedings of the International Conference on Biomedical Electronics and Devices (BIODEVICES 2011)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Mining Dynamic Problem Lists from Clinical Notes for Interpretable Prediction of Adverse Outcomes"
+  image: 
+  description: 
+  authors: Lovelace, J., Hurley, N., Haimovich, A., Mortazavi, B.
+  link:
+    url: 
+    display: The ACM Conference on Health informatics and Learning, Workshop. (ACM CHIL 2020).
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "Explainable Prediction of Adverse Outcomes Using Clinical Notes"
+  image: 
+  description: 
+  authors: Lovelace, J., Hurley, N., Haimovich, A., Mortazavi, B.
+  link:
+    url: https://arxiv.org/abs/1910.14095
+    display: The 2019 NeurIPS Workshop on Machine Learning for Healthcare
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "Mortality and Bleeding Among Patients with Acute Myocardial Infarction Complicated by Cardiogenic Shock Undergoing Percutaneous Coronary Intervention with Impella vs. Intra-Aortic Balloon Pump"
+  image: 
+  description: 
+  authors: Dhruva, S., Ross, J., Mortazavi, B., Hurley, N., Krumholz, H., Curtis, J., Berkowitz, A., Masoudi, F., Messenger, J., Parzynski, C., Ngufor, C., Girotra, S., Amin, A., Shah, N., Desai, N.
+  link:
+    url: 
+    display: AHA Scientific Sessions 2019
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "Computational Discovery and Visualization of Patient Phenotypes from Emergency Department Health Records"
+  image: 
+  description: 
+  authors: Haimovich, A., Hong, W., Taylor, R., Mortazavi, B.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0196064418310710?via%3Dihub
+    display: "Annals of Emergency Medicine 72 (4): S130-131."
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "Utilizing Context Information for Ubiquitous Computation"
+  image: 
+  description: 
+  authors: Huo, Z., Jafari, R., Mortazavi, B.
+  link:
+    url: 
+    display: IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN ’18).
+  highlight: 0
+  news2:
+  journal: 
+  conference: 
+  workshop: 
+  patent: 
+
+- title: "Sparse Representation Models of Continuous Glucose Monitoring Time-Series"
+  image: 
+  description: 
+  authors: Chaspari, T., Mortazavi, B., Prioleau, T., Sabharwal, A., Gutierrez-Osuna, R.
+  link:
+    url: https://psi.engr.tamu.edu/wp-content/uploads/2018/05/chaspari-2018-bsn.pdf
+    display: IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN ’18)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "Accurate Classification of Performance Status in Elderly Patients: Design, Validation, and Implementation of a Remote Patient Activity Monitoring Device"
+  image: 
+  description: 
+  authors: Naeim, A, VanderWall, K., Lucier, J., Sarrafzadeh, M., Tan, H.J.R., Mortazavi, B., Nemati, E.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1879406814002264?via%3Dihub
+    display: Journal of geriatric oncology. 2014-10;5:S48
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "Soccer Exergaming: A Platform for Energy Expenditure Video Games"
+  image: 
+  description: 
+  authors: Mortazavi, B., Sarrafzadeh, M.
+  link:
+    url: 
+    display: 9th International Conference on Wearable and Implantable Body Sensor Networks (BSN 2012)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 1
+  patent: 0
+
+- title: "A Prediction of Adverse Events in Patients Undergoing Major Cardiovascular Procedures"
+  image: 
+  description: 
+  authors: (Pending) PCT/US2018/0315507A1 Mortazavi, J.B., Desai, N., Zhang, J., Krumholz, H.M.
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 0
+  patent: 1
+
+- title: "Near-Realistic Sports Motion Analysis and Activity Monitoring"
+  image: 
+  description: 
+  authors: US 10,201,746 B1 Sarrafzadeh, M., Mortazavi, J.B., Li, X., Chu, K.
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 0
+  patent: 1

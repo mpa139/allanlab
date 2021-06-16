@@ -52,11 +52,54 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Journal Papers
 
 {% for publi in site.data.publist %}
 
+  {% if publi.journal == 1 %}
+
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
+
+{% endfor %}
+
+## Conference Papers
+
+{% for publi in site.data.publist %}
+
+  {% if publi.conference == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
+
+{% endfor %}
+
+## Workshops/Demos/Abstracts/Posters
+
+{% for publi in site.data.publist %}
+
+  {% if publi.workshop == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
+
+{% endfor %}
+
+## Patents
+
+{% for publi in site.data.publist %}
+
+  {% if publi.patent == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% endif %}
 
 {% endfor %}
