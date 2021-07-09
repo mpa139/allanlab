@@ -126,6 +126,16 @@
   education3: Current research project is on applying deep learning on brain surfaces from fMRI data to predict brain states for preterm infants.
   education4: 
 
+- name: Paula Ramirez Gilliland
+  photo: paularamires.jpg
+  info: PhD student, started October 2020
+  email:  paula.ramirez_gilliland(at)kcl.ac.uk
+  number_educ: 2
+  education1: MPhys Physics and Astrophysics, University of Sussex
+  education2: Current research project is on deep learning for diagnosis of congenital heart disease in fetus using MRI and ultrasound.
+  education3: 
+  education4: 
+
 - name: "This could be you !"
   photo: metrics.jpg
   info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
