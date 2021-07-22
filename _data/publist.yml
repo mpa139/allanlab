@@ -1,3 +1,13 @@
+- title: "ICAM-reg: Interpretable Classification and Regression with Feature Attribution for Mapping Neurological Phenotypes in Individual Scans"
+  image: 
+  description:
+  authors: C Bass, M da Silva, C Sudre, LZJ Williams, PD Tudosiu, F Alfaro-Almagro, SP Fitzgibbon, MF Glasser, SM Smith, EC Robinson
+  link:
+    url: https://arxiv.org/abs/2103.02561
+    display:  arxiv
+  highlight: 
+  news2:
+
 - title: "ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping"
   image: ICAM.png
   description:
