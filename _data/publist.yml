@@ -1,4 +1,13 @@
-
+- title: "ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping"
+  image: ICAM.png
+  description:
+  authors: C Bass, M da Silva, C Sudre, PD Tudosiu, SM Smith, EC Robinson
+  link:
+    url: https://proceedings.neurips.cc/paper/2020/hash/56f9f88906aebf4ad985aaec7fa01313-Abstract.html
+    display:  Neural Information Processing Systems (NeurIPS) 7697--7709(2020)
+  highlight: 1
+  news2:
+  
 - title: "Image synthesis with a convolutional capsule generative adversarial network"
   image: bass_capsules.png
   description:
