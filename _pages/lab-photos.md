@@ -7,8 +7,7 @@ permalink: /lab-photos/
 
 # NDS Lab Photos
 
-We haven't yet been able to have our first lab activity, but will hopefully have some photos to share soon!
-
+Coming soon!
 
 <!-- 
 #### Example youtube video:
