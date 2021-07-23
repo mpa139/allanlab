@@ -3,7 +3,7 @@
   info: Computer Engineering BS, Economics BS
   email: benjamin.h.van.sleen@vanderbilt.edu
   number_educ: 1
-  education1: DSI-SRP Fellow Summer 2021
+  education1: DSI-SRP Fellow (Summer 2021)
   education2: 
   education3: 
   education4: 
@@ -18,7 +18,7 @@
   info: Computer Science BS
   email: trevor.pillow@vanderbilt.edu
   number_educ: 1
-  education1: VUSRP Fellow Summer 2021
+  education1: VUSRP Fellow (Summer 2021)
   education2: 
   education3: 
   education4: 
@@ -48,7 +48,7 @@
   info: Computer Science BS
   email: chet.l.weissberg@vanderbilt.edu
   number_educ: 1
-  education1: DSI-SRP Fellow Summer 2021
+  education1: DSI-SRP Fellow (Summer 2021)
   education2:
   education3:
   education4:
@@ -78,7 +78,7 @@
   info: Computer Science BS
   email: zxl499@mocs.utc.edu
   number_educ: 1
-  education1: Frist Center Intern Summer 2021
+  education1: Frist Center Intern (Summer 2021)
   education2: 
   education3: 
   education4: 
@@ -87,3 +87,19 @@
   linkedin: 0
   twitter: 0
   github: 0
+  
+  - name: Kaleb Briggs
+  photo: NoPhoto.png
+  info: Computer Information Systems BS
+  email: 
+  number_educ: 1
+  education1: Frist Center Intern (Summer 2021)
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
+  
