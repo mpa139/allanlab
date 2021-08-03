@@ -1,6 +1,6 @@
 - title: "A Survey of Challenges and Opportunities in Sensing and Analytics for Risk Factors of Cardiovascular Disorders"
   image: SurveyOfChallengesAndOpp.png
-  description: Need 3-4 sentence description
+  description: Cardiovascular disorders cause nearly one in three deaths in the United States. Short- and long-term care for these disorders is often determined in short-term settings. However, these decisions are made with minimal longitudinal and long-term data. To overcome this bias towards data from acute care settings, improved longitudinal monitoring for cardiovascular patients is needed. This work surveys sensing and machine learning in the field of remote health monitoring for cardiovascular disorders.
   authors: Hurley, N., Spatz, E., Krumholz, H., Jafari, R., Mortazavi, B.
   link:
     url: https://dl.acm.org/doi/10.1145/3417958
@@ -14,7 +14,7 @@
 
 - title: "Association of use of an intravascular microaxial left ventricular assist device vs intra-aortic balloon pump with in-hospital mortality and major bleeding among patients with acute myocardial infarction complicated by cardiogenic shock"
   image: AssociationOfUseOfAnIntra.png
-  description: Need 3-4 sentence description
+  description: Is there a difference in clinical outcomes among patients with acute myocardial infarction (AMI) complicated by cardiogenic shock treated with intravascular microaxial left ventricular assist device (LVAD) vs intra-aortic balloon pump (IABP)? In this registry-based retrospective cohort study that included 3360 propensity-matched patients undergoing percutaneous coronary intervention for AMI, treatment with intravascular microaxial LVAD vs IABP was associated with a significantly higher risk of in-hospital death (45.0% vs 34.1%) and in-hospital major bleeding (31.3% vs 16.0%).
   authors: Dhruva, S., Ross, J., Mortazavi, B., Hurley, N., Krumholz, K., Curtis, J., Berkowitz, A., Masoudi, F., Messenger, J., Parzynski, C., Ngufor, C., Girotra, S., Amin, A., Shah, N., Desai, N.
   link:
     url: https://jamanetwork.com/journals/jama/article-abstract/2761003
@@ -28,7 +28,7 @@
 
 - title: "Developing Personalized Models of Blood Pressure Estimation with Wearable Sensors Using Minimally-Trained Domain Adversarial Neural Networks"
   image: DevelopingPersonalizedModels.png
-  description: Need 3-4 sentence description
+  description: Blood pressure monitoring is an essential component of hypertension management and in the prediction of associated comorbidities. Blood pressure is a dynamic vital sign with frequent changes throughout a given day. Capturing blood pressure remotely and frequently (also known as ambulatory blood pressure monitoring) has traditionally been achieved by measuring blood pressure at discrete intervals using an inflatable cuff. However, there is growing interest in developing a cuffless ambulatory blood pressure monitoring system to measure blood pressure continuously. One such approach is by utilizing bioimpedance sensors to build regression models. A practical problem with this approach is that the amount of data required to confidently train such a regression model can be prohibitive. In this paper, we propose the application of the domain-adversarial training neural network (DANN) method on our multitask learning (MTL) blood pressure estimation model, allowing for knowledge transfer between subjects.
   authors: Zhang, L., Hurley, N., Ibrahim, B., Spatz, E., Krumholz, H., Jafari, R., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v126/zhang20a.html
@@ -42,7 +42,7 @@
 
 - title: "Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention"
   image: DynamicallyExtractingOutcome.png
-  description: Need 3-4 sentence description
+  description: Problem lists are intended to provide clinicians with a relevant summary of patient medical issues and are embedded in many electronic health record systems. Despite their importance, problem lists are often cluttered with resolved or currently irrelevant conditions. In this work, we develop a novel end-to-end framework that first extracts diagnosis and procedure information from clinical notes and subsequently uses the extracted medical problems to predict patient outcomes
   authors: Lovelace, J., Hurley, N., Haimovich, A., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v126/lovelace20a.html
@@ -56,7 +56,7 @@
 
 - title: "BoXHED: Boosted eXact Hazard Estimator with Dynamic covariates"
   image: BoXHED.png
-  description: Need 3-4 sentence description
+  description: The proliferation of medical monitoring devices makes it possible to track health vitals at high frequency, enabling the development of dynamic health risk scores that change with the underlying readings. Survival analysis, in particular hazard estimation, is well-suited to analyzing this stream of data to predict disease onset as a function of the time-varying vitals. This paper introduces the software package BoXHED (pronounced `box-head') for nonparametrically estimating hazard functions via gradient boosting
   authors: Wang, X., Pakbin, A., Mortazavi, B., Zhao, H., Lee, D.K.K.
   link:
     url: https://icml.cc/Conferences/2020/Schedule?showEvent=6243
@@ -1047,4 +1047,3 @@
   conference: 0
   workshop: 0
   patent: 1
-
