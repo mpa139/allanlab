@@ -302,6 +302,9 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<br>
+<br>
+
 
 
 
@@ -386,6 +389,9 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<br>
+<br>
+
 
 
 
