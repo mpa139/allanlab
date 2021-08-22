@@ -1,5 +1,24 @@
 
-
+- title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
+  image: Whiteside_immunology_ccr8_2021.png
+  description: Treg cells within tumours contribute powerfully to cancer immunosupression and express high levels of CCR8. The findings suggest that depletion of CCR8-expressing Treg cells, rather than blocking CCR8 function, will enable therapeutic disruption of tumour-associated Treg cells. 
+  authors: Whiteside S, et al.
+  link:
+    url: 33838058.pdf
+    display: <b><i>Immunology</i> (2021)</b>
+  highlight: 1
+  news2:
+  
+- title: "A cell-based bioluminescence assay reveals dose-dependent and contextual repression of AP-1-driven gene expression by BACH2"
+  image: Vardaka_Scirep_2020.png
+  description: Dose-dependent repression of AP-1 driven gene expression by BACH2. Activation of IFNG expression by the +18k enhancer is modelled by a cell-based bioluminescence assay permitting high-throughput drug screening for agonists and antagonists of BACH2 function. 
+  authors: Vardaka P, et al.
+  link:
+    url: 33144667.pdf
+    display: <b><i>Sci Rep</i> (2020)</b>
+  highlight: 1
+  news2:
+  
 - title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
   image: Nasrallah_Imianowski_Lrrc32_Nature.png
   description: CRISPR-based mutagenesis of disease-associated distal enhancer homologs in mice reveals a regulatory switch for signal-driven GARP expression by Treg cells. The function of the enhancer is required for Treg cells to control gut inflammation. 
