@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 <div id="research_contentid" >
-#### Immune Regulation
+## Immune Regulation
 
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation and prevent autoimmune and allergic inflammation. It is now known that such suppressive mechanisms inhibit anti-tumour immunity to drive deleterious immunosuppression in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in inflammation and cancer. **Fundamental discovery in the field of immunoregulation will pave the way for new immune-based therapies for patients with presently intractable diseases**.
 
