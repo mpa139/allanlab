@@ -3,7 +3,7 @@ fullname: Rahul Roychoudhuri
 layout: members
 position: Principal Investigator
 tier: a
-picture: rahul.jpg
+picture: Rahul Roychoudhuri photograph.jpg
 email: rr257@cam.ac.uk
 tel: +44 1223 496315 
 pubmed_searchterm: roychoudhuri r [author]
