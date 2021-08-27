@@ -23,8 +23,8 @@ Our specific areas of interest include:
 
 We are  looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-<figure class="fourth">
- <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" style="height:300px">
+<figure>
+ <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" style="height:300px" class="center">
  </figure>
 
 Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
