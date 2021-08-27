@@ -33,10 +33,10 @@ We are grateful for funding from Academy of Medical Sciences, [Springboard Award
 </div>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="height: 80px; ; padding-right:25px ; padding-bottom:25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="height: 80px; padding-right:25px ; padding-bottom:25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="height: 80px; padding-right:25px ; padding-bottom:25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="height: 80px; padding-right:25px ; padding-bottom:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="height: 80px; ; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="height: 80px; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="height: 80px; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="height: 80px; padding-right:25px">
 </figure>
 <p>
 </p>
