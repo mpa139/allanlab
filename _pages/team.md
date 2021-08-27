@@ -10,7 +10,7 @@ permalink: /team/
 
 We are **always** looking for new students (PhD and MSc/MEng) and post-docs to join the team [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-## Staff
+## Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -73,7 +73,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 {% endif %}
 
 
-## Staff
+## Post-docs
 {% assign number_printed = 0 %}
 {% for member in site.data.post_doc %}
 
