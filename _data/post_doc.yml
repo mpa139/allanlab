@@ -1,0 +1,17 @@
+- name: Dr. Alena Uus
+  photo: alena.png
+  info: Research Associate
+  email: alena.uus(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Information Engineering from City,
+  education2: Motion compensation and blood flow reconstruction for fetal MRI and registration for neonatal diffusion MRI
+
+- name: Dr. Mohamed Suliman
+  photo: mohamed.jpg
+  info: Research Associate
+  email:  mohamed.suliman(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Electrical & Electronic Engineering
+  education2: Deep learning algorithms for precision registration of multimodal brain scans
+  education3: 
+  education4: 
