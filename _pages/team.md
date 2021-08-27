@@ -280,9 +280,14 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.duration }} <br> Role: {{ member.info }}
-  <ul style="overflow: hidden">
-
+  {{ member.info }}
+  <ul style="lsit-style-type:none">
+  
+  {% if member.number_educ == 2 %}
+  <b>Education:</b> {{ member.education1 }}<br>
+  <b>Project:</b> {{ member.education2 }}
+  {% endif %}
+    
   </ul>
 </div>
 
@@ -299,18 +304,18 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 </div>
 {% endif %}
 
-## Previous BSc & MSc/MEng Students
+## Previous BSc/BEng & MSc/MEng Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h4>MSc/MEng Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>BSc/BEng Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
