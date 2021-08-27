@@ -202,7 +202,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 
 <br>
-## MSC/MEng & BSc/BEng Students
+## MSc/MEng & BSc/BEng Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -265,7 +265,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 {% endif %}
 
 
-
+<br>
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -304,7 +304,8 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 </div>
 {% endif %}
 
-## Previous BSc/BEng & MSc/MEng Students
+<br>
+## Previous MSc/MEng & BSc/BEng Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
