@@ -254,7 +254,7 @@ $dropdown-link-active-color:     $component-active-color !default;
 $dropdown-link-active-bg:        $component-active-bg !default;
 
 //** Disabled dropdown menu item background color.
-$dropdown-link-disabled-color:   #ffe6d6 !default;
+$dropdown-link-disabled-color:   $gray-light !default;
 
 //** Text color for headers within dropdown menus.
 $dropdown-header-color:          $gray-light !default;
@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #ffe6d6 !default;
+$navbar-default-bg:                #f8f8f8 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
