@@ -23,16 +23,16 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br><{{ member.email }}>
-  <ul style="overflow: hidden">
+  <{{ member.email }}>
+  <ul style="list-style-type:none">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <b>Title:</b> {{ member.education1 }}<br>
+  <b>Expertise:</b> {{ member.education2 }}
   {% endif %}
 
   {% if member.number_educ == 3 %}
