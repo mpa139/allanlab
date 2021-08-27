@@ -88,6 +88,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br><{{ member.email }}>
+  <ul style="list-style-type: none">
   
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -119,7 +120,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  
+  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
