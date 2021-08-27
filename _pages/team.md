@@ -202,7 +202,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 
 <br>
-## MSc/MEng & BSc/BEng Students
+## MSc/MEng Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -215,7 +215,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br><{{ member.email }}>
+  <{{ member.email }}>
   <ul style="list-style-type:none">
 
   {% if member.number_educ == 1 %}
