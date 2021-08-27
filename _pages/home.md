@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 <div markdown style="text-align: justify">
-Welcome to the website for MeTrICS Lab [King's College London](https://www.kcl.ac.uk/). Our research focuses on machine learning for translational imaging, with applications in neurodevelopment, cognition and cortical surface processing.
-
-Working alongside the [Centre for the Developing Brain](https://www.developingbrain.co.uk/) King's College London, we seek to develop tools that support fetal health and improve understanding of the mechanisms behind neuro-developmental impairment.
+Welcome to the website for MeTrICS Lab (Machine Learning for Translational Imaging and Cortical Surfaces), based at [King's College London](https://www.kcl.ac.uk/). Working alongside the [Centre for the Developing Brain](https://www.developingbrain.co.uk/) King's College London, we seek to develop tools that support fetal health and improve understanding of the mechanisms behind neuro-developmental impairment.
 
 Our specific areas of interest include:
 - Cortical surface processing
@@ -21,7 +19,7 @@ Our specific areas of interest include:
  See [Research](research) for more details
 
 
-We are  looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
+We are **always** looking for passionate new students (PhD and MSc/MEng) and post-docs to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <figure>
  <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" style="height:340px; padding-left:50px; padding-top:20px; padding-bottom:20px">
