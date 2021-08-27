@@ -13,7 +13,7 @@
   info: Apr 2019
   email: abdulah.fawaz(at)kcl.ac.uk
   number_educ: 2
-  education1: BA, MSc, MRes in Quantum Physics & Quantum Computing from University of Cambridge
+  education1: BA, MSc, MRes in Quantum Physics & Quantum Computing
   education2: Geometric deep learning methods for the neonatal cortical surface
   education3:
   education4:
@@ -23,7 +23,7 @@
   info: Oct 2019
   email:  suryava.bhattacharya(at)kcl.ac.uk
   number_educ: 2
-  education1: MEng in Biomedical Engineering, King's College London
+  education1: MEng in Biomedical Engineering
   education2: Quantitative mapping of developing fetal organs using dynamic MRI and artificial neural networks
   education3: 
   education4:
@@ -33,7 +33,7 @@
   info: Oct 2019
   email:  lindsay.munroe(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc Mathematics from St. Andrews University, MSc Mathematics & Theoretical Computer Science from Oxford University
+  education1: BSc Mathematics, MSc Mathematics & Theoretical Computer Science
   education2: Mining for iron in the brain -  a deep learning approach
   education3: 
   education4:
@@ -43,7 +43,7 @@
   info: Jan 2020
   email: mariana.da_silva(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc and MSc in Biomedical Engineering & Biophysics from University of Lisbon
+  education1: BSc, MSc in Biomedical Engineering & Biophysics
   education2: Building sensitive models of cognition using interpretable deep learning
   education3:
   education4:
@@ -53,7 +53,7 @@
   info: Mar 2020
   email:  logan.williams(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc Biomedical Science, BMedSc(Hons) Neonatal Medicine, MBChB from The University of Auckland
+  education1: BSc Biomedical Science, BMedSc(Hons) Neonatal Medicine, MBChB
   education2: Investigating genetic influneces on cortical development over the lifespan
   education3: 
   education4:
@@ -63,7 +63,7 @@
   info: Oct 2020
   email:  yilan.dong(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc in Biomedical Engineering from Northeastern University China, MSc Healthcare Technologies King's College London.
+  education1: BSc in Biomedical Engineering, MSc Healthcare Technologies
   education2: Machine learning to uncover the early origins of neurodevelopmental disorders
   education3: 
   education4:  
@@ -73,7 +73,7 @@
   info: Oct 2020
   email:  le.hai(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc Neuroscience from King's College London.
+  education1: BSc Neuroscience
   education2: Characterising abnormal early brain development and links to neuropsychiatric disorders using diffusion MRI and machine learning
   education3: 
   education4: 
@@ -83,7 +83,7 @@
   info: Oct 2020
   email:  simon.dahan(at)kcl.ac.uk
   number_educ: 2
-  education1: Engineering Master’s Degree in Computer Science at Télécom Paris, MSc in Artificial Intelligence & Machine Learning from Imperial College London
+  education1: MEng Computer Science, MSc in Artificial Intelligence & Machine Learning
   education2: Spatiotemporal deep learning on cortical fMRI data to predict brain states for preterm infants.
   education3: 
   education4: 
@@ -93,7 +93,7 @@
   info: Oct 2020
   email:  paula.ramirez_gilliland(at)kcl.ac.uk
   number_educ: 2
-  education1: MPhys Physics & Astrophysics, University of Sussex
+  education1: MPhys Physics & Astrophysics
   education2: Deep learning for diagnosis of congenital heart disease in fetus using MRI and ultrasound.
   education3: 
   education4: 
