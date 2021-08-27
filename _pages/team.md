@@ -10,9 +10,6 @@ permalink: /team/
 
 We are **always** looking for new students (PhD and MSc/MEng) and post-docs to join the team [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
-
 ## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
