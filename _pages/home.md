@@ -80,8 +80,10 @@ Please check out our [GitHub page](https://github.com/metrics-lab) and [Resource
 We are grateful for funding from Academy of Medical Sciences, [Springboard Awards](https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard) and [Wellcome](https://wellcome.ac.uk/funding). Our collaborations with the [Developing Human Connectome Project](http://www.developingconnectome.org/) are funded by the ERC.
 </div>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="height: 80px; ; padding-right:20px; padding-left=20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="height: 80px; padding-right:20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="height: 80px; padding-right:20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="height: 80px; padding-right:20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="height: 80px; ; padding-right:30px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="height: 80px; padding-right:30px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="height: 80px; padding-right:30px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="height: 80px; padding-right:30px">
 </figure>
+<p>
+</p>
