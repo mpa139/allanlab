@@ -72,7 +72,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 </div>
 {% endif %}
 
-
+<br>
 ## Research Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.post_doc %}
@@ -136,7 +136,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 {% endif %}
 
 
-
+<br>
 ## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
@@ -201,7 +201,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 
 
-
+<br>
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -216,15 +216,15 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br><{{ member.email }}>
-  <ul style="overflow: hidden">
+  <ul style="list-style-type:none">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <b>Education:</b> {{ member.education1 }}
+  <b>Project:</b> {{ member.education2 }}
   {% endif %}
 
   {% if member.number_educ == 3 %}
