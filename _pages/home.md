@@ -24,7 +24,7 @@ Our specific areas of interest include:
 We are  looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <figure>
- <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" style="height:300px; padding-left:40px; padding-top:40px; padding-bottom:40px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" style="height:380px; padding-left:40px; padding-top:40px; padding-bottom:40px">
  </figure>
 
 Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
@@ -33,10 +33,10 @@ We are grateful for funding from Academy of Medical Sciences, [Springboard Award
 </div>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="height: 80px; ; padding-right:25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="height: 80px; padding-right:25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="height: 80px; padding-right:25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="height: 80px; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="height: 105px; ; padding-right:5px; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Wellcome.jpeg" style="height: 105px; padding-right:5px; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="height: 105px; padding-right:5px; padding-right:25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kings.png" style="height: 105px; padding-right:5px; padding-right:25px">
 </figure>
 <p>
 </p>
