@@ -126,6 +126,16 @@
   education3: 
   education4: 
 
+- name: Mohamed Suliman
+  photo: 
+  info: Research Associate, started April 2021
+  email:  mohamed.suliman(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Electrical & Electronic Engineering, Imperial College London
+  education2: Current research project on developing deep learning algorithms for precision registration of multimodal brain scans
+  education3: 
+  education4: 
+
 - name: "This could be you !"
   photo: metrics.jpg
   info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
