@@ -20,10 +20,11 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="text-align:justify">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br><{{ member.email }}>
+  {{ member.info }}<br>
+  {{ member.email }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -84,10 +85,11 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="text-align:justify">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br><{{ member.email }}>
+  {{ member.info }}<br>
+  {{ member.email }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
