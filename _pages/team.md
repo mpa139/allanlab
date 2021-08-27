@@ -95,8 +95,8 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  Education:{{ member.education1 }}
+  Project: {{ member.education2 }}
   {% endif %}
 
   {% if member.number_educ == 3 %}
