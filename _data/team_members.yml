@@ -1,6 +1,6 @@
-- name: Emma Robinson
+- name: Dr. Emma Robinson
   photo: ERphoto.jpg
-  info: Lab Lead
+  info: Lab Lead/Lecturer in Medical Image Analysis
   email: emma.robinson(at)kcl.ac.uk
   number_educ: 4
   education1: Expertise Cortical Surface Processing, image registration, machine learning
@@ -8,16 +8,16 @@
   education3: Postdoc positions Imperial College and Oxford University (FMRIB centre)
   education4: Twitter @emrobSci
 
-- name: Maria Deprez
+- name: Dr. Maria Deprez
   photo: maria-deprez-photo.jpg
-  info: Lab Lead
+  info: Lab Lead/Lecturer in Medical Image Analysis
   email: maria.deprez(at)kcl.ac.uk
   number_educ: 3
   education1: Expertise Motion Correction of Fetal MRI, Image Registration and Segmentation, Spatio-temporal Atlases, Machine Learning
   education2: PhD Imperial College
   education3: Postdoc positions Oxford University, King's College London
 
-- name: Alena Uus
+- name: Dr. Alena Uus
   photo: alena.png
   info: Research Associate
   email: alena.uus(at)kcl.ac.uk
@@ -25,9 +25,9 @@
   education1: PhD in Information Engineering from City, University of London
   education2: Current research projects focus on motion compensation and blood flow reconstruction for fetal MRI and registration for neonatal diffusion MRI
 
-- name: Mohamed Suliman
+- name: Dr. Mohamed Suliman
   photo: mohamed.jpg
-  info: Research Associate, started April 2021
+  info: Research Associate
   email:  mohamed.suliman(at)kcl.ac.uk
   number_educ: 2
   education1: PhD in Electrical & Electronic Engineering, Imperial College London
