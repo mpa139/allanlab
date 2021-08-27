@@ -2,7 +2,7 @@
   photo: irina1.jpg
   info: Oct 2018
   email: irina.grigorescu(at)kcl.ac.uk
-  number_educ: 3
+  number_educ: 2
   education1: BSc & MSc in Computer Science, MRes in Medical Imaging
   education2: Current research project is on prognosis of developmental outcomes in babies born preterm
   education3: 
@@ -52,7 +52,7 @@
   photo: Logan.jpg
   info: Mar 2020
   email:  logan.williams(at)kcl.ac.uk
-  number_educ: 3
+  number_educ: 2
   education1: BSc Biomedical Science, BMedSc(Hons) Neonatal Medicine, MBChB from The University of Auckland
   education2: Current research project is on investigating neurodevelopmental impairment in early life using imaging genetics
   education3: 
@@ -82,7 +82,7 @@
   photo: Simon.jpg
   info: Oct 2020
   email:  simon.dahan(at)kcl.ac.uk
-  number_educ: 3
+  number_educ: 2
   education1: Engineering Master’s Degree in Computer Science at Télécom Paris, MSc in Artificial Intelligence & Machine Learning from Imperial College London
   education2: Current research project is on applying deep learning on brain surfaces from fMRI data to predict brain states for preterm infants.
   education3: 
