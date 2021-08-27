@@ -98,9 +98,10 @@
   education3: 
   education4: 
 
-- name: "This could be you !"
+- name: "This could be you!"
   photo: metrics.jpg
-  info: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more info
-  email: emma.robinson[at]kcl.ac.uk
-  number_educ: 0
-  education1:
+  info: 
+  email: 
+  number_educ: 2
+  education1: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more information
+  education2: Email emma.robinson[at]kcl.ac.uk or maria.deprez[at]kcl.ac.uk if you have any questions
