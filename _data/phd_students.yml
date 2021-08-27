@@ -97,11 +97,3 @@
   education2: Deep learning for diagnosis of congenital heart disease in fetus using MRI and ultrasound.
   education3: 
   education4: 
-
-- name: "This could be you!"
-  photo: metrics.jpg
-  info: 
-  email: emma.robinson(at).kcl.ac.uk
-  number_educ: 2
-  education1: See <a href="http://metrics-lab.github.io/vacancies">openings</a> for more information
-  education2: 
