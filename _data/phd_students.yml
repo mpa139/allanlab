@@ -1,6 +1,6 @@
 - name: Irina Grigorescu
   photo: irina1.jpg
-  info: PhD student, started October 2018
+  info: Start date: Oct 2018
   email: irina.grigorescu(at)kcl.ac.uk
   number_educ: 3
   education1: BSc and MSc in Computer Science and MRes in Medical Imaging
@@ -10,7 +10,7 @@
 
 - name: Abdulah Fawaz
   photo: abdulah.jpg
-  info: PhD student, started April 2019
+  info: Start date: Apr 2019
   email: abdulah.fawaz(at)kcl.ac.uk
   number_educ: 2
   education1: BA, MSc, MRes in Quantum Physics and Quantum Computing
@@ -18,30 +18,9 @@
   education3:
   education4:
 
-- name: Mariana Da Silva
-  photo: mariana.jpg
-  info: PhD student, started January 2020
-  email: mariana.ferreira_teixeira_da_silva(at)kcl.ac.uk
-  number_educ: 2
-  education1: BSc and MSc in Biomedical Engineering and Biophysics from University of Lisbon
-  education2: Current research project is on building sensitive models of cognition using interpretable deep learning
-  education3:
-  education4:
-
-- name: Logan Williams
-  photo: Logan.jpg
-  info: PhD student, started March 2020
-  email:  logan.williams(at)kcl.ac.uk
-  number_educ: 3
-  education1: BSc in Biomedical Science, BMedSc(Hons) in Neonatal Medicine, MBChB from The University of Auckland, New Zealand
-  education2: Current research project is on investigating neurodevelopmental impairment in early life using imaging genetics
-  education3: Twitter- @lzjwilliams
-  education4:
-  
-  
 - name: Suryava Bhattacharya
   photo: Suryava.jpg
-  info: PhD student, started October 2019
+  info: Start date: Oct 2019
   email:  suryava.bhattacharya(at)kcl.ac.uk
   number_educ: 2
   education1: MEng in Biomedical Engineering, King's College London
@@ -51,17 +30,37 @@
   
 - name: Lindsay Munroe
   photo: Lindsay.jpg
-  info: PhD student, started October 2019
+  info: Start date: Oct 2019
   email:  lindsay.munroe(at)kcl.ac.uk
   number_educ: 2
   education1: BSc Mathematics from St. Andrews University and MSc from Oxford University in Mathematics and Theoretical Computer Science.
   education2: Current research project is on Mining for iron in the brain -  a deep learning approach
   education3: 
   education4:
+
+- name: Mariana Da Silva
+  photo: mariana.jpg
+  info: Start date: Jan 2020
+  email: mariana.ferreira_teixeira_da_silva(at)kcl.ac.uk
+  number_educ: 2
+  education1: BSc and MSc in Biomedical Engineering and Biophysics from University of Lisbon
+  education2: Current research project is on building sensitive models of cognition using interpretable deep learning
+  education3:
+  education4:
+
+- name: Logan Williams
+  photo: Logan.jpg
+  info: Start date: Mar 2020
+  email:  logan.williams(at)kcl.ac.uk
+  number_educ: 3
+  education1: BSc in Biomedical Science, BMedSc(Hons) in Neonatal Medicine, MBChB from The University of Auckland, New Zealand
+  education2: Current research project is on investigating neurodevelopmental impairment in early life using imaging genetics
+  education3: Twitter- @lzjwilliams
+  education4:
   
 - name: Yilan Dong
   photo: Yilan.jpg
-  info: PhD student, started October 2020
+  info: Start date: Oct 2020
   email:  yilan.dong(at)kcl.ac.uk
   number_educ: 2
   education1: BSc in Biomedical Engineering, Northeastern University China and MSc in Healthcare Technologies King's College London.
@@ -71,7 +70,7 @@
 
 - name: Hai Le
   photo: Hai.jpeg
-  info: PhD student, started October 2020
+  info: Start date: Oct 2020
   email:  le.hai(at)kcl.ac.uk
   number_educ: 2
   education1: BSc in Neuroscience King's College London.
@@ -81,7 +80,7 @@
   
 - name: Simon Dahan
   photo: Simon.jpg
-  info: PhD student, started October 2020
+  info: Start date: Oct 2020
   email:  simon.dahan(at)kcl.ac.uk
   number_educ: 3
   education1: Engineering Master’s Degree in Computer Science at Télécom Paris
@@ -91,7 +90,7 @@
 
 - name: Paula Ramirez Gilliland
   photo: paularamirez.jpg
-  info: PhD student, started October 2020
+  info: Start date: Oct 2020
   email:  paula.ramirez_gilliland(at)kcl.ac.uk
   number_educ: 2
   education1: MPhys Physics and Astrophysics, University of Sussex
