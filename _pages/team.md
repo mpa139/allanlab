@@ -303,13 +303,6 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
