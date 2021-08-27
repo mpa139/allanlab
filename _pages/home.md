@@ -35,5 +35,7 @@ Please check out our [GitHub page](https://github.com/metrics-lab) and [Resource
 </figure>
 
 We are grateful for funding from Academy of Medical Sciences, [Springboard Awards](https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard) and [Wellcome](https://wellcome.ac.uk/funding). Our collaborations with the [Developing Human Connectome Project](http://www.developingconnectome.org/) are funded by the ERC.
+<br>
+<br>
 </div>
 
