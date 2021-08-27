@@ -3,9 +3,9 @@
   info: Start date: Oct 2018
   email: irina.grigorescu(at)kcl.ac.uk
   number_educ: 3
-  education1: BSc and MSc in Computer Science and MRes in Medical Imaging
+  education1: BSc & MSc in Computer Science, MRes in Medical Imaging
   education2: Current research project is on prognosis of developmental outcomes in babies born preterm
-  education3: Topics- Deep Learning, Image Registration, Interpretability
+  education3: 
   education4:
 
 - name: Abdulah Fawaz
@@ -13,7 +13,7 @@
   info: Start date: Apr 2019
   email: abdulah.fawaz(at)kcl.ac.uk
   number_educ: 2
-  education1: BA, MSc, MRes in Quantum Physics and Quantum Computing
+  education1: BA, MSc, MRes in Quantum Physics & Quantum Computing from University of Cambridge
   education2: Current research project is working on surface and graph based deep learning methods for the neonatal cortex
   education3:
   education4:
@@ -33,7 +33,7 @@
   info: Start date: Oct 2019
   email:  lindsay.munroe(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc Mathematics from St. Andrews University and MSc from Oxford University in Mathematics and Theoretical Computer Science.
+  education1: BSc Mathematics from St. Andrews University, MSc Mathematics & Theoretical Computer Science from Oxford University
   education2: Current research project is on Mining for iron in the brain -  a deep learning approach
   education3: 
   education4:
@@ -43,7 +43,7 @@
   info: Start date: Jan 2020
   email: mariana.ferreira_teixeira_da_silva(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc and MSc in Biomedical Engineering and Biophysics from University of Lisbon
+  education1: BSc and MSc in Biomedical Engineering & Biophysics from University of Lisbon
   education2: Current research project is on building sensitive models of cognition using interpretable deep learning
   education3:
   education4:
@@ -53,9 +53,9 @@
   info: Start date: Mar 2020
   email:  logan.williams(at)kcl.ac.uk
   number_educ: 3
-  education1: BSc in Biomedical Science, BMedSc(Hons) in Neonatal Medicine, MBChB from The University of Auckland, New Zealand
+  education1: BSc Biomedical Science, BMedSc(Hons) Neonatal Medicine, MBChB from The University of Auckland
   education2: Current research project is on investigating neurodevelopmental impairment in early life using imaging genetics
-  education3: Twitter- @lzjwilliams
+  education3: 
   education4:
   
 - name: Yilan Dong
@@ -63,7 +63,7 @@
   info: Start date: Oct 2020
   email:  yilan.dong(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc in Biomedical Engineering, Northeastern University China and MSc in Healthcare Technologies King's College London.
+  education1: BSc in Biomedical Engineering from Northeastern University China, MSc Healthcare Technologies King's College London.
   education2: Current research project is on Machine learning to uncover the early origins of neurodevelopmental disorders
   education3: 
   education4:  
@@ -73,7 +73,7 @@
   info: Start date: Oct 2020
   email:  le.hai(at)kcl.ac.uk
   number_educ: 2
-  education1: BSc in Neuroscience King's College London.
+  education1: BSc Neuroscience from King's College London.
   education2: Current research project is on Characterising abnormal early brain development and links to neuropsychiatric disorders using diffusion MRI and machine learning
   education3: 
   education4: 
@@ -83,9 +83,9 @@
   info: Start date: Oct 2020
   email:  simon.dahan(at)kcl.ac.uk
   number_educ: 3
-  education1: Engineering Master’s Degree in Computer Science at Télécom Paris
-  education2: MSc in Artificial Intelligence & Machine Learning at Imperial College London
-  education3: Current research project is on applying deep learning on brain surfaces from fMRI data to predict brain states for preterm infants.
+  education1: Engineering Master’s Degree in Computer Science at Télécom Paris, MSc in Artificial Intelligence & Machine Learning from Imperial College London
+  education2: Current research project is on applying deep learning on brain surfaces from fMRI data to predict brain states for preterm infants.
+  education3: 
   education4: 
 
 - name: Paula Ramirez Gilliland
@@ -93,7 +93,7 @@
   info: Start date: Oct 2020
   email:  paula.ramirez_gilliland(at)kcl.ac.uk
   number_educ: 2
-  education1: MPhys Physics and Astrophysics, University of Sussex
+  education1: MPhys Physics & Astrophysics, University of Sussex
   education2: Current research project is on deep learning for diagnosis of congenital heart disease in fetus using MRI and ultrasound.
   education3: 
   education4: 
