@@ -1,20 +1,9 @@
-#- name: Gijsbert Verdoes
-#  photo: verdoes.jpg
-#  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-#  info: Fine mechanical engineer associated with the FMD working in our group
-#  email: verdoes@fmd.physics.leidenuniv.nl
-#  number_educ: 1
-#  education1: Leidse instrumentmakers School
-#  education2:
-# education3:
-#  education4:
-
-- name: Cher Bass
+- name: Dr. Cher Bass
   photo: cherbass.jpg
-  info: Research Associate, started May 2019
+  info: Research Associate
   email: cher.bass(at)kcl.ac.uk
   number_educ: 3
-  education1: Neurotechnology PhD at Imperial College London
-  education2: Current research project on developing methods for the task of predicting biomarkers of cognitive function from volumetric (3D) Magnetic Resonance Imaging (MRI) brain data of newborn infants.
-  education3: Topics- Deep learning, generative models, interpretability
+  education1: PhD in Neurotechnology 
+  education2: Predicting biomarkers of cognitive function from brain magnetic resonance imaging data
+  education3: 
   education4:
