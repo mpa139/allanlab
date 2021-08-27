@@ -20,7 +20,7 @@ Our specific areas of interest include:
 
  See [Research](research) for more details
 
-</div>
+
 We are  looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
@@ -78,7 +78,7 @@ We are  looking for passionate new PhD students, Postdocs, and Master students t
 Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
 
 We are grateful for funding from Academy of Medical Sciences, [Springboard Awards](https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard) and [Wellcome](https://wellcome.ac.uk/funding). Our collaborations with the [Developing Human Connectome Project](http://www.developingconnectome.org/) are funded by the ERC.
-
+</div>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/metrics.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AMS.png" style="width: 210px">
