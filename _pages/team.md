@@ -23,7 +23,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  {{ member.info }}<br>email: <{{ member.email }}>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -87,7 +87,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  {{ member.info }}<br>email: <{{ member.email }}>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -152,7 +152,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  {{ member.info }}<br>email: <{{ member.email }}>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
