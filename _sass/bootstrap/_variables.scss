@@ -29,7 +29,7 @@ $brand-danger:          #FF4136 !default;
 //** Background color for `<body>`.
 $body-bg:               #fff !default;
 //** Global text color on `<body>`.
-$text-color:            $gray !default;
+$text-color:            #000080ff !default; //previously $gray
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
