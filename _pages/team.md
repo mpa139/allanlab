@@ -223,7 +223,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <b>Education:</b> {{ member.education1 }}
+  <b>Education:</b> {{ member.education1 }}<br>
   <b>Project:</b> {{ member.education2 }}
   {% endif %}
 
