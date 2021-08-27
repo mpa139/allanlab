@@ -280,7 +280,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  {{ member.duration }} <br> Role: {{ member.info }}
   <ul style="overflow: hidden">
 
   </ul>
@@ -299,7 +299,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Previous BSc & MSc/MEng Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
