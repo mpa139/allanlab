@@ -1,6 +1,6 @@
 - name: Irina Grigorescu
   photo: irina1.jpg
-  info: Start date Oct 2018
+  info: Oct 2018
   email: irina.grigorescu(at)kcl.ac.uk
   number_educ: 3
   education1: BSc & MSc in Computer Science, MRes in Medical Imaging
@@ -10,7 +10,7 @@
 
 - name: Abdulah Fawaz
   photo: abdulah.jpg
-  info: Start date Apr 2019
+  info: Apr 2019
   email: abdulah.fawaz(at)kcl.ac.uk
   number_educ: 2
   education1: BA, MSc, MRes in Quantum Physics & Quantum Computing from University of Cambridge
@@ -20,7 +20,7 @@
 
 - name: Suryava Bhattacharya
   photo: Suryava.jpg
-  info: Start date Oct 2019
+  info: Oct 2019
   email:  suryava.bhattacharya(at)kcl.ac.uk
   number_educ: 2
   education1: MEng in Biomedical Engineering, King's College London
@@ -30,7 +30,7 @@
   
 - name: Lindsay Munroe
   photo: Lindsay.jpg
-  info: Start date Oct 2019
+  info: Oct 2019
   email:  lindsay.munroe(at)kcl.ac.uk
   number_educ: 2
   education1: BSc Mathematics from St. Andrews University, MSc Mathematics & Theoretical Computer Science from Oxford University
@@ -40,7 +40,7 @@
 
 - name: Mariana Da Silva
   photo: mariana.jpg
-  info: Start date Jan 2020
+  info: Jan 2020
   email: mariana.ferreira_teixeira_da_silva(at)kcl.ac.uk
   number_educ: 2
   education1: BSc and MSc in Biomedical Engineering & Biophysics from University of Lisbon
@@ -50,7 +50,7 @@
 
 - name: Logan Williams
   photo: Logan.jpg
-  info: Start date Mar 2020
+  info: Mar 2020
   email:  logan.williams(at)kcl.ac.uk
   number_educ: 3
   education1: BSc Biomedical Science, BMedSc(Hons) Neonatal Medicine, MBChB from The University of Auckland
@@ -60,7 +60,7 @@
   
 - name: Yilan Dong
   photo: Yilan.jpg
-  info: Start date Oct 2020
+  info: Oct 2020
   email:  yilan.dong(at)kcl.ac.uk
   number_educ: 2
   education1: BSc in Biomedical Engineering from Northeastern University China, MSc Healthcare Technologies King's College London.
@@ -70,7 +70,7 @@
 
 - name: Hai Le
   photo: Hai.jpeg
-  info: Start date Oct 2020
+  info: Oct 2020
   email:  le.hai(at)kcl.ac.uk
   number_educ: 2
   education1: BSc Neuroscience from King's College London.
@@ -80,7 +80,7 @@
   
 - name: Simon Dahan
   photo: Simon.jpg
-  info: Start date Oct 2020
+  info: Oct 2020
   email:  simon.dahan(at)kcl.ac.uk
   number_educ: 3
   education1: Engineering Master’s Degree in Computer Science at Télécom Paris, MSc in Artificial Intelligence & Machine Learning from Imperial College London
@@ -90,7 +90,7 @@
 
 - name: Paula Ramirez Gilliland
   photo: paularamirez.jpg
-  info: Start date Oct 2020
+  info: Oct 2020
   email:  paula.ramirez_gilliland(at)kcl.ac.uk
   number_educ: 2
   education1: MPhys Physics & Astrophysics, University of Sussex
