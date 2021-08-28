@@ -26,7 +26,7 @@ For a full list go to [Dr Robinson's Google Scholar](https://scholar.google.co.u
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: left" />
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
