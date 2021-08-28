@@ -88,12 +88,33 @@
   education3: 
   education4: 
 
-- name: Paula Ramirez Gilliland
-  photo: paularamirez.jpg
-  info: Oct 2020
-  email:  paula.ramirez_gilliland(at)kcl.ac.uk
+- name: Diego Fajardo
+  photo: 
+  info: Oct 2021
+  email:  TBC
   number_educ: 2
-  education1: MPhys Physics & Astrophysics
-  education2: Deep learning for diagnosis of congenital heart disease in fetus using MRI and ultrasound.
+  education1: BSc, MSc in Mathematics
+  education2: Predicting preterm birth from MRU using deep learning
+  education3: 
+  education4: 
+  
+- name: Yourong Guo
+  photo: 
+  info: Oct 2021
+  email:  TBC
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  
+
+- name: Zhenshan Xie 
+  photo: 
+  info: Oct 2021
+  email:  TBC
+  number_educ: 2
+  education1: 
+  education2: 
   education3: 
   education4: 
