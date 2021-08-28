@@ -8,10 +8,11 @@ permalink: /publications/
 
 
 # Publications
+For a full list go to [Dr Robinson's Google Scholar](https://scholar.google.co.uk/citations?user=WXAAOb0AAAAJ&hl=en), or [Dr Deprez' Google Scholar](https://scholar.google.co.uk/citations?user=qtojUaIAAAAJ&hl=en)
 
 ## Highlights
 
-(For a full list go to [Dr Robinson's Google Scholar](https://scholar.google.co.uk/citations?user=WXAAOb0AAAAJ&hl=en), or [Dr Deprez' Google Scholar](https://scholar.google.co.uk/citations?user=qtojUaIAAAAJ&hl=en))
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
