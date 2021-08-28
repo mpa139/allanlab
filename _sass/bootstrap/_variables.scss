@@ -762,7 +762,7 @@ $thumbnail-caption-padding:   9px !default;
 //##
 
 $well-bg:                     $jumbotron-bg !default;
-$well-border:                 darken($well-bg, 7%) !default;
+$well-border:                 $gray !default;
 
 
 //== Badges
