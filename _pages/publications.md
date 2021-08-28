@@ -36,7 +36,6 @@ For a full list go to [Dr Robinson's Google Scholar](https://scholar.google.co.u
  </div>
 </div>
 
-## Selected Publications
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -54,6 +53,7 @@ For a full list go to [Dr Robinson's Google Scholar](https://scholar.google.co.u
 <p> &nbsp; </p>
 
 
+## Selected Publications
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
