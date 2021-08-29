@@ -103,3 +103,11 @@
   number_educ: 2
   education1: BSc, MSc Mathematics
   education2: Predicting preterm birth from MRI using deep learning
+
+- name: Yourong Guo
+  photo: Yourong_guo.jpg
+  info: Oct 2021
+  email: N/A
+  number_educ: 2
+  education1: BEng, MEng in Biomedical Engineering
+  education2: Focal cortical dysplasias detection in childhood epilepsy 
