@@ -102,7 +102,7 @@ Wentao Wang, Tyler Derr, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, and Jiliang Ta
 [Learning from Incomplete Labeled Data via Adversarial Data Generation](https://tylersnetwork.github.io/papers/icdm20-incomplete_labeled_data_learning.pdf)\
 In Proceedings of the 18th International Conference on Data Mining (ICDM), Sorrento, Italy, November 17-20, 2020
 
-Tyler Derr*, Hamid Karimi*, Jiangtao Huang, and Jiliang Tang\
+Tyler Derr\*, Hamid Karimi\*, Jiangtao Huang, and Jiliang Tang\
 [Online Academic Course Performance Prediction using Relational Graph Convolutional Neural Network](https://tylersnetwork.github.io/papers/edm20-online_course_prediction_gnn.pdf)\
 In Proceedings of 13th International Conference on Educational Data Mining (EDM), Ifrane, Morocco, July 10-13, 2020
 
@@ -122,7 +122,7 @@ Amin Javari, Tyler Derr, Pouya Esmalian, Jiliang Tang, and Kevin Chen-Chuan Chan
 [ROSE: Role-based Signed Network Embedding](https://tylersnetwork.github.io/papers/www20-rolebased_signed_embedding.pdf)\
 In Proceedings of the 29th International Conference on The World Wide Web (WWW), Taipei, Taiwan, April 20-24, 2020
 
-Hamid Karimi*, Jiangtao Huang*, Tyler Derr\
+Hamid Karimi\*, Jiangtao Huang\*, Tyler Derr\
 [A Deep Model for Predicting Online Course Performance](https://tylersnetwork.github.io/papers/aaai-ai4edu2020-predicting_online_course_performance.pdf)\
 Workshop on Artificial Intelligence for Education (AI4EDU) at the 34th AAAI Conference on Artificial Intelligence (AAAI), New York, USA, February 7-12, 2020
 
@@ -141,7 +141,7 @@ Tyler Derr, Cassidy Johnson, Yi Chang, and Jiliang Tang\
 In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 3-7, 2019
 <!-- \[Code [https://github.com/tylersnetwork/signed_bipartite_networks repo]\] -->
 
-Tyler Derr*, Hamid Karimi*, Aaron Brookhouse, and Jiliang Tang\
+Tyler Derr\*, Hamid Karimi\*, Aaron Brookhouse, and Jiliang Tang\
 [Multi-Factor Congressional Vote Prediction](https://tylersnetwork.github.io/papers/asonam19-congressional_vote_prediction.pdf)\
 In Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Vancouver, Canada, August 27-30, 2019
 
