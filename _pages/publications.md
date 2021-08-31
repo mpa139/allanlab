@@ -49,9 +49,9 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2021
 
-Yu Wang and Tyler Derr \n
-[Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)\n
-In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021\n
+Yu Wang and Tyler Derr\
+[Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)\
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021\
 
 Tyler Derr, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang
 [Deep Adversarial Network Alignment](https://tylersnetwork.github.io/papers/deep_adversarial_network_alignment.pdf)
