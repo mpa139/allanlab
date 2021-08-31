@@ -47,7 +47,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Full List
 
-# Publications in 2021
+### Publications in 2021
 
 Yu Wang and Tyler Derr
 [Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)
@@ -88,7 +88,7 @@ Wenqi Fan, Tyler Derr, Xiangyu Zhao,Yao Ma,Hui Liu, Jianping Wang, Jiliang Tang,
 In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), Chania, Greece, April 19-22, 2021
 
 
-# Publications in 2020
+### Publications in 2020
 
 Hamid Karimi, Kaitlin T. Torphy, Tyler Derr, Kenneth A. Frank, and Jiliang Tang
 [Understanding and Promoting Teacher Connections in Online Social Media: A Case Study on Pinterest](https://tylersnetwork.github.io/papers/tale20-promoting_teacher_connections_online.pdf)
@@ -134,7 +134,7 @@ Tyler Derr
 [Network Analysis with Negative Links](https://tylersnetwork.github.io/papers/wsdm20-network_analysis_with_negative_links.pdf)
 In Proceedings of the 13th ACM International Conference on Web Search and Data Mining (WSDM), Houston, USA, February 3-7, 2020
 
-# Publications in 2019
+### Publications in 2019
 
 Tyler Derr, Cassidy Johnson, Yi Chang, and Jiliang Tang
 [Balance in Signed Bipartite Networks](https://tylersnetwork.github.io/papers/cikm2019-signed_bipartite_networks.pdf)
@@ -153,7 +153,7 @@ Hamid Karimi, Tyler Derr, Kaitlin T. Torphy, Kenneth A. Frank, and Jiliang Tang
 [A Roadmap for Incorporating Online Social Media in Educational Research](https://tylersnetwork.github.io/papers/tcr2019_social_media_in_education_research.pdf)
 In Teachers College Record Volume 121 Number 14, 2019
 
-# Publications 2018 and before
+### Publications 2018 and before
 
 Tyler Derr, Yao Ma, and Jiliang Tang
 [Signed Graph Convolutional Networks](https://tylersnetwork.github.io/papers/icdm18-signed_graph_convolutional.pdf)
