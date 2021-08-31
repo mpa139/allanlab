@@ -61,7 +61,7 @@ Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu Aggarwal and Jiliang Tang\
 [Graph Feature Gating Network](https://nds-vu.github.io/publications/)\
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021
 
-Aaron Brookhouse*, Tyler Derr* , Hamid Karimi*, H. Russell Bernard, and Jiliang Tang\
+Aaron Brookhouse\*, Tyler Derr\* , Hamid Karimi\*, H. Russell Bernard, and Jiliang Tang\
 [Road to the White House: Analyzing the Relations Between Mainstream and Social Media During the U.S. Presidential Primaries](https://arxiv.org/pdf/2009.09307.pdf)\
 In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual Conference, August 30 - September 2, 2021
 
