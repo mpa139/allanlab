@@ -10,10 +10,10 @@
 
 - name: Dr. Maria Deprez
   photo: maria-deprez-photo.jpg
-  info: Lab Lead/Lecturer in Medical Image Analysis
+  info: Lab Lead/Lecturer in Medical Imaging
   email: maria.deprez(at)kcl.ac.uk
   number_educ: 2
-  education1: Lecturer in Medical Image Analysis
+  education1: Lecturer in Medical Imaging
   education2: Motion Correction of Fetal MRI, Image Registration and Segmentation, Spatiotemporal Atlases, Machine Learning
   education3: Postdoc positions Oxford University, King's College London
 
