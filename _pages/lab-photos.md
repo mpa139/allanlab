@@ -18,7 +18,11 @@ permalink: /lab-photos/
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_NDS %}
 
-{% assign even_odd = number_printed | modulo: 1 %} <!-- Was before "{% assign even_odd = number_printed | modulo: 4 %} " to have 3 per column-->
+{% assign even_odd = number_printed | modulo: 1 %} 
+
+<!-- 
+Above was before "{% assign even_odd = number_printed | modulo: 4 %} " to have 3 per column 
+-->
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -32,14 +36,23 @@ permalink: /lab-photos/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd = 0 %} <!-- Was before "{% if even_odd > 2 %} " -->
+{% if even_odd = 0 %} 
+  
+<!-- 
+Above was before "{% if even_odd > 2 %} " 
+-->
+  
 </div>
 {% endif %}
 
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 1 %} <!-- Was before "{% assign even_odd = number_printed | modulo: 4 %} " to have 3 per column this below is no longer needed as we do </div> after each image -->
+{% assign even_odd = number_printed | modulo: 1 %} 
+
+<!-- Above was before "{% assign even_odd = number_printed | modulo: 4 %} " to have 3 per column this below is no longer needed as we do </div> after each image 
+-->
+
 {% if even_odd == 1 %}
 </div>
 {% endif %}
