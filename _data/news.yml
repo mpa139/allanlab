@@ -1,11 +1,11 @@
 - date: 9/2021
-  headline: "<b>Our survey preprint <a href=\"https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf\">Graph Neural Networks: Self-supervised Learning</a> is online</b>"
+  headline: "<b>Our survey preprint <a href=\"https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is online</b>"
 
 - date: 8/2021
   headline: "<b>Welcome new BS members!</b> <br /> <span style=\"color: #808080\">Ao and Emily join NDS Lab</span>"
 
 - date: 7/2021
-  headline: "<b> Yu's first paper <a href=\"https://arxiv.org/pdf/2108.11022.pdf\">Tree Decomposed Graph Neural Network</a> in NDS Lab is accepted to ACM CIKM'21!</b>"
+  headline: "<b> Yu's first paper <a href=\"https://arxiv.org/pdf/2108.11022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a> in NDS Lab is accepted to ACM CIKM'21!</b>"
 
 - date: 7/2021
   headline: "<b> 3 papers accepted to ACM CIKM'21!</b>"
