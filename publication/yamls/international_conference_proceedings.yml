@@ -1,0 +1,374 @@
+- authors: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H.,  Shin, H., and
+    Jeong, G.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 44th Int'l Conf. on Management of Data, ACM SIGMOD, Houston,
+      USA, June 2018.
+    url: ''
+  title: 'TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data'
+- authors: Ko, S., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 44th Int'l Conf. on Management of Data, ACM SIGMOD, Houston,
+      USA, June 2018.(Corresponding author) [삼성(SRFC-IT1401-04)]
+    url: ''
+  title: 'TurboGraph++: A Scalable and Fast Graph Analytics System'
+- authors: Song, H., Lee, J., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 23rd ACM KDD Conference on Knowledge Discovery and Data Mining,
+      Halifax, Nova Scotia, Canada, Aug. 2017.
+    url: ''
+  title: 'PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency'
+- authors: Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, San Francisco,
+      USA, June 2016. (Corresponding author)[SOFTWARE] [중견연구자지원사업(NRF-2014R1A2A2A01004454),
+      차세대정보컴퓨팅기술개발사업(NRF-2012M3C4A7033342), 명품IT(IITP-2015-R0346- 15-1007)]
+    url: ''
+  title: 'DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine'
+- authors: Lee, J., Shin, H., Park, C., Ko, S., Chun, Y., Noh, J., Stephan, W., and
+    Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, San Francisco,
+      USA, June 2016. (accepted in the first round of reviews in the industrial track)
+      (Corresponding author) [사사한 과제 없음]
+    url: ''
+  title: Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA
+- authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 32nd Int'l Conf. on Data Engineering (ICDE 2016), Helsinki,
+      Filand, May 2016 (invited to TKDE track of ICDE 2016). (Corresponding author)
+    url: ''
+  title: 'DSP-CC: I/O Efficient Parallel Computation of Connected Components in Billion-scale
+    Networks (Extended Abstract)'
+- authors: Oh, J., Han, W., Yu, H., and Jiang, X.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 21st ACM SIGKDD Conference on Knowledge Discovery and Data Mining,
+      Sydney, Australia, Aug. 2015. (oral presentation for every accepted paper this
+      year) (Co-corresponding author) [차세대(유환조, 2012M3C4A7033344), 정보통신.방송 연구개발(14-824-09-014),
+      산업핵심기술(10049079), 중견(NRF- 2014R1A2A2A 01004454) , 명품IT(C1515- 1121-0003), 바이오(Grant
+      1U24AI117966)]
+    url: ''
+  title: Fast and Robust Parallel SGD Matrix Factorization
+- authors: Kim, J., Han, W., Lee, S., Park, K., and Yu, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 40th Int'l conf. on Management of Data, ACM SIGMOD, Snowbird,
+      Utah, June 2014.
+    url: ''
+  title: 'OPT: A New Framework for Overlapped and Parallel Triangulation in Large-scale
+    Graphs'
+- authors: Han, W., Lee, S., Park, K., Lee, J., Kim, M., Kim, J. and Yu, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 19th ACM SIGKDD Int'l Conf. on Knowledge Discovery and Data
+      Mining, Chicago, Illinois, Aug. 2013. (oral presentation) [SOFTWARE]
+    url: ''
+  title: 'TurboGraph: A Fast Parallel Graph Engine Handling Billion-scale Graphs in
+    a Single PC'
+- authors: Han, W., Lee, J., and Lee, J.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 39th Int'l conf. on Management of Data, ACM SIGMOD, New York,
+      USA, June 2013.
+    url: ''
+  title: 'TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large
+    Graph Databases'
+- authors: Song, M., Yang, C. C., Tang, X., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In 2012 Int'l Workshop on Biomedical and Health Informatics (BHI 2012),
+      in conjunction with BIBM conf., Philadelphia, USA, Oct. 2012.
+    url: ''
+  title: Mapping the Field of Bioinformatics with a Content and Co-authorship Analysis
+- authors: Shim,  K., Cha, S., Chen, L., Han, W., Srivastava, D., Tanaka, K., Yu,
+    H., and Zhou, X.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In 17th Int'l Conf. on Database Systems for Advanced Applications (DASFAA),
+      Busan, South Korea, Apr. 2012.
+    url: ''
+  title: Data Management Challenges and Opportunities in Cloud Computing
+- authors: Song, M., Bleik, S., Yu, H., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In 2011 Int'l Workshop on Biomedical and Health Informatics (BHI 2011),
+      in conjunction with BIBM conf., Atlanta, GA, Nov. 2011.
+    url: ''
+  title: Extracting Biomedical Concepts from Fulltext by Relative Importance in a
+    Graph Model
+- authors: Lee, J.,  Kasperovics, R., Han, W., and Cho, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 5th Int'l Workshop on Data and Text Mining in Biomedical Informatics
+      (DTMBIO 2011), in conjunction with CIKM conf., Glasgow, U.K., Oct. 2011. (Corresponding
+      author)
+    url: ''
+  title: On Supporting Efﬁcient Updates of Regular Expression Indexes in RDF Databases
+- authors: Han, W., Lee, J., Moon, Y., Hwang, S., and Yu, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens,
+      Greece, June 2011.
+    url: ''
+  title: A New Approach for Processing Ranked Subsequence Matching Based on Ranked
+    Union
+- authors: Han, W., Duc, P., Lee, J., Kasperovics, R., and Yu, J.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens,
+      Greece, June 2011. (demo)
+    url: ''
+  title: 'iGraph in Action: Performance Analysis of Disk-Based Graph Indexing Techniques'
+- authors: Yu, H., Ko, I., Kim, Y., Hwang, S., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens,
+      Greece, June 2011.
+    url: ''
+  title: Exact Indexing for Support Vector Machines
+- authors: Oh, J., Kim, T., Park, S., Han, W., and Yu, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 4th Int'l Workshop on Data and Text Mining in Biomedical Informatics
+      (DTMBIO 2010), in conjunction with CIKM conf., Toronto, Canada, Oct. 2010.
+    url: ''
+  title: Dynamic Concept Ontology Construction for PubMed Queries
+- authors: Han, W., Kwak, W., and Yu, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 26th Int'l Conf. on Data Engineering (ICDE 2010), Los Angeles,
+      USA, March 2010. (short paper)
+    url: ''
+  title: On Supporting Effective Web Extraction
+- authors: Song, M., Yu, H., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 10th Int'l Workshop on Data Mining in Bioinformatics (BIOKDD
+      2010), in conjunction with SIGKDD conf., Washington, D.C., USA, July 2010.
+    url: ''
+  title: Combining Active Learning and Semi-supervised Learning Techniques to Extract
+    Protein Interaction Sentences
+- authors: Han, W. and Lee, J.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 35th Int'l Conf. on Management of Data, ACM SIGMOD, Providence,
+      Rhode Island, June 2009.
+    url: ''
+  title: Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core
+    CPUs
+- authors: Yu, H., Oh, J., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 18th Int'l Conf. on Information and Knowledge Management (ACM
+      CIKM), Hong Kong, November 2009.
+    url: ''
+  title: Efficient Feature Weighting Methods for Ranking
+- authors: Yu, H., Kim, T., Oh, J., Ko, I., Kim, S., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. ACM Third Int'l Workshop on Data and Text Mining in Bioinformatics
+      (in conjunction with ACM CIKM), Hong Kong, November 2009.
+    url: ''
+  title: Enabling Multi-Level Relevance Feedback on PubMed by Integrating Rank Learning
+    into DBMS
+- authors: Han, W., Lee, J., Moon, Y., and Jiang, H.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 33rd Int'l Conf. on Very Large Data Bases (VLDB), Vienna, Austria,
+      Sept. 2007.
+    url: ''
+  title: Ranked Subsequence Matching in Time-series Databases
+- authors: Han, W., Ng, J., Markl, V., Kache, H., and Kandil, M.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 33rd Int'l Conf. on Management of Data, ACM SIGMOD, Beijing,
+      China, June 2007.
+    url: ''
+  title: Progressive Optimization in a Shared-Nothing Parallel Database
+- authors: Jiang, H., Ho, H., Popa, L., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 16th Int'l World Wide Web Conf. (WWW), Banff, Canada, May 2007.
+    url: ''
+  title: Mapping-Driven XML Transformation
+- authors: Han, W., Jung, S., Shin, J., Lee, J., Yoon, M., Yoon, C., Seo, W., and
+    Koo, S.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. Int'l Conf. on Intelligent Computing (ICIC 2007), Qing Dao,
+      China, Aug. 2007.
+    url: ''
+  title: A Scalable Pipeline Data Processing Framework Using Database and Visualization
+    Techniques
+- authors: Kache, H., Han, W., Markl, V.,Raman, V., and Ewens, S.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 32nd Int'l Conf. on Very large data bases (VLDB), Seoul, Korea,
+      pp. 1175-1178, Sept. 2006.
+    url: ''
+  title: 'POP/FED: Progressive Query Optimization for Federated Queries in DB2'
+- authors: Kim, W., Loh, W., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. IEEE Intelligence and Security Informatics Conf. (ISI 2006),
+      May 2006. (SCIE) (Also appears in LNCS 3975)
+    url: ''
+  title: 'CC-GiST: Cache Conscious-Generalized Search Tree For Supporting Various
+    Fast Intelligent Applications'
+- authors: Kim, W., Loh, W., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. Int'l Workshop on Intelligent Storage Technology, May 2006.
+      (SCIE) (Also appears in LNCS 3993) (Corresponding author)
+    url: ''
+  title: Performance Analysis of the Cache Conscious-Generalized Search Tree
+- authors: Han, W.,  Loh, W., and Whang, K.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 11th Int'l Conf. on Database Systems for Advanced Applications
+      (DASFAA), Apr. 2006. (SCIE) (Also appears in LNCS3882)
+    url: ''
+  title: 'Type-Level Access Pattern View: A Technique for Enhancing Prefetching Performance'
+- authors: Park, Y., Whang, K., Lee, B., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. 10th Int'l Conf. on Database Systems for Advanced Applications
+      (DASFAA), Beijing, China, Apr. 2005. (SCIE) (Also appears in LNCS 3453)
+    url: ''
+  title: Efficient Evaluation of Partial Match Queries for XML Documents Using Information
+    Retrieval Techniques
+- authors: Whang, K., Lee, M., Lee, J., Kim, M., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. the 21st IEEE Int'l Conf. on Data Engineering (ICDE), Tokyo,
+      Japan, Apr. 2005. (demo) (Best Demo Award)
+    url: ''
+  title: 'Odysseus: a High-Performance ORDBMS Tightly-Coupled with IR Features'
+- authors: Han, W., Lee, K., Lee, B., and Kim, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. Int'l Conf. on Information and Knowledge Engineering (IKE),
+      Las Vegas, pp. 358-361, June 2004.
+    url: ''
+  title: 'An XML Storage System Using Object-Relational DBMSs: Syntax, Semantics,
+    and Implementation'
+- authors: Moon, Y., Whang, K., and Han, W.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. Int'l Conf. on Management of Data, ACM SIGMOD, Madison, Wisconsin,
+      pp. 382-393, June 2002.
+    url: ''
+  title: 'General Match: A Subsequence Matching Method in Time-Series Databases Based
+    on Generalized Windows'
+- authors: Han, W., Whang, K., Moon, Y., and Song, I.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. the 17th IEEE Int'l Conf. on Data Engineering (ICDE), Heidelberg,
+      Germany, pp. 651-660, Apr. 2001.
+    url: ''
+  title: Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs
+- authors: Cho, W., Han, W., Whang, K., and Hong, K.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. the 9th ACM Int'l Conf. on Information and Knowledge Management
+      (CIKM), Washington, DC, pp. 94-101, Nov. 2000.
+    url: ''
+  title: Estimating Nested Selectivity in Object-Oriented Databases
+- authors: Lee, J., Whang, K., Han, W., Cho, W., and Song, I.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: In Proc. IEEE Int'l Computer Software and Application Conf. (COMPSAC),
+      Taipei , pp. 598-697, Oct. 2000.
+    url: ''
+  title: '2D-CHI: A Tunable Two-Dimensional Class Hierarchy Index for Object- Oriented
+    Databases'
+- authors: Han, W., Srivastava, D., and Yu, G.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: World Wide Web Journal, 2011. (SCIE)
+    url: ''
+  title: 'Special issue: best papers of APWeb 2010'
