@@ -5,7 +5,7 @@
   headline: "<b>Welcome new BS members!</b> <br /> <span style=\"color: #808080\">Ao and Emily join NDS Lab</span>"
 
 - date: 7/2021
-  headline: "<b> Yu's first paper in NDS is accepted to ACM CIKM'21!</b>"
+  headline: "<b> Yu's first paper <a href=\"https://arxiv.org/pdf/2108.11022.pdf> ``Tree Decomposed Graph Neural Network''</a> in NDS Lab is accepted to ACM CIKM'21!</b>"
 
 - date: 7/2021
   headline: "<b> 3 papers accepted to ACM CIKM'21!</b>"
