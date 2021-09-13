@@ -1,0 +1,33 @@
+- authors: Wook-Shin Han, Wooseong Kwak, Jinsoo Lee, Guy M. Lohman, Volker Markl
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: U.S. Patent No. 8,166,022 B2, Apr. 2012.
+    url: ''
+  title: System, Method, And Apparatus for Parallelizing Query Optimization
+- authors: Han, W., Ho, C., Jiang, H., and Li, Q.
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: U.S. Patent No. 20090043806, June. 2008.
+    url: ''
+  title: Efficient Tuple Extraction from Streaming XML Data
+- authors: Wook-Shin Han, Ching-Tien Ho, Haifeng Jiang, and Lucian Popa
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: U.S. Patent No. 8,862,636 B2, Oct. 2014.
+    url: ''
+  title: Scalable Algorithms for Mapping-Based XML Transformation
+- authors: Kyu-Young Whang, Byung-Kwon Park, Wook-Shin Han, and Young-Koo Lee
+  description: ''
+  highlight: 0
+  image: ''
+  link:
+    display: US Patent No. 6,349,308 B1, Feb. 2002.
+    url: ''
+  title: An Inverted Index Structure Using Subindexes and Large Objects for Tight
+    Coupling of Information Retrieval with Database Management Systems
