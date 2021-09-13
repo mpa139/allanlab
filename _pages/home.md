@@ -47,6 +47,8 @@ We are the Network and Data Science (NDS) lab at Vanderbilt University, led by T
 </div>
 
 
+<a class="twitter-timeline" href="https://twitter.com/nds_vu?ref_src=twsrc%5Etfw">Tweets by nds_vu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_1.jpg" style="width: 210px">
