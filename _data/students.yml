@@ -8,9 +8,30 @@
 #  education3:
 #  education4:
 
-- name: Maialen Larrazabal Ortego
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: JiSung Jung
+  photo: jsjeong.jpg
+  info: Master
+  email: jsjeong@dblab.postech.ac.kr
+  number_educ: 1
+  education1: N/A
+
+- name: JeongEun Ha
+  photo: jeha.jpg
+  info: Mster
+  email: jeha@dblab.postech.ac.kr
+  number_educ: 1
+  education1: N/A
+
+- name: JungHo Cho
+  photo: jhcho.jpg
+  info: Master
+  email: jhcho@dblab.postech.ac.kr
+  number_educ: 1
+  education1: N/A
+
+- name: MinWoo Kim
+  photo: mwkim.jpg
+  info: Master
+  email: mwkim@dblab.postech.ac.kr
+  number_educ: 1
+  education1: N/A
