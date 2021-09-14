@@ -9,28 +9,28 @@
 #  education4:
 
 - name: JiSung Jung
-  photo: jsjeong.jpg
+  photo: jsjeong.jpeg
   info: Master
   email: jsjeong@dblab.postech.ac.kr
   number_educ: 1
   education1: N/A
 
 - name: JeongEun Ha
-  photo: jeha.jpg
+  photo: jeha.jpeg
   info: Mster
   email: jeha@dblab.postech.ac.kr
   number_educ: 1
   education1: N/A
 
 - name: JungHo Cho
-  photo: jhcho.jpg
+  photo: jhcho.jpeg
   info: Master
   email: jhcho@dblab.postech.ac.kr
   number_educ: 1
   education1: N/A
 
 - name: MinWoo Kim
-  photo: mwkim.jpg
+  photo: mwkim.jpeg
   info: Master
   email: mwkim@dblab.postech.ac.kr
   number_educ: 1
