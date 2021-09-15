@@ -67,7 +67,17 @@
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
   education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
+  education2: Casimir PhD fellowship
+  education3:
+  education4:
+
+- name: Amber Mozes
+  photo: Amber.png
+  info: PhD Student, started September 2021
+  email: b
+  number_educ: 2
+  education1: Master Applied Physics, TU Delft
+  education2: Casimir/Nanofront PhD fellowship
   education3:
   education4:
 
