@@ -12,7 +12,7 @@ permalink: /vacancies
 
 Postdoctoral support through the SCOPED project [description](/downloads/SCOPED_announcement.pdf)
 
-Postdoctoral support through the Packard Foundation Fellowship [description](Packard_2021-2022_postdoc.pdf)
+Postdoctoral support through the Packard Foundation Fellowship [description](/downloads/Packard_2021-2022_postdoc.pdf)
 
 
 
