@@ -11,6 +11,7 @@ permalink: /vacancies
 **I have 2 open postdoctoral positions! One through the SCOPED project, one through my Packard Fellowships. See details below**
 
 Postdoctoral support through the SCOPED project [description](/downloads/SCOPED_announcement.pdf)
+
 Postdoctoral support through the Packard Foundation Fellowship [description](Packard_2021-2022_postdoc.pdf)
 
 
