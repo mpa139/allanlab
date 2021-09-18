@@ -58,12 +58,12 @@ We develop high-performance computing tools to process 100+TB data sets of conti
 
 We are located in Seattle, WA at the University of Washington, in the heart of the Pacific Northwest (PNW). The PNW is a wonderful natural laboratory to monitor earthquakes, landslides, volcanoes, glaciers, and more broadly speaking the subduction-zone environment.
 
- **We are looking for new graduate students, postdocs, and undergraduate researcher** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new graduate students, postdocs, and undergraduate researcher** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+</figure> -->
