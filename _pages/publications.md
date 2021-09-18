@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Denolle Quake Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Denolle Quake Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

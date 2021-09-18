@@ -1,9 +1,9 @@
 ---
-title: "Denolle Quake Lab - Vacancies"
+title: "Denolle Quake Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions
