@@ -8,16 +8,37 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
+- name: Tim Clements
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: Graduate student, PhD (G5), Harvard. Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
+  email: thclements@g.harvard.edu
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: Jiuxun Yin
   photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: Graduate Student, PhD candidate (G6), Harvard. Observation and modeling of earthquake dynamics, in particular subduction zones.
+  email: jiuxun_yin@g.harvard.edu
+  number_educ: 0
+  education1:
+
+- name: Seth Olinger
+  photo: rock.jpg
+  info: Graduate Student, PhD candidate (G4), Harvard. Cryoseismology, data mining, icesheet dynamics.
+  email: setholinger@g.harvard.edu
+  number_educ: 0
+  education1:
+
+- name: Congcong Yuan
+  photo: rock.jpg
+  info: Graduate Student, PhD candidate (G3), Harvard.
+  email: cyuan@g.harvard.edu
+  number_educ: 0
+  education1:
+
+- name: Yiyu Ni
+  photo: rock.jpg
+  info: Graduate Student (G1), University of Washington
+  email: niyiyu@uw.edu
   number_educ: 0
   education1:

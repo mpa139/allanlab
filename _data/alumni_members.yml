@@ -1,10 +1,69 @@
-- name: 
+- name: Dr. Kurama Okubo
   photo: 
-  duration: 
-  info: 
+  duration: 2 years
+  info: Now researcher at NIED
   email: 
   number_educ: 1
-  education1: 
+  education1: Doctorat from ENS-IPGP, Paris
   education2:
   education3:
   education4:
+
+- name: Dr. Loic Viens
+  photo: 
+  duration: 2 years
+  info: Now postdoc at U Michigan
+  email: 
+  number_educ: 1
+  education1: Doctorat from ENS-IPGP, Paris
+  education2:
+  education3:
+  education4:
+
+- name: Dr. Xiaotao Yang
+  photo: 
+  duration: 1 year
+  info: Now faculty at Purdue 
+  email: 
+  number_educ: 1
+  education1: PhD at Indiana University
+  education2:
+  education3:
+  education4:
+
+
+- name: Dr. Zhitu Ma
+  photo: 
+  duration: 5 months
+  info: Now researcher at Tongi University (China)
+  email: 
+  number_educ: 1
+  education1: PhD from Scripps Institution of Oceanography, UC San Diego
+  education2:
+  education3:
+  education4:
+
+
+- name: Dr. Chengxin Jiang
+  photo: 
+  duration: 2 year2
+  info: Now researcher at Australian National University
+  email: 
+  number_educ: 1
+  education1: PhD at  Macquarie University, Sydney, Australia
+  education2:
+  education3:
+  education4:
+
+
+- name: Dr. Chris Van Houtte
+  photo: 
+  duration: 1 year
+  info: 
+  email: 
+  number_educ: 1
+  education1: PhD from Auckland University
+  education2:
+  education3:
+  education4:
+
