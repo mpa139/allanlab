@@ -1,7 +1,7 @@
 ---
 title: "Denolle Quake Lab at UW"
 layout: homelay
-excerpt: "Denolle Lab at University of Washington."
+excerpt: "Denolle Quake Lab at University of Washington."
 sitemap: false
 permalink: /
 ---
