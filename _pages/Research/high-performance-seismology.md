@@ -1,6 +1,5 @@
 ---
 title: "Denolle Quake Lab - Research - High-Performance Seismology"
-menu: header
 layout: textlay
 excerpt: "Denolle Quake Lab -- Research"
 sitemap: false

@@ -1,6 +1,5 @@
 ---
 title: "Denolle Quake Lab - Research - Ground Motions"
-menu: header
 layout: textlay
 excerpt: "Denolle Quake Lab -- Research"
 sitemap: false
