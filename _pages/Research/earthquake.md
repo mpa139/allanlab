@@ -7,6 +7,8 @@ sitemap: false
 permalink: /research/earthquake
 ---
 
+# Earthquake
+---
 #### We characterize the dynamics of earthquakes from both observations and simulations. We hope to validate physical models by making new observational tools to constrain the physical models of earthquake dynamics. A main endeavor in observational seismology is to accurately and correctly recover the seismic source pulse from radiated seismic waves (appropriate Green's function), and constrain earthquake dynamics (source time function, stress drop, radiated energy). Our physical understanding and models of earthquake ought to be validated against appropriate observations. We develop new tools to validate these models. Some examples are below.
 
 ## Relating Earthquake Backprojection to Earthquake Kinematics 

@@ -6,3 +6,6 @@ excerpt: "Denolle Quake Lab -- Research"
 sitemap: false
 permalink: /research/computational-data-seismology
 ---
+
+# Computational Data Seismology
+---
