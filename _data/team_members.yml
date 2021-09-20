@@ -18,14 +18,6 @@
   education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
   education3: B.S. East China University of Science and Technology
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
-
 - name: Jiasen Niu
   photo: Jiasen.png
   info: Postdoc, started Oct 2020
@@ -98,6 +90,15 @@
   education2:
   education3:
   education4:
+
+- name: Koen M Bastiaans
+  photo: Koen.jpg
+  info: Visitor, postdoc in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 3
+  education1: Postdoc in the Allan Lab, Leiden University
+  education2: PhD with Milan Allan, Leiden University (started Sep 2015)
+  education3: Master Leiden University with Milan Allan
 
 - name: "This could be you !"
   photo: rock.jpg
