@@ -89,8 +89,9 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> 
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}  <br>email: <{{ member.email }}>  <br> PhD Institution: {{ member.info }} <br> PhD Research: {{ member.info2 }} <br> Webpage: {{ member.info3 }} <br> Github: {{ member.info4 }} </i> 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -113,6 +114,15 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
+
+
+  {% if member.number_info== 4 %}
+  <li> {{ member.info }} </li>
+  <li> {{ member.info2 }} </li>
+  <li> {{ member.info3 }} </li>
+  <li> {{ member.info4 }} </li>
+  {% endif %}
+
 
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>

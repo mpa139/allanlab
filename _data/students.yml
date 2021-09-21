@@ -10,9 +10,13 @@
 
 - name: Tim Clements
   photo: rock.jpg
-  info: Graduate student, PhD (G5), Harvard. Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
   email: thclements@g.harvard.edu
   number_educ: 0
+  number_info: 4
+  info: PhD candidate at Harvard
+  info2: Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
+  info3: https://tclements.github.io/
+  info4: https://github.com/tclements
   education1:
 
 - name: Jiuxun Yin
