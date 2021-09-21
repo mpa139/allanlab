@@ -21,11 +21,15 @@
 
 - name: Jiuxun Yin
   photo: rock.jpg
-  info: Graduate Student, PhD candidate (G6), Harvard. Observation and modeling of earthquake dynamics, in particular subduction zones.
   email: jiuxun_yin@g.harvard.edu
   number_educ: 0
+  number_info: 4
+  info: PhD candidate at Harvard
+  info2: Observation and modeling of earthquake dynamics, in particular subduction zones.
+  info3: https://yinjiuxun.github.io/
+  info4: https://github.com/yinjiuxun
   education1:
-
+  
 - name: Seth Olinger
   photo: rock.jpg
   info: Graduate Student, PhD candidate (G4), Harvard. Cryoseismology, data mining, icesheet dynamics.
