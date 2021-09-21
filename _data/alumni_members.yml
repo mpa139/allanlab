@@ -30,7 +30,9 @@
 - name: Dr. Zhitu Ma
   photo: 
   duration: 5 months
-  info: Now researcher at Tongi University (China)
+  number_info: 2
+  info: Postdoc
+  info2: Now researcher at Tongi University (China)
   email: 
   number_educ: 1
   education1: PhD from Scripps Institution of Oceanography, UC San Diego
@@ -38,8 +40,10 @@
 
 - name: Dr. Chengxin Jiang
   photo: 
-  duration: 2 year2
-  info: Now researcher at Australian National University
+  duration: 2 year
+  number_info: 2
+  info: Postdoc
+  info2: Now researcher at Australian National University
   email: 
   number_educ: 1
   education1: PhD at  Macquarie University, Sydney, Australia
@@ -48,7 +52,8 @@
 - name: Dr. Chris Van Houtte
   photo: 
   duration: 1 year
-  info: 
+  number_info: 1
+  info: Postdoc
   email: 
   number_educ: 1
   education1: PhD from Auckland University
