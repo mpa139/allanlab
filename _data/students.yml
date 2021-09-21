@@ -10,35 +10,50 @@
 
 - name: Tim Clements
   photo: rock.jpg
-  info: Graduate student, PhD (G5), Harvard. Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
   email: thclements@g.harvard.edu
   number_educ: 0
-  education1:
+  number_info: 4
+  info: PhD candidate at Harvard
+  info2: Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
+  info3: https://tclements.github.io/
+  info4: https://github.com/tclements
 
 - name: Jiuxun Yin
   photo: rock.jpg
-  info: Graduate Student, PhD candidate (G6), Harvard. Observation and modeling of earthquake dynamics, in particular subduction zones.
   email: jiuxun_yin@g.harvard.edu
   number_educ: 0
-  education1:
+  number_info: 4
+  info: PhD candidate at Harvard
+  info2: Observation and modeling of earthquake dynamics, in particular subduction zones.
+  info3: https://yinjiuxun.github.io/
+  info4: https://github.com/yinjiuxun
 
 - name: Seth Olinger
-  photo: rock.jpg
-  info: Graduate Student, PhD candidate (G4), Harvard. Cryoseismology, data mining, icesheet dynamics.
+  photo: rock.jpg 
   email: setholinger@g.harvard.edu
+  number_info: 4
+  info: PhD candidate at Harvard
+  info2: Cryoseismology, data mining, icesheet dynamics.
+  info3: https://setholinger@github.io
+  info4: https://github.com/setholinger
   number_educ: 0
-  education1:
 
 - name: Congcong Yuan
   photo: rock.jpg
-  info: Graduate Student, PhD candidate (G3), Harvard.
   email: cyuan@g.harvard.edu
+  number_info: 4
+  info: PhD candidate at Harvard
+  info2: Wavefield simulation, machine learning, laboratory experiments
+  info3: https://yinjiuxun.github.io/
+  info4: https://github.com/yinjiuxun
   number_educ: 0
-  education1:
 
 - name: Yiyu Ni
   photo: rock.jpg
-  info: Graduate Student (G1), University of Washington
   email: niyiyu@uw.edu
+  number_info: 4
+  info: PhD at University of Washington
+  info2: Machine Learning, Cloud computing
+  info3: https://yinjiuxun.github.io/
+  info4: https://github.com/yinjiuxun
   number_educ: 0
-  education1:
