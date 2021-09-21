@@ -186,12 +186,12 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   {% endif %}
 
 
-  {% if member.number_info== 4 %}
+  <!-- {% if member.number_info== 4 %}
   <li> {{ member.info }} </li>
   <li> {{ member.info2 }} </li>
   <li> {{ member.info3 }} </li>
   <li> {{ member.info4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
 <!-- 
   {% if member.number_educ == 4 %}
