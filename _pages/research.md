@@ -8,14 +8,26 @@ permalink: /research/
 
 # Research
 
-**Ambient Noise Seismology** 
+[**Ambient Noise Seismology**](/research/ambient-noise-seismology)
 
-**Observational Earthquake Dynamics**
+[**Observational Earthquake Dynamics**](/research/observational-earthquake-dynamics)
 
-**Computational Data Seismology**
+[**Computational Data Seismology**](/research/computational-data-seismology)
 
-**Near-surface Seismology**
+[**Near-surface Seismology**](/research/near-surface-seismology)
 
-**Machine Learning in Seismology**
+[**Machine Learning in Seismology**](/research/machine-learning-in-seismology)
 
 ### ... and more.
+
+### Note below: migration pages
+----
+[**Earthquake**](/research/earthquake)
+
+[**Ground Motions**](/research/ground-motions)
+
+[**High-Performance Seismology**](/research/high-performance-seismology)
+
+[**Near-surface Seismology**](/research/near-surface-seismology)
+
+[**Seismic Monitoring of the Environment**](/research/seismic-monitoring-of-the-environment)
