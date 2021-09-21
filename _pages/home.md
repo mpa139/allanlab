@@ -29,7 +29,7 @@ We explore Earth structure and quakes dynamics using large-scale computing of se
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/F7_cartoon_single.jpg" alt="Slide 2" />
         </div>
-        <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
@@ -40,7 +40,7 @@ We explore Earth structure and quakes dynamics using large-scale computing of se
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
+        </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
