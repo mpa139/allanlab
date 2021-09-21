@@ -1,13 +1,12 @@
 - name: Dr. Kurama Okubo
   photo: 
   duration: 2 years
-  info: Now researcher at NIED
+  number_info: 2
+  info: Postdoc
+  info2: Now researcher at NIED
   email: 
   number_educ: 1
   education1: Doctorat from ENS-IPGP, Paris
-  education2:
-  education3:
-  education4:
 
 - name: Dr. Loic Viens
   photo: 
@@ -16,10 +15,6 @@
   email: 
   number_educ: 1
   education1: Doctorat from ENS-IPGP, Paris
-  education2:
-  education3:
-  education4:
-
 - name: Dr. Xiaotao Yang
   photo: 
   duration: 1 year
@@ -27,10 +22,6 @@
   email: 
   number_educ: 1
   education1: PhD at Indiana University
-  education2:
-  education3:
-  education4:
-
 
 - name: Dr. Zhitu Ma
   photo: 
@@ -39,9 +30,6 @@
   email: 
   number_educ: 1
   education1: PhD from Scripps Institution of Oceanography, UC San Diego
-  education2:
-  education3:
-  education4:
 
 
 - name: Dr. Chengxin Jiang
@@ -51,9 +39,6 @@
   email: 
   number_educ: 1
   education1: PhD at  Macquarie University, Sydney, Australia
-  education2:
-  education3:
-  education4:
 
 
 - name: Dr. Chris Van Houtte
@@ -63,9 +48,6 @@
   email: 
   number_educ: 1
   education1: PhD from Auckland University
-  education2:
-  education3:
-  education4:
 
 
 - name: Leore Lavin (hosted at Harvard 2016-2017, now in med school)
