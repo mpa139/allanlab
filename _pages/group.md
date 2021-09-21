@@ -90,7 +90,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> 
   <h4>{{ member.name }}</h4>
-  {{ member.info }}  <br><b>email</b>: <{{ member.email }}>  <br><b> PhD and Institution </b>: {{ member.info }} <br> <b> PhD Research </b>: {{ member.info2 }} <br> <b> Webpage </b>: {{ member.info3 }} <br> <b>Github </b>: {{ member.info4 }}  
+  {{ member.info }}  <br><b>email </b>: <{{ member.email }}>  <br><b> PhD and Institution </b>: {{ member.info }} <br> <b> PhD Research </b>: {{ member.info2 }} <br> <b> Webpage </b>: {{ member.info3 }} <br> <b>Github </b>: {{ member.info4 }}  
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -115,12 +115,12 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   {% endif %}
 
 
-  {% if member.number_info== 4 %}
+  <!-- {% if member.number_info== 4 %}
   <li> {{ member.info }} </li>
   <li> {{ member.info2 }} </li>
   <li> {{ member.info3 }} </li>
   <li> {{ member.info4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
 <!-- 
   {% if member.number_educ == 4 %}
