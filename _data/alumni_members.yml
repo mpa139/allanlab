@@ -50,7 +50,6 @@
 
 
 - name: Dr. Chris Van Houtte
-  photo: 
   duration: 1 year
   number_info: 1
   info: Postdoc
@@ -59,6 +58,19 @@
   education1: PhD from Auckland University
 
 
-- name: Leore Lavin (hosted at Harvard 2016-2017, now in med school)
-- name: Albert Aguilar (hosted at Harvard, 2018, now PhD at Stanford)
-- name: Jared Bryan (hosted at Harvard 2019, now PhD at MIT)
+- name: Leore Lavin
+  number_info: 2
+  info: Senior undergraduate research
+  info2: Med School
+
+
+- name: Jared Bryan
+  number_info: 2
+  info: Summer undergraduate research
+  info2: PhD student at MIT
+
+
+- name: Albert Aguilar
+  number_info: 2
+  info: Summer undergraduate research
+  info2: PhD student at Stanford
