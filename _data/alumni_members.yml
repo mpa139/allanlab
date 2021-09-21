@@ -11,14 +11,18 @@
 - name: Dr. Loic Viens
   photo: 
   duration: 2 years
-  info: Now postdoc at U Michigan
+  number_info: 2
+  info: Postdoc
+  info2: Now researcher at University of Michican
   email: 
   number_educ: 1
   education1: Doctorat from ENS-IPGP, Paris
 - name: Dr. Xiaotao Yang
   photo: 
   duration: 1 year
-  info: Now faculty at Purdue 
+  number_info: 2
+  info: Postdoc
+  info2: Now faculty at Purdue 
   email: 
   number_educ: 1
   education1: PhD at Indiana University
