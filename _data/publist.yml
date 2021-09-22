@@ -1,19 +1,19 @@
 ## 2021
 - title: "Evaluating the effectiveness of biometric sensors and their signal features for classifying human experience in virtual environments"
   image:
-  authors: Zou, Z., and Ergan, S. (2021)
+  authors: Zou, Z., and Ergan, S.
   description:
   link:
     url: https://doi.org/10.1016/j.aei.2021.101358
-    display: Advanced Engineering Informatics
+    display: Advanced Engineering Informatics, 49, 101358, 2021.
   
 - title: "An integrated approach to enable Hardware-in-the-loop for realtime VR, traffic simulation and sensor interactions: An Application in work zone safety"
   image:
-  authors: Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K. (2021)
+  authors: Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K.
   description:
   link:
     url: 
-    display: Journal of Advanced Engineering Informatics
+    display: Journal of Advanced Engineering Informatics, 2021.
   highlight: 0
 
 - title: "Extracting building characteristics essential for energy performances from façade images through deep transfer learning"
