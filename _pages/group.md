@@ -172,7 +172,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   {{ member.info }}  <br><b>email</b>: <{{ member.email }}>  <br><b> PhD and Institution </b>: {{ member.info }} <br> <b> PhD Research </b>: {{ member.info2 }} <br> <b> Webpage </b>: {{ member.info3 }} <br> <b>Github </b>: {{ member.info4 }}  
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -191,7 +191,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
-  {% endif %}
+  {% endif %} -->
 
 
   </ul>
@@ -257,7 +257,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %} -->
- -->
+ 
 
   <!-- {% if member.number_info== 4 %}
   <li> {{ member.info }} </li>
