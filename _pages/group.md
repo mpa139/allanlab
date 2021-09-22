@@ -57,8 +57,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %} -->
-
+  {% endif %} 
   </ul>
 </div>
 
