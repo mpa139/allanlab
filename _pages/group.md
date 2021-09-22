@@ -108,6 +108,14 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.info2 }} </li>
   {% endif %}
 
+
+  {% if member.number_info == 3 %}
+  <li> {{ member.info }} </li>
+  <li> {{ member.info2 }} </li>
+  <li> {{ member.info3 }} </li>
+  {% endif %}
+
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -217,7 +225,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 </div>
 {% endif %}
 
-
+<!--                      ALUMN                   -->
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -232,7 +240,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 <div class="col-sm-6 clearfix">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
-  <i>Duration: {{ member.duration }} <br> Role: {{ member.info }} <br> Now at: {{ member.info2 }}</i>
+  <b>Date </b>: {{ member.date }} <br> <b>Role </b>: {{ member.info }}  <br> <b>Research </b>: {{ member.info2 }}   <br> <b> Now at </b> : {{ member.info3 }} 
   <ul style="overflow: hidden">
 
   </ul>

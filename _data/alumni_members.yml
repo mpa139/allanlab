@@ -50,7 +50,7 @@
 
 
 - name: Dr. Chris Van Houtte
-  duration: 1 year
+  date: 2016-2017
   number_info: 1
   info: Postdoc
   email: 
@@ -71,6 +71,8 @@
 
 
 - name: Albert Aguilar
-  number_info: 2
+  date: 2018
+  number_info: 3
   info: Summer undergraduate research
-  info2: PhD student at Stanford
+  info2: Earthquake detection in Costa Rica
+  info3: PhD student at Stanford
