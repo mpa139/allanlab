@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Tim Clements
-  photo: rock.jpg
+  photo: clements_pic.jpg
   email: thclements@g.harvard.edu
   number_educ: 0
   number_info: 4
@@ -19,7 +19,7 @@
   info4: https://github.com/tclements
 
 - name: Jiuxun Yin
-  photo: rock.jpg
+  photo: Yinn_pic.jpg
   email: jiuxun_yin@g.harvard.edu
   number_educ: 0
   number_info: 4
@@ -44,7 +44,7 @@
   number_info: 4
   info: PhD candidate at Harvard
   info2: Wavefield simulation, machine learning, laboratory experiments
-  info3: https://yinjiuxun.github.io/
+  info3: hhttps://sites.google.com/view/congcongyuan/home?authuser=0
   info4: https://github.com/yinjiuxun
   number_educ: 0
 
