@@ -11,9 +11,9 @@ permalink: /group/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[undergraduate students](#undergraduate), ,  [alumni](#alumni).
+Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[undergraduate students](#undergraduate),  [alumni](#alumni).
 
-<!-- ## Staff -->
+<!-- ## Staff ------------------------------->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -29,7 +29,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  <!-- <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -49,7 +49,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
@@ -57,7 +57,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endif %} -->
 
   </ul>
 </div>
@@ -75,7 +75,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 </div>
 {% endif %}
 
-
+<!-- ------------- POSTDOC ----------- -->
 ## Postdocs
 
 {% assign number_printed = 0 %}
@@ -90,10 +90,10 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> 
   <h4>{{ member.name }}</h4>
-  {{ member.info }}  <br><b>email </b>: <{{ member.email }}>  <br><b> PhD and Institution </b>: {{ member.info }} <br> <b> Postdoc Research </b>: {{ member.info2 }} <br> <b> Webpage </b>: {{ member.info3 }} <br> <b>Github </b>: {{ member.info4 }}  
+  {{ member.info }}  <br><b>email </b>: <{{ member.email }}>  <br><b> PhD </b>: {{ member.education }} <br> <b> Postdoc Research </b>: {{ member.info2 }} <br> <b> Webpage </b>: {{ member.info3 }} <br> <b>Github </b>: {{ member.info4 }}  
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -120,7 +120,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
-  {% endif %}
+  {% endif %}  -->
 
 
   <!-- {% if member.number_info== 4 %}
