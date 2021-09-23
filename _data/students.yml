@@ -49,11 +49,11 @@
   number_educ: 0
 
 - name: Yiyu Ni
-  photo: rock.jpg
+  photo: niyiyu.jpeg
   email: niyiyu@uw.edu
   number_info: 4
-  info: PhD at University of Washington
-  info2: Machine Learning, Cloud computing
-  info3:  
-  info4:  
+  info: PhD student at University of Washington
+  info2: High-performance Seismology, Machine Learning
+  info3: https://students.washington.edu/niyiyu/
+  info4: https://github.com/niyiyu
   number_educ: 0
