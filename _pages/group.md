@@ -26,7 +26,8 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }} <b>email: <{{ member.email }}></b>
+   {{ member.info }}  <br><b>email </b>: <{{ member.email }}>  <br><b> PhD </b>: {{ member.education1 }}  
+ 
   <ul style="overflow: hidden">
 
  {% if member.number_educ == 1 %}
