@@ -40,39 +40,120 @@
     url: https://www.dropbox.com/s/fg2kbhrelyjntlk/ClementsDenolle2021.pdf?dl=0
     display: 2021, Seism. Res. Letters, 92(1), pp 517–527, doi:10.1785/0220200192
     
+- title: "SeisIO: a fast, efficient geophysical data architecture for the Julia language"
+  authors: Jones, J. P. , Okubo, K.(*), Clements, T.(*), Denolle, M. A.
+  link:
+   url: https://www.dropbox.com/s/500z4knia47ex3i/Jones_etal2020.pdf?dl=0
+   display: 2020, Seism. Res. Letters, 92(1), 517–527, doi:10.1785/0220190295 
 
-# \item  Jones, J. P. , Okubo, K.(*), Clements, T.(*), {\bf Denolle, M. A.}, 2020, SeisIO: a fast, efficient geophysical data architecture for the Julia language, \textit{Seism. Res. Letters}, 92(1), 517–527, doi: 10.1785/0220190295 \href{https://www.dropbox.com/s/500z4knia47ex3i/Jones_etal2020.pdf?dl=0}{\bf \color{MyGreen} PDF}
-# \item  Jiang, C.(*),  {\bf Denolle, M. A.}, 2020, NoisePy: a high-performance tool in python for ambient noise seismology,  \textit{Seism. Res. Letters}, 91, pp: 1853–1866, doi: 10.1785/0220190364. \href{https://www.dropbox.com/s/lnitjd7wzgu17h1/JiangDenolle20.pdf?dl=0}{\bf \color{MyGreen}PDF}
-# \item  Clayton, R. W., P. Persaud, {\bf M. Denolle}, and J. Polet, 2019, Exposing Los Angeles’s shaky geologic underbelly, \textit{ Eos}, 100, doi: 10.1029/2019EO135099.
-# \item  Danr\'{e}, P. (*), Yin J., Lipovsky B.,  {\bf Denolle, M.}, Earthquakes Within Earthquakes: Patterns in Rupture Complexity, 2019, \textit{ Geophys. Res. Lett.}, 43(13), pp 7352-7360, doi: 10.1029/2019GL083093  \href{https://www.dropbox.com/s/kgyx2sgyha7hk68/Danre_etal2019.pdf?dl=0}{\bf \color{MyGreen} PDF}
-# \item  Viens, L. (*),  {\bf Denolle, M.}, Long-period ground motions from past and virtual megathrust earthquakes along the Nankai Trough, Japan, 2019,  {\it Bull. Seismol. Soc. Am.}, 109(4), pp 1312-1330, doi: 
-# 10.1785/0120180320 \href{https://www.dropbox.com/s/klt9d2kmd7j5cfz/ViensDenolle19.pdf?dl=0}{\bf \color{MyGreen} PDF}
-# \item  {\bf Denolle, M.}, Energetic Onset of Earthquakes, 2019, {\it Geophys. Res. Lett.}, 46(5), pp 2458-2466, doi: 10.1029/2018GL080687 \href{https://www.dropbox.com/s/yof3w4ptavirl27/Denolle19.pdf?dl=0}{\bf \color{MyGreen}PDF}
-# \item  Yin J. (*), {\bf Denolle, M.}, Relating teleseismic backprojection images to earthquake kinematics,  2019, {\it Geophys. J. Int.}, 217(2), pp 729–747, doi: 10.1093/gji/ggz048 \href{https://www.dropbox.com/s/v7jbeqndv5wp2bv/Yin_Denolle19.pdf?dl=0}{\bf \color{MyGreen}PDF}
-# \item   Wang, Y., {\bf Denolle, M.}, S. M. Day , Geometric Controls on Pulse-like Rupture in a Dynamic Model of the 2015 Gorkha Earthquake, 2019, {\it J. Geophys. Res.}, 124(2), pp 1544-1568, doi: 10.1029/2018JB016602 \href{https://www.dropbox.com/s/hftz64y57l7am4p/Wang_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf?dl=0}{\bf \color{MyGreen}PDF} 
-# % \\
-# % {\bf\color{MyRed} 2018 } 
-# % \\
-# \item  Clements (*), T., {\bf Denolle, M.}, Tracking ground water using the ambient seismic field, 2018, {\it Geophys. Res. Lett.}, 123(4), pp 2923-294, doi: 10.1029/2018GL077706  \href{https://www.dropbox.com/s/yjlqsr3bl77elhu/Clements_et_al-2018-Geophysical_Research_Letters.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# \item {\bf Denolle, M.}, P. Bou\'{e}, N. Hirata, S. Nakagawa, G. C. Beroza, Strong Shaking Expected in Tokyo from an Expected M7+ Itoigawa-Shizuoka Earthquake, 2018, {\it J. Geophys. Res.}, 123(5), pp 3968-3992, doi: 10.1029/2017JB015184 \href{https://www.dropbox.com/s/oy9yh6me2etszos/Denolle_et_al-2018-Journal_of_Geophysical_Research.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# \item  Van Houtte, C. (*), {\bf M. Denolle}, Improved model fitting for the empirical Green's function approach using hierarchical models, 2018, {\it J. Geophys. Res.} 123(4), pp 2923-2942, doi: 10.1002/2017JB014943 \href{https://www.dropbox.com/s/mgujgczpwfwj8vc/Houtte_et_al-2018-Journal_of_Geophysical_Research_Solid_Earth.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# \item   Viens, L. (*), {\bf M. Denolle}, S. Nakagawa, N. Hirata, Complex Near‐Surface Rheology Inferred From the Response of Greater Tokyo to Strong Ground Motions, 2018, {\it J. Geophys. Res.} 123(7), pp 5710-5729, doi: 10.1029/2018JB015697 \href{https://www.dropbox.com/s/1w9httdq7unk0jt/Viens_et_al-2018-Journal_of_Geophysical_Research__Solid_Earth.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# \item  Yin, J. (*),  {\bf M. Denolle},  Yao, H., Spatial and Temporal Evolution of Earthquake Dynamics: Case Study of the Mw 8.3 Illapel Earthquake, Chile , 2018, {\it J. Geophys. Res.} 123(1), pp 344-367, doi: 10.1002/2017JB014265 \href{https://www.dropbox.com/s/6q92i47lluvphn1/Yin_et_al-2018-Journal_of_Geophysical_Research__Solid_Earth.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# \item  P\'{e}rol, T. (*),  {\bf M. Denolle}, Gharbi, M., Convolutional Neural Network for Earthquake Detection and Location,  {\it Sciences Advances} 4(2), pp e1700578, doi: 10.1126/sciadv.1700578 \href{https://www.dropbox.com/s/1axtcj0t83el20m/Perol18.pdf?dl=0}{\bf\color{MyGreen}PDF}\\
-# % \\
-# % {\bf\color{MyRed} 2017 } 
-# % \\
-# \item   Sheng, Y.,  {\bf M. Denolle}, G. C. Beroza, Multi-Component C3 Green's Functions for Improved Long-Period Ground Motion Prediction, 2017, {\it Bull. Seismol. Soc. Am.}, 107(6), pp 2836-2845, 
-# doi: 10.1785/0120170053 \href{https://www.dropbox.com/s/8ykodvcun8ga82d/Sheng_etal17.pdf?dl=0}{\bf\color{MyGreen}PDF} 
-# \item  Viens, L. (*),  {\bf M. Denolle}, Miyake, H., Sakai, S., and Nakagawa, S., Retrieving impulse response function amplitudes from the ambient seismic field, 2017, {\it Geophys. J. Int.}, 210(1), pp 210-222, doi: 10.1093/gji/ggx155 \href{https://www.dropbox.com/s/9or7rjdztqjodwl/Viens_etal2017.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# % \\
-# % {\bf \color{MyRed}2016} 
-# % \\
-# \item  Bou\'{e}, P.,  {\bf M. Denolle}, N. Hirata, S. Nakagawa, G. C. Beroza, Beyond Basin Resonance: Characterizing Wave Propagation Using a Dense Array and the Ambient Seismic Field, 2016, {\it Geophys. J. Int.}, 206(2) pp 1261-1272, doi: 10.1093/gji/ggw205 \href{https://www.dropbox.com/s/e1p0o0h6eknjv0r/Boue_etal_2016.pdf?dl=0}{\bf\color{MyGreen}PDF}
-# \item  {\bf Denolle, M.}, and P. M. Shearer, New perspective on self-similarity of shallow thrust earthquakes, 2016, {\it J. Geophys. Res.}, 121(9), pp 6533-6565, doi: 10.1002/2016JB013105 \href{https://www.dropbox.com/s/9jztlrow4h9ai03/Denolle_Shearer_2016.pdf?dl=0}{\bf\color{MyGreen}PDF}\\
-# % \\
-# % {\bf\color{MyRed} 2010-2015} 
-# % \\\
+- title:"NoisePy: a high-performance tool in python for ambient noise seismology"
+  authors: Jiang, C.(*),  Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/lnitjd7wzgu17h1/JiangDenolle20.pdf?dl=0
+    display: 2020, Seism. Res. Letters, 91, pp 1853–1866, doi:10.1785/0220190364
+
+
+- title: "Exposing Los Angeles’s shaky geologic underbelly"
+  authors: Clayton, R. W., P. Persaud, M. Denolle, and J. Polet
+  link:
+    url: https://eos.org/science-updates/exposing-los-angeless-shaky-geologic-underbelly
+    display: 2019, Eos, 100, doi:10.1029/2019EO135099
+
+- title: "Earthquakes Within Earthquakes: Patterns in Rupture Complexity"
+  authors:  Danre, P. (*), Yin J., Lipovsky B.,  Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/kgyx2sgyha7hk68/Danre_etal2019.pdf?dl=0
+    display: 2019, Geophys. Res. Lett., 43(13), pp 7352-7360, doi:10.1029/2019GL083093 
+
+- title: "Long-period ground motions from past and virtual megathrust earthquakes along the Nankai Trough, Japan"
+  authors:  Viens, L. (*),  Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/klt9d2kmd7j5cfz/ViensDenolle19.pdf?dl=0
+    display: 2019, Bull. Seismol. Soc. Am., 109(4), pp 1312-1330, doi:10.1785/0120180320
+
+- title: "Energetic Onset of Earthquakes"
+  authors: Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/yof3w4ptavirl27/Denolle19.pdf?dl=0
+    display: 2019, Geophys. Res. Lett., 46(5), pp 2458-2466, doi:10.1029/2018GL080687
+
+- title: "Relating teleseismic backprojection images to earthquake kinematics"
+  authors: Yin J. (*), Denolle, M.
+  link:
+    url: https://www.dropbox.com/s/v7jbeqndv5wp2bv/Yin_Denolle19.pdf?dl=0
+    display:  2019, Geophys. J. Int., 217(2), pp 729–747, doi:10.1093/gji/ggz048
+
+- title: "Geometric Controls on Pulse-like Rupture in a Dynamic Model of the 2015 Gorkha Earthquake"
+  authors: Wang, Y.,  Denolle, M. , S. M. Day
+  link:
+    url: https://www.dropbox.com/s/hftz64y57l7am4p/Wang_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf?dl=0
+    display: 2019, J. Geophys. Res., 124(2), pp 1544-1568, doi:10.1029/2018JB016602 
+
+- title: "Tracking ground water using the ambient seismic field"
+  authors: Clements (*), T., Denolle, M.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077706
+    display: 2018, Geophys. Res. Lett., 123(4), pp 2923-294, doi:10.1029/2018GL077706
+
+- title: "Strong Shaking Expected in Tokyo from an Expected M7+ Itoigawa-Shizuoka Earthquake"
+  authors: Denolle, M., P. Boue, N. Hirata, S. Nakagawa, G. C. Beroza
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JB015184
+    display:  2018, J. Geophys. Res.}, 123(5), pp 3968-3992, doi:10.1029/2017JB015184
+
+- title: "Improved model fitting for the empirical Green's function approach using hierarchical models"
+  authors: Van Houtte, C. (*), Denolle M.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JB014943
+    display:  2018, J. Geophys. Res. 123(4), pp 2923-2942, doi:10.1002/2017JB014943 
+
+- title: "Complex Near‐Surface Rheology Inferred From the Response of Greater Tokyo to Strong Ground Motions"
+  authors: Viens, L. (*), M. Denolle, S. Nakagawa, N. Hirata
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB015697
+    display: 2018, J. Geophys. Res. 123(7), pp 5710-5729, doi:10.1029/2018JB015697
+
+- title: "Spatial and Temporal Evolution of Earthquake Dynamics: Case Study of the Mw 8.3 Illapel Earthquake, Chile"
+  authors: Yin, J. (*), Denolle, M.,  Yao, H.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JB014265
+    display:  2018, J. Geophys. Res., 123(1), pp 344-367, doi:10.1002/2017JB014265
+
+- title: "Convolutional Neural Network for Earthquake Detection and Location"
+  authors: Perol, T. (*),  M. Denolle}, Gharbi, M.
+  link:
+    url: https://www.science.org/doi/10.1126/sciadv.1700578
+    display: 2018, Sciences Advances, 4(2), pp e1700578, doi:10.1126/sciadv.1700578 
+
+
+- title: "Multi-Component C3 Green's Functions for Improved Long-Period Ground Motion Prediction"
+  authors: Sheng, Y., M. Denolle, G. C. Beroza
+  link:
+    url: https://www.dropbox.com/s/8ykodvcun8ga82d/Sheng_etal17.pdf?dl=0
+    display: 2017, Bull. Seismol. Soc. Am., 107(6), pp 2836-2845, doi:10.1785/0120170053 
+
+
+- title: "Retrieving impulse response function amplitudes from the ambient seismic field"
+  authors:  Viens, L. (*),  M. Denolle, Miyake, H., Sakai, S., and Nakagawa, S.
+  link:
+    url: https://www.dropbox.com/s/9or7rjdztqjodwl/Viens_etal2017.pdf?dl=0
+    display: 2017, Geophys. J. Int., 210(1), pp 210-222, doi:10.1093/gji/ggx155 
+
+
+- title: "Beyond Basin Resonance: Characterizing Wave Propagation Using a Dense Array and the Ambient Seismic Field"
+  authors:  Boue, P., M. Denolle, N. Hirata, S. Nakagawa, G. C. Beroza
+  link:
+    url: https://www.dropbox.com/s/e1p0o0h6eknjv0r/Boue_etal_2016.pdf?dl=0
+    display: 2016, Geophys. J. Int., 206(2) pp 1261-1272, doi:10.1093/gji/ggw205
+
+- title: "New perspective on self-similarity of shallow thrust earthquakes"
+  authors: Denolle, M., and P. M. Shearer
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JB013105
+    display: 2016, J. Geophys. Res., 121(9), pp 6533-6565,doi:10.1002/2016JB013105
+
+
+
 # \item  {\bf Denolle, M.}, W. Fan, and P. M. Shearer, Dynamics of the M7.8 2015 Nepal Earthquake, 2015, {\it Geophys. Res. Lett.}, 42(18), pp 7467-7475, doi: 10.1002/2015GL065336 \href{https://www.dropbox.com/s/nnv0ytevc8n5yvc/Denolle_et_al-2015-Geophysical_Research_Letters.pdf?dl=0}{\bf\color{MyGreen}PDF}
 # \item   Lee, E-J, P. Chen, T. H. Jordan, P. B. Maechling, {\bf M. Denolle}, G. C. Beroza, Full 3D Tomography (F3DT) for Crustal Structure in Southern California Based on the Scattering-Integral (SI) and the Adjoint-Wavefield (AW) Methods, 2014, {\it J. Geophys. Res.}, 119(8), pp 6421-6451, doi: 10.1002/2014JB011236 \href{https://www.dropbox.com/s/9gd7ljl1rtg5gxv/Lee_et_al-2014-Journal_of_Geophysical_Research__Solid_Earth.pdf?dl=0}{\bf\color{MyGreen}PDF}
 # \item  {\bf Denolle, M.}, H. Miyake, S. Nakagawa, N. Hirata, G. C. Beroza, Long-period seismic amplification in the Kanto Basin from the ambient seismic field, 2014, {\it Geophys. Res. Lett.}, 41(18), pp 7467-7475, doi: 10.1002/2014/GL059425 \href{https://www.dropbox.com/s/kr6r7qkyp84tkac/Denolle_etal14b.pdf?dl=0}{\bf\color{MyGreen}PDF}
