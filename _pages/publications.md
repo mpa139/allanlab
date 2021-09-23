@@ -9,9 +9,10 @@ permalink: /publications/
 
 # Publications
 ---
-## Group highlights
+<!-- ## Group highlights -->
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=GR8BOxsAAAAJ&hl=en)
+For a full list of publications and links see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=GR8BOxsAAAAJ&hl=en)
+Students and postdoc in the lab are highlighted with (*)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
