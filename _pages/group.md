@@ -297,7 +297,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 ## Affiliated Graduate students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.othergrad %}
+{% for member in site.data.othergrads %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
