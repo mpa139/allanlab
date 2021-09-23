@@ -39,12 +39,12 @@
   number_educ: 0
 
 - name: Congcong Yuan
-  photo: rock.jpg
+  photo: CongcongYuan.jpg
   email: cyuan@g.harvard.edu
   number_info: 4
   info: PhD candidate at Harvard
   info2: Wavefield simulation, machine learning, laboratory experiments
-  info3: [Personal homepage](https://www.notion.so/congcongyuan/Congcong-Yuan-ec3bd07b959c42978e6e90d41b4f75b9)
+  info3: https://www.notion.so/congcongyuan/Congcong-Yuan-ec3bd07b959c42978e6e90d41b4f75b9
   info4: https://github.com/congcy
   number_educ: 0
 
