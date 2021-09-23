@@ -1,76 +1,89 @@
 - name: Dr. Kurama Okubo
   photo: 
-  duration: 2 years
-  number_info: 2
+  date: 2019-2020 (18 months)
+  number_info: 3
   info: Postdoc
-  info2: Now researcher at NIED
+  info2: Ambient noise monitoring of Parkfield, Julia in seismology, computational seismology 
+  info3: Now researcher at NIED
   email: 
   number_educ: 1
   education1: Doctorat from ENS-IPGP, Paris
 
 - name: Dr. Loic Viens
   photo: 
-  duration: 2 years
-  number_info: 2
+  date: 2016-2018 ( 18 months)
+  number_info: 3
   info: Postdoc
-  info2: Now researcher at University of Michican
+  info2: ambient noise monitoring, tomography, earthquake damage, virtual earthquakes of offshore subduction-zone earthquakes
+  info3: Now researcher at University of Michican
   email: 
   number_educ: 1
   education1: Doctorat from ENS-IPGP, Paris
+
 - name: Dr. Xiaotao Yang
   photo: 
-  duration: 1 year
+  date: 2019-2020 (1 year)
   number_info: 2
   info: Postdoc
-  info2: Now faculty at Purdue 
+  info2: Ambient noise cross correlation of Cascadia data
+  info3: Now faculty at Purdue 
   email: 
   number_educ: 1
   education1: PhD at Indiana University
 
 - name: Dr. Zhitu Ma
   photo: 
-  duration: 5 months
-  number_info: 2
+  date: 2019 (5 months)
+  number_info: 3
   info: Postdoc
-  info2: Now researcher at Tongi University (China)
-  email: 
+  info2: Julia seismology, offshore ambient noise cross correlations
+  info3: Now at Tongi University (China)
   number_educ: 1
   education1: PhD from Scripps Institution of Oceanography, UC San Diego
 
 
 - name: Dr. Chengxin Jiang
   photo: 
-  duration: 2 year
-  number_info: 2
+  date: 2018-2019 (2 years)
+  number_info: 3
   info: Postdoc
-  info2: Now researcher at Australian National University
+  info2: Ambient noise tomography, computational seismology, sedimentary basin imaging
+  info3: Now researcher at Australian National University
   email: 
   number_educ: 1
   education1: PhD at  Macquarie University, Sydney, Australia
 
 
 - name: Dr. Chris Van Houtte
-  duration: 1 year
-  number_info: 1
+  date: 2016-2017 (1 year)
+  number_info: 3
   info: Postdoc
+  info2: Bayesian inference of earthquake source parameters
+  info3:  
   email: 
   number_educ: 1
   education1: PhD from Auckland University
 
 
 - name: Leore Lavin
-  number_info: 2
+  date: 2016-2017 (18 months)
+  number_info: 3
   info: Senior undergraduate research
-  info2: Med School
+  info2: Virtual Earthquakes on the San Jacinto Fault
+  info3: Med School
 
 
 - name: Jared Bryan
-  number_info: 2
+  date: 2019 (2+ months)
+  number_info: 3
   info: Summer undergraduate research
-  info2: PhD student at MIT
+  info2: Ambient noise monitoring in Parkfield, CA
+  info3: PhD student at MIT
 
 
 - name: Albert Aguilar
-  number_info: 2
+  date: 2018 (2 months)
+  number_info: 3
   info: Summer undergraduate research
-  info2: PhD student at Stanford
+  info2: Earthquake detection in Costa Rica
+  info3: PhD student at Stanford
