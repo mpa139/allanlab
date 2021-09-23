@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Tim Clements
-  photo: rock.jpg
+  photo: clements_pic.jpeg
   email: thclements@g.harvard.edu
   number_educ: 0
   number_info: 4
@@ -19,7 +19,7 @@
   info4: https://github.com/tclements
 
 - name: Jiuxun Yin
-  photo: rock.jpg
+  photo: Yinn_pic.jpg
   email: jiuxun_yin@g.harvard.edu
   number_educ: 0
   number_info: 4
@@ -29,7 +29,7 @@
   info4: https://github.com/yinjiuxun
 
 - name: Seth Olinger
-  photo: rock.jpg
+  photo: olinger_pic.jpg
   email: setholinger@g.harvard.edu
   number_info: 4
   info: PhD candidate at Harvard
@@ -49,11 +49,11 @@
   number_educ: 0
 
 - name: Yiyu Ni
-  photo: rock.jpg
+  photo: niyiyu.jpeg
   email: niyiyu@uw.edu
   number_info: 4
-  info: PhD at University of Washington
-  info2: Machine Learning, Cloud computing
-  info3: https://yinjiuxun.github.io/
-  info4: https://github.com/yinjiuxun
+  info: PhD student at University of Washington
+  info2: High-performance Seismology, Machine Learning
+  info3: https://students.washington.edu/niyiyu/
+  info4: https://github.com/niyiyu
   number_educ: 0

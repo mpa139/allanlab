@@ -1,10 +1,205 @@
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
-  highlight: 0
-  news2:
 
+
+- title: "Imaging the Kanto Basin bedrock with earthquake and noise autocorrelation functions, In review in Geophys. Res. Lett."
+  authors: Viens, L., Jiang, C., Denolle, M. A.
+  link: 
+    url: https://www.dropbox.com/s/lkfnm447z05xvi1/ViensJiangDenolle2021.pdf?dl=0
+    display: Viens et al, 2021
+
+- title: "The Earth's Surface Controls the Depth‐Dependent Seismic Radiation of Megathrust Earthquakes, 2021, doi:10.1029/2021AV000413"
+  authors: Yin, J.(*), Denolle, M. A.
+  link:
+   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021AV000413
+   display: Yin and Denolle (2021)
+
+- title: "Comparing approaches to measuring seismic phase variations in the time, frequency, and wavelet domains, 2021, Geophys. J. International, doi:10.1093/gji/ggab140,  vol 226(2),pp 828–846"
+  authors: Yuan, C.(*), Bryan J.(*), Denolle, M. A.
+  link:
+   url: https://www.dropbox.com/s/7xehk0zapx5ahxc/YuanBryanDenolle2021.pdf?dl=0
+   display:  Yuan et al, 2021
+
+
+- title: "Source time function clustering reveals patterns in earthquake dynamics, 2021, Seismological Research Letters, 92(4), pp:2343–2353, 10.1785/0220200403"
+  authors:  Yin, J.(*), Li, Z., Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/rl4wwffwblh5s8b/YinLiDenolle2021.pdf?dl=0
+    display: Yin et al, 2021
+
+- title: "SeisNoise.jl:Ambient Seismic Noise Cross-Correlation on the CPU and GPU in Julia, 2021, Seism. Res. Letters, 92(1), pp 517–527, doi:10.1785/0220200192"
+  authors: Clements, T.(*), Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/fg2kbhrelyjntlk/ClementsDenolle2021.pdf?dl=0
+    display: Clements and Denolle (2021)
+    
+- title: "SeisIO: a fast, efficient geophysical data architecture for the Julia language, 2020, Seism. Res. Letters, 92(1), 517–527, doi:10.1785/0220190295 "
+  authors: Jones, J. P. , Okubo, K.(*), Clements, T.(*), Denolle, M. A.
+  link:
+   url: https://www.dropbox.com/s/500z4knia47ex3i/Jones_etal2020.pdf?dl=0
+   display: Jones et al, 2021
+
+- title: "NoisePy:a high-performance tool in python for ambient noise seismology, 2020, Seism. Res. Letters, 91, pp 1853–1866, doi:10.1785/0220190364"
+  authors: Jiang, C.(*),  Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/lnitjd7wzgu17h1/JiangDenolle20.pdf?dl=0
+    display: Jiang and Denolle, 2021
+
+
+- title: "Exposing Los Angeles’s shaky geologic underbelly,  2019, Eos, 100, doi:10.1029/2019EO135099"
+  authors: Clayton, R. W., P. Persaud, M. Denolle, and J. Polet
+  link:
+    url: https://eos.org/science-updates/exposing-los-angeless-shaky-geologic-underbelly
+    display: Clayton et al. (2019)
+
+- title: "Earthquakes Within Earthquakes: Patterns in Rupture Complexity, 2019, Geophys. Res. Lett., 43(13), pp 7352-7360, doi:10.1029/2019GL083093 "
+  authors:  Danre, P. (*), Yin J., Lipovsky B.,  Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/kgyx2sgyha7hk68/Danre_etal2019.pdf?dl=0
+    display: Danre et al (2019)
+
+- title: "Long-period ground motions from past and virtual megathrust earthquakes along the Nankai Trough, Japan, 2019, Bull. Seismol. Soc. Am., 109(4), pp 1312-1330, doi:10.1785/0120180320"
+  authors:  Viens, L. (*),  Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/klt9d2kmd7j5cfz/ViensDenolle19.pdf?dl=0
+    display: Viens and Denolle (2019)
+
+- title: "Energetic Onset of Earthquakes, 2019, Geophys. Res. Lett., 46(5), pp 2458-2466, doi:10.1029/2018GL080687"
+  authors: Denolle, M. A.
+  link:
+    url: https://www.dropbox.com/s/yof3w4ptavirl27/Denolle19.pdf?dl=0
+    display: Denolle (2019) 
+
+- title: "Relating teleseismic backprojection images to earthquake kinematics, 2019, Geophys. J. Int., 217(2), pp 729–747, doi:10.1093/gji/ggz048"
+  authors: Yin J. (*), Denolle, M.
+  link:
+    url: https://www.dropbox.com/s/v7jbeqndv5wp2bv/Yin_Denolle19.pdf?dl=0
+    display:  Yin and Denolle (2019)
+
+- title: "Geometric Controls on Pulse-like Rupture in a Dynamic Model of the 2015 Gorkha Earthquake, 2019, J. Geophys. Res., 124(2), pp 1544-1568, doi:10.1029/2018JB016602 "
+  authors: Wang, Y.,  Denolle, M. , S. M. Day
+  link:
+    url: https://www.dropbox.com/s/hftz64y57l7am4p/Wang_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf?dl=0
+    display: Wang et al (2019)
+
+- title: "Tracking ground water using the ambient seismic field, 2018, Geophys. Res. Lett., 123(4), pp 2923-294, doi:10.1029/2018GL077706"
+  authors: Clements (*), T., Denolle, M.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077706
+    display: Clements and Denolle (2018)
+
+- title: "Strong Shaking Expected in Tokyo from an Expected M7+ Itoigawa-Shizuoka Earthquake,  2018, J. Geophys. Res.}, 123(5), pp 3968-3992, doi:10.1029/2017JB015184"
+  authors: Denolle, M., P. Boue, N. Hirata, S. Nakagawa, G. C. Beroza
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JB015184
+    display: Denolle et al. (2018)
+
+- title: "Improved model fitting for the empirical Green's function approach using hierarchical models, 2018, J. Geophys. Res. 123(4), pp 2923-2942, doi:10.1002/2017JB014943 "
+  authors: Van Houtte, C. (*), Denolle M.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JB014943
+    display:  Van Houtte and Denolle (2018)
+
+- title: "Complex Near‐Surface Rheology Inferred From the Response of Greater Tokyo to Strong Ground Motions, 2018, J. Geophys. Res. 123(7), pp 5710-5729, doi:10.1029/2018JB015697"
+  authors: Viens, L. (*), M. Denolle, S. Nakagawa, N. Hirata
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB015697
+    display: Viens et al. (2018)
+
+- title: "Spatial and Temporal Evolution of Earthquake Dynamics: Case Study of the Mw 8.3 Illapel Earthquake, Chile,  2018, J. Geophys. Res., 123(1), pp 344-367, doi:10.1002/2017JB014265"
+  authors: Yin, J. (*), Denolle, M.,  Yao, H.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JB014265
+    display: Yin et al. (2018)
+
+- title: "Convolutional Neural Network for Earthquake Detection and Location,  2018, Sciences Advances, 4(2), pp e1700578, doi:10.1126/sciadv.1700578 "
+  authors: Perol, T. (*),  M. Denolle}, Gharbi, M.
+  link:
+    url: https://www.science.org/doi/10.1126/sciadv.1700578
+    display: Perol et al. (2018)
+
+
+- title: "Multi-Component C3 Green's Functions for Improved Long-Period Ground Motion Prediction, 2017, Bull. Seismol. Soc. Am., 107(6), pp 2836-2845, doi:10.1785/0120170053"
+  authors: Sheng, Y., M. Denolle, G. C. Beroza
+  link:
+    url: https://www.dropbox.com/s/8ykodvcun8ga82d/Sheng_etal17.pdf?dl=0
+    display:  Sheng et al. (2017)
+
+
+- title: "Retrieving impulse response function amplitudes from the ambient seismic field, 2017, Geophys. J. Int., 210(1), pp 210-222, doi:10.1093/gji/ggx155 "
+  authors:  Viens, L. (*),  M. Denolle, Miyake, H., Sakai, S., and Nakagawa, S.
+  link:
+    url: https://www.dropbox.com/s/9or7rjdztqjodwl/Viens_etal2017.pdf?dl=0
+    display: Viens et al. (2017)
+
+
+- title: "Beyond Basin Resonance: Characterizing Wave Propagation Using a Dense Array and the Ambient Seismic Field, 2016, Geophys. J. Int., 206(2) pp 1261-1272, doi:10.1093/gji/ggw205"
+  authors:  Boue, P., M. Denolle, N. Hirata, S. Nakagawa, G. C. Beroza
+  link:
+    url: https://www.dropbox.com/s/e1p0o0h6eknjv0r/Boue_etal_2016.pdf?dl=0
+    display: Boue et al. (2016)
+
+- title: "New perspective on self-similarity of shallow thrust earthquakes,  2016, J. Geophys. Res., 121(9), pp 6533-6565,doi:10.1002/2016JB013105"
+  authors: Denolle, M., and P. M. Shearer
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JB013105
+    display: Denolle and Shearer (2016)
+
+- title: "Dynamics of the M7.8 2015 Nepal Earthquake,  2015, Geophys. Res. Lett., 42(18), pp 7467-7475, doi:10.1002/2015GL065336 "
+  authors: Denolle, M., W. Fan, and P. M. Shearer
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL065336
+    display: Denolle et "Exposing Los Angeles’s shaky geologic underbelly,  2019, Eos, 100, doi:10.1029/2019EO135099"
+
+
+- title: " Full 3D Tomography (F3DT) for Crustal Structure in Southern California Based on the Scattering-Integral (SI) and the Adjoint-Wavefield (AW) Methods, 2014, J. Geophys. Res., 119(8), pp 6421-6451, doi:10.1002/2014JB011236"
+  authors: Lee, E-J, P. Chen, T. H. Jordan, P. B. Maechling, M. Denolle, G. C. Beroza
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JB011346
+    display: Lee et al. (2014)
+
+- title: "Long-period seismic amplification in the Kanto Basin from the ambient seismic field, 2014, Geophys. Res. Lett., 41(18), pp 7467-7475, doi:10.1002/2014/GL059425 "
+  authors: Denolle M., H. Miyake, S. Nakagawa, N. Hirata, G. C. Beroza
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL059425
+    display: Denolle et al. (2014)
+
+
+- title: " Strong Ground Motion Prediction using Virtual Earthquakes, 2014, Science, 343(6169), pp 399-403, doi:10.1126/science.1245678"
+  authors: Denolle M., E. M. Dunham, G. A. Prieto, and G. C. Beroza
+  link:
+    url: https://www.dropbox.com/s/lwww1roegxlz56p/Denolle_etal14a.pdf?dl=0
+    display: Denolle et al. (2014)
+
+
+- title: "Ground Motion Prediction of Realistic Earthquake Sources Using the Ambient Seismic Field, 2013, J. Geophys. Res., 118(5), pp 2102-2118, doi: 10.1029/2012JB009603"
+  authors: Denolle M., E. M. Dunham, G. A. Prieto, and G. C. Beroza
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009603
+    display: Denolle et al, 2013
+
+- title: "A numeric evaluation of attenuation from ambient noise correlation functions, 2013, J. Geophys. Res., 118(12), pp 6134-6145, doi: 10.1002/2012JB009513"
+  authors: Jesse F. Lawrence, M. Denolle, K. J. Seats, and G. Prieto 
+  link:
+    url:  https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2012JB009513
+    display: Lawrence et al. (2013)
+
+
+- title: "Solving the Surface-Wave Eigenproblem with Chebyshev Spectral Collocation, 2012, Bull. Seismol. Soc. Am., 102(3), pp 1214-1223, doi: 10.1785/0120110183 "
+  authors:  Denolle, M., E. M. Dunham, and G. C. Beroza,
+  link:
+    url: https://www.dropbox.com/s/k9wa95x0y1bp7o6/Denolle_etal12.pdf?dl=0
+    display: Denolle et al. (2012)
+
+
+
+- title: "On amplitude carried by the ambient seismic field, 2011,  C. R.  Geosci., Thematic Issue: Imaging and Monitoring with Seismic Noise, 343, pp 600-614, doi: 10.1016/j.crte.2011.03.006 "
+  authors:  Prieto, G. A., M. Denolle, J. F. Lawrence, and G. C. Beroza
+  link:
+    url: https://www.dropbox.com/s/456rzrbqss5hga1/Prieto_etal2011.pdf?dl=0
+    display: Prieto et al. (2011)
+
+
+- title: "Evidence of active backthrusting at the NE Margin of Mentawai Islands, SW, Sumatra, 2010, Geophys. J. Int., 180(2), pp 703-714, doi: 10.1111/j.1365-246X.2009.04458.x"
+  authors: Singh, S., N. Hananto, A. Chauhan, H. Permana, M. Denolle, A. Hendriyana, and D. Natawidjaja
+  link:
+    url: https://www.dropbox.com/s/4mtqje27m0dvq0o/Singh10.pdf?dl=0
+    display: Singh et al. (2010)
