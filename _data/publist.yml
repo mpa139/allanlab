@@ -1,10 +1,12 @@
+
+
 - title: "Imaging the Kanto Basin bedrock with earthquake and noise autocorrelation functions"
   authors: Viens, L., Jiang, C., Denolle, M. A.
   link: 
     url: https://www.dropbox.com/s/lkfnm447z05xvi1/ViensJiangDenolle2021.pdf?dl=0
     display: In review in Geophys. Res. Lett.
 
-- title: " The Earth's Surface Controls the Depth‐Dependent Seismic Radiation of Megathrust Earthquakes"
+- title: "The Earth's Surface Controls the Depth‐Dependent Seismic Radiation of Megathrust Earthquakes"
   authors: Yin, J.(*), Denolle, M. A.
   link:
    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021AV000413
@@ -35,7 +37,7 @@
    url: https://www.dropbox.com/s/500z4knia47ex3i/Jones_etal2020.pdf?dl=0
    display: 2020, Seism. Res. Letters, 92(1), 517–527, doi:10.1785/0220190295 
 
-- title:"NoisePy: a high-performance tool in python for ambient noise seismology"
+- title: "NoisePy:a high-performance tool in python for ambient noise seismology"
   authors: Jiang, C.(*),  Denolle, M. A.
   link:
     url: https://www.dropbox.com/s/lnitjd7wzgu17h1/JiangDenolle20.pdf?dl=0
