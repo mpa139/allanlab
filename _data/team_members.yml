@@ -73,6 +73,16 @@
   education3:
   education4:
 
+- name: Maialen Ortego Larrazabal
+  photo: Maialen.png
+  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+  email: b
+  number_educ: 2
+  education1: Master Leiden University
+  education2: BSc, University of the Basque Country
+  education3:
+  education4:
+
 - name: Kees van Oosten
   photo: DSC_1032.JPG
   info: FFine mechanical engineer (also associated with the FMD)
