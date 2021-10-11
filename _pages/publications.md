@@ -54,7 +54,7 @@ Students and postdoc in the lab are highlighted with (*)
 
 
 ## Full List of publications
-
+---
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />

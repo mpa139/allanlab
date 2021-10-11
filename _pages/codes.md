@@ -13,13 +13,13 @@ Most publications come with either notebooks as attachements or github repositor
 
 
 # Codes with extensive Group Contributions
+---
+
+- **NoisePy**: [https://github.com/Denolle-Lab/NoisePy](https://github.com/Denolle-Lab/NoisePy)
 
 
-<b>NoisePy </b>: https://github.com/Denolle-Lab/NoisePy
+- **SeisNoise.jl**: [https://github.com/Denolle-Lab/SeisNoise.jl](https://github.com/Denolle-Lab/SeisNoise.jl)
 
 
-<b> SeisNoise.jl </b>
-
-
-<b> SeisIO.jl </b>
+- **SeisIO.jl**: [https://github.com/Denolle-Lab/SeisIO.jl](https://github.com/Denolle-Lab/SeisIO.jl)
 
