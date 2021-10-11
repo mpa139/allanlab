@@ -17,14 +17,14 @@
 
    
 
-- title: "Comparing approaches to measuring seismic phase variations in the time, frequency, and wavelet domains, 2021, Geophys. J. International, doi:10.1093/gji/ggab140,  vol 226(2),pp 828–846"
-  authors: Yuan, C.(*), Bryan J.(*), Denolle, M. A.
+- title: "Comparing approaches to measuring seismic phase variations in the time, frequency, and wavelet domains, 2021, Geophys. J. International, 226(2), pp 828–846, doi:10.1093/gji/ggab140"
+  authors: Yuan, C.(*), Bryan, J.(*), Denolle, M. A.
   link:
    url: https://www.dropbox.com/s/7xehk0zapx5ahxc/YuanBryanDenolle2021.pdf?dl=0
    display:  Yuan et al, 2021
 
 
-- title: "Source time function clustering reveals patterns in earthquake dynamics, 2021, Seismological Research Letters, 92(4), pp:2343–2353, 10.1785/0220200403"
+- title: "Source time function clustering reveals patterns in earthquake dynamics, 2021, Seismological Research Letters, 92(4), pp 2343–2353, doi:10.1785/0220200403"
   authors:  Yin, J.(*), Li, Z., Denolle, M. A.
   link:
     url: https://www.dropbox.com/s/rl4wwffwblh5s8b/YinLiDenolle2021.pdf?dl=0
@@ -36,7 +36,7 @@
     url: https://www.dropbox.com/s/fg2kbhrelyjntlk/ClementsDenolle2021.pdf?dl=0
     display: Clements and Denolle (2021)
     
-- title: "SeisIO: a fast, efficient geophysical data architecture for the Julia language, 2020, Seism. Res. Letters, 92(1), 517–527, doi:10.1785/0220190295 "
+- title: "SeisIO: a fast, efficient geophysical data architecture for the Julia language, 2020, Seism. Res. Letters, 91(4), pp 2368–2377, doi:10.1785/0220190295 "
   authors: Jones, J. P. , Okubo, K.(*), Clements, T.(*), Denolle, M. A.
   link:
    url: https://www.dropbox.com/s/500z4knia47ex3i/Jones_etal2020.pdf?dl=0
