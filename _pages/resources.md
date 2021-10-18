@@ -9,17 +9,17 @@ permalink: /resources/
 
 The following open source code and software packages have been developed by our lab:
 
-[MSM](https://github.com/ecr05/MSM_HOCR) - a tool for multimodal alignment of cortical surface data. This is the image registration software used by the [Human Connectome Project (HCP) pipelines](https://www.humanconnectome.org/software/hcp-mr-pipelines) and in the [HCP parcellation paper](https://www.nature.com/articles/doi%3A10.1038/nature18933)
-
 [dHCP surface to template alignment](https://github.com/ecr05/dHCP_template_alignment) - scripts to align neonatal cortical surfaces to the neonatal surface templates [available here](https://brain-development.org/brain-atlases/atlases-from-the-dhcp-project/)
 
 [Developing Human Connectome Project (dHCP) structural pipeline](https://github.com/BioMedIA/dhcp-structural-pipeline) - pipelines for neonatal cortical surface extraction
 
-[SVRTK](https://svrtk.github.io/) - Reconstruction tools for fetal MRI
+[Geometric deep learning for cortical surfaces](https://github.com/Abdulah-Fawaz/Benchmarking) - code for benchmarking a range of geometric deep learning methods on neonatal cortical surface data 
+
+[MSM](https://github.com/ecr05/MSM_HOCR) - a tool for multimodal alignment of cortical surface data. This is the image registration software used by the [Human Connectome Project (HCP) pipelines](https://www.humanconnectome.org/software/hcp-mr-pipelines) and in the [HCP parcellation paper](https://www.nature.com/articles/doi%3A10.1038/nature18933)
 
 [ST-fMRI](https://github.com/metrics-lab/ST-fMRI) - code for spatiotemporal deep learning on functional MRI data
 
-[Geometric deep learning for cortical surfaces](https://github.com/Abdulah-Fawaz/Benchmarking) - code for benchmarking a range of geometric deep learning methods on neonatal cortical surface data 
+[SVRTK](https://svrtk.github.io/) - Reconstruction tools for fetal MRI
 
 
 ## Datasets
