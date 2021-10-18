@@ -26,4 +26,10 @@ THe following open source code and software packages have been developed by our 
 
 [Left-right symmetric cortical surface atlas for dHCP](https://brain-development.org/brain-atlases/atlases-from-the-dhcp-project/cortical-surface-template/) - we extend on the work of Bozek et al. (2018) to increase the age range to 28 - 44 weeks' PMA, and enforce left-right vertex correspondence
 
-[Preprocessed data for benchmarking geometric deep learning on neonatal cortical surfaces](https://gin.g-node.org/lzjwilliams/geometric-deep-learning-benchmarking}{https://gin.g-node.org/lzjwilliams/geometric-deep-learning-benchmarking/) - sphericalised neonatal cortical surface data in native and template space, used to benchmark a range of geometric deep learning methods on surface segmentation and phenotype predictio
+[Preprocessed data for benchmarking geometric deep learning on neonatal cortical surfaces](https://gin.g-node.org/lzjwilliams/geometric-deep-learning-benchmarking}{https://gin.g-node.org/lzjwilliams/geometric-deep-learning-benchmarking/) - sphericalised neonatal cortical surface data in native and template space, used to benchmark a range of geometric deep learning methods on surface segmentation and phenotype prediction
+
+
+
+
+
+
