@@ -7,7 +7,7 @@ permalink: /resources/
 
 ## Software
 
-THe following open source code and software packages have been developed by our lab:
+The following open source code and software packages have been developed by our lab:
 
 [MSM](https://github.com/ecr05/MSM_HOCR) - a tool for multimodal alignment of cortical surface data. This is the image registration software used by the [Human Connectome Project (HCP) pipelines](https://www.humanconnectome.org/software/hcp-mr-pipelines) and in the [HCP parcellation paper](https://www.nature.com/articles/doi%3A10.1038/nature18933)
 
@@ -23,6 +23,8 @@ THe following open source code and software packages have been developed by our 
 
 
 ## Datasets
+
+Below are freely available imaging atlases and datasets we have curated as part of our research: 
 
 [Left-right symmetric cortical surface atlas for dHCP](https://brain-development.org/brain-atlases/atlases-from-the-dhcp-project/cortical-surface-template/) - we extend on the work of Bozek et al. (2018) to increase the age range to 28 - 44 weeks' PMA, and enforce left-right vertex correspondence
 
