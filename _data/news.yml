@@ -1,11 +1,5 @@
 - date: 9. Aug 2021
-  headline: "Matt has <b>three papers</b> accepted at SOSP. We should have a Matt session!" 
-
-- date: 9. Aug 2021
-  headline: "Florian's paper is accepted at SOSP as well! The paper is entitled <b> Basil: Breaking up BFT with ACID (transactions) </b>" 
-
-- date: 9. Aug 2021
-  headline: "Sowmya and Matt have their paper accepted at SOSP for their work on rethinking the RDMA interface. Congrats!!" 
+  headline: "Matt has <b>three papers</b> accepted at SOSP. We should have a Matt session! <br> Florian's paper is accepted at SOSP as well! The paper is entitled <b> Basil: Breaking up BFT with ACID (transactions) </b> <br> Sowmya and Matt have their paper accepted at SOSP for their work on rethinking the RDMA interface. Congrats!!" 
 
 - date: 14. May 2021
   headline: "Nothing like a ridiculous amount of Cornell ice cream after an SOSP push. And it is nice to finally be together! <img src='/images/pubpic/AC51B6B0-ECEF-44FE-81DC-125CB78DCD8E_1_105_c.jpeg' class='img-responsive' style='max-width: 250px' />" 
