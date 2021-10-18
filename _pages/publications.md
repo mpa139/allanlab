@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Publications"
+title: "Li Lab - Publications"
 layout: gridlay
 excerpt: "Allan Lab -- Publications."
 sitemap: false

@@ -8,16 +8,26 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Xi Liu
+  photo: liuxi.jpg
+  info: Graduate student, started Sept 2020
+  email: liuxi20@lzu.edu.cn
+  
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Na Wan
+  photo: wanna2.png
+  info: Graduate Student, started Sept 2020
+  email: wann20@lzu.edu.cn
+
+
+- name: Leyan Mao
+  photo: leyan.jpg
+  info: Graduate Student, started Sept 2021
+  email: leyan990403@gmail.com
+
+
+- name: Zhuoran Kuang
+  photo: zhuoran.jpg
+  info: Graduate Student, started Sept 2021; <a href="https://space.bilibili.com/16984776">website</a>
+  email: benschop@physics.leidenuniv.nl
+
