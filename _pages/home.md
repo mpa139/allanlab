@@ -8,6 +8,7 @@ permalink: /
 
 We are a research group at the [State Key Laboratory of Grassland Agro-ecosystem](http://sklgae.lzu.edu.cn/), [Institute of Innovation Ecology](http://iie.lzu.edu.cn/), [Lanzhou University](http://www.lzu.edu.cn/). Our aim is to explore and understand the population adaption and speciation by various methods, such as genomics, transcriptomics, epigenomics, metagenomics.
 
+本课题组（动物基因组和适应性进化研究团队）属于兰州大学草地农业生态系统国家重点实验室，生态创新研究院。主要研究内容为使用多组学手段如基因组学、转录组学、表观遗传学、宏基因组学等，解决高原物种的适应性进化和物种形成等生物学问题。
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,8 +53,11 @@ We are a research group at the [State Key Laboratory of Grassland Agro-ecosystem
 
 We are located at Lanzhou University, a beautiful city which passed through by Yellow River (see e.g. [Wikipedia: Lanzhou City](https://zh.wikipedia.org/wiki/%E5%85%B0%E5%B7%9E%E5%B8%82)). We exchange ideas and work with our neighbors from [Institute of Innovation Ecology](http://iie.lzu.edu.cn/lzupage/B20180912024139.html), as well as with the colleagues from University of Haifa, Havard University and etc.
 
+实验室位于黄河穿城而过的美丽城市——兰州市。课题组现由多名博士生，研究生以及本科生。课题组和以色列海法大学，美国哈佛大学等科研单位有广泛的合作与交流。
+
  **We are  looking for passionate new PhD students, Postdocs, Master students and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+**欢迎对进化生物学感兴趣的同学报考课题组的研究生，也欢迎来自兰州大学的本科生来实验室进行科研训练[（更多信息）]({{ site.url }}{{ site.baseurl }}/vacancies)**
 
 We are grateful for funding from Lanzhou University and [National Natural Science Foundation of China (NSFC)](http://www.nsfc.gov.cn/).
 
