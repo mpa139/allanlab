@@ -864,11 +864,11 @@
   description: We describe a family of protocols for assigning symmetric keys to processes in a network so that each process can use itsassigned keys to communicate securely with every other process. The k-th protocol in our protocol family, where 1 k logn, assigns O(k2 k n) symmetric keys to each process in the network. (Thus, our (log n)-th protocol assigns O(log2 n) symmetrickeys to each process. This is not far from the lower bound of O(log n) symmetric keys which we show is needed for each processto communicate securely with every other process in the network.) The protocols in our protocol family can be used to assignsymmetric keys to the processes in a sensor network, or ad-hoc or mobile network, where each process has a small memory tostore its assigned keys. We also discuss the vulnerability of our protocols to "collusion". In particular, we show that k ncolluding processes can compromise the security of the k-th protocol in our protocol family.
   authors: Amitanad S. Aiyer, Lorenzo Alvisi, Mohamed G. Gouda
   link:
-    url: https://www.usenix.org/legacy/event/osdi06/tech/full_papers/li/li.pdf
+    url: https://www.computer.org/csdl/proceedings-article/icnp/2006/04110290/12OmNvlg8mZ
     display: ICNP'06
   news2:
   bibid: gossip_bibtex
-  pdf: https://www.usenix.org/legacy/events/osdi06/tech/li.html
+  pdf:  http://www.cs.cornell.edu/lorenzo/papers/Aiyer07Grid.pdf
   bibtex: |+
     @inproceedings{10.1109/ICNP.2006.320211, 
     author = {Aiyer, Amitanand and Alvisi, Lorenzo and Gouda, Mohamed}, 
