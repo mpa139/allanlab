@@ -1,6 +1,6 @@
 - date: 9. Aug 2021
-  headline: "Matt has <b>three papers</b> accepted at SOSP this year. We should have a Matt session! <br> Florian's paper is accepted at SOSP as well! The paper is entitled <b> Basil: Breaking up BFT with ACID (transactions) </b> <br> Sowmya and Matt have their paper accepted at SOSP for their work on rethinking the RDMA interface. <br> <b> Huge congrats to all!! </b>" 
-
+  headline: "This has been a banner year for our group at SOSP: we contributed in different ways to three papers! It looks like we really earned all that ice cream... <br> Florian joined forces with Matt and Yunhao (not to mention Lorenzo and Natacha, now at Berkeley) to produce 'Basil: Breaking up BFT with ACID (transactions)'; <br> Sowmya and Matt were first joint authors in a collaboration with researchers at MSR that produced 'PRISM: Rethinking the RDMA Interface for Distributed Systems'; <br> and Matt (he again!) co-authored 'Regular Sequential Serializability and Regular Sequential Consistency' with friends at Princeton.
+  
 - date: 14. May 2021
   headline: "Nothing like a ridiculous amount of Cornell ice cream after an SOSP push. And it is nice to finally be together! <img src='/images/pubpic/AC51B6B0-ECEF-44FE-81DC-125CB78DCD8E_1_105_c.jpeg' class='img-responsive' style='max-width: 250px' />" 
 
@@ -17,7 +17,7 @@
   headline: "Natacha wins the  SIGOPS Dennis M. Ritchie Doctoral Dissertation Award for her dissertation <a href='https://nacrooks.github.io/bibliography/publications/thesis.pdf'> 'A Client-Centric Approach to Transactional Datastores' </a>. Awesome, Natacha!"
 
 - date: 4. November 2020
-  headline: "Yunhao wins the Jay Lepreau Best Paper Award at OSDI for his paper <a href='https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao'> 'Byzantine Ordered Consensus without Byzantine Oligarchy' </a>. Here is Yunhao giving the talk at OSDI: <a href='https://www.youtube.com/watch?v=m2wVye5FCS8'> <img src='/images/pubpic/yunhao_osdi.png' class='img-responsive' style='max-width: 250px' /> </a>"
+  headline: "Yunhao and Lorenzo win the Jay Lepreau Best Paper Award at OSDI for their paper <a href='https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao'> 'Byzantine Ordered Consensus without Byzantine Oligarchy', joint work with colleguaes at MSR </a>. Here is Yunhao giving the talk at OSDI: <a href='https://www.youtube.com/watch?v=m2wVye5FCS8'> <img src='/images/pubpic/yunhao_osdi.png' class='img-responsive' style='max-width: 250px' /> </a>"
 
 - date: 28. May 2020
   headline: "Sowmya, Florian and Yunhao win the CS department distinguished TA award for their contributions while TAing CS4410, our undergraduate OS class."
