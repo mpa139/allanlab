@@ -868,7 +868,7 @@
     display: ICNP'06
   news2:
   bibid: gossip_bibtex
-  pdf:  http://www.cs.cornell.edu/lorenzo/papers/Aiyer07Grid.pdf
+  pdf:  http://www.cs.cornell.edu/lorenzo/papers/Aiyer07Grids.pdf
   bibtex: |+
     @inproceedings{10.1109/ICNP.2006.320211, 
     author = {Aiyer, Amitanand and Alvisi, Lorenzo and Gouda, Mohamed}, 
