@@ -870,5 +870,16 @@
   bibid: gossip_bibtex
   pdf: https://www.usenix.org/legacy/events/osdi06/tech/li.html
   bibtex: |+
-  @inproceedings{10.1109/ICNP.2006.320211, author = {Aiyer, Amitanand and Alvisi, Lorenzo and Gouda, Mohamed}, title = {Key Grids: A Protocol Family for Assigning Symmetric Keys}, year = {2006}, isbn = {1424405939}, publisher = {IEEE Computer Society}, address = {USA}, url = {https://doi.org/10.1109/ICNP.2006.320211}, doi = {10.1109/ICNP.2006.320211}, abstract = {We describe a family of protocols for assigning symmetric keys to processes in a network so that each process can use itsassigned keys to communicate securely with every other process. The k-th protocol in our protocol family, where 1 k logn, assigns O(k2 k n) symmetric keys to each process in the network. (Thus, our (log n)-th protocol assigns O(log2 n) symmetrickeys to each process. This is not far from the lower bound of O(log n) symmetric keys which we show is needed for each processto communicate securely with every other process in the network.) The protocols in our protocol family can be used to assignsymmetric keys to the processes in a sensor network, or ad-hoc or mobile network, where each process has a small memory tostore its assigned keys. We also discuss the vulnerability of our protocols to "collusion". In particular, we show that k ncolluding processes can compromise the security of the k-th protocol in our protocol family.}, booktitle = {Proceedings of the Proceedings of the 2006 IEEE International Conference on Network Protocols}, pages = {178–186}, numpages = {9}, series = {ICNP '06} 
+    @inproceedings{10.1109/ICNP.2006.320211, 
+    author = {Aiyer, Amitanand and Alvisi, Lorenzo and Gouda, Mohamed}, 
+    title = {Key Grids: A Protocol Family for Assigning Symmetric Keys}, 
+    year = {2006}, 
+    isbn = {1424405939}, 
+    publisher = {IEEE Computer Society}, 
+    address = {USA}, url = {https://doi.org/10.1109/ICNP.2006.320211}, 
+    doi = {10.1109/ICNP.2006.320211}, 
+    booktitle = {Proceedings of the Proceedings of the 2006 IEEE International Conference on Network Protocols}, 
+    pages = {178–186}, 
+    numpages = {9}, 
+    series = {ICNP '06} 
     }
