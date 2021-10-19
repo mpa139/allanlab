@@ -53,7 +53,7 @@ We are a research group at the [State Key Laboratory of Grassland Agro-ecosystem
 
 We are located at Lanzhou University, a beautiful city which passed through by Yellow River (see e.g. [Wikipedia: Lanzhou City](https://zh.wikipedia.org/wiki/%E5%85%B0%E5%B7%9E%E5%B8%82)). We exchange ideas and work with our neighbors from [Institute of Innovation Ecology](http://iie.lzu.edu.cn/lzupage/B20180912024139.html), as well as with the colleagues from University of Haifa, Havard University and etc.
 
-实验室位于黄河穿城而过的美丽城市——兰州市。课题组现由多名博士生，研究生以及本科生。课题组和以色列海法大学，美国哈佛大学等科研单位有广泛的合作与交流。
+实验室位于黄河穿城而过的美丽城市——兰州市。课题组现由多名博士生，研究生以及本科生组成。课题组和以色列海法大学，美国哈佛大学等科研单位有广泛的合作与交流。
 
  **We are  looking for passionate new PhD students, Postdocs, Master students and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
