@@ -867,7 +867,7 @@
     url: https://www.computer.org/csdl/proceedings-article/icnp/2006/04110290/12OmNvlg8mZ
     display: ICNP'06
   news2:
-  bibid: gossip_bibtex
+  bibid: key_bibtex
   pdf:  http://www.cs.cornell.edu/lorenzo/papers/Aiyer07Grids.pdf
   bibtex: |+
     @inproceedings{10.1109/ICNP.2006.320211, 
