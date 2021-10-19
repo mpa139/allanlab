@@ -1,0 +1,96 @@
+I"�<h1 id="pictures">Pictures</h1>
+
+<h4 id="gallery">Gallery</h4>
+<p>(Right-click <em>‘view image’</em> to see a larger image.)</p>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0368.JPG" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/20150918_145800.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0030.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0051.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0116.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0119.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0128.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0139.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0636.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0683.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0696.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/DSC_0757.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/IMG_4334.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/IMG_4376.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/tamagochi.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/tmp2-2.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET
