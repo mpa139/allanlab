@@ -21,6 +21,8 @@ The group is highly motivated to host **undergraduate researchers**! Several spe
 ### How to apply
 If you are interested in working with us as a PhD student or postdoc, please read our group guildelines [here](https://github.com/Denolle-Lab/working_as_a_group/blob/main/onboarding.md).
 
+For PhD applications, look over the ESS webpage [here](https://www.ess.washington.edu/content/education/grad/research/admissions.php). We do not take GREs anymore, but TOEFL scores are still necessary.
+
 ### Master projects 
 I do not host Master Students.
 
