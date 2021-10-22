@@ -9,12 +9,12 @@ permalink: /vacancies/
 # Open positions
 
 ### Current open positions
-Coming soon!
+[New Associate OR Research Software Engineer in Image Registration and Machine Learning for Clinical Translation of Neuroimaging](https://www.jobs.ac.uk/job/CKC160/research-associate-or-research-software-engineer-in-image-registration-and-machine-learning-for-clinical-translation-of-neuroimaging) Role is 1) to extending MSM to explcitly account for inter-subject cortical heterogeneity during registration; 2) Build normative models sensitive to all signs of cortical pathology in individuals; using Machine Learning, discrete optimisation, normative/generative modelling
 
 
 
 ### Applications for PhD and Postdoc positions
-1. [Machine learning enabled assessment of brain development in fetuses with congenital heart disease](https://kcl-mrcdtp.com/wp-content/uploads/sites/201/2020/10/Theme-4-Project-Catalogue-2021-Entry.pdf). Click [here](https://kcl-mrcdtp.com/studentships/mrc-dtp-studentships/application-process/#) for information on how to apply!
+Coming soon!
 
 <br>
 <br>
