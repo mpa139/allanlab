@@ -294,7 +294,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 
 
 
-<!-- -------------- UNDERGRADS  ------------------->
+<!-- -------------- AFFILIATED GRADUATE STUDENTS  ------------------->
 
 ## Affiliated Graduate students
 
