@@ -2,6 +2,10 @@
   image: 1.jpg
 - title: pic1_description
   image: 2.jpg
+- title: pic1_description
+  image: 17.jpg
+- title: pic1_description
+  image: 18.jpg
 - title: pic_description
   image: 3.jpg
 - title: pic1_description
@@ -11,3 +15,22 @@
 - title: pic1_description
   image: 6.jpg
 - title: pic1_description
+  image: 7.jpg
+- title: pic1_description
+  image: 8.jpg
+- title: pic1_description
+  image: 9.jpg
+- title: pic1_description
+  image: 10.jpg
+- title: pic1_description
+  image: 11.jpg
+- title: pic1_description
+  image: 12.jpg
+- title: pic1_description
+  image: 13.jpg
+- title: pic1_description
+  image: 15.jpg
+- title: pic1_description
+  image: 16.jpg
+- title: pic1_description
+  image: 19.jpg

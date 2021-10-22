@@ -1,0 +1,81 @@
+I"
+<h1 id="pictures">Pictures</h1>
+
+<h4 id="gallery">Gallery</h4>
+<p>(Right-click <em>‘view image’</em> to see a larger image.)</p>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/2.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/3.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/4.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/5.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/6.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/7.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/8.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/9.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/10.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/11.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/12.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/13.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/15.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<p>   </p>
+
+:ET

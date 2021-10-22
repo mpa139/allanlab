@@ -8,7 +8,7 @@ permalink: /
 
 We are a research group at the [State Key Laboratory of Grassland Agro-ecosystem](http://sklgae.lzu.edu.cn/), [Institute of Innovation Ecology](http://iie.lzu.edu.cn/), [Lanzhou University](http://www.lzu.edu.cn/). Our aim is to explore and understand the population adaption and speciation by various methods, such as genomics, transcriptomics, epigenomics, metagenomics.
 
-本课题组（动物基因组和适应性进化研究团队）属于兰州大学草地农业生态系统国家重点实验室，生态创新研究院。主要研究内容为使用多组学手段，如基因组学、转录组学、表观遗传学、宏基因组学等，解决高原物种的适应性进化和物种形成等生物学问题。
+本课题组（动物基因组和适应性进化研究团队）属于兰州大学草地农业生态系统国家重点实验室，生态学创新研究院。主要研究内容为使用多组学手段，如基因组学、转录组学、表观遗传学、宏基因组学等，解决高原物种的适应性进化和物种形成等生物学问题。
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -37,7 +37,7 @@ We are a research group at the [State Key Laboratory of Grassland Agro-ecosystem
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.jpg" alt="Slide 5" />
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

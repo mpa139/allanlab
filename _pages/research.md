@@ -27,6 +27,10 @@ Here are some themes and techniques that we currently work on:
 
 During the long-term evolutionary process, the subterranean mice have evolved special adaptive evolutionary characteristics, which are of great study significance and application value for researches of biological clock regulation and longevity, hypoxia adaptation and anti-cancer properties.
 
+<div align=center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/3.png" width="500 px"/>
+</div>
+
 我们拟从以下几个方面研究地下啮齿动物适应性进化的分子机制，并探索形成这些表型可能的平行进化或趋同进化机制。
 
 **1.**地下鼠的长寿特征 
