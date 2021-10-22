@@ -19,7 +19,7 @@ I am always interested in hiring **graduate students**! In particular, the SCOPE
 The group is highly motivated to host **undergraduate researchers**! Several specific projects are posted [here](./downloads/URE.pdf). Marine supports research experience using hourly-rate compensation throughout the year, and or through fellowship and other opportunities.
 
 ### How to apply
-If you are interested in working with us as a PhD student or postdoc, please read our group guildelines [here]("https://github.com/Denolle-Lab/working_as_a_group/blob/main/onboarding.md").
+If you are interested in working with us as a PhD student or postdoc, please read our group guildelines [here](https://github.com/Denolle-Lab/working_as_a_group/blob/main/onboarding.md).
 
 ### Master projects 
 I do not host Master Students.
