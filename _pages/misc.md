@@ -26,12 +26,14 @@ permalink: /misc.html
 - Vim
 - 工作环境配置：<a href="https://www.jianshu.com/p/9c3439cc3bdb">Oh My Zsh</a>
 - Python学习：<a href="https://docs.python.org/3.8/">Python3.8 Docs</a>
+- <a href="https://snakemake.readthedocs.io/en/stable/">Snakemake</a>流程搭建
 - R：<a href="https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf">《An Introduction to R》</a>，《R数据科学》 
 - Slurm任务管理系统：<a href="{{ site.url }}{{ site.baseurl }}/misc/slurm-v3.pptx">slurm-v3.pptx</a>
 - <a href="https://hpc.lzu.edu.cn/login">兰州大学超算中心</a>
 
 **生物统计学：**
 - <a href="https://www.cnblogs.com/liuzaoqi/p/12769589.html">常用统计检验的Python实现</a>
+- <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">StatQuest</a> with Josh Starmer
 
 **常用流程参考：**
 - <a href="http://www.biotrainee.com/">生信技能树</a>
