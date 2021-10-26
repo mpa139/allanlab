@@ -54,9 +54,11 @@ We explore Earth structure and quakes dynamics using large-scale computing of se
 
 
 
-We develop high-performance computing tools to process 100+TB data sets of continuous data (see [Research](research)).
+We develop high-performance computing tools to process 100+TB data sets of continuous data (see [Research](research)) and explore what seismic waves can tell us about geohazards and about the near surface structure.
 
-We are located in Seattle, WA at the University of Washington, in the heart of the Pacific Northwest (PNW). The PNW is a wonderful natural laboratory to monitor earthquakes, landslides, volcanoes, glaciers, and more broadly speaking the subduction-zone environment.
+Our codes are available on our group [Github](https://github.com/Denolle-Lab)
+
+We are located in Seattle, WA, at the University of Washington, in the heart of the Pacific Northwest (PNW). The PNW is a wonderful natural laboratory to monitor earthquakes, landslides, volcanoes, glaciers, and more broadly speaking the subduction-zone environment.
 
  **We are looking for new graduate students, postdocs, and undergraduate researcher** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 

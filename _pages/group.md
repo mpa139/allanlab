@@ -9,7 +9,9 @@ permalink: /group/
 # Group Members
 ---
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ For new applicants and incoming group members, please see our [group guidelines](https://github.com/Denolle-Lab/working_as_a_group/blob/main/onboarding.md).
 
+Our group defined a [working contract](https://github.com/Denolle-Lab/working_as_a_group/blob/main/Work_contract.md).
 
 Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[undergraduate students](#undergraduate),  [alumni](#alumni).
 
@@ -292,7 +294,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 
 
 
-<!-- -------------- UNDERGRADS  ------------------->
+<!-- -------------- AFFILIATED GRADUATE STUDENTS  ------------------->
 
 ## Affiliated Graduate students
 
