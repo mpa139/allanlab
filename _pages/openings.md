@@ -16,7 +16,7 @@ permalink: /openings
 
 I am always interested in hiring **graduate students**! In particular, the SCOPED project funds a PhD researcher. Marine guarantees a 5 year funding. To support that, Marine will start with internal funds, will mentor the student to apply to federal graduate student fellowships, and NSF project grants.
 
-The group is highly motivated to host **undergraduate researchers**! Several specific projects are posted [here](./downloads/URE.pdf). Marine supports research experience using hourly-rate compensation throughout the year, and or through fellowship and other opportunities.
+The group is highly motivated to host **undergraduate researchers**! Several specific projects are posted [here]([./downloads/URE.pdf](https://docs.google.com/document/d/1z9Qbx1dYNyfoMFFRE5Gmry2erZa7y5h8zgLSRjc-v_M/edit?usp=sharing)). Marine supports research experience using hourly-rate compensation throughout the year, and or through fellowship and other opportunities.
 
 ### How to apply
 If you are interested in working with us as a PhD student or postdoc, please read our group guildelines [here]("https://github.com/Denolle-Lab/working_as_a_group/blob/main/onboarding.md").
