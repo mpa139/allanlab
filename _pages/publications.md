@@ -49,6 +49,14 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2021
 
+Yu Wang, Charu Aggarwal, and Tyler Derr\
+[Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
+Preprint, 2021
+
+Yu Wang, Wei Jin, and Tyler Derr\
+[Graph Neural Networks: Self-supervised Learning](https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf)\
+Graph Neural Networks: Foundations, Frontiers, and Applications (Lingfei Wu, Peng Cui, Jian Pei, and Liang Zhao (Eds.)), Springer, Chapter 18. 2021
+
 Yu Wang and Tyler Derr\
 [Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)\
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021
