@@ -312,7 +312,7 @@ permalink: /people/
 
 ## Interns
 {% assign number_printed = 0 %}
-{% for member in site.data.intern %}
+{% for member in site.data.interns %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
