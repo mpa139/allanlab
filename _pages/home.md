@@ -33,7 +33,6 @@ We are **always** looking for passionate new students (PhD and MSc/MEng) and pos
 </div>
 
 <br>
-<br>
 Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
 <br>
 <br>
