@@ -1,3 +1,43 @@
+- title: "Distinguishing Healthy Ageing from Dementia: A Biomechanical Simulation of Brain Atrophy Using Deep Networks"
+  image: Biomechanicalmodel.png
+  description:
+  authors: M Da Silva, CH Sudre, K Garcia, C Bass, M Jorge Cardoso, EC Robinson
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87586-2_2
+    display:   In International Workshop on Machine Learning in Clinical Neuroimaging 2021 (pp. 13-22). Springer, Cham.
+  highlight: 1
+  news2:
+  
+- title: "Structural and functional asymmetry of the neonatal cerebral cortex"
+  image: term_pval.png
+  description:
+  authors: LZJ Williams, SP Fitzgibbon, J Bozek, AM Winkler, R Dimitrova, T Poppe, A Schuh, A Makropoulos, J Cupitt, J O'Muircheartaigh, E Duff, L Cordero-Grande, AN Price, JV Hajnal, D Rueckert, SM Smith,  AD Edwards, EC Robinson
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2021.10.13.464206v1.abstract
+    display:   biorxiv
+  highlight: 1
+  news2:
+
+- title: "Improving Phenotype Prediction Using Long-Range Spatio-Temporal Dynamics of Functional Connectivity"
+  image: 
+  description:
+  authors: S Dahan LZJ Williams, D Rueckert, EC Robinson
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15
+    display:  In International Workshop on Machine Learning in Clinical Neuroimaging 2021 (pp. 145-154). Springer, Cham.
+  highlight: 
+  news2:
+  
+- title: "Geometric Deep Learning of the Human Connectome Project Multimodal Cortical Parcellation"
+  image: 
+  description:
+  authors: LZJ Williams, A Fawaz, MF Glasser, AD Edwards, EC Robinson
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87586-2_11
+    display:  In International Workshop on Machine Learning in Clinical Neuroimaging 2021 (pp. 103-112). Springer, Cham.
+  highlight: 
+  news2:
+  
 - title: "ICAM-reg: Interpretable Classification and Regression with Feature Attribution for Mapping Neurological Phenotypes in Individual Scans"
   image: 
   description:
