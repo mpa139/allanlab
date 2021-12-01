@@ -1,17 +1,22 @@
 - name: Rachel Greenstadt
   photo: Greenstadt.jpg (placeholder)
   info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+  email: [@]nyu.edu
   number_educ: 3
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: PhD Computer Science, Harvard University with <a href="https://scholar.harvard.edu/mikesmith/home">Michael D Smith
+  education2: M.Eng. Electrical Engineering and Computer Science, Massachusetts Insitute of Technology (MIT) with <a href="https://www.csail.mit.edu/person/robert-morris">Robert Morris</a>
+  education3: B.S. Computer Science, Massachusetts Insitute of Technology (MIT)
+
+- name: Genesis Smothers
+  photo: Genesis.jpg
+  info: PhD, started September 2021
+  email: gs3687@nyu.edu
+  number_educ: 1 
+  education1: B.A. Computer Science, Howard University
 
 - name: Kejsi Take
   photo: Kejsi.jpg
-  info: PhD Candidate 2018 - present
+  info: PhD Candidate started Sept 2018
   email: kejsitake[@] nyu.edu
   number_educ: 1
   education1: B.A. Computer Science, American University in Bulgaria
@@ -21,8 +26,8 @@
   info: PhD Student, started Sept 2021
   email: vzhong[@] nyu.edu
   number_educ: 2
-  education1: M.S. New York University (NYU) Tandon School of Engineering
-  education2: B.A. Hunter College
+  education1: M.S. Computer Science, New York University (NYU) Tandon School of Engineering
+  education2: B.A. Computer Science, Hunter College
 
 - name: "This could be you !"
   photo: rock.jpg
