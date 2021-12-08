@@ -9,21 +9,36 @@
 
 - name: Genesis Smothers
   photo: Genesis.jpg
-  info: PhD, started September 2021
+  info: PhD, started August 2021
   email: gs3687@nyu.edu
   number_educ: 1 
   education1: B.A. Computer Science, Howard University
 
 - name: Kejsi Take
   photo: Kejsi.jpg
-  info: PhD Candidate started Sept 2018
+  info: PhD Candidate started August 2018
   email: kejsitake[@] nyu.edu
   number_educ: 1
   education1: B.A. Computer Science, American University in Bulgaria
 
+- name: Brian Timmerman
+  photo: Brian.jpg
+  info: PhD Candidate started August 2018
+  email: brian.timmerman[@] nyu.edu
+  number_educ: 1
+  education1: B.S. Computer Engineering, Binghamton University
+
+- name: Janith Weerasinghe
+  photo: Janith.jpg
+  info: PhD Candidate, started January 2019
+  email: janith[@] nyu.edu
+  number_educ: 2
+  education1: MSc Computer Science, Drexel University
+  education2: BSc Computer Science and Engineering, University of Moratuwa
+
 - name: Victoria Zhong
   photo: Victoria.png 
-  info: PhD Student, started Sept 2021
+  info: PhD Student, started August 2021
   email: vzhong[@] nyu.edu
   number_educ: 2
   education1: M.S. Computer Science, New York University (NYU) Tandon School of Engineering
