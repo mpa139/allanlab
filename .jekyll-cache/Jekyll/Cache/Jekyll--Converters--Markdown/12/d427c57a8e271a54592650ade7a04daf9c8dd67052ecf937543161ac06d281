@@ -1,4 +1,4 @@
-I"è<h1 id="group-members">Group Members</h1>
+I"é<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -9,7 +9,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/Milan1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Lior.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Lior Lobel</h4>
     <p><i>Assistant Professor, started Jan 2022 <!--<br>email: <lior@llobel.online></i> --></i></p>
     <ul style="overflow: hidden">
@@ -33,7 +33,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/moran.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/moran.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Moran Brenner</h4>
     <p><i>Lab Manager, started Jan 2022 <!--<br>email: <moranbre@mail.tau.ac.il></i> --></i></p>
     <ul style="overflow: hidden">
