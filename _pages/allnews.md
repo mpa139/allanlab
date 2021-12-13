@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Lobel Lab at Leiden University."
+excerpt: "Lobel Lab at Bar-Ilan University."
 sitemap: false
 permalink: /lobelnews.html
 ---
