@@ -56,7 +56,7 @@ To this end, we utlize novel proteomic approaches to study how bacterial metabol
 
 We are located at Bar-Ilan University, where an aspiring cohort of microbiome research groups exists. We exchange ideas and work with our neighbors from [Dr. Nissan Yissachar Lab](https://www.yissacharlab.com/), as well as with the colleagues from Bar-Ilan Medical School - [Prof. Omry Koren](https://www.korenlab.com/) and [Dr. Shai Bell](https://www.thebellab.com/).
 
- **We are looking for passionate new MSc and PhD students, and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate new MSc and PhD students, and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 We are grateful for funding from [Bar-Ilan University](https://life-sciences.biu.ac.il/en) and the [Zuckerman Scholars Program](https://zuckerman-scholars.org/ourprograms/faculty/)
