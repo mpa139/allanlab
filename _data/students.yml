@@ -17,7 +17,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/openings">openings</a> for more info
+  info: See <a href="https://liorlobel.github.io/Lobel-Lab/openings">openings</a> for more info
   email: lior@llobel.online
   number_educ: 0
   education1:
