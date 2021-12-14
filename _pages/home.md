@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Bar-Ilan University School of Life Sciences](https://life-sciences.biu.ac.il/en). Our aim is to explore and understand [Diet-Microbiome-Host interactions](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+We are a dynamic research group at the [Bar-Ilan University School of Life Sciences](https://life-sciences.biu.ac.il/en). Our aim is to explore and understand [Diet-Microbiome-Host interactions](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), involving bactreial metabolism, host immunity and post-translational modifications.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -53,13 +52,11 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
 </div>
 
 
+To this end, we utlize novel proteomic approaches to study how bacterial metabolism of dietary components affects the bacterial and host proteomes. We want to discover novel mechanisms by which the gut microbiota affects human health and harness them for theraputics (see [Research](research)).
 
+We are located at Bar-Ilan University, where an aspiring cohort of microbiome research groups exists. We exchange ideas and work with our neighbors from [Dr. Nissan Yissachar Lab](https://www.yissacharlab.com/), as well as with the colleagues from Bar-Ilan Medical School - [Prof. Omry Koren](https://www.korenlab.com/) and [Dr. Shai Bell](https://www.thebellab.com/).
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate new MSc and PhD students, and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from [Bar-Ilan University](https://life-sciences.biu.ac.il/en) and the [Zuckerman Scholars Program](https://zuckerman-scholars.org/ourprograms/faculty/)

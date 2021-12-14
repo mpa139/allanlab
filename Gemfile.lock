@@ -10,7 +10,9 @@ GEM
       http_parser.rb (~> 0)
     env (0.3.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.4)
+    ffi (1.15.4-x64-mingw32)
     forwardable-extended (2.6.0)
     gem (0.0.1.alpha)
     http_parser.rb (0.8.0)
@@ -60,19 +62,24 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
+    sassc (2.4.0-x64-mingw32)
+      ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   env (~> 0.3.0)
   gem (~> 0.0.1.alpha)
   jekyll (>= 3.6.3)
   jekyll-theme-midnight (~> 0.2.0)
+  wdm (~> 0.1.1)
   webrick (~> 1.7)
 
 BUNDLED WITH
