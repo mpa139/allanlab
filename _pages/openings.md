@@ -25,5 +25,5 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 If you are interested in pursuing a Master degree at Bar-Ilan University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+
 </figure>
