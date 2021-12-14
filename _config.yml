@@ -10,7 +10,7 @@ title: The Lobel Lab
 email: lior@llobel.online
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Lobel Lab.
-baseurl: ""
+baseurl: "Lobel-Lab"
 url: ""
 
 include:
