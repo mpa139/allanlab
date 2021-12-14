@@ -1,20 +1,8 @@
 {
-    "folders":
-    [
-        {
-            "follow_symlinks": true,
-            "path": "/Users/liorlobel/Nextcloud/university/Assistant_professor/Website/Lobel-Lab"
-        }
-    ],
-
-    "settings":
-    {
-        "Jekyll":
-        {
-            "jekyll_posts_path": "/Users/liorlobel/Nextcloud/university/Assistant_professor/Website/Lobel-Lab/_posts",
-            "jekyll_drafts_path": "/Users/liorlobel/Nextcloud/university/Assistant_professor/Website/Lobel-Lab/_drafts",
-            "jekyll_uploads_path": "/Users/liorlobel/Nextcloud/university/Assistant_professor/Website/Lobel-Lab/_uploads",
-            "jekyll_templates_path": "/Users/liorlobel/Nextcloud/university/Assistant_professor/Website/Lobel-Lab/_templates",
-        }
-    }
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
 }
