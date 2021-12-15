@@ -41,7 +41,7 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+<!--   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -49,7 +49,7 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 
 
 To this end, we utlize novel proteomic approaches to study how bacterial metabolism of dietary components affects the bacterial and host proteomes. We want to discover novel mechanisms by which the gut microbiota affects human health and harness them for theraputics (see [Research](research)).
