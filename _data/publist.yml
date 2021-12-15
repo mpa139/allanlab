@@ -58,6 +58,16 @@
   highlight: 0
   news2:
 
+- title: "Listeria monocytogenes MDR transporters are involved in LTA synthesis and triggering of innate immunity during infection"
+  image: 
+  description: Multi-drug resistance (MDR) transporters are known eponymously for their ability to confer resistance to various antimicrobial drugs. However, it is likely that this is not their primary function and that MDR transporters evolved originally to play additional roles in bacterial physiology. In Listeria monocytogenes a set of MDR transporters was identified to mediate activation of innate immune responses during mammalian cell infection. This phenotype was shown to be dependent on c-di-AMP secretion, but the physiological processes underlying this phenomenon were not completely resolved. Here we describe a genetic approach taken to screen for L. monocytogenes genes or physiological pathways involved in MDR transporter-dependent triggering of the type I interferon response. We found that disruption of L. monocytogenes lipoteichoic acid (LTA) synthesis results in enhanced triggering of type I interferon responses in infected macrophage cells yet does not impact bacterial intracellular growth. This innate immune response required the MDR transporters and could be recapitulated by exposing macrophage cells to culture supernatants derived from LTA mutant bacteria. Notably, we found that the MDR transporters themselves are required for full production of LTA, an observation that links MDR transporters to LTA synthesis for the first time. In light of our findings, we propose that the MDR transporters play a role in regulating LTA synthesis, possibly via c-di-AMP efflux, a physiological function in cell wall maintenance that triggers the host innate immune system.
+  authors: Keren Tadmor, Yair Pozniak, Tamar Burg Golani, Lior Lobel, Moran Brenner, Nadejda Sigal, Anat A Herskovits
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fcimb.2014.00016/full
+    display: Frontiers in Cellular and Infection Microbiolgy, 2014 Feb 
+  highlight: 0
+  news2:
+
 - title: "Integrative genomic analysis identifies isoleucine and CodY as regulators of Listeria monocytogenes virulence"
   image: 
   description: Intracellular bacterial pathogens have developed sophisticated mechanisms to invade and replicate within eukaryotic cells. For successful replication, pathogens have adapted metabolically to the intracellular niche. While this adaptation is fundamental to the ability to cause disease, we know little about pathogen's intracellular metabolism and its association with virulence. In this study we took a global approach that combines computational and experimental methods to decipher the intracellular metabolic requirements of the human bacterial pathogen Listeria monocytogenes. We identified 12 metabolic pathways to be differentially active during infection in comparison to growth in rich lab media. We validated the essentiality of the active pathways for L. monocytogenes intracellular replication. Pathways included:/ biosynthesis of histidine, arginine, purine, and branch chain amino acids (BCAAs), as well as the catabolism of L-rhamnose and glycerol. Next we analyzed whether the requirement for these nutrients associates with virulence. We found that limiting concentrations of BCAAs, primarily of isoleucine, results in robust induction of the bacterial virulence state, a response that is dependent on the isoleucine responsive regulator, CodY. CodY was responsible for the up-regulation of the major virulence regulator of L. monocytogenes, PrfA. This study supports the premise that pathogens metabolism and virulence are closely interlinked.
@@ -67,6 +77,4 @@
     display: PLoS Genetics, 2012, Sep
   highlight: 0
   news2:
-
-
 
