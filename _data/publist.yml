@@ -8,6 +8,16 @@
   highlight: 1
   news2: See [Prespective by Jennifer Pluznick](https://www.science.org/doi/10.1126/science.abd8344)
 
+- title: "Butyrate Makes Macrophages 'Go Nuclear' against Bacterial Pathogens"
+  image: 
+  description: Butyrate is a microbial metabolite with pleiotropic effects. Schulthess et al. (2019) report that butyrate preconditioning of macrophages enhances their anti-bacterial preparedness by inducing anti-microbial proteins that restrict bacterial growth. This study augments understanding of how microbial metabolites shape host defense.
+  authors: Lior Lobel, Wendy S Garrett
+  link:
+    url: https://www.cell.com/immunity/fulltext/S1074-7613(19)30038-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS107476131930038X%3Fshowall%3Dtrue
+    display: Comment in Immunity, 2019 Feb 19
+  highlight: 0
+  news2:
+
 - title: "Controlled branched-chain amino acids auxotrophy in Listeria monocytogenes allows isoleucine to serve as a host signal and virulence effector"
   image: 
   description: Bacterial pathogens must adapt to their host environment to carry out a successful infection. Sensing host-derived signals precedes adaptation, and triggers switching to the virulent state. Within mammalian cells L. monocytogenes responds to branched-chain amino acids (BCAA) deficiency by inducing virulence gene expression. In this study, we provide compelling evidence that fine tuning BCAA biosynthesis in L. monocytogenes allows the bacteria to sense isoleucine as a host-specific signal. Tightly controlled BCAA production depends on Rli60, a riboregulator, which is transcribed upstream to the BCAA biosynthesis genes. Rli60 functions as a ribosome mediated attenuator that cis-regulates BCAA production under limiting conditions. This study highlights the remarkable cross-regulation of metabolism and virulence in bacterial pathogens.
@@ -15,6 +25,16 @@
   link:
     url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007283
     display: PLoS Genetics, 2018 Mar 12;14(3):e1007283.
+  highlight: 0
+  news2:
+
+- title: "Take DAT, Flu!"
+  image: 
+  description: Some microbial metabolites can be immunomodulatory, but there is limited understanding of how these contribute to inter-individual variation in response to infection. In a recent study in Science, Steed et al. (2017) show that the bacterial metabolite desaminotyrosine (DAT) increases type I interferon expression, resulting in an improved immune response to influenza infection.
+  authors: Lior Lobel, Wendy S Garrett
+  link:
+    url: https://www.cell.com/immunity/fulltext/S1074-7613(17)30379-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761317303795%3Fshowall%3Dtrue
+    display: Comment in Immunity, 2017 Sep 19
   highlight: 0
   news2:
 

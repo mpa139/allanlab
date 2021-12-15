@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=zeiiF_4AAAAJ&hl=en&oi=ao), [ResearcherID](https://publons.com/researcher/4629801/lior-lobel/))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=zeiiF_4AAAAJ&hl=en&oi=ao), [ResearcherID](https://publons.com/researcher/4629801/lior-lobel/)) or [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Lobel%20Lior&sort=date)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -61,7 +61,7 @@ permalink: /publications/
 
 {% endfor %}
 <br />
-<!-- ## Patents -->
-<!-- <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<!-- ## Patents
+<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
