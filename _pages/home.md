@@ -9,7 +9,7 @@ permalink: /
 We are a dynamic research group at the [Bar-Ilan University School of Life Sciences](https://life-sciences.biu.ac.il/en). Our aim is to explore and understand [Diet-Microbiome-Host interactions](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), involving bactreial metabolism, host immunity and post-translational modifications.
 
 <!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
+    <!- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -18,7 +18,7 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-    </ol> -->
+    </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
