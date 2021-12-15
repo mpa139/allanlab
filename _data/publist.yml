@@ -8,3 +8,65 @@
   highlight: 1
   news2: See [Prespective by Jennifer Pluznick](https://www.science.org/doi/10.1126/science.abd8344)
 
+- title: "Controlled branched-chain amino acids auxotrophy in Listeria monocytogenes allows isoleucine to serve as a host signal and virulence effector"
+  image: 
+  description: Bacterial pathogens must adapt to their host environment to carry out a successful infection. Sensing host-derived signals precedes adaptation, and triggers switching to the virulent state. Within mammalian cells L. monocytogenes responds to branched-chain amino acids (BCAA) deficiency by inducing virulence gene expression. In this study, we provide compelling evidence that fine tuning BCAA biosynthesis in L. monocytogenes allows the bacteria to sense isoleucine as a host-specific signal. Tightly controlled BCAA production depends on Rli60, a riboregulator, which is transcribed upstream to the BCAA biosynthesis genes. Rli60 functions as a ribosome mediated attenuator that cis-regulates BCAA production under limiting conditions. This study highlights the remarkable cross-regulation of metabolism and virulence in bacterial pathogens.
+  authors: Moran Brenner, Lior Lobel, Ilya Borovok, Nadejda Sigal, Anat A Herskovits
+  link:
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007283
+    display: PLoS Genetics, 2018 Mar 12;14(3):e1007283.
+  highlight: 0
+  news2:
+
+- title: "Metabolic Genetic Screens Reveal Multidimensional Regulation of Virulence Gene Expression in Listeria monocytogenes and an Aminopeptidase That Is Critical for PrfA Protein Activation"
+  image: 
+  description: Listeria monocytogenes is an environmental saprophyte and intracellular bacterial pathogen. Upon invading mammalian cells, the bacterium senses abrupt changes in its metabolic environment, which are rapidly transduced to regulation of virulence gene expression. To explore the relationship between L. monocytogenes metabolism and virulence, we monitored virulence gene expression dynamics across a library of genetic mutants grown under two metabolic conditions known to activate the virulent state:/ charcoal-treated rich medium containing glucose-1-phosphate and minimal defined medium containing limiting concentrations of branched-chain amino acids (BCAAs). We identified over 100 distinct mutants that exhibit aberrant virulence gene expression profiles, the majority of which mapped to nonessential metabolic genes. Mutants displayed enhanced, decreased, and early and late virulence gene expression profiles, as well as persistent levels, demonstrating a high plasticity in virulence gene regulation. Among the mutants, one was noteworthy for its particularly low virulence gene expression level and mapped to an X-prolyl aminopeptidase (PepP). We show that this peptidase plays a role in posttranslational activation of the major virulence regulator, PrfA. Specifically, PepP mediates recruitment of PrfA to the cytoplasmic membrane, a step identified as critical for PrfA protein activation. This study establishes a novel step in the complex mechanism of PrfA activation and further highlights the cross regulation of metabolism and virulence.
+  authors: Sivan Friedman, Marika Linsky, Lior Lobel, Lev Rabinovich, Nadejda Sigal, Anat A Herskovits
+  link:
+    url: https://journals.asm.org/doi/10.1128/IAI.00027-17?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+    display: Infection and Immunity, 2017, May 23
+  highlight: 0
+  news2:
+
+- title: "L-glutamine Induces Expression of Listeria monocytogenes Virulence Genes"
+  image: 
+  description: The high environmental adaptability of bacteria is contingent upon their ability to sense changes in their surroundings. Bacterial pathogen entry into host poses an abrupt and dramatic environmental change, during which successful pathogens gauge multiple parameters that signal host localization. The facultative human pathogen Listeria monocytogenes flourishes in soil, water and food, and in ~50 different animals, and serves as a model for intracellular infection. L. monocytogenes identifies host entry by sensing both physical (e.g., temperature) and chemical (e.g., metabolite concentrations) factors. We report here that L-glutamine, an abundant nitrogen source in host serum and cells, serves as an environmental indicator and inducer of virulence gene expression. In contrast, ammonia, which is the most abundant nitrogen source in soil and water, fully supports growth, but fails to activate virulence gene transcription. We demonstrate that induction of virulence genes only occurs when the Listerial intracellular concentration of L-glutamine crosses a certain threshold, acting as an on/off switch:/ off when L-glutamine concentrations are below the threshold, and fully on when the threshold is crossed. To turn on the switch, L-glutamine must be present, and the L-glutamine high affinity ABC transporter, GlnPQ, must be active. Inactivation of GlnPQ led to complete arrest of L-glutamine uptake, reduced type I interferon response in infected macrophages, dramatic reduction in expression of virulence genes, and attenuated virulence in a mouse infection model. These results may explain observations made with other pathogens correlating nitrogen metabolism and virulence, and suggest that gauging of L-glutamine as a means of ascertaining host localization may be a general mechanism.
+  authors: Adi Haber, Sivan Friedman, Lior Lobel, Tamar Burg-Golani, Nadejda Sigal, Jessica Rose, Nurit Livnat-Levanon, Oded Lewinson, Anat A Herskovits
+  link:
+    url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006161
+    display: PLoS Pathogens 2017, Jan 23
+  highlight: 0
+  news2:
+
+- title: "Systems Level Analyses Reveal Multiple Regulatory Activities of CodY Controlling Metabolism, Motility and Virulence in Listeria monocytogenes"
+  image: 
+  description: Bacteria sense and respond to many environmental cues, rewiring their regulatory network to facilitate adaptation to new conditions/niches. Global transcription factors that co-regulate multiple pathways simultaneously are essential to this regulatory rewiring. CodY is one such global regulator, controlling expression of both metabolic and virulence genes in Gram-positive bacteria. Branch chained amino acids (BCAAs) serve as a ligand for CodY and modulate its activity. Classically, CodY was considered to function primarily as a repressor under rich growth conditions. However, our previous studies of the bacterial pathogen Listeria monocytogenes revealed that CodY is active also when the bacteria are starved for BCAAs. Under these conditions, CodY loses the ability to repress genes (e.g., metabolic genes) and functions as a direct activator of the master virulence regulator gene, prfA. This observation raised the possibility that CodY possesses multiple functions that allow it to coordinate gene expression across a wide spectrum of metabolic growth conditions, and thus better adapt bacteria to the mammalian niche. To gain a deeper understanding of CodY's regulatory repertoire and identify direct target genes, we performed a genome wide analysis of the CodY regulon and DNA binding under both rich and minimal growth conditions, using RNA-Seq and ChIP-Seq techniques. We demonstrate here that CodY is indeed active (i.e., binds DNA) under both conditions, serving as a repressor and activator of different genes. Further, we identified new genes and pathways that are directly regulated by CodY (e.g., sigB, arg, his, actA, glpF, gadG, gdhA, poxB, glnR and fla genes), integrating metabolism, stress responses, motility and virulence in L. monocytogenes. This study establishes CodY as a multifaceted factor regulating L. monocytogenes physiology in a highly versatile manner.
+  authors: Lior Lobel, Anat A Herskovits
+  link:
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005870
+    display: PLoS Genetics, 2016, Feb 19
+  highlight: 0
+  news2:
+
+- title: "The metabolic regulator CodY links Listeria monocytogenes metabolism to virulence by directly activating the virulence regulatory gene prfA"
+  image: 
+  description: Metabolic adaptations are critical to the ability of bacterial pathogens to grow within host cells and are normally preceded by sensing of host-specific metabolic signals, which in turn can influence the pathogen's virulence state. Previously, we reported that the intracellular bacterial pathogen Listeria monocytogenes responds to low availability of branched-chain amino acids (BCAAs) within mammalian cells by up-regulating both BCAA biosynthesis and virulence genes. The induction of virulence genes required the BCAA-responsive transcription regulator, CodY, but the molecular mechanism governing this mode of regulation was unclear. In this report, we demonstrate that CodY directly binds the coding sequence of the L. monocytogenes master virulence activator gene, prfA, 15 nt downstream of its start codon, and that this binding results in up-regulation of prfA transcription specifically under low concentrations of BCAA. Mutating this site abolished CodY binding and reduced prfA transcription in macrophages, and attenuated bacterial virulence in mice. Notably, the mutated binding site did not alter prfA transcription or PrfA activity under other conditions that are known to activate PrfA, such as during growth in the presence of glucose-1-phosphate. This study highlights the tight crosstalk between L. monocytogenes metabolism and virulence, while revealing novel features of CodY-mediated regulation.
+  authors: Lior Lobel, Nadejda Sigal, Ilya Borovok, Boris R Belitsky, Abraham L Sonenshein, Anat A Herskovits
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/mmi.12890
+    display: Molecular Microbiol, 2015 Feb
+  highlight: 0
+  news2:
+
+- title: "Integrative genomic analysis identifies isoleucine and CodY as regulators of Listeria monocytogenes virulence"
+  image: 
+  description: Intracellular bacterial pathogens have developed sophisticated mechanisms to invade and replicate within eukaryotic cells. For successful replication, pathogens have adapted metabolically to the intracellular niche. While this adaptation is fundamental to the ability to cause disease, we know little about pathogen's intracellular metabolism and its association with virulence. In this study we took a global approach that combines computational and experimental methods to decipher the intracellular metabolic requirements of the human bacterial pathogen Listeria monocytogenes. We identified 12 metabolic pathways to be differentially active during infection in comparison to growth in rich lab media. We validated the essentiality of the active pathways for L. monocytogenes intracellular replication. Pathways included:/ biosynthesis of histidine, arginine, purine, and branch chain amino acids (BCAAs), as well as the catabolism of L-rhamnose and glycerol. Next we analyzed whether the requirement for these nutrients associates with virulence. We found that limiting concentrations of BCAAs, primarily of isoleucine, results in robust induction of the bacterial virulence state, a response that is dependent on the isoleucine responsive regulator, CodY. CodY was responsible for the up-regulation of the major virulence regulator of L. monocytogenes, PrfA. This study supports the premise that pathogens metabolism and virulence are closely interlinked.
+  authors: Lior Lobel, Nadejda Sigal, Ilya Borovok, Eytan Ruppin, Anat A Herskovits
+  link:
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002887
+    display: PLoS Genetics, 2012, Sep
+  highlight: 0
+  news2:
+
+
+
