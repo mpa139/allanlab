@@ -11,7 +11,7 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
 To this end, we utlize novel proteomic approaches to study how bacterial metabolism of dietary components affects the bacterial and host proteomes. We want to discover novel mechanisms by which the gut microbiota affects human health and harness them for theraputics (see [Research](research)).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/WDepositphotos_102346498_XL.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Depositphotos_102346498_XL.jpg" width="100%">
 </figure>
 
 We are located at Bar-Ilan University, where an aspiring cohort of microbiome research groups exists. We exchange ideas and work with our neighbors from [Dr. Nissan Yissachar Lab](https://www.yissacharlab.com/), as well as with the colleagues from Bar-Ilan Medical School - [Prof. Omry Koren](https://www.korenlab.com/) and [Dr. Shai Bell](https://www.thebellab.com/).
