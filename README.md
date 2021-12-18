@@ -6,5 +6,4 @@ Please be patient while we are working on this :)
 
 
 
-Copyright [PSAL @ NYU](/). Code released under the MIT License.
-
+Thanks for making these theme available to [Allen Lab @ Leiden University](https://www.allanlab.org). Code released under the MIT License.

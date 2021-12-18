@@ -1,63 +1,54 @@
 - name: Rachel Greenstadt
-  photo: Greenstadt.jpg (placeholder)
+  photo: Greenstadt.jpg
   info: Associate professor, started Jan 2015
-  email: greenstadt[@] nyu.edu
+  email: greenstadt[@]nyu.edu
   number_educ: 3
-  education1: PhD Computer Science, Harvard University with <a href="https://scholar.harvard.edu/mikesmith/home">Michael D Smith
-  education2: M.Eng. Electrical Engineering and Computer Science, Massachusetts Insitute of Technology (MIT) with <a href="https://www.csail.mit.edu/person/robert-morris">Robert Morris</a>
+  education1: PhD Computer Science, Harvard University with <a href="https://scholar.harvard.edu/mikesmith/home"> Michael D Smith </a>
+  education2: M.Eng. Electrical Engineering and Computer Science, Massachusetts Insitute of Technology (MIT) with <a href="https://www.csail.mit.edu/person/robert-morris"> Robert Morris </a>
   education3: B.S. Computer Science, Massachusetts Insitute of Technology (MIT)
+
+- name: Janith Weerasinghe
+  photo: Janith.jpg
+  info: PhD Candidate
+  email: janith[@] nyu.edu
+  number_educ: 2
+  education1: MSc Computer Science, Drexel University
+  education2: BSc Computer Science and Engineering, University of Moratuwa
+
+- name: Brian Timmerman
+  photo: Brian.jpg
+  info: PhD Candidate
+  email: brian.timmerman[@] nyu.edu
+  number_educ: 1
+  education1: B.S. Computer Engineering, Binghamton University
+
+- name: <a href= "https://kejsitake.com/"> Kejsi Take </a>
+  photo: Kejsi.jpg
+  info: PhD Candidate
+  email: kejsitake[@] nyu.edu
+  number_educ: 1
+  education1: M.S. Computer Science, Computer Science, New York University (NYU) Tandon School of Engineering
+  education2: B.A. Computer Science, American University in Bulgaria
 
 - name: Cameron Ballard
   photo: cameron.jpg
-  info: PhD Candidate. Joined Fall 2019.
-  email: clb478[@] nyu.edu
+  info: PhD Candidate
+  email: clb478[@]nyu.edu
   number_educ: 2
   education1: BS Computer Science, NYU Shanghai 2013-2017
   education2: MS Computer Science, NYU Tandon 2019-2021
 
 - name: Genesis Smothers
   photo: Genesis.jpg
-  info: PhD, started August 2021
-  email: gs3687@nyu.edu
+  info: PhD Student
+  email: gs3687[@]nyu.edu
   number_educ: 1
   education1: B.A. Computer Science, Howard University
 
-- name: Kejsi Take
-  photo: Kejsi.jpg
-  info: PhD Candidate started August 2018
-  email: kejsitake[@] nyu.edu
-  number_educ: 1
-  education1: B.A. Computer Science, American University in Bulgaria
-
-- name: Brian Timmerman
-  photo: Brian.jpg
-  info: PhD Candidate started August 2018
-  email: brian.timmerman[@] nyu.edu
-  number_educ: 1
-  education1: B.S. Computer Engineering, Binghamton University
-
-- name: Janith Weerasinghe
-  photo: Janith.jpg
-  info: PhD Candidate, started January 2019
-  email: janith[@] nyu.edu
-  number_educ: 2
-  education1: MSc Computer Science, Drexel University
-  education2: BSc Computer Science and Engineering, University of Moratuwa
-
 - name: Victoria Zhong
   photo: Victoria.png
-  info: PhD Student, started August 2021
+  info: PhD Studen]
   email: vzhong[@] nyu.edu
   number_educ: 2
   education1: M.S. Computer Science, New York University (NYU) Tandon School of Engineering
   education2: B.A. Computer Science, Hunter College
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="lab vacancies">openings</a> for more info
-  email:
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
