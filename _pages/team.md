@@ -6,10 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
@@ -25,13 +21,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <h4> {{ member.name }} </h4>
+  <i> {{ member.info }} </i> <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
+
 
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
@@ -90,7 +87,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} </i> <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -190,7 +187,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.

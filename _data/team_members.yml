@@ -19,7 +19,7 @@
   photo: Genesis.jpg
   info: PhD, started August 2021
   email: gs3687@nyu.edu
-  number_educ: 1 
+  number_educ: 1
   education1: B.A. Computer Science, Howard University
 
 - name: Kejsi Take
@@ -45,7 +45,7 @@
   education2: BSc Computer Science and Engineering, University of Moratuwa
 
 - name: Victoria Zhong
-  photo: Victoria.png 
+  photo: Victoria.png
   info: PhD Student, started August 2021
   email: vzhong[@] nyu.edu
   number_educ: 2
@@ -55,7 +55,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="lab vacancies">openings</a> for more info
-  email: 
+  email:
   number_educ: 0
   education1:
   education2:
