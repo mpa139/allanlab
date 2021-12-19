@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2021
 
+Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr\
+[Imbalanced Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
+Preprint, 2021
+
 Yu Wang, Charu Aggarwal, and Tyler Derr\
 [Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
 Preprint, 2021
