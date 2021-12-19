@@ -1,5 +1,11 @@
+- date: 12/2021
+  headline: "<b> CFP: <a href=\"https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Complex Graphs</a> with Tyler as Topic Editor for Frontiers in Big Data</b>"
+
+- date: 12/2021
+  headline: "<b> Our preprint <a href=\"https://arxiv.org/pdf/2112.00238.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Imbalanced Graph Classification via Graph-of-Graph Neural Networks</a> is now online!</b>"
+
 - date: 11/2021
-  headline: "<b> Out workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to ACM WSDM'22!</b>"
+  headline: "<b> CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to ACM WSDM'22!</b>"
 
 - date: 10/2021
   headline: "<b> Our preprint <a href=\"https://yuwvandy.github.io/paper/dpgnn.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification</a> is now online!</b>"
