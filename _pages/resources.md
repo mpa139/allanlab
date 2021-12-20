@@ -5,6 +5,20 @@ excerpt: "METRICS Lab -- Resources"
 permalink: /resources/
 ---
 
+## Group Tutorials
+We run tutorials on a variety of topics including machine learning, medical image processing and foundation neuroscience. Below are links to slides and notebooks:
+
+[Methods for diffusion MRI analysis in recent neonate studies](https://emckclac-my.sharepoint.com/:b:/g/personal/k1759240_kcl_ac_uk/EYrpr6GOaExMqlHzPhqcAV4BOwzeIe-aNHNYpvCmS9yn8Q?e=4FPZof)
+
+[Capsule networks]({{ site.baseurl }}/downloads/Capsules_tutorial.pdf)
+
+[Gaussian Processes models in developmental neuroimaging](https://github.com/metrics-lab/talks_and_tutorials/blob/master/GaussianProcessModels_in_Developmentalneuroimaging.pdf)
+
+[Using Animal Models in Perinatal Brain Research](https://github.com/metrics-lab/talks_and_tutorials/blob/master/Animal_Models_Of_Perinatal_Research%20%2B%20Preclinical_Imaging%20-%20Sept2019.pdf)
+
+[Registration with Deep Learning]({{ site.baseurl }}/downloads/DLRegistration_2019_10_28.pdf)
+
+
 ## Software
 
 The following open source code and software packages have been developed by our lab:
