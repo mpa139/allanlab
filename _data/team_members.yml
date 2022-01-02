@@ -1,7 +1,7 @@
 - name: Lior Lobel
   photo: Lior.jpg
-  info: Assistant Professor, started Jan 2022
-  email: lior@llobel.online
+  info: Assistant Professor
+  email: lior.lobel@biu.ac.il
   number_educ: 4
   education1: B.Sc Tel Aviv University, 2009
   education2: PhD with <a href="https://www.herskovitslab.sites.tau.ac.il/">Dr. Anat Herskovits</a> at Tel Aviv University, 2015
@@ -10,9 +10,9 @@
 
 
 - name: Moran Brenner
-  photo: moran.jpeg
-  info: Lab Manager, started Jan 2022
-  email: moranbre@mail.tau.ac.il
+  photo: Moran_new.jpg
+  info: Lab Manager
+  email: moran.bernner@biu.ac.il
   number_educ: 3
   education1: B.Sc Tel Aviv University, 2013
   education2: M.Sc with <a href="https://www.herskovitslab.sites.tau.ac.il/">Dr. Anat Herskovits</a> at Tel Aviv University, 2016
