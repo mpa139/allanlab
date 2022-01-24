@@ -51,3 +51,14 @@
   education2: Mechanical Engineer , Hogeschool  Delft
   education3:
   education4:
+
+- name: Damianos Chatzopoulos
+  photo: Damianos.jpg
+  info: PhD Student, started December 2017
+  duration: In the Allan Lab Dec 2017 - Dec 2021, now at Rabobank
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+
