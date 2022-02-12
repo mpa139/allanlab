@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=CKKVk2cAAAAJ&hl=en&oi=ao))
+(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=CKKVk2cAAAAJ&hl=en&oi=ao))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

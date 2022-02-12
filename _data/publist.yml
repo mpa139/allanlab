@@ -1,19 +1,120 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Binocular vision and control of foot placement during walking in natural terrain."
+  image: BonnenEtAl-2021-Sci-Rep.png
+  description: This is where the description goes... It will be at least two lines long.
+  authors: K Bonnen, JS Matthis, A Gibaldi, MS Banks, D Levi, M Hayhoe
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://rdcu.be/czYoF
+    display: Scientific Reports 11.1, 1-12. (2021).
   highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  news2: 
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Stereo Slant Discrimination of Planar 3D Surfaces: Standard vs. Planar Cross-Correlation"
+  image: 
+  description: 
+  authors: C Oluk, K Bonnen, J Burge, LK Cormack, & WS Geisler
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://www.biorxiv.org/content/10.1101/2021.03.11.434881v1.abstract
+    display:  bioRxiv (2021)
   highlight: 0
   news2:
+
+- title: "Neuromatch Academy: Teaching Computational Neuroscience with global accessibility."
+  image: nma.png
+  description: This is where the description goes... It will be at least two lines long.
+  authors: T van Viegen, A Akrami, K Bonnen, E DeWitt, A Hyafil, H Ledmyr, GW Lindsay, P Mineault, JD Murray, X Pitkow, A Puce, M Sedigh-Sarvestani, C Stringer, T Achakulvisut, E Alikarami, MS Atay, E Batty, J Erlich, B Galbraith, Y Guo, AL Juavinett, MR Krause, S Li, M Pachitariu, E Straley, D Valeriani, E Vaughan, M Vaziri-Pashkam, ML Waskom, G Blohm, K Kording, P Schrater, B Wyble, S Escola, MAK Peters
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1364661321000954?casa_token=HGXomUibCwoAAAAA:0LU5vXuM0QCV6DgC7cmmxs066P0K8KrX_S2VVi2vytRIG-hqj9uPouUN5VS1DIk0mJmYKVDCFQ
+    display: Trends in Cognitive Sciences (2021).
+  highlight: 1
+  news2:
+
+- title: "Retinal optic flow during natural locomotion."
+  image: 
+  description: 
+  authors: JS Matthis, KS Muller, K Bonnen, M Hayhoe
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.07.23.217893v5
+    display: bioRxiv (2021)
+  highlight: 0
+  news2:
+
+- title: "Binocular viewing geometry shapes neural representations of the dynamic three-dimensional environment."
+  image: BonnenEtAl-2020-Nat-Neuro.png
+  description: This is where the description goes... It will be at least two lines long.
+  authors: K Bonnen, TB Czuba, A Kohn, AC Huk, LK Cormack
+  link: 
+    url: https://www.nature.com/articles/s41593-019-0544-7
+    display: Nature Neuroscience. 23, 113–121 (2020).
+  highlight: 1
+  news2:
+
+- title: "Continuous behavior, ongoing neural activity, and natural stimuli."
+  image: 
+  description: 
+  authors: AC Huk, K Bonnen, BJ He
+  link:
+    url: https://www.jneurosci.org/content/38/35/7551
+    display: Journal of Neuroscience, 1920-17 (2018).
+  highlight: 0
+  news2:
+
+- title: "Dynamic mechanisms of visually guided 3D motion tracking."
+  image: 
+  description: 
+  authors: K Bonnen, AC Huk, LK Cormack
+  link:
+    url: https://journals.physiology.org/doi/full/10.1152/jn.00831.2016
+    display: Journal of Neurophysiology, 118(3), 1515-1531. (2017).
+  highlight: 0
+  news2:
+
+- title: "Speed discrimination in the far monocular periphery: A relative advantage for interocular comparisons consistent with self- motion."
+  image: 
+  description: 
+  authors: DA Greer, K Bonnen, AC Huk, LK Cormack
+  link:
+    url: https://jov.arvojournals.org/article.aspx?articleid=2545816
+    display: Journal of Vision, 16(10). (2016).
+
+  highlight: 0
+  news2:
+
+- title: "Continuous psychophysics: Target-tracking to measure visual sensitivity."
+  image: 
+  description: 
+  authors: K Bonnen, J Burge, J Yates, J Pillow, LK Cormack
+  link:
+    url: https://jov.arvojournals.org/article.aspx?articleid=2301260
+    display: Journal of Vision, 15(3). (2015).
+  highlight: 0
+  news2:
+
+- title: "Component-based representation in automated face recognition."
+  image: 
+  description: 
+  authors: K Bonnen, BF Klare, AK Jain
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6341076
+    display: IEEE Transactions on Information Forensics and Security, 8(1), 239-253. (2013).
+  highlight: 0
+  news2:
+
+- title: "Matching composite sketches to face photos: A component-based approach."
+  image: 
+  description: 
+  authors: H Han, BF Klare, K Bonnen, AK Jain
+  link: 
+    url: https://ieeexplore.ieee.org/abstract/document/6359918
+    display: IEEE Transactions on Information Forensics and Security, 8(1),191-204. (2013).
+  highlight: 0
+  news2:
+
+    # - title: ""
+  # image: TBG_SL.png
+  # description: This is where the description goes... It will be at least two lines long.
+  # authors: 
+  # link:
+  #   url: 
+  #   display:
+  # highlight: 0
+  # news2:
