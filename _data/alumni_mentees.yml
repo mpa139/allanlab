@@ -1,0 +1,41 @@
+- name: "Mark Zarutin"
+  photo: mark-zarutin.jpg
+  info: Undergraduate Research Assistant 
+  duration: New York Univ., 2021-present
+  now: applying to MS programs in Computer Science
+  achievements:
+
+- name: "Fatima Zainelabdin"
+  photo: fatima-zainelabdin.jpg
+  info: Undergraduate Research Assistant
+  duration: New York Univ., 2020
+  now: applying to Optometry Schools
+  achievements: Recipient of the NYU Dean's Undergraduate Research Fund (DURF) First and Second Year Training (FAST) Grant
+
+- name: "Austin Kuo"
+  photo: austin-kuo.jpg
+  info: Undergraduate Research Assistant
+  duration: Univ. of Texas, 2016-2019
+  now: now a PhD student in Neurosciences at Stanford
+  achievements: UT Austin Dean's Honored Graduate in Neuroscience
+
+- name: "Adebisi Akinyemi"
+  photo: adebisi-akinyemi.jpg
+  info: Undergraduate Research Assistant
+  duration: Univ. of Texas, 2016-2017
+  now: now a PhD student studying stress and trauma in the Department of Psychological Sciences at the Univ. fo California Irvine
+  achievements: Recipient of the National Science Foundation Graduate Research Fellowship
+
+- name: "Jasmine Stone"
+  photo: jasmine-stone.jpg
+  info: Highschool/Undergraduate Research Assistant 
+  duration: Univ. of Texas, 2015-2019
+  now: now a PhD student in Neurobiology and Behavior at Columbia University
+  achievements: Recipient of Goldwater and Churchill Scholarships, Hertz Finalist
+
+- name: "Devon Greer"
+  photo: devon-greer.jpg
+  info: Postbac Research Assistant 
+  duration: Univ. of Texas, 2014-2015
+  now: now a PhD student studying retina and vision in Neuroscience at Northwestern Univ.
+  achievements: 
