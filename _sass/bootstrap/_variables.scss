@@ -365,15 +365,15 @@ $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2) !default;
 $navbar-collapse-max-height:       340px !default;
 
-$navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #f8f8f8 !default;
-$navbar-default-border:            $input-border !default;
+$navbar-default-color:             #2E65CA !default;
+$navbar-default-bg:                #002940 !default;
+$navbar-default-border:            #002940 !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                #FFFFFF !default;
+$navbar-default-link-hover-color:          #FF0000 !default;
 $navbar-default-link-hover-bg:             transparent !default;
-$navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
+$navbar-default-link-active-color:         #FF0000 !default;
 $navbar-default-link-active-bg:            transparent !default;
 $navbar-default-link-disabled-color:       $gray-lighter !default;
 $navbar-default-link-disabled-bg:          transparent !default;
@@ -385,8 +385,8 @@ $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
 $navbar-default-toggle-hover-bg:           #fff !default;
-$navbar-default-toggle-icon-bar-bg:        $gray-light !default;
-$navbar-default-toggle-border-color:       $gray-lighter !default;
+$navbar-default-toggle-icon-bar-bg:        #fff !default;
+$navbar-default-toggle-border-color:       #fff !default;
 
 
 //=== Inverted navbar
