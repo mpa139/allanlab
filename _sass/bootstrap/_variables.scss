@@ -371,16 +371,16 @@ $navbar-default-border:            #002940 !default;
 
 // Navbar links
 $navbar-default-link-color:                #FFFFFF !default;
-$navbar-default-link-hover-color:          #FF0000 !default;
+$navbar-default-link-hover-color:          #2E65CA !default;
 $navbar-default-link-hover-bg:             transparent !default;
-$navbar-default-link-active-color:         #FF0000 !default;
+$navbar-default-link-active-color:         #2E65CA !default;
 $navbar-default-link-active-bg:            transparent !default;
-$navbar-default-link-disabled-color:       $gray-lighter !default;
+$navbar-default-link-disabled-color:       #FFFFFF !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
-$navbar-default-brand-color:               $navbar-default-link-hover-color !default;
-$navbar-default-brand-hover-color:         $navbar-default-link-hover-color !default;
+$navbar-default-brand-color:               #2E65CA !default;
+$navbar-default-brand-hover-color:         #2E65CA !default;
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
