@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-<h4 style="margin-top:20px">Regulation and suppression of T cell immunity in inflammation and cancer</h4> 
-**T cells** drive immune activation and can promote clearance of infections and cancer. However, their function can also provoke harmful autoimmune and allergic inflammation. The immune system therefore employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation. Immunoregulatory mechanisms can also suppress beneficial T cell responses in cancer, resulting in immunosuppression. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in **infection, inflammation** and **cancer**.
+<h3 style="margin-top:20px">Regulation of T cell immunity in inflammation and cancer</h3> 
+**T cells** drive immune activation and can promote clearance of infections and cancer. However, their function can also provoke harmful autoimmune and allergic inflammation. The immune system employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation. Immunoregulatory mechanisms can also suppress beneficial T cell responses in cancer, resulting in immunosuppression. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in **infection, inflammation** and **cancer**.
 
 Our research aims to uncover the molecular and cellular mechanisms underpinning immunoregulation and cancer immunosuppression. Fundamental discovery in the field of immunoregulation will pave the way for new therapies aimed at manipulating immune function in patients with autoimmunity and cancer (see [Research](research)). We have a particular interest in the immunoregulatory mechanisms that control the differentiation and function of CD4+ and CD8+ conventional T cells and Foxp3+ regulatory T (Treg) cells. 
 
