@@ -15,7 +15,7 @@ Our research aims to uncover the molecular and cellular mechanisms underpinning 
 The laboratory, led by [Dr Rahul Roychoudhuri]({{ site.url }}{{ site.baseurl }}/member/rahul), is located at the University of Cambridge Department of Pathology and works closely with collaborators within both the University and broader Cambridge immunology community. Our work benefits from access to the world-class research facilities of the University of Cambridge.
 
 
-#### Publication highlights
+### Publication highlights
 (For a full list see [Publications](publications))
 <div id="gridid">
 {% include publication_highlights.html %}
