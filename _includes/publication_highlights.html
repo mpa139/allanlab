@@ -14,7 +14,8 @@
   <pubtit>{{ publi.title }}</pubtit>
   {% if page.url == "/funk" %}<p style="margin: 5px 0px 0px 0px;">{% endif; %}<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left; {% if page.url == "/funk" %}padding: 7px 10px 0px 0px;{% endif; %}" />{% if page.url == "/funk" %}</p>{% endif; %}
   <p>{{ publi.description }}</p>
-  <p><a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; text-decoration: none; padding-left: 20px;" target="_blank" href="../media/{{ publi.link.url }}">[PDF]</a>&nbsp;{{ publi.authors }}, {{ publi.link.display }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><a style="background: url({{ site.url }}{{ site.baseurl }}/images/icons/pdf_icon.png) no-repeat left center; text-decoration: none; padding-left: 20px;" target="_blank" href="../media/{{ publi.link.url }}">[PDF]</a>&nbsp;{{ publi.link.display }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
