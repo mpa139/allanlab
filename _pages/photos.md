@@ -6,13 +6,13 @@ sitemap: false
 permalink: /photos/
 ---
 <br />
-# Lab photos
+### Lab photos
 
-### In the lab
+#### In the lab
 
 {% include image-gallery.html folder="/images/in_the_lab" %}
 
-### Out of the lab
+#### Out of the lab
 
 {% include image-gallery.html folder="/images/out_of_the_lab" %}
 

@@ -7,13 +7,13 @@ permalink: /research/
 ---
 
 <div id="research_contentid" >
-### Regulation of T cell immunity in inflammation and cancer
+<h4 style="margin-top:22px">Regulation and suppression of T cell immunity in inflammation and cancer</h4> 
 
 T cells drive immune activation and promote clearance of infections and cancer. However, their function can also provoke autoimmune and allergic inflammation. The immune system employs a variety of suppressive mechanisms, known as immunoregulatory mechanisms, to restrain excessive T cell activation and prevent autoimmune and allergic inflammation. It is now known that such suppressive mechanisms inhibit anti-tumour immunity to drive deleterious immunosuppression in cancer. Immunoregulatory mechanisms therefore function as ‘brakes’ on immune activation and have important consequences in inflammation and cancer. **Fundamental discovery in the field of immunoregulation will pave the way for new immune-based therapies for patients with presently intractable diseases**.
 
 The clinical efficacy of cancer immunotherapies targeting the immune ‘checkpoints’ PD-1 and CTLA-4 provides powerful evidence of the therapeutic relevance of immunoregulatory mechainsms. Such therapies have revolutionised the treatment of patients with a variety of advanced cancers, including metastatic melanoma. However, these therapies, which are thought to work primarily by affecting CD8+ T cells, are ineffective at inducing durable responses in a majority of patients and a majority of cancer types, identifying a pressing need to discover new and mechanistically distinct immunoregulatory mechanisms to drive advances in cancer and inflammatory disease immunotherapy. 
 
-### Research themes
+#### Research themes
 #### Mechanisms of regulatory T (Treg) cell development and function
 
 **Regulatory T (Treg) cells** are rare immune cells with powerful suppressive functions. Loss of Treg cells results in lethal inflammation, while defects in their function are associated with autoimmunity and allergy. Treg cells also suppress immune responses in cancer. There is intense medical interest in exploiting the powerful biological functions of Treg cells to treat patients with inflammatory diseases, transplantation and cancer. However, most efforts have thusfar been disappointing. We aim to better define mechanisms of Treg development and function, to identify new ways of exploiting or blocking the suppressive function of Treg cells in individuals with inflammation and cancer (**Fig. 1**).  
@@ -52,7 +52,7 @@ While selection of antigen-loss variants represents a mechanism of tumour escape
 We have made progress in understanding mechanisms of tumour immunosuppression. We uncovered mechanisms by which Treg cells contribute to cancer immunosuppression (J Clin Invest 2016). Our group showed that maintenance of durable immunosuppressive Treg responses to cancer require the Treg cells with a quiescent phenotype (J Exp Med 2020). We showed that high interstitial potassium concentrations within tumours limits CD8+ T cell function through suppression of the AKT/mTOR pathway (Nature 2016). We showed that CCR8 marks Treg cells with highly suppressive function within tumours, but is dispensable for their accumulation and function (Immunology 2021). Our research findings and tools form the basis for industrial collaborations with GSK, F-Star Biotechnology and CRUK Therapeutic Discovery Laboratories.
 </div>
 
-### Research Highlights
+#### Research Highlights
 (For a full list of publications **see below**)
 <div id="gridid">
 {% include publication_highlights.html %}
