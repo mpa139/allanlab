@@ -8,6 +8,16 @@ permalink: /research/
 
 # Research
 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Happy Diet Microniome"  width="50%" /> 
+
+##### Research Focus:
+
+###### 1.	Profile post-translational modifications in gut bacteria and study their effects on bacterial activity and host health.
+###### 2.	Study the proteome of gut bacteria in relation to dietary changes and diseases.
+###### 3.	Characterize the effects of bacteria on modulating host colon epithelial cells proteome.  
+
+<br /> 
+
 The gut microbiota plays an important role in human health and physiology. 
 
 The major factor regulating the microbiota composition and activity is our diet, which consists of multiple macro and micro-nutrients such as amino acids, lipids, carbohydrates etc. 
@@ -18,9 +28,8 @@ Previously, we provided a proof-of-concept that dietary sulfur amino acids corre
 
 We found that feeding a chronic kidney disease mouse model with diet high in sulfur amino acids resulted in higher S-sulfhydration of the bacterial enzyme tryptophanase that inhibited its production of the uremic toxin indoxyl sulfate. Tryptophanase inhibition alleviated kidney disease in these mice, compared to diet low in sulfur amino acids.
 
-Research focus:
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Figure_S8_science.png" alt="Saa diet S-sulfhydration model"  width="80%" /> 
 
-1.	Profile post-translational modifications in gut bacteria and study their effects on bacterial activity and host health.
-2.	Study the proteome of gut bacteria in relation to dietary changes and diseases.
-3.	Characterize the effects of bacteria on modulating host colon epithelial cells proteome.  
+
+
 
