@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Bar-Ilan University School of Life Sciences](https://life-sciences.biu.ac.il/en). Our aim is to explore and understand [Diet-Microbiome-Host interactions](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), involving bactreial metabolism, host immunity and post-translational modifications.
+We are a dynamic research group at the [Bar-Ilan University School of Life Sciences](https://life-sciences.biu.ac.il/en). Our aim is to explore and understand [Diet-Microbiome-Host interactions](https://www.science.org/doi/10.1126/science.aau5812), involving bactreial metabolism, host immunity and post-translational modifications.
 
 To this end, we utlize novel proteomic approaches to study how bacterial metabolism of dietary components affects the bacterial and host proteomes. We want to discover novel mechanisms by which the gut microbiota affects human health and harness them for theraputics (see [Research](research)).
 
