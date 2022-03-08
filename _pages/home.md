@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Chao Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Chao Lab at Sunnybrook Research Institute."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at [Sunnybrook Research Institute](https://sunnybrook.ca/research/). Our aim is to ...
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
