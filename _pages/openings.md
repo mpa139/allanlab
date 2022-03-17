@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Chao Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,14 +8,14 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
+**Note: We aren't currently looking for new lab members but check back soon!**
 
 
 
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+<!-- You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 ### Past open positions
 
@@ -39,4 +39,4 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
