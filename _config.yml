@@ -10,8 +10,8 @@ title: The Chao Lab
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Chao Lab.
-baseurl: "/chaolab/"
-url: "jessecanada.github.io"
+baseurl: "/chaolab"
+url: "https://jessecanada.github.io"
 
 include:
   - .htaccess
