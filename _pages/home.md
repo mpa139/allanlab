@@ -1,7 +1,7 @@
 ---
 title: "Chao Lab - Home"
 layout: homelay
-excerpt: "Chao Lab at Leiden University."
+excerpt: "Chao Lab at Sunnybrook Research Institute."
 sitemap: false
 permalink: /
 ---
