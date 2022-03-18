@@ -57,7 +57,7 @@ We are a dynamic research group at the [Sunnybrook Research Institute](https://s
 
 To this end, we ... (see [Research](research)).
 
-We are located at Sunnybrook Research Institute. 
+We are located at Sunnybrook Research Institute. Check out our latest projects on our lab [(instagram)](https://instagram.com/chaoerangers?utm_medium=copy_link)
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
