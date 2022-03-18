@@ -55,7 +55,13 @@ We are a dynamic research group at the [Sunnybrook Research Institute](https://s
 
 
 
-To this end, we ... (see [Research](research)).
+To this end, we are focused on improving our understanding of an individual’s risk of cancer. To accomplish this goal, we are integrating wet-lab and computational approaches to develop new predictive technologies.
+
+A person’s genetic predisposition to hereditary cancers can be detected by screening for potentially cancer-causing mutations, also known as genetic variants. If pathogenic variants are found, clinicians can begin monitoring the patient for new lesions. Their family members can also be tested to trace the variant. However, most identified variants cannot be classified due to insufficient clinical data, causing many patients to receive inconclusive genetic testing results. We are addressing this challenge by developing cell-based assays to assess the functional impact of variants from within a tumour context. Further, we use machine learning to classify variants based on the empirical data, turning variants into actionable genetic markers.
+
+To better detect sporadic cancers, we are building precision histology solutions. By using computer vision and deep learning algorithms, we are designing software to detect, segment and classify potentially cancerous lesions in hematoxylin and eosin (H&E) slides. Thus, computers will learn to identify critical tissue- and cell-level features indicative of cancer. We envision this software will become a clinical diagnostic assistant that will accelerate the detection of precancerous lesions.
+
+Our work is driven by close interdisciplinary collaborations with clinician scientists. Together, we hope to transform precision medicine. For more information, see [Research](research).
 
 We are located at Sunnybrook Research Institute. Check out our latest projects on our lab [instagram](https://instagram.com/chaoerangers?utm_medium=copy_link).
 
