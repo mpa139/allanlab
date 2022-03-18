@@ -8,7 +8,11 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to ...
+Our overarching goal is to imrpove the detection of cancer. A person’s genetic predisposition to hereditary cancers can be detected by screening for potentially cancer-causing mutations, also known as genetic variants. If pathogenic variants are found, clinicians can begin monitoring the patient for new lesions. Their family members can also be tested to trace the variant. However, most identified variants cannot be classified due to insufficient clinical data, causing many patients to receive inconclusive genetic testing results. We are addressing this challenge by developing cell-based assays to assess the functional impact of variants from within a tumour context. Further, we use machine learning to classify variants based on the empirical data, turning variants into actionable genetic markers.
+
+To better detect sporadic cancers, we are building precision histology solutions. By using computer vision and deep learning algorithms, we are designing software to detect, segment and classify potentially cancerous lesions in hematoxylin and eosin (H&E) slides. Thus, computers will learn to identify critical tissue- and cell-level features indicative of cancer. We envision this software will become a clinical diagnostic assistant that will accelerate the detection of precancerous lesions.
+
+Our work is driven by close interdisciplinary collaborations with clinician scientists. Together, we hope to transform precision medicine.
 
 <!-- Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
 
