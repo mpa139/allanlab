@@ -24,7 +24,7 @@ We are a dynamic research group at the [Sunnybrook Research Institute](https://s
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide1_home.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
@@ -57,7 +57,7 @@ We are a dynamic research group at the [Sunnybrook Research Institute](https://s
 
 To this end, we ... (see [Research](research)).
 
-We are located at Sunnybrook Research Institute. Check out our latest projects on our lab [(instagram)](https://instagram.com/chaoerangers?utm_medium=copy_link).
+We are located at Sunnybrook Research Institute. Check out our latest projects on our lab [instagram](https://instagram.com/chaoerangers?utm_medium=copy_link).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
