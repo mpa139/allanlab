@@ -8,6 +8,16 @@
   highlight: 1
   news2: 
 
+- title: "A Premalignant Cell-Based Model for Functionalization and Classification of PTEN Variants"
+  image: Pub2.png
+  description: As sequencing becomes more economical, we are identifying sequence variations in the population faster than ever. For disease-associated genes, it is imperative that we differentiate a sequence variant as either benign or pathogenic, such that the appropriate therapeutic interventions or surveillance can be implemented. This assay outperformed computational predictions, was scalable, and had a short run time, serving as an ideal alternative for annotating the clinical significance of cancer-associated PTEN variants.
+  authors: Chao JT, Hollman R, Meyers WM, Melli F, Matreyek KA, Dean P, Fowler DM, Haas K, Roskelley CD, Loewen CJR
+  link:
+    url: https://aacrjournals.org/cancerres/article/80/13/2775/645405/A-Premalignant-Cell-Based-Model-for
+    display:  Cancer Res (2020) 80 (13): 2775–2789.
+  highlight: 0
+  news2: 
+  
 - #title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   #image: TBG_SL.png
   #description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
@@ -17,3 +27,4 @@
     #display:  arXiv:2107.14716 (2021)
   #highlight: 0
   #news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+
