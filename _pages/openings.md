@@ -12,7 +12,7 @@ permalink: /vacancies
 
 Details on the application process through the Department of Medical Biophysics at the University of Toronto can be found [here](https://medbio.utoronto.ca/how-apply-mbp-graduate-program).
 
-For more details on Dr. Chao and his research, feel free to checkout his [profile](https://medbio.utoronto.ca/faculty/chao).
+For more details on Dr. Chao and his research, feel free to check out his [profile](https://medbio.utoronto.ca/faculty/chao).
 
 
 <!-- We are always looking for new group members with passion, talent, and grit!
