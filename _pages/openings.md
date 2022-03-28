@@ -8,9 +8,11 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We aren't currently looking for new lab members but check back soon!**
+**Note: We are currently recruiting interested graduate students!**
 
+Details on the application process through the Department of Medical Biophysics at the University of Toronto can be found [here](https://medbio.utoronto.ca/how-apply-mbp-graduate-program).
 
+For more detail on Dr. Chao and his research, feel free to checkout his [profile](https://medbio.utoronto.ca/faculty/chao).
 
 
 <!-- We are always looking for new group members with passion, talent, and grit!
