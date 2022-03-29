@@ -68,6 +68,6 @@ We are located at Sunnybrook Research Institute. Check out our latest projects o
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SRI.png" style="width: 195px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_blank.png" style="width: 7.5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UofTMBP.png" style="width: 195px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_blank.png" style="width: 7.5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_blank.png" style="width: 6.5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCS.jpg" style="width: 195px">
 </figure> 
