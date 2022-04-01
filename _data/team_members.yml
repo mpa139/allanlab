@@ -1,20 +1,12 @@
 - name: Kathryn (Kate) Bonnen
   photo: kathryn-bonnen.jpg
-  info: Asst. Professor, started Jan 2022
-  email: kbonnen@iu.edu
-  number_educ: 5
-  education1: 
-  education2: 
-  education3: 
-  education4: 
-  education5: 
+  info: Principle Investigator
+  department: 
+  link: 
 
 - name: "This could be you !"
   photo: sunglasses.png
   info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info
-  email: 
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  # department:
+  # link:
+

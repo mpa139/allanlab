@@ -1,6 +1,6 @@
 - title: "Binocular vision and control of foot placement during walking in natural terrain."
   image: BonnenEtAl-2021-Sci-Rep.png
-  description: This is where the description goes... It will be at least two lines long.
+  description: We examine the influence of binocular cues on the coordination of gaze and gait.  Our findings demonstrate
   authors: K Bonnen, JS Matthis, A Gibaldi, MS Banks, D Levi, M Hayhoe
   link:
     url: https://rdcu.be/czYoF
@@ -20,8 +20,8 @@
 
 - title: "Neuromatch Academy: Teaching Computational Neuroscience with global accessibility."
   image: nma.png
-  description: This is where the description goes... It will be at least two lines long.
-  authors: T van Viegen, A Akrami, K Bonnen, E DeWitt, A Hyafil, H Ledmyr, GW Lindsay, P Mineault, JD Murray, X Pitkow, A Puce, M Sedigh-Sarvestani, C Stringer, T Achakulvisut, E Alikarami, MS Atay, E Batty, J Erlich, B Galbraith, Y Guo, AL Juavinett, MR Krause, S Li, M Pachitariu, E Straley, D Valeriani, E Vaughan, M Vaziri-Pashkam, ML Waskom, G Blohm, K Kording, P Schrater, B Wyble, S Escola, MAK Peters
+  description: Neuromatch Academy (NMA) designed and ran a fully online 3-week Computational Neuroscience Summer School for 1757 students with 191 teaching assistants (TAs) working in virtual inverted (or flipped) classrooms and on small group projects. Fourteen languages, active community management, and low cost allowed for an unprecedented level of inclusivity and universal accessibility.
+  authors: T van Viegen, A Akrami, K Bonnen, et al.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364661321000954?casa_token=HGXomUibCwoAAAAA:0LU5vXuM0QCV6DgC7cmmxs066P0K8KrX_S2VVi2vytRIG-hqj9uPouUN5VS1DIk0mJmYKVDCFQ
     display: Trends in Cognitive Sciences (2021).
