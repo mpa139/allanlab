@@ -52,13 +52,13 @@ Yay! You have an account and you're ready to go.  Let's do it.
 
 1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`. 
 
-- On a Mac or Linux machine, open up Terminal and type the following command:
+- **On a Mac or Linux machine**, open up Terminal and type the following command:
 
 `ssh your-user-name@bigred3.uits.iu.edu`
 
 Where your-user-name is your IU username. You will be prompted for a password.  Type in your IU password.
 
-- On Windows you will open up [PuTTY](https://www.putty.org/) and ssh into bigred3.uits.iu.edu with your IU username and password.
+- **On Windows** you will open up [PuTTY](https://www.putty.org/) and ssh into bigred3.uits.iu.edu with your IU username and password.
 
 2. Once you've logged in with your IU username and password you will be prompted to authenticate via DUO.  Follow the instructions.
 3. You should see a welcome message that looks something like this:
