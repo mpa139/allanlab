@@ -1,4 +1,10 @@
-
+---
+title: "Vision in Action Lab - Positions"
+layout: textlay
+excerpt: "IU Supercomputers -- Getting Started"
+sitemap: false
+permalink: /resources/getting-started-iu-supercomputers
+---
 
 # Getting Started on IU's supercomputers
 
