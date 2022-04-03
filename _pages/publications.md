@@ -1,13 +1,14 @@
 ---
-title: "Bonnen Lab - Publications"
+title: "Vision in Action Lab - Publications"
 layout: gridlay
-excerpt: "Bonnen Lab -- Publications."
+excerpt: "Vision in Action Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+
+<h1 align="center">Publications</h1>  
 
 ## Highlights
 

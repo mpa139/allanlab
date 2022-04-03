@@ -2,11 +2,11 @@
   photo: kathryn-bonnen.jpg
   info: Principle Investigator
   department: 
-  link: 
+  link: bonnen
 
 - name: "This could be you !"
   photo: sunglasses.png
-  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info
+  info: See <a href="/positions">openings</a> for more info
   # department:
   # link:
 

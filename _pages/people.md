@@ -1,12 +1,13 @@
 ---
-title: "Bonnen Lab - People"
+title: "Vision in Action Lab - People"
 layout: gridlay
-excerpt: "Bonnen Lab: People"
+excerpt: "Vision in Action Lab: People"
 sitemap: false
 permalink: /people/
 ---
 
-# Group Members
+
+<h1 align="center">Group Members</h1>
 
  **We are  looking for new students and postdocs to join the team** [(see openings)]({{site.url}}{{site.baseurl}}/positions) **!**
 
@@ -24,8 +25,12 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-4 clearfix" style="text-align:center;align:center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-rounded" width="50%" style="float:top"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-rounded" width="66%" style="float:top"/>
+  {% if member.link != nil %}
+  <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
+  {% else %}
   <h4>{{ member.name }}</h4>
+  {% endif %}
   <strong>{{ member.info }} <br/> {{ member.department }}</strong>
   <ul style="overflow: hidden">
   </ul>
@@ -59,7 +64,7 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-4 clearfix" style="text-align:center;align:center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-rounded" width="50%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-rounded" width="66%" />
   <h4>{{ member.name }}</h4>
   <strong>{{member.info}} <br/> {{ member.duration }} </strong>
   <ul style="overflow:hidden;text-align:left">

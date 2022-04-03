@@ -1,12 +1,13 @@
 ---
-title: "Bonnen Lab - Resources"
+title: "Vision in Action Lab - Resources"
 layout: textlay
-excerpt: "Bonnen Lab -- Resources"
+excerpt: "Vision in Action Lab -- Resources"
 sitemap: false
 permalink: /resources/
 ---
 
-# Resources
+
+<h1 align="center">Resources</h1>
 
 Coming Soon!
 

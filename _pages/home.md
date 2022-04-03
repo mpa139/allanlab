@@ -1,19 +1,27 @@
 ---
-title: "Bonnen Lab - Home"
+title: "Vision in Action Lab - Home"
 layout: homelay
-excerpt: "Bonnen Lab at Indiana University."
+excerpt: "Vision in Action Lab at Indiana University."
 sitemap: false
 permalink: /
 ---
 
-![neurons]({{site.url}}{{site.baseurl}}/images/neurons.jpeg){:class="img-responsive"} 
-*ustas - stock.adobe.com*
+<img src="{{ site.url }}{{ site.baseurl }}/images/home-page-strip.png" class="img-rounded" width="100%"/>
+<!-- ![neurons]({{site.url}}{{site.baseurl}}/images/neurons.jpeg){:class="img-rounded" width=50%} 
+*ustas - stock.adobe.com* -->
+  
+
+**The Vision in Action Lab**, led by [Dr. Kathryn Bonnen](/people/bonnen), studies visual perception, sensorimotor systems and the neural computations that underlie them. Our research relies on behavioral measurements (psychophysics, eye tracking, body motion capture) and computational modeling (of behavior, neural processing and the world).  We borrow neural data from our friends and collaborators. We strive, even in our laboratory experiments, to understand the visual system and sensorimotor systems in contexts relevant to daily life (e.g., walking, balance, object tracking). In the lab we use both typical visual displays and virtual reality. Sometimes we go hiking for science... 
+
+**Ultimately we are scientists, engineers, tinkerers, and dreamers who want to understand how the brain solves the immensely difficult problems involved in gathering information in the world and acting on it.**
+
+We are located in the [School of Optometry](https://optometry.iu.edu/) at [Indiana University](https://www.indiana.edu/) and are affiliated with a number of departments and cross-disciplinary programs, including the Graduate programs in Neuroscience and Cognitive Science. 
+
+**We are currently looking for passionate new PhD students, Postdocs, and Masters students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 
-We are a research group at the [Indiana University](https://www.indiana.edu/) [School of Optometry](https://optometry.iu.edu/). Our aim is to .... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget cursus erat. Quisque nec libero non ligula tincidunt posuere nec et urna.  
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget cursus erat. Quisque nec libero non ligula tincidunt posuere nec et urna. Pellentesque bibendum arcu venenatis, malesuada elit vel, ultricies nibh. Etiam pretium, diam a elementum malesuada, est urna condimentum metus, eu molestie lectus justo sit amet dolor. Aliquam pretium fermentum pretium. Nunc sagittis lacus id commodo pellentesque. Praesent in nibh elementum turpis placerat tristique eget eu nulla. Etiam sollicitudin ullamcorper varius. Sed ullamcorper sapien eu dui lacinia molestie. Fusce consequat magna maximus ligula interdum, tincidunt lacinia lorem fermentum. Vivamus gravida velit ante, id volutpat leo rutrum ac. Praesent dui neque, malesuada quis justo quis, porta venenatis tortor. 
 
 <!-- <ul>
   {% for post in site.posts %}
@@ -24,8 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget cursus erat
 </ul>
  -->
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+ 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
