@@ -33,8 +33,19 @@ On the supercomputer
 Slate-project storage is found at: `/N/project/your-project-name`
 Slate storage is found at: `/N/slate/your-user-name`
 
+## Using RED desktop
+IU provides this very cool tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
 
-## Logging in to the supercomputer for the first time
+Once you have your Carbonate account, there are two ways to get to RED desktop.
+1. [Download, install, and configure ThinLinc Client.](https://kb.iu.edu/d/aput)
+2. Use your web browser and navigate to [https://red.uits.iu.edu](https://red.uits.iu.edu). If prompted, log in with your IU username and passphrase.
+
+Then it's like a desktop.  You'll see your home directory on the desktop, as well as slurm which is the job manager.  If you go up a directory, then you'll see the path of your home directory is /N/u/kbonnen/Carbonate.  You can also navigate to other storage locations from here (like slate and slate-project, see [section on Storage](#storage) above. 
+
+Note: Most of the documentation provided here will focus on using the commandline to accomplish tasks, but I suspect that almost anything can also be done from RED desktop.
+
+
+## Using Command-line -- Logging in to the supercomputer for the first time
 Yay! You have an account and you're ready to go.  Let's do it.
 
 1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`. 
@@ -63,7 +74,6 @@ Where your-user-name is your IU username. You will be prompted for a password.  
 
 ## Running your first slurm job.
 
-
 ## An easier way to log-in
 coming soon -- (for Mac and Linux users)
 #### Part 1 -- typing bigred 
@@ -71,15 +81,6 @@ coming soon -- (for Mac and Linux users)
 #### Part 2 -- encryption keys
 
 ## Using Sublime as your text editor
-
-## Using RED desktop
-IU provides this very cool tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
-
-Once you have your Carbonate account, there are two ways to get to RED desktop.
-1. [Download, install, and configure ThinLinc Client.](https://kb.iu.edu/d/aput)
-2. Use your web browser and navigate to [https://red.uits.iu.edu](https://red.uits.iu.edu). If prompted, log in with your IU username and passphrase.
-
-Then it's like a desktop.  You'll see your home directory on the desktop, as well as slurm which is the job manager.  If you go up a directory, then you'll see the path of your home directory is /N/u/kbonnen/Carbonate.  You can also navigate to other storage locations from here (like slate and slate-project, see [section on Storage](#storage) above. 
 
 ## Moving / Copying large amounts of data
 coming soon -- [Globus](https://kb.iu.edu/d/bdqp)
