@@ -33,6 +33,12 @@ On the supercomputer
 slate-project storage is found at: `/N/project/your-project-name`\
 slate storage is found at: `/N/slate/your-user-name`
 
+Current Slate-Project Accounts
+| Name of slate-project partition | Description |
+| ------------------------------- | ----------- |
+| infant-image-statistics  | Collaboration with Linda Smith's lab on XXXXXX dataset. |
+
+
 ## Using RED desktop
 IU provides this very cool tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
 
@@ -72,6 +78,14 @@ Where your-user-name is your IU username. You will be prompted for a password.  
 
 ### Running your first slurm job.
 
+Follow the directions here: [https://kb.iu.edu/d/bdpj](https://kb.iu.edu/d/bdpj), which will show you how to run your first slurm job with matlab. The principles are largely the same for any other programming language / processing strategy.
+
+### Running interactive sessions.
+
+Sometimes you'll want to run an interactive session.  If you're working in Matlab, you'll want to log-in to Carbonate follow the directions found here: [https://kb.iu.edu/d/bdpj#run](https://kb.iu.edu/d/bdpj#run).
+
+coming soon -- instructions for interactive jupyter notebook.
+
 ### An easier way to log-in
 coming soon -- (for Mac and Linux users)
 #### Part 1 -- typing bigred 
@@ -83,5 +97,3 @@ coming soon -- (for Mac and Linux users)
 ## Moving / Copying large amounts of data
 coming soon -- [Globus](https://kb.iu.edu/d/bdqp)
 
-## List of Current Slate-Project Accounts
-infant-image-statistics:  Collaboration with Linda Smith's lab on XXXXXX dataset.
