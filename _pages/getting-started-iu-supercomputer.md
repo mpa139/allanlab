@@ -30,8 +30,8 @@ In general the HPC support folks are responsive and helpful. When you reach out 
 On each supercomputer you will have a home directory with an allocation of 100GB.  You may also request additional storage (default 800GB and up to 1.6TB) on Slate.  For projects with larger storage needs or a project with data shared across multiple users, we can request space on Slate-Project where we can request up to 15TB for free (with charges for larger storage requests).
 
 On the supercomputer
-Slate-project storage is found at: `/N/project/your-project-name`
-Slate storage is found at: `/N/slate/your-user-name`
+slate-project storage is found at: `/N/project/your-project-name`\
+slate storage is found at: `/N/slate/your-user-name`
 
 ## Using RED desktop
 IU provides this very cool tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
