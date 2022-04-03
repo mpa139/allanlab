@@ -45,7 +45,7 @@ Then it's like a desktop.  You'll see your home directory on the desktop, as wel
 Note: Most of the documentation provided here will focus on using the commandline to accomplish tasks, but I suspect that almost anything can also be done from RED desktop.
 
 
-## Accomplishign tasks on the supercomputer (commandline)
+## Accomplishing tasks on the supercomputer (commandline)
 
 ### Logging in to the supercomputer for the first time
 Yay! You have an account and you're ready to go.  Let's do it.
