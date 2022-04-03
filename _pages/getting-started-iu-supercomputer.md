@@ -29,6 +29,10 @@ In general the HPC support folks are responsive and helpful. When you reach out 
 
 On each supercomputer you will have a home directory with an allocation of 100GB.  You may also request additional storage (default 800GB and up to 1.6TB) on Slate.  For projects with larger storage needs or a project with data shared across multiple users, we can request space on Slate-Project where we can request up to 15TB for free (with charges for larger storage requests).
 
+On the supercomputer
+Slate-project storage is found at: `/N/project/your-project-name`
+Slate storage is found at: `/N/slate/your-user-name`
+
 
 ## Logging in to the supercomputer for the first time
 Yay! You have an account and you're ready to go.  Let's do it.
@@ -56,23 +60,29 @@ Where your-user-name is your IU username. You will be prompted for a password.  
 ...`
   
   4. Congratulations!!
-  
-  
+
+## Running your first slurm job.
 
 
 ## An easier way to log-in
-Coming soon... (for Mac and Linux users)
-#### Part 1 -- typing bigred -->
+coming soon -- (for Mac and Linux users)
+#### Part 1 -- typing bigred 
 
 #### Part 2 -- encryption keys
 
 ## Using Sublime as your text editor
 
-## Using RED desktop (a.k.a. I don't like this command-line stuff)
+## Using RED desktop
+IU provides this very cool tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
 
+Once you have your Carbonate account, there are two ways to get to RED desktop.
+1. [Download, install, and configure ThinLinc Client.](https://kb.iu.edu/d/aput)
+2. Use your web browser and navigate to [https://red.uits.iu.edu](https://red.uits.iu.edu). If prompted, log in with your IU username and passphrase.
+
+Then it's like a desktop.  You'll see your home directory on the desktop, as well as slurm which is the job manager.  If you go up a directory, then you'll see the path of your home directory is /N/u/kbonnen/Carbonate.  You can also navigate to other storage locations from here (like slate and slate-project, see [section on Storage](#storage) above. 
 
 ## Moving / Copying large amounts of data
-globus
+coming soon -- [Globus](https://kb.iu.edu/d/bdqp)
 
 ## List of Current Slate-Project Accounts
 infant-image-statistics:  Collaboration with Linda Smith's lab on XXXXXX dataset.
