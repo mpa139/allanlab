@@ -63,14 +63,14 @@ Where your-user-name is your IU username. You will be prompted for a password.  
 2. Once you've logged in with your IU username and password you will be prompted to authenticate via DUO.  Follow the instructions.
 3. You should see a welcome message that looks something like this:
 
-`Last login: Sun Apr  3 17:09:55 2022 from 149.161.198.253
-  ****************************************************************************
+` Last login: Sun Apr  3 17:09:55 2022 from 149.161.198.253
+ 
             Welcome to Indiana University's Big Red 3 Cluster
                Email questions and comments to hps-admin@iu.edu.
 
         For information about this cluster see https://kb.iu.edu/d/aoku.
-  ****************************************************************************
-...`
+
+... `
   
   4. Congratulations!!
 
