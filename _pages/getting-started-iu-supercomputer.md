@@ -50,19 +50,17 @@ Note: Most of the documentation provided here will focus on using the commandlin
 ### Logging in to the supercomputer for the first time
 Yay! You have an account and you're ready to go.  Let's do it.
 
-1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`. 
+1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`.\
+**On a Mac or Linux machine**, open up Terminal and type the following command:\
+`ssh your-user-name@bigred3.uits.iu.edu`\
+Where your-user-name is your IU username. You will be prompted for a password.  Type in your IU password.\
+\
+**On Windows** you will open up [PuTTY](https://www.putty.org/) and ssh into bigred3.uits.iu.edu with your IU username and password.
 
-- **On a Mac or Linux machine**, open up Terminal and type the following command:
-
-`ssh your-user-name@bigred3.uits.iu.edu`
-
-Where your-user-name is your IU username. You will be prompted for a password.  Type in your IU password.
-
-- **On Windows** you will open up [PuTTY](https://www.putty.org/) and ssh into bigred3.uits.iu.edu with your IU username and password.
 
 2. Once you've logged in with your IU username and password you will be prompted to authenticate via DUO.  Follow the instructions.
-3. You should see a welcome message that looks something like this:
 
+3. You should see a welcome message that looks something like this:  
 > Last login: Sun Apr  3 17:09:55 2022 from 149.161.198.253
 >
 >            Welcome to Indiana University's Big Red 3 Cluster
@@ -70,7 +68,7 @@ Where your-user-name is your IU username. You will be prompted for a password.  
 >
 >        For information about this cluster see https://kb.iu.edu/d/aoku.
   
-  4. Congratulations!!
+  4. Congratulations!! Now you should be able to navigate, manage files, etc. just like you learned in [Software Carpentries Unix Shell Lesson](http://swcarpentry.github.io/shell-novice)
 
 ### Running your first slurm job.
 
