@@ -14,7 +14,9 @@ Note -- We have had some difficulty with initial user accounts on this system.  
 
  `Unable to allocate resources: Invalid account or account/partition combination specified.`
  
-Then you should reach out to the [High Performance Systems](https://mailform.kb.iu.edu/email.php?cid=26) team and describe the error.  They should be able to finalize your account and resolve the issue.  In general the HPC support folks are responsive and helpful. When you reach out to them, please always describe the problem in detail (including what system you were on, what you were trying to do, what error you received).  The way to think about it is that they need to be able to reproduce the problem in order to solve it.
+You should reach out to the [High Performance Systems](https://mailform.kb.iu.edu/email.php?cid=26) team and describe the error.  They should be able to finalize your account and resolve the issue.  
+
+In general the HPC support folks are responsive and helpful. When you reach out to them, please always describe the problem in detail (including what system you were on, what you were trying to do, what error you received).  The way to think about it is that they need to be able to reproduce the problem in order to solve it.
 
 ### Storage
 [A current overview of the storage available in conjunction with IU's supercomputers](https://kb.iu.edu/d/avkm).
@@ -23,16 +25,48 @@ On each supercomputer you will have a home directory with an allocation of 100GB
 
 
 ## Logging in to the supercomputer for the first time
+Yay! You have an account and you're ready to go.  Let's do it.
+
+1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`. 
+
+- On a Mac or Linux machine, open up Terminal and type the following command:
+
+`ssh your-user-name@bigred3.uits.iu.edu`
+
+Where your-user-name is your IU username. You will be prompted for a password.  Type in your IU password.
+
+- On Windows you will open up [PuTTY](https://www.putty.org/) and ssh into bigred3.uits.iu.edu with your IU username and password.
+
+2. Once you've logged in with your IU username and password you will be prompted to authenticate via DUO.  Follow the instructions.
+3. You should see a welcome message that looks something like this:
+
+`Last login: Sun Apr  3 17:09:55 2022 from 149.161.198.253
+  ****************************************************************************
+            Welcome to Indiana University's Big Red 3 Cluster
+               Email questions and comments to hps-admin@iu.edu.
+
+        For information about this cluster see https://kb.iu.edu/d/aoku.
+  ****************************************************************************
+...`
+  
+  4. Congratulations!!
+  
+  
 
 
 ## An easier way to log-in
+Coming soon... (for Mac and Linux users)
+#### Part 1 -- typing bigred -->
+
+#### Part 2 -- encryption keys
 
 ## Using Sublime as your text editor
 
 ## Using RED desktop (a.k.a. I don't like this command-line stuff)
 
-## Moving / Copying large amounts of data
-Use rclone...
 
-## Current Slate-Project Accounts
-Infant-Image-Statistics
+## Moving / Copying large amounts of data
+globus
+
+## List of Current Slate-Project Accounts
+infant-image-statistics:  Collaboration with Linda Smith's lab on XXXXXX dataset.
