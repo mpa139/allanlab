@@ -10,7 +10,7 @@ permalink: /resources/getting-started-iu-supercomputers
 
 Prerequisites: These instructions will assume that you're familiar with the material covered in [Software Carpentries Unix Shell Lesson](http://swcarpentry.github.io/shell-novice).  This lesson material will cover how to use the shell to move around and manipulate files on a computer.  You may also be interested in [learning some about version control](https://swcarpentry.github.io/git-novice/) as the code the lab deploys on the supercomputer is managed with git.
 
-### Carbonate and Big Red 3
+## Carbonate and Big Red 3
 The lab works primarily on two of the supercomputers, Carbonate (Matlab works more readily on this one) and Big Red 3.
 
 ## Create computing accounts.
@@ -24,7 +24,7 @@ You should reach out to the [High Performance Systems](https://mailform.kb.iu.ed
 
 In general the HPC support folks are responsive and helpful. When you reach out to them, please always describe the problem in detail (including what system you were on, what you were trying to do, what error you received).  The way to think about it is that they need to be able to reproduce the problem in order to solve it.
 
-### Storage
+## Storage
 [A current overview of the storage available in conjunction with IU's supercomputers](https://kb.iu.edu/d/avkm).
 
 On each supercomputer you will have a home directory with an allocation of 100GB.  You may also request additional storage (default 800GB and up to 1.6TB) on Slate.  For projects with larger storage needs or a project with data shared across multiple users, we can request space on Slate-Project where we can request up to 15TB for free (with charges for larger storage requests).
@@ -45,7 +45,9 @@ Then it's like a desktop.  You'll see your home directory on the desktop, as wel
 Note: Most of the documentation provided here will focus on using the commandline to accomplish tasks, but I suspect that almost anything can also be done from RED desktop.
 
 
-## Using Command-line -- Logging in to the supercomputer for the first time
+## Accomplishign tasks on the supercomputer (commandline)
+
+### Logging in to the supercomputer for the first time
 Yay! You have an account and you're ready to go.  Let's do it.
 
 1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`. 
@@ -72,15 +74,15 @@ Where your-user-name is your IU username. You will be prompted for a password.  
   
   4. Congratulations!!
 
-## Running your first slurm job.
+### Running your first slurm job.
 
-## An easier way to log-in
+### An easier way to log-in
 coming soon -- (for Mac and Linux users)
 #### Part 1 -- typing bigred 
 
 #### Part 2 -- encryption keys
 
-## Using Sublime as your text editor
+### Using Sublime as your text editor
 
 ## Moving / Copying large amounts of data
 coming soon -- [Globus](https://kb.iu.edu/d/bdqp)
