@@ -1,4 +1,4 @@
-# Allan Lab Website
+# The Vision in Action Lab
 
 This is the website of our academic research group at Indiana University.
 
