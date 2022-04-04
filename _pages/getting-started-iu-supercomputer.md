@@ -76,15 +76,25 @@ Where your-user-name is your IU username. You will be prompted for a password.  
   
   4. Congratulations!! Now you should be able to navigate, manage files, etc. just like you learned in [Software Carpentries Unix Shell Lesson](http://swcarpentry.github.io/shell-novice)
 
-### Running your first slurm job.
+### Running your first job on the supercomputers.
 
-Follow the directions here: [https://kb.iu.edu/d/bdpj](https://kb.iu.edu/d/bdpj), which will show you how to run your first slurm job with matlab. The principles are largely the same for any other programming language / processing strategy.
+The supercomputers rely on a job manager called slurm. These are a set of [directions to run your first slurm job on the IU super computers.](https://kb.iu.edu/d/bdpj).  The guide which will show you how to run a matlab script. The principles are largely the same for any other programming language / processing strategy.
+
+Note: There may be an error in the Slurm submission script (step 2). If it doesn't work, you'll need add a line loading the matlab module during the job. Put the following line after the last line containing #SBATCH:
+
+`module load matlab`
+
+coming soon -- instructions for python
 
 ### Running interactive sessions.
 
-Sometimes you'll want to run an interactive session.  If you're working in Matlab, you'll want to log-in to Carbonate follow the directions found here: [https://kb.iu.edu/d/bdpj#run](https://kb.iu.edu/d/bdpj#run).
+Sometimes you'll want to run an interactive session.  
 
-coming soon -- instructions for interactive jupyter notebook.
+- [Running an interactive session in MATLAB on Carbonate.](https://kb.iu.edu/d/bdpj#run).
+
+- coming soon -- instructions for interactive jupyter notebook on Mac/Linux
+
+- [Instructions for interactive jupyter notebook on Windows.](https://blogs.iu.edu/ncgas/2021/05/07/tunneling-a-jupyter-notebook-from-an-hpc/)
 
 ### An easier way to log-in
 coming soon -- (for Mac and Linux users)
