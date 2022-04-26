@@ -35,10 +35,10 @@ We are a dynamic research group at the [Sunnybrook Research Institute](https://s
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide4_home.jpg" alt="Slide 4" />
         </div>
-        <!-- <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide4_home.jpg.jpg" alt="Slide 5" />
         </div>       
-         <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div> -->
     </div>
