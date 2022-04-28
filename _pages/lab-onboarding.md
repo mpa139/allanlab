@@ -32,7 +32,7 @@ An example:
       department: Data Science, Luddy School
       link: [personal website](https://joanne-smith.com)
   
- You are welcome to create a person page hosted here as well or you can put it in your separate/external page. Place it in the folder pages/individuals/ and then simply put the name of the .md file next to link (see Kate's, bonnen.md, for an example).  You can also leave the link line off if you'd prefer not to have a personal page or you want to add it later.
+If you don't have a personal website, you are welcome to create a personal page hosted here. Place it in the folder pages/individuals/ and then simply put the name of the .md file next to link (see Kate's, bonnen.md, for an example).  You can also leave off the link if you'd prefer not to have a personal page or you want to add it later.
  
 Example without link:
 
