@@ -1,5 +1,5 @@
 - name: Jesse Chao
-  photo:
+  photo: jesse_profile.jpg
   info: Scientist and Assistant Professor
   email: jesse.chao@sunnybrook.ca
   number_educ: 4
@@ -9,7 +9,7 @@
   education4: Postdoc, University of British Columbia
 
 - name: Kaitlynn Meier-Ross
-  photo:
+  photo: kaitlynn_profile.jpg
   info: Research Technician
   email: kaitlynn.meier-ross@sri.utoronto.ca
   number_educ: 1
@@ -23,7 +23,7 @@
   education1: B.Sc. Honours, University of Toronto
   
 - name: Shrey Acharya
-  photo:
+  photo: shrey_profile.jpg
   info: Summer Research Student
   email: achars7@mcmaster.ca
   number_educ: 2
