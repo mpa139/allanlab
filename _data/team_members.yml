@@ -21,6 +21,13 @@
   email: ajay.singh@sri.utoronto.ca
   number_educ: 1
   education1: B.Sc. Honours, University of Toronto
+  
+- name: Shrey Acharya
+  photo:
+  info: Summer Research Student
+  email: achars7@mcmaster.ca
+  number_educ: 2
+  education1: B.HSc. Honours, McMaster University
 
 - name: "This could be you !"
   photo: rock.jpg
