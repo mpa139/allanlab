@@ -1,3 +1,11 @@
+---
+title: "Vision in Action Lab - Lab Onboarding"
+layout: textlay
+excerpt: "Lab Onboarding"
+sitemap: false
+permalink: /resources/lab-onboarding
+---
+
 # Welcome to the Vision in Action Lab!
 
 There are few things we need you to do in order to get started.
