@@ -2,7 +2,7 @@
 
 There are few things we need you to do in order to get started.
 
-## A. Join the Discord
+## A. Join the Slack
 This is where we troubleshoot problems, discuss science, and manage logistics when we cannot be together in-person.  If you haven't received a link, then you should ask one of your labmates (or Kate) to invite you.
 
 ## B. Join the Lab Github 
