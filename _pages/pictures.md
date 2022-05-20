@@ -1,11 +1,11 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Sanford Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Sanford Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
+<!-- # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
@@ -75,4 +75,4 @@ From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
+</figure> -->
