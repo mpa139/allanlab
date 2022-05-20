@@ -1,6 +1,15 @@
+---
+title: "Vision in Action Lab - Lab Onboarding"
+layout: textlay
+excerpt: "Lab Onboarding"
+sitemap: false
+permalink: /resources/lab-onboarding
+---
+
 # Welcome to the Vision in Action Lab!
 
 There are few things we need you to do in order to get started.
+
 
 ## A. Join the Slack
 This is where we troubleshoot problems, discuss science, and manage logistics when we cannot be together in-person.  If you haven't received a link, then you should ask one of your labmates (or Kate) to invite you.
