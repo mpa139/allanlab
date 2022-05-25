@@ -165,7 +165,7 @@ permalink: /people/
 
 
 
-## Affiliated PhD Mentees
+## Co-advised PhD
 {% assign number_printed = 0 %}
 {% for member in site.data.affiliated %}
 
