@@ -554,9 +554,9 @@ permalink: /people/
 
 
 
-## Former Interns
+## Former Members
 {% assign number_printed = 0 %}
-{% for member in site.data.former_intern %}
+{% for member in site.data.former %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
