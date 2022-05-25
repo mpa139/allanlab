@@ -47,7 +47,7 @@
   photo: XinranPan.png
   info: High School Student
   email: 
-  number_educ: 0
+  number_educ: 1
   education1: Summer 2021
   education2: 
   education3: 
@@ -107,7 +107,7 @@
   photo: NoPhoto.png
   info: Computer Science, Economics, & Mathematics BS
   email: ao.qu@vanderbilt.edu
-  number_educ: 0
+  number_educ: 1
   education1: Fall 2021
   education2: 
   education3: 
@@ -122,7 +122,7 @@
   photo: ColeSawyer.png
   info: Computer Science MS
   email: cole.g.sawyer@vanderbilt.edu
-  number_educ: 0
+  number_educ: 1
   education1: Fall 2020 - Summer 2021
   education2: 
   education3: 
@@ -137,7 +137,7 @@
   photo: KaylaJohnson.png
   info: Data Science MS
   email: kayla.johnson.1@vanderbilt.edu
-  number_educ: 1
+  number_educ: 2
   education1: Awarded the NISE Graduate Trainee Fellowship
   education2: Spring 2021 - Spring 2022
   education3: 
