@@ -5,7 +5,7 @@
   headline: "<b>3 papers accepted to KDD'22!</b>"
 
 - date: 5/2022
-  headline: "<b>Yu awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper <a href=\"https://arxiv.org/pdf/2108.11022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a>!</b>"
+  headline: "<b>Yu awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper <a href=\"https://dl.acm.org/doi/abs/10.1145/3459637.3482487\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a>!</b>"
 
 - date: 4/2021
   headline: "<b> CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to IEEE ICDM'22!</b>"
