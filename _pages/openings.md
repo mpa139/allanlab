@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We currently are open for PhD and postdoc positions related to our ERC CoG grant starting (probably) early 2023. These are mostly related to our Electron Pair Microscopy work.**
+**We currently are open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 
 We are  looking for new group members with passion, talent, and grit!
 
