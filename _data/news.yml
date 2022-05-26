@@ -29,7 +29,7 @@
   headline: "<b>Yu is accepted to present his work on Overcoming Data Quality Issues for Graph Neural Networks at WSDM'22 Doctoral Consortium!</b>"
 
 - date: 3/2022
-  headline: "<b>Our book chapter <a href=\"https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is published in the new edited Springer book <a href=\"https://graph-neural-networks.github.io/" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Foundations, Frontiers, and Applications</a>!</b>"
+  headline: "<b>Our book chapter <a href=\"https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is published in the new edited Springer book <a href=\"https://graph-neural-networks.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Foundations, Frontiers, and Applications</a>!</b>"
 
 - date: 2/2022
   headline: "<b>Our open-source library <a href=\"https://github.com/astrazeneca/chemicalx\" target=\"_blank\" rel=\"noopener noreferrer\">ChemicalX: A Deep Learning Library for Drug Pair Scoring</a> is released in collaboration with AstraZeneca and Harvard Medical School (and accepted at KDD'22)!</b>"
