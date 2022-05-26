@@ -77,32 +77,32 @@ Preprint, 2021
 
 [Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)\
 Yu Wang and Tyler Derr\
-In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conf., November 1-5, 2021
 
 [Deep Adversarial Network Alignment](https://tylersnetwork.github.io/papers/deep_adversarial_network_alignment.pdf)\
 Tyler Derr, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang\
-In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conf., November 1-5, 2021
 
 [Graph Feature Gating Network](https://nds-vu.github.io/publications/)\
 Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu Aggarwal and Jiliang Tang\
-In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conf., November 1-5, 2021
 
 [Road to the White House: Analyzing the Relations Between Mainstream and Social Media During the U.S. Presidential Primaries](https://arxiv.org/pdf/2009.09307.pdf)\
 Aaron Brookhouse\*, Tyler Derr\* , Hamid Karimi\*, H. Russell Bernard, and Jiliang Tang\
-In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual Conference, August 30 - September 2, 2021
+In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual Conf., August 30 - September 2, 2021
 
 [Interpretable Visual Understanding with Cognitive Attention Network](https://tylersnetwork.github.io/papers/icann21-visual_understanding_cognitive_attention_ntework.pdf)\
 Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, Tyler Derr, Mengyu Wang, Eirini Ntoutsi\
-In Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN), Virtual Conference, September 14-17, 2021
+In Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN), Virtual Conf., September 14-17, 2021
 <!-- \[Code [https://github.com/tanjatang/CAN repo]\] -->
 
 [Graph Adversarial Attack via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)\
 Yao Ma, Suhang Wang, Tyler Derr, Lingfei Wu, and Jiliang Tang\
-In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conference), August 14-18, 2021
+In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conf.), August 14-18, 2021
 
 [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](https://tylersnetwork.github.io/papers/aaai21-hypergraph_attention_stock_selection.pdf)\
 Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Tyler Derr, Rajiv Shah\
-In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), Virtual Conference, February 2-9, 2021
+In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), Virtual Conf., February 2-9, 2021
 
 [Node Similarity Preserving Graph Convolutional Networks](https://tylersnetwork.github.io/papers/wsdm21-node_similarity_preserving_gcn.pdf)\
 Wei Jin, Tyler Derr, Yiqi Wang, Yao Ma, Zitao Liu, Jiliang Tang\
