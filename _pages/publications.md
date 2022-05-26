@@ -54,11 +54,11 @@ Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, and Tyler Derr\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
 [On Structural Explanation of Bias in Graph Neural Networks](https://nds-vu.github.io/publications/)\
-Yushun Dong, Song Wang, Yu Wang, Tyler Derr, Jundong Li\
+Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
 [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://arxiv.org/pdf/2202.05240.pdf)\
-Benedek Rozemberczki, Charles Hoyt, Anna Gogleva, Piotr Grabowski, Klas Karis, Andrej Lamov, Andriy Nikolov, Sebastian Nilsson, Michael Ughetto, Yu Wang, Tyler Derr, Benjamin Gyori.\
+Benedek Rozemberczki, Charles Hoyt, Anna Gogleva, Piotr Grabowski, Klas Karis, Andrej Lamov, Andriy Nikolov, Sebastian Nilsson, Michael Ughetto, Yu Wang, Tyler Derr, and Benjamin Gyori.\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
 [Graph Neural Networks: Self-supervised Learning](https://graph-neural-networks.github.io/gnnbook_Chapter18.html)\
