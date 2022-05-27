@@ -4,13 +4,17 @@
   department: 
   link: bonnen
 
-- name: "This could be you !"
-  photo: sunglasses.png
-  info: See <a href="/positions">openings</a> for more info
-  # department:
-  # link:
+- name: Aleks Marijan
+  photo: aleks-marijan.jpg
+  info: O.D. Student Researcher
+  department: School of Optometry
 
 - name: Amy Nguyen
   photo: amy-nguyen.jpg
   info: Optometry Student
-  # department: Optometry
+  department: School of Optometry
+
+- name: Kaitlyn Young
+  photo: kaitlyn-young.jpg
+  info: Undergraduate
+  department: Microbiology, Clarinet Performance
