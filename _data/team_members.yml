@@ -7,7 +7,12 @@
 - name: Aleks Marijan
   photo: aleks-marijan.jpg
   info: O.D. Student Researcher
-  department: School of Optometry, Indiana University
+  department: School of Optometry
+
+- name: Amy Nguyen
+  photo: amy-nguyen.jpg
+  info: Optometry Student
+  department: School of Optometry
 
 - name: Kaitlyn Young
   photo: kaitlyn-young.jpg
