@@ -4,13 +4,8 @@
   department: 
   link: bonnen
 
-- name: "This could be you !"
-  photo: sunglasses.png
-  info: See <a href="/positions">openings</a> for more info
-  # department:
-  # link:
-
 - name: Aleks Marijan
-photo: aleks-marijan.jpg
-info: O.D. Student Researcher
-department: School of Optometry, Indiana University
+  photo: aleks-marijan.jpg
+  info: O.D. Student Researcher
+  department: School of Optometry, Indiana University
+
