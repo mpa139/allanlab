@@ -39,8 +39,8 @@ Current Slate-Project Accounts
 | infant-image-statistics  | Collaboration with Linda Smith's lab on XXXXXX dataset. |
 
 
-## Using RED desktop
-IU provides this very cool tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
+## Using RED desktop (Graphical user interface for the supercomputer)
+IU provides this tool to make the supercomputing resources more accessible to all users, particular those new to programming, computing and supercomputers.  Using [RED desktop](https://kb.iu.edu/d/apum), you're able to interact with the supercomputers using a desktop interface.  You will still need to [create a Carbonate account](https://access.iu.edu/Accounts/Create) using the same process I've described above.
 
 Once you have your Carbonate account, there are two ways to get to RED desktop.
 1. [Download, install, and configure ThinLinc Client.](https://kb.iu.edu/d/aput)
@@ -51,9 +51,9 @@ Then it's like a desktop.  You'll see your home directory on the desktop, as wel
 Note: Most of the documentation provided here will focus on using the commandline to accomplish tasks, but I suspect that almost anything can also be done from RED desktop.
 
 
-## Accomplishing tasks on the supercomputer (commandline)
+## Accomplishing tasks on the supercomputer (Commandline interface for the supercomputer)
 
-### Logging in to the supercomputer for the first time
+### Logging in
 Yay! You have an account and you're ready to go.  Let's do it.
 
 1. Once your account is created, you can use any SSH2 client to access `bigred3.uits.iu.edu`.\
@@ -76,15 +76,14 @@ Where your-user-name is your IU username. You will be prompted for a password.  
   
   4. Congratulations!! Now you should be able to navigate, manage files, etc. just like you learned in [Software Carpentries Unix Shell Lesson](http://swcarpentry.github.io/shell-novice)
 
-### Running your first job on the supercomputers.
+### Running your analyses as jobs on the supercomputers.
 
-The supercomputers rely on a job manager called slurm. These are a set of [directions to run your first slurm job on the IU super computers.](https://kb.iu.edu/d/bdpj).  The guide which will show you how to run a matlab script. The principles are largely the same for any other programming language / processing strategy.
+The supercomputers rely on a job manager called slurm. In addition to the code you've written for your analysis, you'll need to create a slurm script.  IU provides some guidance on how to set up and manage these scripts here: https://kb.iu.edu/d/awrz. Follow the instructions in the sections labeled "About job scripts" and "serial jobs" (https://kb.iu.edu/d/awrz#scripts).
 
-Note: There may be an error in the Slurm submission script (step 2). If it doesn't work, you'll need add a line loading the matlab module during the job. Put the following line after the last line containing #SBATCH:
+- [Another example with specific instructions for running matlab jobs on the IU supercomputers.](https://kb.iu.edu/d/bdpj)  The principles are largely the same for any other programming language.  *Note: There may be an error in the Slurm submission script (step 2). If it doesn't work, you'll need add a line loading the matlab module during the job. Put the following line after the last line containing #SBATCH:*  `module load matlab`
 
-`module load matlab`
+- Running "batch" jobs. This is useful at times when you want to repeat a single analysis on many subjects, or perhaps on subsets of frames simultaneously.  IU doesn't provide great guidance on how to do this, but Kansas does: https://crc.ku.edu/hpc/how-to/arrays.
 
-coming soon -- instructions for python
 
 ### Running interactive sessions.
 
@@ -96,14 +95,11 @@ Sometimes you'll want to run an interactive session.
 
 - [Instructions for interactive jupyter notebook on Windows.](https://blogs.iu.edu/ncgas/2021/05/07/tunneling-a-jupyter-notebook-from-an-hpc/)
 
-### An easier way to log-in
+### An easier way to log-in 
 coming soon -- (for Mac and Linux users)
-#### Part 1 -- typing bigred 
+<!-- #### Part 1 -- typing bigred 
 
 #### Part 2 -- encryption keys
-
+ -->
 ### Using Sublime as your text editor
-
-## Moving / Copying large amounts of data
-coming soon -- [Globus](https://kb.iu.edu/d/bdqp)
-
+coming soon
