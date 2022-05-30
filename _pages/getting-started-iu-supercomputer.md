@@ -78,11 +78,11 @@ Where your-user-name is your IU username. You will be prompted for a password.  
 
 ### Running your analyses as jobs on the supercomputers.
 
-The supercomputers rely on a job manager called slurm. In addition to the code you've written for your analysis, you'll need to create a slurm script.  IU provides some guidance on how to set up and manage these scripts here: https://kb.iu.edu/d/awrz. Follow the instructions in the sections labeled "About job scripts" and "serial jobs" (https://kb.iu.edu/d/awrz#scripts).
+The supercomputers rely on a job manager called slurm. In addition to the code you've written for your analysis, you'll need to create a slurm script.  IU provides some guidance on how to set up and manage these scripts here: [https://kb.iu.edu/d/awrz](https://kb.iu.edu/d/awrz). Follow the instructions in the sections labeled "About job scripts" and "serial jobs" ([https://kb.iu.edu/d/awrz#scripts](https://kb.iu.edu/d/awrz#scripts)).
 
 - [Another example with specific instructions for running matlab jobs on the IU supercomputers.](https://kb.iu.edu/d/bdpj)  The principles are largely the same for any other programming language.  *Note: There may be an error in the Slurm submission script (step 2). If it doesn't work, you'll need add a line loading the matlab module during the job. Put the following line after the last line containing #SBATCH:*  `module load matlab`
 
-- Running "batch" jobs. This is useful at times when you want to repeat a single analysis on many subjects, or perhaps on subsets of frames simultaneously.  IU doesn't provide great guidance on how to do this, but Kansas does: https://crc.ku.edu/hpc/how-to/arrays.
+- Running "batch" jobs. This is useful at times when you want to repeat a single analysis on many subjects, or perhaps on subsets of frames simultaneously.  IU doesn't provide great guidance on how to do this, but Kansas does: [https://crc.ku.edu/hpc/how-to/arrays](https://crc.ku.edu/hpc/how-to/arrays).
 
 
 ### Running interactive sessions.
