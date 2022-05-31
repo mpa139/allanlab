@@ -24,7 +24,7 @@
     url: https://www.science.org/doi/10.1126/science.abe3987
     display: Science 374, 608 (2021)
   highlight: 1
-  news1: See [Research Highlight in Nature Physics](https://www.nature.com/articles/s41567-021-01468-w).
+  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Research Highlight in Nature Physics by David Abergel</a>
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
