@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are the youngest lab at the Yale School of the Environment!
+We study environmental policy and governance the Yale School of the Environment!
 
 
 <!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
