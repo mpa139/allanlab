@@ -1,12 +1,12 @@
-- name: Katy Sun
- photo: rock.jpg
- info:
- email:
- number_educ:
- education1:
- education2:
- education3:
- education4:
+# - name: Katy Sun
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
 
 # - name: Thijs van den Munckhof
 #   photo: rock.jpg
