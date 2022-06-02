@@ -1,4 +1,13 @@
 ## 2022
+- title: "Developing an integrated platform to enable hardware-in-the-loop for synchronous VR, traffic simulation and sensor interactions"
+  image:
+  authors: Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K.
+  description:
+  link:
+    url: https://doi.org/10.1016/j.aei.2021.101476
+    display: Journal of Advanced Engineering Informatics, 51, 101476, 2022.
+  highlight: 0
+
 - title: "Estimating Power Demand Shaving Capacity of Buildings on an Urban Scale using Extracted Demand Response Profiles through Machine Learning Models"
   authors: Yu, X., and Ergan, S.
   link:
@@ -14,15 +23,6 @@
   link:
     url: https://doi.org/10.1016/j.aei.2021.101358
     display: Advanced Engineering Informatics, 49, 101358, 2021.
-  
-- title: "An integrated approach to enable Hardware-in-the-loop for realtime VR, traffic simulation and sensor interactions: An Application in work zone safety"
-  image:
-  authors: Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K.
-  description:
-  link:
-    url: 
-    display: Journal of Advanced Engineering Informatics, 2021.
-  highlight: 0
 
 - title: "Extracting building characteristics essential for energy performances from façade images through deep transfer learning"
   image: Direct.png
