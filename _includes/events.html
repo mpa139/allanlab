@@ -1,0 +1,11 @@
+
+<div class="well">
+<h4>Next events</h4>
+
+{% for event in site.data.events limit:3 %}
+<p>{{ event.date }}<br>{{ event.title }}{{ event.picture | markdownify}}</p>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/events/">... see all events</a></h4>
+
+    </div>

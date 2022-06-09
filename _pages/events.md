@@ -1,23 +1,20 @@
 ---
-title: "Allan Lab - Publications"
+title: "BIQ - Events"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "BIQ -- Events"
 sitemap: false
-permalink: /publications/
+permalink: /events/
 ---
 
 
-# Publications
+# Events
 
-## Group highlights
-
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+## Next events
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for event in site.data.events %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -25,13 +22,14 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <pubtit>{{ event.title }} [{{ event.date }}] </pubtit> 
+  {{ event.headline }}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ event.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ event.description }}</p>
+  <p><em>{{ event.authors }}</em></p>
+  <p><strong><a href="{{ event.link.url }}">{{ event.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ event.news1 }}</strong></p>
+  <p> {{ event.news2 }}</p>
  </div>
 </div>
 
@@ -41,7 +39,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -49,19 +46,38 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+## Past events
 
+{% assign number_printed = 0 %}
+{% for past_event in site.data.past_events %}
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+{% assign even_odd = number_printed | modulo: 2 %}
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
-## Full List of publications
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ past_event.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ past_event.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ past_event.description }}</p>
+  <p><em> {{ past_event.description_author }} <a href="{{past_event.author_page}}">{{ past_event.author }}</a></em></p>
+  <p><strong><a href="{{ past_event.link.url }}">{{ past_event.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ past_event.news1 }}</strong></p>
+  <p> {{ past_event.news2 }}</p>
+ </div>
+</div>
 
-{% for publi in site.data.publist %}
+{% assign number_printed = number_printed | plus: 1 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}

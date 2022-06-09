@@ -1,65 +1,90 @@
 - name: Nathan Goldman
   photo: Nathan_Goldman.jpg
-  info: Professor
+  info: Professor (Plaine)
   email: ngoldman@ulb.be
+  webpage: https://www.nathan-goldman-physics.com/
   number_educ: 3
-  education1: Master ULB
-  education2: PhD ULB
-  education3: Postdoc ENS
+  education1: Quantum many-body physics, 
+  education2: Topological Matter, Quantum gases
+  education3: 
 
 - name: Stefano Pironio
   photo: Stefano_Pironio.jpg
-  info: Professor, started Oct 2019
+  info: Professor (Plaine)
+  webpage: None
   email: spironio@ulb.be
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: Quantum correlations, quantum information,
+  education2: quantum foundations
 
 - name: Stephan Clemmen
   photo: Stephan_Clemmen.jpg
-  info: Professor
+  info: Professor (Solbosch)
+  webpage: https://liq.ulb.ac.be/stephane_clemmen/
   email: sclemmen@ulb.be
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  number_educ: 2,
+  education1: Experimental quantum optics,
+  education2: nanophotonics, nonlinear optics
 
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
+- name: Christophe Petit
+  photo: Christophe_Petit.jpg
+  info: Professor (Solbosch)
+  email: 
+  webpage: https://christophe.petit.web.ulb.be/
+  number_educ: 
+  education1: Cryptography, computer algebra,
+  education2: quantum gate synthesis
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
+- name: Serge Massar
+  photo: Serge_Massar.jpg
+  info: Professor (Plaine)
+  email: 
+  webpage: https://liq.ulb.ac.be/serge_massar/
+  number_educ: 
+  education1: Quantum Information, Quantum and 
+  education2: Nonlinear Optics, Neuromorphic Computing
+
+- name: Jeremie Roland
+  photo: Jeremie_Roland.png
+  info: Professor (Solbosch)
+  email: 
+  webpage: http://quic.ulb.ac.be/members/jroland
+  number_educ: 
+  education1: Quantum computation,  
+  education2: quantum algorithms, quantum walks
+
+- name: Ognyan Oreshkov
+  photo: Ognyan_Oreshkov.jpg
+  info: Professor (Solbosch)
+  email: 
+  webpage: http://quic.ulb.ac.be/members/oreshkov
+  number_educ: 
+  education1:  
+  education2: 
+
+- name: Nicolas Cerf
+  photo: Nicolas_Cerf.png
+  info: Professor (Solbosch)
+  email: 
+  webpage: http://quic.ulb.ac.be/members/ncerf
+  number_educ: 
+  education1:  
   education2:
-  education3:
-  education4:
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-  education4:
 
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
