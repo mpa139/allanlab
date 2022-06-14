@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2022
 
+[Inferring EHR Utilization Workflows through Audit Logs](https://nds-vu.github.io/publications/)\
+Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, Tyler Derr, and You Chen\
+AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.
+
 [Fair View Graph Neural Network for Fair Node Representation Learning](https://nds-vu.github.io/publications/)\
 Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, and Tyler Derr\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
@@ -60,6 +64,10 @@ In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Disc
 [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://arxiv.org/pdf/2202.05240.pdf)\
 Benedek Rozemberczki, Charles Hoyt, Anna Gogleva, Piotr Grabowski, Klas Karis, Andrej Lamov, Andriy Nikolov, Sebastian Nilsson, Michael Ughetto, Yu Wang, Tyler Derr, and Benjamin Gyori.\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
+
+[Fair Graph Representation Learning with Imbalanced and Biased Data](https://dl.acm.org/doi/pdf/10.1145/3488560.3502218)\
+Yu Wang.\
+Proceedings of the 15th ACM International Conference on Web Search and Data Mining (WSDM), Virtual Conf., February 21-25, 2022
 
 [Graph Neural Networks: Self-supervised Learning](https://graph-neural-networks.github.io/gnnbook_Chapter18.html)\
 Yu Wang, Wei Jin, and Tyler Derr\
