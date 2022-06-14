@@ -1,3 +1,6 @@
+- date: 6/2022
+  headline: "<b> Yuying's first paper Inferring EHR Utilization Workflows through Audit Logs in NDS Lab is accepted to AMIA'22</b>"
+
 - date: 5/2022
   headline: "<b>Yu's first-author paper Fair View Graph Neural Network for Fair Node Representation Learning is accepted to KDD'22!</b>"
 
@@ -13,6 +16,9 @@
 - date: 3/2021
   headline: "<b>Yi receives the Dean's Graduate Fellowship Award and will join NDS Lab as a new PhD in Fall 2022!</b>"
 
+- date: 1/2022
+  headline: "<b>Yuying and Yu receive Student Travel Awards to present at SDM'22!</b>"
+
 - date: 3/2022
   headline: "<b>Lance receives Nvidia Academic Hardware Grant for his project on Interpretable 3D Graph Neural Networks for Drug Discovery!</b>"
 
@@ -23,10 +29,10 @@
   headline: "<b>Tyler receives Outstanding PC Member Award at WSDM'22! (Credit to NDS subreviewers Yu, Yuying, Lance, Zhaoqing)</b>"
 
 - date: 3/2021
-  headline: "<b>Yuying is accepted to present her work Bridging the Gap between Fairness and Explainability at WSDM'22 Doctoral Consortium!</b>"
+  headline: "<b>Yuying is accepted to present her work Bridging the Gap between Fairness and Explainability at SDM'22 Doctoral Forum!</b>"
 
 - date: 3/2021
-  headline: "<b>Yu is accepted to present his work on Overcoming Data Quality Issues for Graph Neural Networks at WSDM'22 Doctoral Consortium!</b>"
+  headline: "<b>Yu is accepted to present his work on Overcoming Data Quality Issues for Graph Neural Networks at SDM'22 Doctoral Forum!</b>"
 
 - date: 3/2022
   headline: "<b>Our book chapter <a href=\"https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is published in the new edited Springer book <a href=\"https://graph-neural-networks.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Foundations, Frontiers, and Applications</a>!</b>"
@@ -35,7 +41,11 @@
   headline: "<b>Our open-source library <a href=\"https://github.com/astrazeneca/chemicalx\" target=\"_blank\" rel=\"noopener noreferrer\">ChemicalX: A Deep Learning Library for Drug Pair Scoring</a> is released in collaboration with AstraZeneca and Harvard Medical School (and accepted at KDD'22)!</b>"
 
 - date: 1/2022
-  headline: "<b>Yu receives NSF Student Travel Award to attend WSDM'22!</b>"
+  headline: "<b>Yu is accepted to present his work on <a href=\"https://dl.acm.org/doi/pdf/10.1145/3488560.3502218\" target=\"_blank\" rel=\"noopener noreferrer\">Fair Graph Representation Learning with Imbalanced and Biased Data</a>
+at WSDM'22 Doctoral Consortium!</b>"
+
+- date: 1/2022
+  headline: "<b>Yu receives NSF Student Travel Award to present at WSDM'22!</b>"
 
 - date: 1/2022
   headline: "<b>Yu passes his Preliminary Exam!</b>"
