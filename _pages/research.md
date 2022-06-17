@@ -3,7 +3,7 @@ title: "JJ Martinez - Investigación"
 layout: textlay
 excerpt: "Lineas de investigación"
 sitemap: false
-permalink: /investigacion/
+permalink: /research/
 ---
 
 # Proyectos de investigación
