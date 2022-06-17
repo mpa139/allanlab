@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Research"
+title: "JJ Martinez - Investigación"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Lineas de investigación"
 sitemap: false
-permalink: /research/
+permalink: /investigacion/
 ---
 
-# Research
+# Proyectos de investigación
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
