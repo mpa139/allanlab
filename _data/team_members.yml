@@ -1,8 +1,8 @@
-- name: Juan J. Martinez
+- name: Juan J. Martínez
   photo: JJM.jpg
   info: Investigador Adjunto de CONICET
   email: bio.jjmartinez@gmail.com
-  number_educ: 5
+  number_educ: 4
   education1: Biólogo, Universidad Nacional de Córdoba
   education2: Doctor en Ciencias Biológicas, Universidad Nacional de Córdoba
   education3: Postdoc CONICET, Universidad Nacional de Río Cuarto
@@ -39,7 +39,7 @@
   photo: tjeruk.jpg
   info: Estudiante de doctorado UNT, becaria doctoral CONICET
   email: tinamurgia96@gmail.com
-  number_educ: 2
+  number_educ: 1
   education1: Lic. Recursos Naturales, Universidad Nacional de Rosario
   education2:
   education3:
