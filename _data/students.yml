@@ -8,16 +8,9 @@
 #  education3:
 #  education4:
 
-- name: Lara I. Baccaro
+- name: Clarisa Marek Ortíz
   photo: rock.jpg
-  info: Estudiante de doctorado UNC. Becaria de CONICET
+  info: Estudiante de la carrera de Biología UNC.
   email: laritabaccaro@gmail.com
-  number_educ: 0
-  education1:
-
-- name: Agustina Murgia
-  photo: rock.jpg
-  info: Estudiante de doctorado UNT. Becaria de CONICET
-  email: tinamurgia96@gmail.com
   number_educ: 0
   education1:
