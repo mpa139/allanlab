@@ -1,19 +1,19 @@
 ---
-title: "Allan Lab - Team"
+title: "JJ Martinez - Colaboradores"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Integrantes"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Integrantes
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Te queres sumar?** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Staff
+## Investigadores
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
