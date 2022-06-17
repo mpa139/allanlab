@@ -1,13 +1,12 @@
 - name: Juan J. Martinez
-  photo: Milan1.jpg
+  photo: JJM.jpg
   info: Investigador Adjunto de CONICET
   email: bio.jjmartinez@gmail.com
   number_educ: 5
   education1: Biólogo, Universidad Nacional de Córdoba
-  education2: Doctor en Ciencias Biológicas, Universidad Nacional de Córdobas
+  education2: Doctor en Ciencias Biológicas, Universidad Nacional de Córdoba
   education3: Postdoc CONICET, Universidad Nacional de Río Cuarto
   education4: Postdoc, McGill University
-  education5: Investigador CONICET, Instituto de Ecorregiones Andinas
 
 - name: Mario R. Ruiz-Monachesi
   photo: Jacky.jpg
