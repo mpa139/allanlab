@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Los que pasaron
+## Estudiantes anteriores
 <div class="row">
 
 <div class="col-sm-4 clearfix">
