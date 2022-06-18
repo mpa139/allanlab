@@ -10,41 +10,41 @@
 
 - name: Mario R. Ruiz-Monachesi
   photo: Jacky.jpg
-  info: Investigador Asistente de CONICET
+  info: Investigador Asistente de CONICET. JJ Martínez (dir), F Cruz (codir)
   email: marioruizmonachesi@gmail.com
-  number_educ: 5
+  number_educ: 4
   education1: Lic. Ciencias Biológicas, Universidad Nacional de Tucumán
   education2: Doctor en Ciencias Biológicas, Universidad Nacional de Tucumán
   education3: Postdoc CONICET, IBIGEO
   education4: ¿Los patrones macroevolutivos son un reflejo de los procesos microevolutivos? Una aproximación comportamental,morfológica y genética en animales de ambientes extremos.
-  education5: dir: JJ Martínez, codir: F Cruz
+  education5: 
 
 - name: José H. Urquizo
-  photo: JHU.png
-  info: Postdoc CONICET, Instituto de Ecorregiones Andinas
+  photo: JHU.jpg
+  info: Postdoc CONICET, Instituto de Ecorregiones Andinas. JJ Martínez (dir), LI Ferro (codir)
   email: urquizojose@gmail.com
-  number_educ: 4
+  number_educ: 3
   education1: Lic. Biología, Universidad Nacional de Jujuy
   education2: Doctor en Biología, Universidad Nacional de Tucumán
   education3: Filogeografía de Graomys griseoflavus (Rodentia: Cricetidae) e identidad taxonómica de poblaciones del Noroeste Argentino
-  education4: dir: JJ Martínez, codir: LI Ferro
+  education4: 
 
 - name: Lara I. Baccaro
   photo: website_pic_willem.jpg
-  info: Estudiante de doctorado UNC, becaria doctoral CONICET
+  info: Estudiante de doctorado UNC, becaria doctoral CONICET. JJ Martínez (dir), MS Akmentins (codir)
   email: laritabaccaro@gmail.com
-  number_educ: 3
+  number_educ: 2
   education1: Lic. Biología, orientación Zoología, Universidad Nacional de La Plata
   education2: Diversificación en paisajes complejos de las Yungas de Argentina: Historia evolutiva de las ranas de desarrollo directo del género Oreobates (Craugastoridae)
-  education3: dir: JJ Martínez, codir: MS Akmentins
+  education3: 
   education4:
 
 - name: Agustina Murgia
   photo: tjeruk.jpg
-  info: Estudiante de doctorado UNT, becaria doctoral CONICET
+  info: Estudiante de doctorado UNT, becaria doctoral CONICET. LI Ferro (dir), JJ Martínez (codir)
   email: tinamurgia96@gmail.com
-  number_educ: 3
+  number_educ: 2
   education1: Lic. Recursos Naturales, Universidad Nacional de Rosario
-  education2: “Micromamíferos en transiciones biogeográficas: diversidad funcional, genética y límites de rango en un gradiente altitudinal en las montañas del NOA”
-  education3: dir: LI Ferro, cordir: JJ Martínez
+  education2: Micromamíferos en transiciones biogeográficas: diversidad funcional, genética y límites de rango en un gradiente altitudinal en las montañas del NOA
+  education3: 
   education4:
