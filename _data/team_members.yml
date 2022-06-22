@@ -1,6 +1,6 @@
 - name: Juan J. Martínez
   photo: JJM.jpg
-  info: Evolución fenotípica en poblaciones naturales, abordajes desde la genética de poblaciones
+  info: Phenotypic evolution in natural populations, approaches from population genetics.
   email: bio.jjmartinez@gmail.com
   number_educ: 5
   education1: Biólogo, Universidad Nacional de Córdoba
@@ -11,7 +11,7 @@
 
 - name: Mario R. Ruiz-Monachesi
   photo: Jacky.jpg
-  info: ¿Los patrones macroevolutivos son un reflejo de los procesos microevolutivos? Una aproximación comportamental,morfológica y genética en animales de ambientes extremos. Dirección junto a Felix Cruz (codir).
+  info: ¿Macroevolutionary patterns mirror microevolutionary proccess? A behavioural, morphological, and genetics in extreme environments. Cosupervisor <strong>Felix Cruz</strong>.
   email: marioruizmonachesi@gmail.com
   number_educ: 4
   education1: Lic. Ciencias Biológicas, Universidad Nacional de Tucumán
@@ -22,7 +22,7 @@
 
 - name: José H. Urquizo
   photo: JHU.jpg
-  info: Filogeografía de Graomys griseoflavus (Rodentia) e identidad taxonómica de poblaciones del Noroeste Argentino. Dirección junto a Ignacio Ferro (codir).
+  info: Phylogeography of <em>Graomys griseoflavus</em> (Rodentia: Cricetidae) and taxonomic identity of populations from Northwestern Argentina. Cosupervisor <strong>Ignacio Ferro</strong>.
   email: urquizojose@gmail.com
   number_educ: 3
   education1: Lic. Biología, Universidad Nacional de Jujuy
@@ -32,7 +32,7 @@
 
 - name: Lara I. Baccaro
   photo: website_pic_willem.jpg
-  info: Diversificación en paisajes complejos de las Yungas de Argentina. Historia evolutiva de las ranas de desarrollo directo del género Oreobates (Craugastoridae). Dirección junto a Mauricio Akmentins (codir).
+  info: Diversification in complex landscapes in the Yungas of Argentina. Evolutionary history of direct-developing frogs of the genus <em>Oreobates</em> (Craugastoridae). Cosupervisor <strong>Mauricio Akmentins</strong>.
   email: laritabaccaro@gmail.com
   number_educ: 2
   education1: Lic. Biología, orientación Zoología, Universidad Nacional de La Plata
@@ -42,7 +42,7 @@
 
 - name: Agustina Murgia
   photo: tjeruk.jpg
-  info: Micromamíferos en transiciones biogeográficas. Diversidad funcional, genética y límites de rango en un gradiente altitudinal en las montañas del NOA. Dirección junto a Ignacio Ferro (dir).
+  info: Small mammals at biogeographic transition zones. Functional diversity, genetic diversity, and range limits at an altitudinal grandient in mountains of NWA. Cosupervisor <strong>Ignacio Ferro</strong>.
   email: tinamurgia96@gmail.com
   number_educ: 2
   education1: Lic. Recursos Naturales, Universidad Nacional de Rosario
