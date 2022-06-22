@@ -1,19 +1,19 @@
 ---
 title: "JJ Martinez - Colaboradores"
 layout: gridlay
-excerpt: "Integrantes"
+excerpt: "People"
 sitemap: false
 permalink: /team/
 ---
 
-# Integrantes
+# People
 
- **Te queres sumar?** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Do you want to join us?** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Integrantes LEEB
+## LEEB members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Estudiantes de grado
+## Undergrad students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -132,25 +132,25 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Estudiantes anteriores
+## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitantes</h4>
+<h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Doctorandos</h4>
+<h4>Doctoral students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Estudiantes de grado</h4>
+<h4>Undergrad students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
