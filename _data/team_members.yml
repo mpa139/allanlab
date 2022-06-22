@@ -1,5 +1,5 @@
 - name: Juan J. Martínez
-  photo: JJM.jpg
+  photo: JJM_lab.jpg
   info: Phenotypic evolution in natural populations, approaches from population genetics.
   email: bio.jjmartinez@gmail.com
   number_educ: 5
@@ -21,7 +21,7 @@
   education5: 
 
 - name: José H. Urquizo
-  photo: JHU.jpg
+  photo: JHU_2.jpg
   info: Phylogeography of <em>Graomys griseoflavus</em> (Rodentia, Cricetidae) and taxonomic identity of populations from Northwestern Argentina. Cosupervisor <strong>Ignacio Ferro</strong>.
   email: urquizojose@gmail.com
   number_educ: 3
@@ -31,7 +31,7 @@
   education4:
 
 - name: Lara I. Baccaro
-  photo: website_pic_willem.jpg
+  photo: LIB.jpg
   info: Diversification in complex landscapes in the Yungas of Argentina. Evolutionary history of direct-developing frogs of the genus <em>Oreobates</em> (Craugastoridae). Cosupervisor <strong>Mauricio Akmentins</strong>.
   email: laritabaccaro@gmail.com
   number_educ: 2
