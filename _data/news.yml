@@ -1,4 +1,7 @@
 - date: 6/2022
+  headline: "Yu's paper Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification is accepted to MLG Workshop at KDD'22"
+
+- date: 6/2022
   headline: "Yuying's first paper Inferring EHR Utilization Workflows through Audit Logs in NDS Lab is accepted to AMIA'22!"
 
 - date: 5/2022
@@ -6,7 +9,13 @@
 
 - date: 5/2022
   headline: "3 papers accepted to KDD'22!"
-
+  
+- date: 5/2022
+  headline: "Our research was highlighted in VU Provost C. Cybele Raver's keynote at The Vanderbilt Summit on Modern Conflict"
+  
+- date: 4/2021
+  headline: "CFP: Our workshop <a href=\"https://gta3.hrl.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Techniques for Adversarial Activity Analytics (GTA3)</a> is accepted to IEEE BigData'22!"
+  
 - date: 5/2022
   headline: "Yu awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper <a href=\"https://dl.acm.org/doi/abs/10.1145/3459637.3482487\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a>!"
 
