@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Mi principal interés es la investigación en genética de poblaciones en un sentido amplio. En particular, estoy interesado en la evolución fenotípica: cómo las poblaciones se diferencian y por medio de qué fuerzas evolutivas (selección vs deriva genética). Soy investigador de CONICET en el [Instituto de Ecorregiones Andinas](https://inecoa-unju.conicet.gov.ar/).
+Welcome!! I'm an evolutionaty ecologist and population geneticist at the [Instituto de Ecorregiones Andinas](https://inecoa-unju.conicet.gov.ar/). My main research interest is phenotypic evolution in natural populations. In recent years I'm interested in contemporary evolution of complex phenotypes and the roles of different evolutionary forces (e.g. selection <em>versus</em> genetic drift) shaping the variation at short-term timescales.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -36,10 +36,10 @@ Mi principal interés es la investigación en genética de poblaciones en un sen
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nacho_yung.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tree_phylo.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/caballos.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sapo_bal.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/juan_field.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -55,17 +55,7 @@ Mi principal interés es la investigación en genética de poblaciones en un sen
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+To this end, we combine population genetics, eco-evolutionary dynamics and statistics (see [Research](research)).
 
 
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+ **We are looking for motivated new PhD students, Postdocs, and undergraduate students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
