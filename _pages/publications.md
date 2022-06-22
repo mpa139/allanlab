@@ -7,11 +7,10 @@ permalink: /publications/
 ---
 
 
-# Publicaciones Científicas
+# Scientific publications
 
-## Destacados
+## Highlights
 
-**al final de la página podras ver [la lista completa](#full-list-of-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -53,7 +52,7 @@ permalink: /publications/
 
 
 
-## Lista completa
+## Full list
 
 {% for publi in site.data.publist %}
 
