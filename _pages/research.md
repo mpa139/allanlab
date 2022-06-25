@@ -13,7 +13,7 @@ To understand the evolutionary dynamics of traits in the face of environmental c
 
 Current projects:
 
-**Body size and cranial shape evolution of mice from agroecosystems, this project is carried out with the collaboration of [José Coda](https://www.researchgate.net/profile/Jose-Coda) and [José Priotto](https://www.researchgate.net/profile/Jose-Priotto) from [GIEPCO](https://giepcounrc.wixsite.com/giepco?lang=en) (ICBIA; CONICET-UNRC).**
+**Body size and cranial shape evolution of mice from agroecosystems. This project is carried out with the collaboration of [José Coda](https://www.researchgate.net/profile/Jose-Coda) and [José Priotto](https://www.researchgate.net/profile/Jose-Priotto) from [GIEPCO](https://giepcounrc.wixsite.com/giepco?lang=en) (ICBIA; CONICET-UNRC).**
 
 **Genetic basis and adaptive landscape of colour polymorphism in the red-belly toad. In collaboration with [Lucia Sommmaro](https://www.researchgate.net/profile/Lucia-Sommaro-2) (INECOA; CONICET-UNJu).**
 
@@ -57,5 +57,3 @@ We are part of the 'Strange Metal consortium NL' that includes the groups of Hus
 We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
-### ... and more.
