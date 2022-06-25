@@ -58,4 +58,4 @@ Bienvenidos/Welcome!! I'm an evolutionary ecologist and population geneticist at
 To this end, I combine population genetics, quantitative genetics, and phenotypic traits to disentangle the eco-evolutionary dynamics (see [Research](research)).
 
 
- **Si estás interesado en unirte poder visitar la siguiente página** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Si estás interesado en unirte podes visitar la siguiente página** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
