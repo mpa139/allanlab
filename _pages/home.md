@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome!! I'm an evolutionaty ecologist and population geneticist at the [Instituto de Ecorregiones Andinas](https://inecoa-unju.conicet.gov.ar/). My main research interest is phenotypic evolution in natural populations. In recent years I'm interested in contemporary evolution of complex phenotypes and the roles of different evolutionary forces (e.g. selection <em>versus</em> genetic drift) shaping the variation at short-term timescales.
+Bienvenidos/Welcome!! I'm an evolutionary ecologist and population geneticist at the [Instituto de Ecorregiones Andinas](https://inecoa-unju.conicet.gov.ar/) (Jujuy, Argentina). My main research interest is phenotypic evolution in natural populations. Recently I'm studying the contemporary evolution of complex phenotypes and the roles of different evolutionary forces (e.g. selection <em>versus</em> genetic drift) shaping the variation at short-term timescales.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -55,7 +55,7 @@ Welcome!! I'm an evolutionaty ecologist and population geneticist at the [Instit
 
 
 
-To this end, we combine population genetics, eco-evolutionary dynamics and statistics (see [Research](research)).
+To this end, I combine population genetics, quantitative genetics, and phenotypic traits to disentangle the eco-evolutionary dynamics (see [Research](research)).
 
 
- **We are looking for motivated new PhD students, Postdocs, and undergraduate students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Si estás interesado en unirte poder visitar la siguiente página** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
