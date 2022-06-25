@@ -1,12 +1,23 @@
 ---
-title: "JJ Martinez - Investigación"
+title: "JJ Martinez - Research"
 layout: textlay
-excerpt: "Lineas de investigación"
+excerpt: "Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Proyectos de investigación
+# Ongoing research / Investigación en marcha
+
+## Phenotypic evolution of complex traits / Evolución fenotípica de rasgos complejos
+To understand the evolutionary dynamics of traits in the face of environmental change, a quantitative genetic and population genetics approach concerned with the genetic basis and ecological drivers of complex traits between individuals of a population and between populations is pivotal. This knowledge is critical for assessing the extent to which changes in phenotypic traits due to selection are passed from one generation to the next. However, rapid shifts or divergence of phenotypic traits do not necessarily involve selection. Theory predicts that when new populations are established, the random sampling effect of genetic drift during the founding event after a population decline has the potential to facilitate rapid phenotypic divergence. Finally, gene flow will push toward the genetic homogeneity of populations and potentially remove or obscure divergent variation. These process are not exclusive and they coexist in a balanced manner. We study the role of each evolutionary force in shaping the phenotypic evolution at short timescales.
+Current projects:
+**Body size and cranial shape evolution of mice from agroecosystems, this project is carried out with the collaboration of [José Coda](https://www.researchgate.net/profile/Jose-Coda) and [José Priotto](https://www.researchgate.net/profile/Jose-Priotto) from [GIEPCO](https://giepcounrc.wixsite.com/giepco?lang=en) (ICBIA; CONICET-UNRC).
+**Genetic basis and adaptive landscape of colour polymorphism in the red-belly toad. In collaboration with [Lucia Sommmaro](https://www.researchgate.net/profile/Lucia-Sommaro-2) (INECOA; CONICET-UNJu).
+**Parallel evolution in the Antarctic limpet <em>Nacella concinna</em>. In collaboration with [Carla de Aranzamendi](https://www.researchgate.net/profile/Maria-Carla-De-Aranzamendi) from ECOMARES (IDEA; CONICET-UNC).
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+
+## Population genetics and phylogeography of small vertebrates / Genética de poblaciones y filogeografía de pequeños vertebrados
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
