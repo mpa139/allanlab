@@ -20,7 +20,7 @@ Current projects:
 
 **Parallel evolution in the Antarctic limpet <em>Nacella concinna</em>. In collaboration with [Carla de Aranzamendi](https://www.researchgate.net/profile/Maria-Carla-De-Aranzamendi) from ECOMARES (IDEA; CONICET-UNC).**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/fit_bodysize.jpg){: style="width: 250px; float: center; margin: 0px  10px"}
 
 
 ## Population genetics and phylogeography of small vertebrates / Genética de poblaciones y filogeografía de pequeños vertebrados
@@ -28,7 +28,7 @@ Current projects:
 We also study the population genetic structure of small vertebrate species in northwestern Argentina. This information is crucial to shed light on the environmental, ecological, and evolutionary processes shaping the genetic variation in mountain landscapes and how those contribute to generating and maintaining biodiversity. We are engaged in different systems: small mammals (cricetid rodents), amphibians, birds, and more recently, lizards. Although not a primary goal, the evidence generated contributes to solving some systematics and taxonomic issues.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Filogeo_pag.jpg){: style="width: 250px; float: center; margin: 0px  10px"}
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
 
