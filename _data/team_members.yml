@@ -1,6 +1,6 @@
 - name: Zhuoya Shi
   photo: Zhuoya.jpg
-  info: PhD Candidate, expected graduation date - May 2022
+  info: PhD Candidate, expected graduation date - Sep 2022
   email: zs1110@nyu.edu
   number_educ: 2
   education1: "Research Project: Facade monitoring in cities with advanced sensing techniques"
@@ -10,8 +10,8 @@
   photo: Dan.jpg
   info: PhD Student, expected graduation date - May 2023
   email: dbl299@nyu.edu
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: <a href="/downloads/poster_Dan.pdf">Research poster</a>
   education2: 
 
 - name: Keundeok Park
@@ -22,16 +22,29 @@
   education1: 
   education2: 
 
-- name: Christopher Piper
-  photo: chris.jfif
-  info: Part-time PhD Student, started Spring 2019
-  email: chp296@nyu.edu
+- name: Beyza Kiper
+  photo: beyza.jpg
+  info: PhD Student, expected graduation date - May 2025
+  email: bkiper@nyu.edu
+  number_educ: 1
+  education1: <a href="/downloads/poster_Beyza.pdf">Research poster</a>
+
+- name: Mohammad Zair Cheema
+  photo: zair.jpg
+  info: PhD Student, expected graduation date - May 2025
+  email: zair.cheema@nyu.edu
   number_educ: 0
 
-- name: Raghuram Sunnam
-  photo: Sunnam-150x150.jpg
-  info: Part-time PhD Student at Carnegie Mellon University
-  # info: "Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent."
-  email: "rsunnam@cmu.edu"
-  number_educ: 0
-  education1: <a href="/downloads/ResearchPoster_RaghuramSunnam.pdf">Research poster</a>
+# - name: Christopher Piper
+#   photo: chris.jfif
+#   info: Part-time PhD Student, started Spring 2019
+#   email: chp296@nyu.edu
+#   number_educ: 0
+
+# - name: Raghuram Sunnam
+#   photo: Sunnam-150x150.jpg
+#   info: Part-time PhD Student at Carnegie Mellon University
+#   # info: "Research Project: Raghuram has been working on developing a formal representation to enable generation of sequence of operations given a design information represented in BIMs and using the digitally represented sequence of operations to detect discrepancies between the implemented control and the design intent."
+#   email: "rsunnam@cmu.edu"
+#   number_educ: 0
+#   education1: <a href="/downloads/ResearchPoster_RaghuramSunnam.pdf">Research poster</a>
