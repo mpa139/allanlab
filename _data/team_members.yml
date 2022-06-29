@@ -12,6 +12,7 @@
   info: PhD Candidate. Joined Fall 2019.
   email: clb478[@] nyu.edu
   number_educ: 2
+
   education1: M.S. Computer Science, NYU Tandon
   education2: B.S. Computer Science, NYU Shanghai
 
@@ -26,6 +27,15 @@
   photo: Kejsi.jpg
   info: PhD Candidate started August 2018
   email: kejsitake[@] nyu.edu
+=======
+  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
+  education2: BSc Pohang University of Science and Technology (POSTECH)
+
+- name: Willem Tromp
+  photo: website_pic_willem.jpg
+  info: PhD Student, started September 2018
+  email: WTromp@physics.leidenuniv.nl
+
   number_educ: 1
   education1: B.A. Computer Science, American University in Bulgaria
 
@@ -49,8 +59,7 @@
   info: PhD Student, started August 2021
   email: vzhong[@] nyu.edu
   number_educ: 2
-  education1: M.S. Computer Science, New York University (NYU) Tandon School of Engineering
-  education2: B.A. Computer Science, Hunter College
+
 
 - name: "This could be you !"
   photo: rock.jpg
