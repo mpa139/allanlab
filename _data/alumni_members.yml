@@ -4,10 +4,22 @@
   email: thclements@g.harvard.edu
   number_info: 3
   info: Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
-  info2: https://tclements.github.io/
-  info3: https://github.com/tclements
+  info2: https://tclements.github.io/, https://github.com/tclements
+  info3: now at USGS as a Mendenhall Postdoc
   number_educ: 1
-  education1: PhD at Harvard
+  education1: PhD from Harvard
+
+
+- name: Jiuxun Yin
+  photo: Yinn_pic.jpg
+  email: jiuxun_yin@g.harvard.edu
+  number_info: 3
+  info: Observation and modeling of earthquake dynamics, in particular subduction zones.
+  info2: https://yinjiuxun.github.io/,  https://github.com/yinjiuxun
+  info3: now Postdoc at Caltech - SCEDC
+
+  number_educ: 1
+  education1: PhD from Harvard
 
 
 - name: Dr. Kurama Okubo
