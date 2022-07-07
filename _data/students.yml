@@ -8,27 +8,8 @@
 #  education3:
 #  education4:
 
-- name: Tim Clements
-  photo: clements_pic.jpeg
-  email: thclements@g.harvard.edu
-  number_educ: 0
-  number_info: 4
-  info: PhD candidate at Harvard
-  info2: Ambient noise seismology, computational seismology, Julia computing, seismo-hydrology
-  info3: https://tclements.github.io/
-  info4: https://github.com/tclements
 
-- name: Jiuxun Yin
-  photo: Yinn_pic.jpg
-  email: jiuxun_yin@g.harvard.edu
-  number_educ: 0
-  number_info: 4
-  info: PhD candidate at Harvard
-  info2: Observation and modeling of earthquake dynamics, in particular subduction zones.
-  info3: https://yinjiuxun.github.io/
-  info4: https://github.com/yinjiuxun
-
-- name: Seth Olinger
+- name: Stephanie Olinger
   photo: olinger_pic.jpg
   email: setholinger@g.harvard.edu
   number_info: 4
@@ -57,3 +38,15 @@
   # info3: https://students.washington.edu/niyiyu/
   info4: https://github.com/niyiyu
   number_educ: 0
+
+
+- name: Manuela Koepfli
+  photo: pick_MK.jpg
+  email: koepflma@uw.edu@uw.edu
+  number_info: 4
+  info: PhD student at the University of Washington
+  info2: Continuous based volcano seismology and Cryoseismology
+  info3: 
+  info4: https://github.com/koepflma
+  number_educ: 0
+
