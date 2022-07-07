@@ -25,9 +25,8 @@ We develop machine learning tools for various applications in Earthquake Science
 
 ### ... and more.
 
-### Note below: migration pages
+### Note below: pages from the old group website
 ----
-[**Earthquake**](/research/earthquake)
 
 [**Ground Motions**](/research/ground-motions)
 

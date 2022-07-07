@@ -388,7 +388,7 @@ Jump to [staff](#staff), [postdoc](#postdoc), [graduate students](#graduate),[un
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <b>Date </b>: {{ member.date }} <br> <b>Role </b>: {{ member.info }}  <br> <b>Research </b>: {{ member.info2 }}   <br> <b> Now at </b> : {{ member.info3 }} 
   <ul style="overflow: hidden">
