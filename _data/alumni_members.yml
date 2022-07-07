@@ -1,3 +1,16 @@
+- name: Laura Ermert
+  photo:  ermert_pic.jpeg
+  date: 2020-022
+  number_info: 4
+  info: Postdoc, started Jan 2020
+  info2: Ambient noise seismology, environmental seismology, basin subsidence in Mexico City
+  info3: https://lermert.github.io, https://github.com/lermert
+  info4: now Postdoc at ETH-Zurich
+  email: lermert@uw.edu
+  number_educ: 1
+  education: PhD at ETH Zurich
+
+
 - name: Tim Clements
   photo: clements_pic.jpeg
   date: 2016-2021
@@ -8,7 +21,6 @@
   info3: now at USGS as a Mendenhall Postdoc
   number_educ: 1
   education1: PhD from Harvard
-
 
 - name: Jiuxun Yin
   photo: Yinn_pic.jpg
