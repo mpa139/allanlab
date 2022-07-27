@@ -1,7 +1,7 @@
 # A message from the site-building source:
 
 
-** Chao Lab Website**
+**Chao Lab Website**
 
 This is the website of our academic research group at Sunnybrook Research Institute, affiliated with the University of Toronto.
 
@@ -11,4 +11,3 @@ Go to *aboutwebsite.md* to learn how to copy and modify this page for your purpo
 
 
 Copyright Allan Lab. Code released under the MIT License.
-
