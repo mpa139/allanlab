@@ -8,7 +8,6 @@
 #  highlight: 1
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 - title: "'It Feels Like Whack-a-mole': User Experiences of Data Removal from People Search Websites"
-  image: placeholder.png
   description: People Search Websites aggregate and publicize users’ Personal Identifiable Information (PII), previously sourced from data brokers. This paper presents a qualitative study of the perceptions and experiences of 18 participants who sought information removal by hiring a removal service or requesting removal from the sites.
   authors: Kejsi Take*, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt
   link: 
@@ -21,5 +20,22 @@
   authors: Cameron Ballard, Ian Goldstein, Pulak Mehta, Genesis Smothers, Kejsi Take, Victoria Zhong, Rachel Greenstadt, Tobias Lauinger, Damon McCoy
   link:
     url: https://dl.acm.org/doi/10.1145/3485447.3512142
-    display: Proceedings of the ACM Web Conference 2022
+    display: "WWW '22: Proceedings of the ACM Web Conference 2022"
+  highlight: 0
+
+- title: "A large-scale characterization of online incitements to harassment across platforms"
+  description: Using the incitements or calls to harassment posted by members of these communities as a lens through which to holistically measure and understand this ecosystem. We create a filtering pipeline to discover 14,679 incitements to harassment within four large-scale data sets of messages and posts that span multiple platforms.
+  authors: Max Aliapoulios, Kejsi Take, Prashanth Ramakrishna, Daniel Borkan, Beth Goldberg, Jeffrey Sorensen, Anna Turner, Rachel Greenstadt, Tobias Lauinger, Damon McCoy
+  link:
+    url: https://dl.acm.org/doi/10.1145/3487552.3487852
+    display: "IMC '21: Proceedings of the 21st ACM Internet Measurement Conference"
+  highlight: 0
+
+
+- title: "'Because... I was told... so much': Linguistic Indicators of Mental Health Status on Twitter."
+  description: Evaluating the implications for privacy, by analyzing the performance of different machine learning models in the absence of tweets that talk about mental illnesses.
+  authors: Janith Weerasinghe, Kediel Morales, Rachel Greenstadt
+  link: 
+    url: https://petsymposium.org/2019/files/papers/issue4/popets-2019-0063.pdf
+    display: PoPETS '19
   highlight: 0

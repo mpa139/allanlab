@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+<!--## Group highlights
 
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
@@ -49,7 +49,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
 
 <!-- ## Patents
