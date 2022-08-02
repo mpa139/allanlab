@@ -18,7 +18,7 @@ Current projects:
 
 **Body size and cranial shape evolution of mice from agroecosystems. This project is carried out with the collaboration of [José Coda](https://www.researchgate.net/profile/Jose-Coda) and [José Priotto](https://www.researchgate.net/profile/Jose-Priotto) from [GIEPCO](https://giepcounrc.wixsite.com/giepco?lang=en) (ICBIA; CONICET-UNRC).**
 
-**Genetic basis and adaptive landscape of colour polymorphism in the red-belly toad. In collaboration with [Lucia Sommmaro](https://www.researchgate.net/profile/Lucia-Sommaro-2) (INECOA; CONICET-UNJu).**
+**Genetic basis and adaptive landscape of colour polymorphism in the red-belly toad. In collaboration with [Lucia Sommaro](https://www.researchgate.net/profile/Lucia-Sommaro-2) (INECOA; CONICET-UNJu).**
 
 **Parallel evolution in the Antarctic limpet <em>Nacella concinna</em>. In collaboration with [Carla de Aranzamendi](https://www.researchgate.net/profile/Maria-Carla-De-Aranzamendi) from ECOMARES (IDEA; CONICET-UNC).**
 
