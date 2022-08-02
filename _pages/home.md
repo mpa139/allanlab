@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Bienvenidos/Welcome!! I'm an evolutionary ecologist and population geneticist at the [Instituto de Ecorregiones Andinas](https://inecoa-unju.conicet.gov.ar/) (Jujuy, Argentina). I'm a member of the <strong>Laboratorio de Ecología Evolutiva y Biogeografía</strong>. My main research interest is phenotypic evolution in natural populations. Recently I'm studying the contemporary evolution of complex phenotypes and the roles of different evolutionary forces (e.g. selection <em>versus</em> genetic drift) shaping the variation at short-term timescales.
+Bienvenidos/Welcome!! I'm an evolutionary ecologist and population genetist at the [Instituto de Ecorregiones Andinas](https://inecoa-unju.conicet.gov.ar/) (Jujuy, Argentina). I'm a member of the <strong>Laboratorio de Ecología Evolutiva y Biogeografía</strong>. My main research interest is phenotypic evolution in natural populations. Recently I'm studying the contemporary evolution of complex phenotypes and the roles of different evolutionary forces (e.g. selection <em>versus</em> genetic drift) shaping the variation at short-term timescales.
 
 To this end, I combine population genetics, quantitative genetics, and phenotypic traits to disentangle the eco-evolutionary dynamics (see [Research](research)).
 
