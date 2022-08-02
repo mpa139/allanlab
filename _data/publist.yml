@@ -7,4 +7,19 @@
 #   display: Science 374, 608 (2021)
 #  highlight: 1
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+- title: "Conspiracy Brokers: Understanding the Monetization of YouTube Conspiracy Theories"
+  description: An analysis of monetization methods of conspiracy theorist YouTube creators and the types of advertisers potentially targeting this content.
+  authors: Cameron Ballard, Ian Goldstein, Pulak Mehta, Genesis Smothers, Kejsi Take, Victoria Zhong, Rachel Greenstadt, Tobias Lauinger, Damon McCoy
+  link:
+    url: https://dl.acm.org/doi/10.1145/3485447.3512142
+    display: Proceedings of the ACM Web Conference 2022
+  highlight: 0
 
+- title: "'It Feels Like Whack-a-mole': User Experiences of Data Removal from People Search Websites"
+  image: placeholder.png
+  description: People Search Websites aggregate and publicize users’ Personal Identifiable Information (PII), previously sourced from data brokers. This paper presents a qualitative study of the perceptions and experiences of 18 participants who sought information removal by hiring a removal service or requesting removal from the sites.
+  authors: Kejsi Take*, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt
+  link: 
+    url: https://petsymposium.org/2022/files/papers/issue3/popets-2022-0067.pdf
+    display: PETS 2022
+  highlight: 0

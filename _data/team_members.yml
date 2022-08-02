@@ -7,13 +7,13 @@
   education2: M.Eng. Electrical Engineering and Computer Science, Massachusetts Insitute of Technology (MIT) with <a href="https://www.csail.mit.edu/person/robert-morris"> Robert Morris </a>
   education3: B.S. Computer Science, Massachusetts Insitute of Technology (MIT)
 
-- name: Janith Weerasinghe
-  photo: Janith.jpg
-  info: PhD Candidate
-  email: janith[@] nyu.edu
+- name: Julia Ann Jose
+  photo: Julia.png
+  info: PhD Student
+  email: jj3545[@] nyu.edu
   number_educ: 2
-  education1: MSc Computer Science, Drexel University
-  education2: BSc Computer Science and Engineering, University of Moratuwa
+  education1: Bachelor of Technology Electronics and Communication Engineering, National Institute of Technology Delhi
+  education2: M.S. Computer Science, Arizona State University
 
 - name: Brian Timmerman
   photo: Brian.jpg
@@ -30,13 +30,13 @@
   education1: M.S. Computer Science, Computer Science, New York University (NYU) Tandon School of Engineering
   education2: B.A. Computer Science, American University in Bulgaria
 
-- name: Cameron Ballard
-  photo: cameron.jpg
-  info: PhD Candidate
-  email: clb478[@]nyu.edu
-  number_educ: 2
-  education1: BS Computer Science, NYU Shanghai 2013-2017
-  education2: MS Computer Science, NYU Tandon 2019-2021
+# - name: Cameron Ballard
+#   photo: cameron.jpg
+#   info: PhD Candidate
+#   email: clb478[@]nyu.edu
+#   number_educ: 2
+#   education1: BS Computer Science, NYU Shanghai 2013-2017
+#   education2: MS Computer Science, NYU Tandon 2019-2021
 
 - name: Genesis Smothers
   photo: Genesis.jpg
@@ -45,7 +45,7 @@
   number_educ: 1
   education1: B.A. Computer Science, Howard University
 
-- name: Victoria Zhong
+- name: <a href= "https://semicolonexpected.com/"> Victoria Zhong </a>
   photo: Victoria.jpg
   info: PhD Student
   email: vzhong[@] nyu.edu
