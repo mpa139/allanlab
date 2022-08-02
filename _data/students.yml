@@ -1,8 +1,8 @@
-#- name: Sage Jung
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
+- name: This could be you!
+  photo: rock.jpg
+  info: N/A
+  email: N/A
+  number_educ: 0
 #  education1:
 #  education2:
 #  education3:
