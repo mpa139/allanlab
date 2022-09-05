@@ -8,11 +8,18 @@ permalink: /
 
 We study environmental policy and governance the Yale School of the Environment!
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/sat_dog_1.jpg" width="100%" />
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sat_dog_1.jpg" style="width: 210px">
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
+</figure>
+
 
 <!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-<!--     <ol class="carousel-indicators">
+    Menu
+    <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
@@ -20,9 +27,9 @@ We study environmental policy and governance the Yale School of the Environment!
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-    </ol> -->
+    </ol>
 
-<!--     Items
+    Items
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -42,8 +49,8 @@ We study environmental policy and governance the Yale School of the Environment!
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
-    </div> -->
-<!--   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -51,8 +58,8 @@ We study environmental policy and governance the Yale School of the Environment!
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div> -->
-
+</div>
+ -->
 
 
 
