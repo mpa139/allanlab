@@ -8,6 +8,7 @@ permalink: /
 
 We study environmental policy and governance the Yale School of the Environment!
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/sat_dog_1" class="img-responsive" width="100%" style="float: left" />
 
 <!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
