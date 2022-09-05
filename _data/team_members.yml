@@ -1,12 +1,12 @@
-- name: Luke C Sanford
+- name: PI: Luke C Sanford
   photo: headshot_small.jpg
   info: Assistant Professor of Environmental Policy and Governance
   email: luke.sanford@yale.edu
   website: lcsanford.github.io
   number_educ: 3
   education1: BA Politics, Whitman College
-  education2: MA UCSD School of Global Policy and Strategy
-  education3: PhD Political Science and International Affairs
+  education2: MA School of Global Policy and Strategy, UCSD
+  education3: PhD Political Science and International Affairs, UCSD
 
 # - name: Jianfeng (Jacky) Ge
 #   photo: Jacky.jpg
