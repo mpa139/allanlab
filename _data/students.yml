@@ -1,9 +1,9 @@
-# - name: Katy Sun
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
+- name: Katy Sun
+  photo: rock.jpg
+  info: Undergraduate Researcher at Yale University
+  email: katy.sun@yale.edu
+  number_educ: 1
+  education1: Yale University
 #  education2:
 #  education3:
 #  education4:
