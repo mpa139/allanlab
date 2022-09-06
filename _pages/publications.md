@@ -49,6 +49,22 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2022
 
+[THINK: Temporal Hypergraph Hyperbolic Network](https://nds-vu.github.io/publications/)\
+Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.
+In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022.
+
+[Decision Boundaries of Deep Neural Networks](https://nds-vu.github.io/publications/)\
+Hamid Karimi and Tyler Derr.
+In Proceedings of the 21th IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, The Bahamas, December 12-15, 2022. 
+
+[Enhancing Individual Fairness through Propensity Score Matching](https://nds-vu.github.io/publications/)\
+Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, Tyler Derr, and Hui Liu.
+In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022.
+
+[Imbalaned Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
+Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr.
+In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022.
+
 [Inferring EHR Utilization Workflows through Audit Logs](https://nds-vu.github.io/publications/)\
 Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, Tyler Derr, and You Chen\
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.
@@ -74,10 +90,6 @@ Yu Wang, Wei Jin, and Tyler Derr\
 Graph Neural Networks: Foundations, Frontiers, and Applications (Lingfei Wu, Peng Cui, Jian Pei, and Liang Zhao (Eds.)), Springer, Chapter 18. 2022
 
 ### Publications in 2021
-
-[Imbalanced Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
-Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr\
-Preprint, 2021
 
 [Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
 Yu Wang, Charu Aggarwal, and Tyler Derr\
