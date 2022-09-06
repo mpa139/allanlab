@@ -61,7 +61,7 @@ In Proceedings of the 21th IEEE International Conference on Machine Learning and
 Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, Tyler Derr, and Hui Liu.
 In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022.
 
-[Imbalaned Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
+[Imbalanced Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
 Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr.
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022.
 
