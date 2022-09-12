@@ -8,6 +8,15 @@
 #  education3:
 #  education4:
 
+
+- name: Eliot Carlson
+  photo: rock.jpg
+  info: Undergraduate Research Assistant
+  email: eliot.carlson@yale.edu
+  number_educ: 1
+  education1: Candidate for Bachelors in Statistics & Data Science, Yale University 2023
+  
+  
 # - name: Thijs van den Munckhof
 #   photo: rock.jpg
 #   info: Master student
