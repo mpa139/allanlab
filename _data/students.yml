@@ -17,12 +17,12 @@
   education1: Candidate for Bachelors in Statistics & Data Science, Yale University 2023
   
   
-# - name: Thijs van den Munckhof
-#   photo: rock.jpg
-#   info: Master student
-#   email: m.ortego.larrazabal@umail.leidenuniv.nl
-#   number_educ: 0
-#   education1:
+ - name: Annie Ulichney
+   photo: ulichney.jpg
+   info: Undergraduate Research Assistant
+   email: annie.ulichney@yale.edu
+   number_educ: 1
+   education1: Applied Math & Mechanical Engineering, Yale University 2022.5
 
 # - name: João van der Ven
 #   photo: rock.jpg
