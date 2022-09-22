@@ -29,13 +29,13 @@
   number_educ: 1
   education1: BA Math and Physics, Lewis & Clark College 2019
 
-# - name: Jinwon Lee
-#   photo: Jinwon.jpg
-#   info: Postdoc, started July 2021
-#   email: jwlee0421@postech.ac.kr
-#   number_educ: 2
-#   education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-#   education2: BSc Pohang University of Science and Technology (POSTECH)
+ - name: Matthew Gordon
+   photo: Gordon.jpg
+   info: PhD Candidate in Environmental Economics - <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
+   email: m.gordon@yale.edu
+   number_educ: 2
+   education1: Msc Economic Geography from London School of Economics
+   education2: BA Philosophy from Hamilton College
 
 # - name: Willem Tromp
 #   photo: website_pic_willem.jpg
