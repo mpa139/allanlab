@@ -21,7 +21,7 @@ Our specific areas of interest include:
 
 We are **always** looking for passionate new students (PhD and MSc/MEng) and post-docs to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
