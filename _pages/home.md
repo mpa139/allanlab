@@ -26,8 +26,6 @@ We are **always** looking for passionate new students (PhD and MSc/MEng) and pos
 
     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" alt="Slide 1" />
-    </div>
-    <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20211010_181517.jpg" alt="Slide 2" />
     </div>
 </div>
