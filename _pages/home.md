@@ -21,17 +21,31 @@ Our specific areas of interest include:
 
 We are **always** looking for passionate new students (PhD and MSc/MEng) and post-docs to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-<!-- Items -->
-<div class="carousel-inner" markdown="0">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+    </ol>
 
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" alt="Slide 1" />
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/METRICS_group_pic.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20211010_181517.jpg" alt="Slide 2" />
+        </div>
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/20211010_181517.jpg" alt="Slide 2" />
-    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
-
 
 <br>
 Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
