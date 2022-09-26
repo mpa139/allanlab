@@ -31,8 +31,9 @@
 
  - name: Matthew Gordon
    photo: Gordon.jpg
-   info: PhD Candidate in Environmental Economics - <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
+   info: PhD Candidate in Environmental Economics
    email: m.gordon@yale.edu
+   website: <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
    number_educ: 2
    education1: Msc Economic Geography from London School of Economics
    education2: BA Philosophy from Hamilton College
