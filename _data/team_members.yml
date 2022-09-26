@@ -15,12 +15,12 @@
   number_educ: 1
   education1: Sophomore status at CCL at Yale
   
-- name: Eliana Stone
-  photo: rock.jpg
-  info: Master of Environmental Science Student, started August 2022
-  email: eliana.stone@yale.edu
-  number_educ: 1
-  education1: BA Economics and Environmental Studies, UCSB 2022
+# - name: Eliana Stone
+#   photo: rock.jpg
+#   info: Master of Environmental Science Student, started August 2022
+#   email: eliana.stone@yale.edu
+#   number_educ: 1
+#   education1: BA Economics and Environmental Studies, UCSB 2022
   
   - name: Megan Ayers
   photo: rock.jpg
