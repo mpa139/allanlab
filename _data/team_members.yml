@@ -17,7 +17,7 @@
   
 - name: Eliana Stone
   photo: rock.jpg
-  info: Master of Environmental Science (MESc) Student, started August 2022
+  info: Master of Environmental Science Student, started August 2022
   email: eliana.stone@yale.edu
   number_educ: 1
   education1: BA Economics and Environmental Studies, UCSB 2022
@@ -33,7 +33,7 @@
    photo: Gordon.jpg
    info: PhD Candidate in Environmental Economics
    email: m.gordon@yale.edu
-   website: <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
+#    website: <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
    number_educ: 2
    education1: Msc Economic Geography from London School of Economics
    education2: BA Philosophy from Hamilton College
