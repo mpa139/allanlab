@@ -15,28 +15,28 @@
   number_educ: 1
   education1: Sophomore status at CCL at Yale
   
-# - name: Eliana Stone
-#   photo: rock.jpg
-#   info: Master of Environmental Science Student, started August 2022
-#   email: eliana.stone@yale.edu
-#   number_educ: 1
-#   education1: BA Economics and Environmental Studies, UCSB 2022
+- name: Eliana Stone
+  photo: rock.jpg
+  info: Master of Environmental Science Student, started August 2022
+  email: eliana.stone@yale.edu
+  number_educ: 1
+  education1: BA Economics and Environmental Studies, UCSB 2022
   
-  - name: Megan Ayers
+- name: Megan Ayers
   photo: rock.jpg
   info: PhD Student in Statistics & Data Science, started August 2022
   email: m.ayers@yale.edu
   number_educ: 1
   education1: BA Math and Physics, Lewis & Clark College 2019
 
- - name: Matthew Gordon
-   photo: Gordon.jpg
-   info: PhD Candidate in Environmental Economics
-   email: m.gordon@yale.edu
-#    website: <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
-   number_educ: 2
-   education1: Msc Economic Geography from London School of Economics
-   education2: BA Philosophy from Hamilton College
+- name: Matthew Gordon
+  photo: Gordon.jpg
+  info: PhD Candidate in Environmental Economics
+  email: m.gordon@yale.edu
+  website: <a href="https://sites.google.com/view/mdgordon/">Personal Website</a>
+  number_educ: 2
+  education1: Msc Economic Geography from London School of Economics
+  education2: BA Philosophy from Hamilton College
 
 # - name: Willem Tromp
 #   photo: website_pic_willem.jpg
