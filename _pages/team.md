@@ -32,7 +32,9 @@ Please check [Job Openings page](/jobopening) for openings in the research group
 
 ### Join Us!
 
-Positions are available at [PhD](/downloads/Flier-PhD-Ergan_Oct15.pdf) and [PostDoc](/downloads/Flier-Postdoc-Darpa-Ergan.pdf) levels in BiLAB. Please contact Prof. Ergan for details.  
+<!-- Positions are available at [PhD](/downloads/Flier-PhD-Ergan_Oct15.pdf) and [PostDoc](/downloads/Flier-Postdoc-Darpa-Ergan.pdf) levels in BiLAB. Please contact Prof. Ergan for details.   -->
+
+Positions are available at PhD levels in BiLAB. Please contact Prof. Ergan for details.  
 
 <img src="/images/research_group.jpeg" width="65%"/>
 
