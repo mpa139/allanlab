@@ -11,15 +11,15 @@
   info: PhD Student, expected graduation date - May 2023
   email: dbl299@nyu.edu
   number_educ: 1
-  education1: <a href="/downloads/poster_Dan.pdf">Research poster</a>
-  education2: 
+  education1: "Research Project: <a href='/projects/work-zone-safety'>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</a>"
+  education2: <a href="/downloads/poster_Dan.pdf">Research poster</a>
 
 - name: Keundeok Park
   photo: kay.jpg
   info: PhD Student, expected graduation date - May 2023
   email: kp2393@nyu.edu
   number_educ: 0
-  education1: 
+  education1: "Research Project: <a href='/projects/arm4mod'>AI-powered and Robot-assisted Manufacturing for Modular Construction: Train module assembly progress inference AI model training in Virtual Reality</a>"
   education2: 
 
 - name: Beyza Kiper
