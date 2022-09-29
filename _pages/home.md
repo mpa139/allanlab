@@ -30,7 +30,7 @@ We explore Earth structure and quakes dynamics using large-scale computing of se
             <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/F7_cartoon_single.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/phase_picking.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/phase_picking.jpg" alt="Slide 3" />
         </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
