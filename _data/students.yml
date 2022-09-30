@@ -24,21 +24,21 @@
   education1: B.Sc. Chemistry
   education2: M.Sc. Chemistry
 
-  - name: Tal Nissenbaum
+- name: Tal Nissenbaum
   photo: Tal.jpg
   info: M.Sc. student
   email: talniss@gmail.com
   number_educ: 1
   education1: B.Sc. Life Science
   
-    - name: Merav Golan
+- name: Merav Golan
   photo: rock.jpg
   info: M.Sc. student
   email: mervgln@gmail.com
   number_educ: 1
   education1: B.Sc. Nutrition Science
 
-    - name: Noa Havelin-Guitin
+- name: Noa Havelin-Guitin
   photo: Noa.jpg
   info: M.Sc. student
   email: noago67@gmail.com
