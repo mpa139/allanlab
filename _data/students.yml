@@ -21,29 +21,29 @@
   info: PhD student
   email: ilana.ilana12@gmail.com
   number_educ: 2
-  education1: B.Sc. Chemistry
-  education2: M.Sc. Chemistry
+  education1: B.Sc. Chemistry Bar-Ilan University 2020
+  education2: M.Sc. Chemistry Bar-Ilan University 2022
 
 - name: Tal Nissenbaum
   photo: Tal.jpg
   info: M.Sc. student
   email: talniss@gmail.com
   number_educ: 1
-  education1: B.Sc. Life Science
+  education1: B.Sc. Life Science Bar-Ilan University 2022
   
 - name: Merav Golan
   photo: rock.jpg
   info: M.Sc. student
   email: mervgln@gmail.com
   number_educ: 1
-  education1: B.Sc. Nutrition Science
+  education1: B.Sc. Nutrition Science Hebrew University 2022
 
 - name: Noa Havelin-Guitin
   photo: Noa.jpg
   info: M.Sc. student
   email: noago67@gmail.com
   number_educ: 1
-  education1: B.Sc. Biotechnology
+  education1: B.Sc. Biotechnology Hadassah Academic College 2022
 
 - name: "This could be you !"
   photo: rock.jpg
