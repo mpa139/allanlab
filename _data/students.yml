@@ -15,6 +15,36 @@
 #   number_educ: 0
 #   education1:
 
+
+- name: Ilana Kuzminsky
+  photo: ilana.jpeg
+  info: PhD student
+  email: ilana.ilana12@gmail.com
+  number_educ: 2
+  education1: B.Sc. Chemistry
+  education2: M.Sc. Chemistry
+
+  - name: Tal Nissenbaum
+  photo: Tal.jpg
+  info: M.Sc. student
+  email: talniss@gmail.com
+  number_educ: 1
+  education1: B.Sc. Life Science
+  
+    - name: Merav Golan
+  photo: rock.jpg
+  info: M.Sc. student
+  email: mervgln@gmail.com
+  number_educ: 1
+  education1: B.Sc. Nutrition Science
+
+    - name: Noa Havelin-Guitin
+  photo: Noa.jpg
+  info: M.Sc. student
+  email: noago67@gmail.com
+  number_educ: 1
+  education1: B.Sc. Biotechnology
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://liorlobel.github.io/Lobel-Lab/openings">openings</a> for more info
