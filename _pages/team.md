@@ -78,7 +78,7 @@ Jump to [staff](#staff), [PhD and MSc students](#phd-and-msc-students), [alumni]
 
 
 
-## PhD and Msc Students
+## PhD and MSc Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
