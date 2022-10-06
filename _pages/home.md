@@ -1,7 +1,7 @@
 ---
-title: "Sanford Lab - Home"
+title: "SPIRES Lab - Home"
 layout: homelay
-excerpt: "Sanford Lab at Yale School of the Environment."
+excerpt: "SPIRES Lab at Yale School of the Environment."
 sitemap: false
 permalink: /
 ---
@@ -10,14 +10,13 @@ We study environmental policy and governance the Yale School of the Environment!
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sat_dot_1.jpg" style="width: 210px">
-<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 
 
-<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     Menu
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -59,7 +58,7 @@ We study environmental policy and governance the Yale School of the Environment!
     <span class="sr-only">Next</span>
   </a>
 </div>
- -->
+
 
 
 
