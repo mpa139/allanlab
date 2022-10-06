@@ -8,20 +8,16 @@
   education2: MA School of Global Policy and Strategy, UCSD 2017
   education3: PhD Political Science and International Affairs, UCSD 2021
 
-- name: Izzi Hu
-  photo: Izzi.jpeg
-  info: Lab dog
-  email: NA
-  number_educ: 1
-  education1: Sophomore status at CCL at Yale
-  
-- name: Eliana Stone
-  photo: rock.jpg
-  info: Master of Environmental Science Student, started August 2022
-  email: eliana.stone@yale.edu
-  number_educ: 1
-  education1: BA Economics and Environmental Studies, UCSB 2022
-  
+- name: Cesar B Martinez-Alvarez
+  photo: cesar.jpg
+  info: Donnelley Postdoctoral Associate | Incoming Assistant Professor of Political Science (UCSB)
+  email: cesar.martinez-alvarez@yale.edu
+  website: <a href="https://www.cesarbmartinez.com/">Personal Website</a>
+  number_educ: 3
+  education1: BA International Relations, El Colegio de Mexico 2013
+  education2: MA International Policy, Stanford University 2016
+  education3: PhD Political Science, UCLA 2022
+
 - name: Megan Ayers
   photo: megan_ayers.jpeg
   info: PhD Student in Statistics & Data Science
@@ -37,7 +33,20 @@
   number_educ: 2
   education1: Msc Economic Geography from London School of Economics
   education2: BA Philosophy from Hamilton College
+  
+- name: Eliana Stone
+  photo: rock.jpg
+  info: Master of Environmental Science Student, started August 2022
+  email: eliana.stone@yale.edu
+  number_educ: 1
+  education1: BA Economics and Environmental Studies, UCSB 2022
 
+- name: Izzi Hu
+  photo: Izzi.jpeg
+  info: Lab dog
+  email: NA
+  number_educ: 1
+  education1: Sophomore status at CCL at Yale
 # - name: Willem Tromp
 #   photo: website_pic_willem.jpg
 #   info: PhD Student, started September 2018
