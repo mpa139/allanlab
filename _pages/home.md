@@ -24,7 +24,7 @@ We study environmental policy and governance the Yale School of the Environment!
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-<!--         <li data-target="#carousel" data-slide-to="5"></li> -->
+        <li data-target="#carousel" data-slide-to="5"></li>
 <!--         <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
@@ -42,9 +42,9 @@ We study environmental policy and governance the Yale School of the Environment!
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/SPIRES_slider/mining.jpg" alt="Slide 4" />
         </div>
-<!--         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>        -->
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/SPIRES_slider/stoves.jpeg" alt="Slide 5" />
+        </div>       
 <!--          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div> -->
