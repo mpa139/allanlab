@@ -1,12 +1,12 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Democratization, Elections, and Public Goods: The Evidence from Deforestation"
+  image: Forest_theory.png
+  description: This article shows that over the last three decades, competitive elections were associated with increased deforestation. Protection of forested areas provides long-term public goods, while their destruction provides short-term private goods for particular voters. Politicians facing a competitive election offer voters access to forested areas mainly for small-scale farming or commercial use of timber in exchange for electoral support. I test this theory of political deforestation using satellite generated global forest cover data and the results of over 1,000 national-level elections between 1982 and 2016. I find that countries that undergo a democratic transition lose an additional 0.8 percentage points of their forest cover each year, that years with close elections have over 1 percentage point per year higher forest cover loss compared to nonelection years, and that as the margin of victory in an election decreases by 10 points, the amount of deforestation increases by 0.7 percentage points per year. These increases are on the order of 5–10 times the average rate of forest loss globally. This suggests democratization is associated with underprovision of environmental public goods and contested elections are partially responsible for this underprovision.
+  authors: Sanford, Luke
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://onlinelibrary.wiley.com/doi/10.1111/ajps.12662
+    display: American Journal of Political Science (2021)
   highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  news2:
 
 # - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
 #   image: TBG_SL.png
