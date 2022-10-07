@@ -1,7 +1,7 @@
 ---
-title: "Sanford Lab - Publications"
+title: "SPIRES Lab - Publications"
 layout: gridlay
-excerpt: "Sanford Lab -- Publications."
+excerpt: "SPIRES Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar][(https://scholar.google.ch/citations?user=TqxYWZsAAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=hzh7H9gAAAAJ)
+For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
