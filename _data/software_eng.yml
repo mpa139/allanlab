@@ -1,1 +1,7 @@
-
+- name: Dr. Renato Besenczi 
+  photo: alena.png
+  info: Research Software Engineer
+  email: renato.besenczi(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Computer Science 
+  education2: Cortical Surface Registration for Translational Neuroimaging
