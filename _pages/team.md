@@ -139,7 +139,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 ## Software Engineers
 {% assign number_printed = 0 %}
-{% for member in site.data.post_doc %}
+{% for member in site.data.software-eng %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
