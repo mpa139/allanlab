@@ -127,3 +127,11 @@
   number_educ: 2
   education1: BSc in Physics & Philosophy
   education2: Generative modelling of microstructural development of the cerebral cortex
+
+- name: Helena Sousa
+  photo: Helena.jpg
+  info: OCt 2022
+  email: helena.sousa(at)kcl.ac.uk
+  number_educ: 2
+  education1: BSc in Biomedical Engineering & Biophysics
+  education2: Exploring early fetal brain development: a deep learning approach
