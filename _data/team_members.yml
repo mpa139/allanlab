@@ -1,19 +1,19 @@
 - name: Dr. Emma Robinson
   photo: ERphoto.jpg
-  info: Lab Lead/Lecturer in Medical Image Analysis
+  info: Lab Lead/Senior Lecturer in Medical Image Analysis
   email: emma.robinson(at)kcl.ac.uk
   number_educ: 2
-  education1: Lecturer in Medical Image Analysis
+  education1: Senior Lecturer in Medical Image Analysis
   education2: Cortical Surface Processing, Image Registration and Analysis, Machine Learning
   education3: Postdoc positions Imperial College and Oxford University (FMRIB centre)
   education4: Twitter @emrobSci
 
 - name: Dr. Maria Deprez
   photo: maria-deprez-photo.jpg
-  info: Lab Lead/Lecturer in Medical Imaging
+  info: Lab Lead/Senior Lecturer in Medical Imaging
   email: maria.deprez(at)kcl.ac.uk
   number_educ: 2
-  education1: Lecturer in Medical Imaging
+  education1: Senior Lecturer in Medical Imaging
   education2: Motion Correction of Fetal MRI, Image Registration and Segmentation, Spatiotemporal Atlases, Machine Learning
   education3: Postdoc positions Oxford University, King's College London
 
