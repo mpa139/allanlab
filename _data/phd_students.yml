@@ -99,7 +99,7 @@
 - name: Zhenshan Xie
   photo: zhenshan_xie.jpg
   info: Oct 2021
-  email: <zhenshan.xie(at)kcl.ac.uk>
+  email: zhenshan.xie(at)kcl.ac.uk
   number_educ: 2
   education1: BEng Communication Engineering
   education2: Predicting Onset of Dementia through Flow-Based Generative modeling
@@ -107,7 +107,7 @@
 - name: Diego Fajardo Rojas
   photo: diego_fajardo.jpg
   info: Oct 2021
-  email: <diego.fajardo_rojas(at)kcl.ac.uk>
+  email: diego.fajardo_rojas(at)kcl.ac.uk
   number_educ: 2
   education1: BSc, MSc Mathematics
   education2: Predicting preterm birth from MRI using deep learning
@@ -115,7 +115,7 @@
 - name: Yourong Guo
   photo: Yourong_Guo.jpg
   info: Oct 2021
-  email: <yourong.guo(at)kcl.ac.uk>
+  email: yourong.guo(at)kcl.ac.uk
   number_educ: 2
   education1: BEng, MEng in Biomedical Engineering
   education2: Focal cortical dysplasias detection in childhood epilepsy 
@@ -123,7 +123,7 @@
 - name: Saga Masui
   photo: Saga_Masui.jpeg
   info: Oct 2022
-  email: <saga.masui(at)kcl.ac.uk>
+  email: saga.masui(at)kcl.ac.uk
   number_educ: 2
   education1: BSc in Physics & Philosophy
   education2: Generative modelling of microstructural development of the cerebral cortex
