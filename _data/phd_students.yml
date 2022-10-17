@@ -143,3 +143,11 @@
   number_educ: 2
   education1: BSc in Biological Sciences, MRes in Medical Imaging Sciences
   education2: Normative modeling of fetal cortical development
+
+- name: Aakash Saboo
+  photo: AakashSaboo.jpg
+  info: Oct 2022
+  email: aakash.saboo(at)kcl.ac.uk
+  number_educ: 2
+  education1: BTech in Industrial Engineering
+  education2: Deep generative models of fetal brain development
