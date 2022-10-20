@@ -8,4 +8,6 @@ permalink: /research/
 
 # Research
 
-This page is currently under development. Please see our member's personal sites for more information regarding our research.
+Please see our member's personal sites for more information regarding our research.
+
+ <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="50%" style="float: center" />
