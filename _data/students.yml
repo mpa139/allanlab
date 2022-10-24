@@ -30,6 +30,13 @@
   number_educ: 1
   education1: Candidate for Bachelors in Statistics & Data Science, Yale University 2023
 
+- name: Lauren Salzman
+  photo: salzman.jpg
+  info: Undergraduate Research Assistant
+  email: lauren.salzman@yale.edu
+  number_educ: 1
+  education1: Candidate for Bachelors in Statistics & Data Science, Yale University 2023
+
 # - name: João van der Ven
 #   photo: rock.jpg
 #   info: BSc student
