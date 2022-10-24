@@ -25,6 +25,14 @@
   number_educ: 1
   education1: BA Math and Physics, Lewis & Clark College 2019
 
+- name: Lauren Oliver
+  photo: headshot.jpg
+  info: PhD Student at Yale School of the Environment
+  email: lauren.oliver@yale.edu
+  number_educ: 2
+  education1: BS in Civil Engineering, Santa Clara University, 2018
+  education2: MA Global Affairs, Concentration in Sustainable Development, University of Notre Dame, 2022
+
 - name: Matthew Gordon
   photo: headshot.jpg
   info: PhD Candidate in Environmental Economics
