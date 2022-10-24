@@ -22,6 +22,13 @@
   email: annie.ulichney@yale.edu
   number_educ: 1
   education1: Applied Math & Mechanical Engineering, Yale University 2022.5
+  
+- name: Jackson Pullman
+  photo: Pullman.jpg
+  info: Undergraduate Research Assistant
+  email: jackson.pullman@yale.edu
+  number_educ: 1
+  education1: Candidate for Bachelors in Statistics & Data Science, Yale University 2023
 
 # - name: João van der Ven
 #   photo: rock.jpg
