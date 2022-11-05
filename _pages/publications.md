@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2022
 
+[Demystify Degree-related Bias in Link Prediction](https://nds-vu.github.io/publications/)\
+Yu Wang and Tyler Derr.
+In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) PhD Forum, Orlando, FL, USA, November 28 - December 1, 2022.
+
 [THINK: Temporal Hypergraph Hyperbolic Network](https://nds-vu.github.io/publications/)\
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.
 In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022.
