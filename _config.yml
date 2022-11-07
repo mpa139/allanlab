@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: The SPIRES Lab
+email: luke.sanford@yale.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
+  Website of the SPIRES Lab.
 baseurl: ""
 url: ""
 
