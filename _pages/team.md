@@ -1,5 +1,5 @@
 ---
-title: "Sanford Lab - Team"
+title: "SPIRES Lab - Team"
 layout: gridlay
 excerpt: "Sanford Lab: Team members"
 sitemap: false
