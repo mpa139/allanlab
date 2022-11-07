@@ -1,5 +1,5 @@
 ---
-title: "Sanford Lab - Pictures"
+title: "SPIRES Lab - Pictures"
 layout: piclay
 excerpt: "Sanford Lab -- Pictures"
 permalink: /pictures/
