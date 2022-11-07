@@ -45,6 +45,9 @@ We study environmental policy and governance the Yale School of the Environment!
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/SPIRES_slider/stoves.jpeg" alt="Slide 5" />
         </div>       
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/SPIRES_slider/sat_dog_1.png" alt="Slide 6" />
+        </div>    
 <!--          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div> -->
