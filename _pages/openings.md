@@ -1,5 +1,5 @@
 ---
-title: "Sanford Lab - Vacancies"
+title: "SPIRES Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
