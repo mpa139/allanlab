@@ -37,6 +37,13 @@
   number_educ: 1
   education1: Candidate for Bachelors in Statistics & Data Science, Yale University 2023
 
+- name: Charles Xu
+  photo: c_xu.jpg
+  info: Undergraduate Research Assistant
+  email: charles.xu@yale.edu
+  number_educ: 1
+  education1: Applied Math & Chemistry, Yale University 2023
+  
 # - name: João van der Ven
 #   photo: rock.jpg
 #   info: BSc student
