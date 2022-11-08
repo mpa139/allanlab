@@ -72,7 +72,7 @@ We are located at Yale University in the School of the Environment (formerly Sch
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the ([Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
+We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the [Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
