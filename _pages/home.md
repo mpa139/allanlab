@@ -6,7 +6,16 @@ sitemap: false
 permalink: /
 ---
 
-We study environmental policy and governance the Yale School of the Environment!
+We study the coupled human-natural systems at the nexus of environmental protection, economic development, and climate change. Our research focuses on how institutions shape incentives for environmental preservation or exploitation, and how peoples preferences for environmental and development policy are affected by the spatial and temporal distribution of consequences of those policies. To this end, we develop and use novel methods to use remote sensing for impact evaluation. We use remote sensing to improve measurement of important environmental, econmic, and social outcomes as well as to help us make better inferences of the effects of policy in complex human-natural systems.
+
+We work on outcomes including deforestation, land cover and land use change, economic development, migration, urbanization, political and social preferences for environmental protection and climate policy, and others. We focus on the effects of political institutions including electoral systems, bureaucratic incentives, and property rights, to name a few. 
+
+We are located at Yale University in the School of the Environment (formerly School of Forestry), though our lab members span many departments and schools.  
+
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+
+We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the [Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
 
 
 <figure class="fourth">
@@ -61,18 +70,6 @@ We study environmental policy and governance the Yale School of the Environment!
 </div>
 
 
-
-
-We study the coupled human-natural systems at the nexus of environmental protection, economic development, and climate change. Our research focuses on how institutions shape incentives for environmental preservation or exploitation, and how peoples preferences for environmental and development policy are affected by the spatial and temporal distribution of consequences of those policies. To this end, we develop and use novel methods to use remote sensing for impact evaluation. We use remote sensing to improve measurement of important environmental, econmic, and social outcomes as well as to help us make better inferences of the effects of policy in complex human-natural systems.
-
-We work on outcomes including deforestation, land cover and land use change, economic development, migration, urbanization, political and social preferences for environmental protection and climate policy, and others. We focus on the effects of political institutions including electoral systems, bureaucratic incentives, and property rights, to name a few. 
-
-We are located at Yale University in the School of the Environment (formerly School of Forestry), though our lab members span many departments and schools.  
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the [Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
