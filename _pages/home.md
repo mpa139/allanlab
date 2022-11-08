@@ -5,6 +5,11 @@ excerpt: "SPIRES Lab at Yale School of the Environment."
 sitemap: false
 permalink: /
 ---
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YSE_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/yale.png" style="width: 110px">
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
+</figure>
 
 We study the coupled human-natural systems at the nexus of environmental protection, economic development, and climate change. Our research focuses on how institutions shape incentives for environmental preservation or exploitation, and how peoples preferences for environmental and development policy are affected by the spatial and temporal distribution of consequences of those policies. To this end, we develop and use novel methods to use remote sensing for impact evaluation. We use remote sensing to improve measurement of important environmental, econmic, and social outcomes as well as to help us make better inferences of the effects of policy in complex human-natural systems.
 
