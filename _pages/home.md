@@ -25,7 +25,7 @@ We study environmental policy and governance the Yale School of the Environment!
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-<!--         <li data-target="#carousel" data-slide-to="6"></li> -->
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     Items
@@ -48,9 +48,7 @@ We study environmental policy and governance the Yale School of the Environment!
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/SPIRES_slider/sat_dog_1.png" alt="Slide 6" />
         </div>    
-<!--          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div> -->
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -65,16 +63,18 @@ We study environmental policy and governance the Yale School of the Environment!
 
 
 
-<!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+We study the coupled human-natural systems at the nexus of environmental protection, economic development, and climate change. Our research focuses on how institutions shape incentives for environmental preservation or exploitation, and how peoples preferences for environmental and development policy are affected by the spatial and temporal distribution of consequences of those policies. To this end, we develop and use novel methods to use remote sensing for impact evaluation. We use remote sensing to improve measurement of important environmental, econmic, and social outcomes as well as to help us make better inferences of the effects of policy in complex human-natural systems.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
- -->
-<!--  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We work on outcomes including deforestation, land cover and land use change, economic development, migration, urbanization, political and social preferences for environmental protection and climate policy, and others. We focus on the effects of political institutions including electoral systems, bureaucratic incentives, and property rights, to name a few. 
+
+We are located at Yale University in the School of the Environment (formerly School of Forestry), though our lab members span many departments and schools.  
+
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the ([Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
