@@ -1,9 +1,9 @@
-- date: 20. May 2022
-  headline: "The Sanford Lab website is officially live!"
-
 - date: 20. October 2022
   headline: "Cesar has papers accepted to [PNAS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250464) and [Latin American Research Review](https://scholar.princeton.edu/sites/default/files/19s.pdf)"
 
+- date: 20. May 2022
+  headline: "The Sanford Lab website is officially live!"
+  
 # - date: 29. October 2021
 #   headline: "**Our new paper, on Cooper pairs above Tc, is published in [Science](https://www.science.org/doi/10.1126/science.abe3987)**.
 #   See [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered), [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/)."
