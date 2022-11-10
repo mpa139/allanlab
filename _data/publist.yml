@@ -14,19 +14,19 @@
   authors: Richard Bluhm, Pascal Polonik, Kyle S. Hemes, Luke C. Sanford, Susanne A. Benz, Morgan C. Levy, Katharine L. Ricke, Jennifer A. Burney
   link:
     url: https://www.nature.com/articles/s41893-022-00856-1
-    display:  Nature Sustainability
+    display:  Nature Sustainability (2022)
   highlight: 1
   news2: [Newsweek]{https://www.newsweek.com/strong-evidence-systemic-bias-california-pollution-exposure-study-1696574}
 
-# - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-#   image: TBG_SL.png
-#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-#   authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-#   link:
-#     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-#     display:  Phys. Rev. Research 3, 013153 (2021)
-#   highlight: 1
-#   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+- title: "Political Leadership Has Limited Impact on Fossil Fuel Taxes and Subsidies"
+  image: Oil.jpg
+  description: For countries to rapidly decarbonize they need strong leadership, according to both academic studies and popular accounts. But leadership is difficult to measure, and its importance is unclear. We use original data to investigate the role of presidents, prime ministers, and monarchs in 155 countries from 1990 to 2015 in changing their countries’ gasoline taxes and subsidies. Our findings suggest that the impact of leaders on fossil fuel taxes and subsidies is surprisingly limited and often ephemeral. This holds true regardless of the leader’s age, gender, education, or political ideology. Rulers who govern during an economic crisis perform no better or worse than other rulers. Even Presidents and Prime Ministers who were recognized by the United Nations for environmental leadership had no more success than other leaders in reducing subsidies or raising fuel taxes. Where leaders appear to play an important role—primarily in countries with large subsidies—their reforms often failed, with subsidies returning to pre-reform levels within the first 12 months 62% of the time, and within five years 87% of the time. Our findings suggest that leaders of all types find it exceptionally hard to raise the cost of fossil fuels for consumers. To promote deep decarbonization, leaders are likely to have more success with other types of policies, such as reducing the costs and increasing the availability of renewable energy.
+  authors: Cesar Martinez Alvarez, Chad Hazlett, Paasha Madhavi, Michael L. Ross
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250464
+    display:  PNAS (2022)
+  highlight: 1
+  news2: 
 
 # - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
 #   image: YSR.png
