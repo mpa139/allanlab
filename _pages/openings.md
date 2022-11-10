@@ -6,6 +6,16 @@ sitemap: false
 permalink: /vacancies
 ---
 
+# Open Positions
+We are currently looking for one PhD student and up to three postdoctoral fellows to join the SPIRES lab in Fall 2022! We are also accepting up to 3 research masters students in the [MESc](https://environment.yale.edu/academics/masters/mfs-mesc) program.
+
+## PhD Position
+
+My doctoral students work on how political and economic institutions influence when natural resources are conserved or exploited. My doctoral students all have a strong statistics, modeling, machine learning, or remote sensing background and are interested in environmental political economy questions. Most take 2 years of coursework and at least one field exam in the Political Science department here. More information and the application can be found [here](https://environment.yale.edu/admissions/doctoral)
+
+## Postdoctoral Positions
+More information coming soon!
+
 <!-- # Open positions
 
 **Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
