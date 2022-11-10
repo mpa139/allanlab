@@ -8,15 +8,15 @@
   highlight: 1
   news2:
 
-# - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-#   image: TBG_SL.png
-#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-#   authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-#   link:
-#     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-#     display:  arXiv:2107.14716 (2021)
-#   highlight: 0
-#   news2:
+- title: "Disparate air pollution reductions during California’s COVID-19 economic shutdown"
+  image: Covid_pollution.JPEG
+  description: Minority communities in the United States often experience higher-than-average exposures to air pollution. However, the relative contribution of institutional biases to these disparities can be difficult to disentangle from other factors. Here, we use the economic shutdown associated with the 2020 COVID-19 shelter-in-place orders to causally estimate pollution exposure disparities caused by the in-person economy in California. Using public and citizen-science ground-based monitor networks for respirable particulate matter, along with satellite records of nitrogen dioxide, we show that sheltering in place produced disproportionate air pollution reductions for non-White (especially Hispanic and Asian) and low-income communities. We demonstrate that these racial and ethnic effects cannot be explained by weather patterns, geography, income or local economic activity as measured by local changes in mobility. They are instead driven by regional economic activity, which produces local harms for diffuse economic benefits. This study thus provides indirect, yet substantial, evidence of systemic racial and ethnic bias in the generation and control of pollution from the portion of the economy most impacted in the early pandemic period.
+  authors: Richard Bluhm, Pascal Polonik, Kyle S. Hemes, Luke C. Sanford, Susanne A. Benz, Morgan C. Levy, Katharine L. Ricke, Jennifer A. Burney
+  link:
+    url: https://www.nature.com/articles/s41893-022-00856-1
+    display:  Nature Sustainability
+  highlight: 1
+  news2: [Newsweek]{https://www.newsweek.com/strong-evidence-systemic-bias-california-pollution-exposure-study-1696574}
 
 # - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
 #   image: TBG_SL.png
