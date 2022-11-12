@@ -64,12 +64,55 @@
   number_educ: 1
   education1: BA Political Science and Environmental Studies, Wesleyan University, 2021
 
+- name: Eliot Carlson
+  photo: IMG_4944.PNG
+  info: Undergraduate Research Assistant
+  email: eliot.carlson@yale.edu
+  number_educ: 1
+  education1: Statistics & Data Science, Yale University 2023
+  
+- name: Annie Ulichney
+  photo: ulichney.jpg
+  info: Undergraduate Research Assistant
+  email: annie.ulichney@yale.edu
+  number_educ: 1
+  education1: Applied Math & Mechanical Engineering, Yale University 2022.5
+  
+- name: Jackson Pullman
+  photo: Pullman.jpg
+  info: Undergraduate Research Assistant
+  email: jackson.pullman@yale.edu
+  number_educ: 1
+  education1: Statistics & Data Science, Yale University 2023
+
+- name: Lauren Salzman
+  photo: salzman.jpg
+  info: Undergraduate Research Assistant
+  email: lauren.salzman@yale.edu
+  number_educ: 1
+  education1: Statistics & Data Science, Yale University 2023
+
+- name: Charles Xu
+  photo: c_xu.jpg
+  info: Undergraduate Research Assistant
+  email: charles.xu@yale.edu
+  number_educ: 1
+  education1: Applied Math & Chemistry, Yale University 2023
+
+- name: Katy Sun
+  photo: rock.jpg
+  info: Undergraduate Research Assistant
+  email: katy.sun@yale.edu
+  number_educ: 1
+  education1: Yale University 2024
+
 - name: Izzi Hu
   photo: Izzi.jpeg
   info: Lab dog
-  email: NA
   number_educ: 1
   education1: Sophomore status at CCL at Yale
+ 
+ 
 # - name: Willem Tromp
 #   photo: website_pic_willem.jpg
 #   info: PhD Student, started September 2018
