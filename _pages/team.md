@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Faculty, Postdoc, PhD members
+## Current Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -28,7 +28,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>
     email: <{{ member.email }}></i> <br>
-  <b>website: {{ member.website }} </b>
+  <b> {{ member.website }} </b>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
