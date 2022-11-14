@@ -25,7 +25,7 @@ In this paper I estimate the effects of a land tenure formalization program in t
 
 ## Remote Control: Debiasing Remote Sensing Predictions for Causal Inference. Matthew Gordon, Megan Ayers, Eliana Stone, Luke Sanford
 
-** Determining how much carbon carbon offsets offset. (LAB) **
+## Determining how much carbon carbon offsets offset. (LAB) 
 We have early stage research in empirically estimating the amount of carbon that is truly offset when a landowner sells carbon offsets from their land. We are exploring how remote sensing should or should not be used to improve monitoring, best practices for extimating baseline scenarios, and how machine learning can help to minimize adverse selection on the part of offset sellers.
 
 ## Indian Legal Responsiveness to Environmental Issues–Data from 5 Million Court Cases. Luke Sanford and Teevrat Garg
