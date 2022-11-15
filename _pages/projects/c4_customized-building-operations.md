@@ -1,5 +1,5 @@
 ---
-title: "biLAB | Current project"
+title: "biLAB | Current Project"
 layout: textlay
 excerpt: "Current project"
 sitemap: false
