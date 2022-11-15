@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/building-grid-interactions
 ---
 
-{% assign prj = site.data.projects_current[0] %}
+{% assign prj = site.data.projects_current[8] %}
 # {{ prj.title }}
 ![](/images/pubpic/{{ prj.image }}){:class="img-responsive"}
 {{ prj.description }}  
