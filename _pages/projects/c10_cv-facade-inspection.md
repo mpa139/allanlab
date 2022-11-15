@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/cv-facade-inspection
 ---
 
-{% assign prj = site.data.projects_current[8] %}
+{% assign prj = site.data.projects_current[9] %}
 # {{ prj.title }}
 ![](/images/pubpic/{{ prj.image }}){:class="img-responsive"}
 {{ prj.description }}  

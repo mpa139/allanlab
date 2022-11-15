@@ -85,11 +85,11 @@
     pp2: "Park, K., Ergan, S., & Feng, C. (2021). Towards intelligent agents to assist in modular construction: evaluation of datasets generated in virtual environments for AI training. In ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 38, pp. 327-333). IAARC Publications."
   highlight: 1
 
-# - title: "AI-based semantic generative design models for architectural layout design"
-#   image: prj9_kpark.png
-#   addr: ai-arch
-#   description: ""
-#   highlight: 1
+- title: "AI-based semantic generative design models for architectural layout design"
+  image: prj9_kpark.png
+  addr: ai-arch
+  description: ""
+  highlight: 1
 
 - title: "A Computer Vision-based Approach for Urban Façade Inspections"
   image: prj10_beyza.png
