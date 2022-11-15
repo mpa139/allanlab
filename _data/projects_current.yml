@@ -90,3 +90,11 @@
 #   addr: ai-arch
 #   description: ""
 #   highlight: 1
+
+- title: "A Computer Vision-based Approach for Urban Façade Inspections"
+  image: prj10_beyza.png
+  addr: cv-facade-inspection
+  description: "Evaluating façade conditions in urban settings is an integral part of the building maintenance and ensuring public safety. In current practice, façade inspections are conducted manually and visually by inspectors causing costly and time-consuming processes that are prone to errors. This project aims to automate façade inspections and present more effective methods by leveraging drones, laser scanners and computer vision &amp; AI. The objectives of the study include (1) acquisition of data for defect classification and 3D model generation (2) identifying targeted façade defects with different geometries and attributes using deep learning techniques (3) visualizing the identified defects on generated 3D models to support inspection process."
+  pp:
+    pp1: "Kiper, B., Lin, X., Owoborode, M., Ergan, S., (2022). “An approach to generate point cloud-based defects for automated façade inspections.” In International Conference on Construction Applications of Virtual Reality (CONVR2022), November 16-19, 2022, Seoul, South Korea. (Accepted)"
+  highlight: 1
