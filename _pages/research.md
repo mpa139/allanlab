@@ -13,7 +13,7 @@ Broadly, we work on how political institutions shape incentives to preserve the 
 
 In a first paper (Sanford 2021) describes the incentives that create higher rates of deforestation in election years. In a follow-up project, we extend the analysis to sub-national elections to test hypotheses about where politicians might choose to allow additional deforestation.
 
-**Discovering Persuasive Concepts Related to Renewable Energy Using Deep Neural Networks Molly Roberts, Megan Ayers, Kevin Li, Luke Sanford**
+![]({{ site.url }}{{ site.baseurl }}/images/respic/network_detail.png){: style="width: 200px; float: right; margin: 0px 10px"} **Discovering Persuasive Concepts Related to Renewable Energy Using Deep Neural Networks Molly Roberts, Megan Ayers, Kevin Li, Luke Sanford**
 
 We use methods to make neural network predictions more interpretable to help make human persuasion more interpretable. We build a machine learning model which learns how text influences human decisions about government support for renewable energy, and then extract the features which are most predictive. We construct the model so that the features are clusters of human-interpretable phrases. We then take these phrases and test their persuasiveness in a randomized control trial. Methodologically, this paper connects research in machine learning interpretability to survey methodology methods. We allow researchers to discover how persuasive treatments are expressed "in the wild" rather than subjectively specified by researchers ex ante.
 
