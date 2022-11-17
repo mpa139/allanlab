@@ -5,10 +5,8 @@ excerpt: "SPIRES Lab at Yale School of the Environment."
 sitemap: false
 permalink: /
 ---
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YSE_logo.png" style="width: 220px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRES_logo.png" style="width: 440px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/yale.png" style="width: 220px">
+<figure class="fourth text-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRES_logo.png" style="width: 500px">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
 
@@ -23,6 +21,11 @@ We are located at Yale University in the School of the Environment (formerly Sch
 
 We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the [Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YSE_logo.png" style="width: 220px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/yale.png" style="width: 220px">
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
+</figure>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
