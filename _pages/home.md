@@ -5,8 +5,8 @@ excerpt: "SPIRES Lab at Yale School of the Environment."
 sitemap: false
 permalink: /
 ---
-<figure class="fourth text-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRES_logo.png" style="width: 500px">
+<figure class="w-100 text-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRES_logo.png">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
 
