@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
-
+.col-sm-4 {
+padding-top: 600px;
+background-color: transparent;
+color: black;
+}
   <div id="homeid" class="col-sm-8">
 <!--         <h1>Welcome to the SPIRES Lab</h1> -->
 
 	{{ content }}
   </div>
-<aside class="col-sm-4 blog-sidebar">
-  <div id="newsid" class="p-3 mb-3 bg-transparent rounded">
+<aside class="col-sm-4 blog-sidebar bg-transparent">
+  <div id="newsid" class="p-3 mb-3">
 	{% include news.html %}
   </div>
 </aside>
