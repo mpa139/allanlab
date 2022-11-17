@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 Broadly, we work on how political institutions shape incentives to preserve the environment or exploit natural resources. We do this using new, high-dimensional sources of data including satellite imagery and human-generated text. This data allows us to generate insights at a local scale for large geographic areas or populations. Some of our ongoing projects are described below:
 
-## Sub-national Electoral Deforestation Cycles Luke Sanford and Eliot Carlson
+**Sub-national Electoral Deforestation Cycles Luke Sanford and Eliot Carlson** ![]({{ site.url }}{{ site.baseurl }}/images/respic/belize.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
 In a first paper (Sanford 2021) describes the incentives that create higher rates of deforestation in election years. In a follow-up project, we extend the analysis to sub-national elections to test hypotheses about where politicians might choose to allow additional deforestation.
 
 ## Discovering Persuasive Concepts Related to Renewable Energy Using Deep Neural Networks Molly Roberts, Megan Ayers, Kevin Li, Luke Sanford
