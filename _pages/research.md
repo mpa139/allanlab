@@ -17,7 +17,7 @@ In a first paper (Sanford 2021) describes the incentives that create higher rate
 
 We use methods to make neural network predictions more interpretable to help make human persuasion more interpretable. We build a machine learning model which learns how text influences human decisions about government support for renewable energy, and then extract the features which are most predictive. We construct the model so that the features are clusters of human-interpretable phrases. We then take these phrases and test their persuasiveness in a randomized control trial. Methodologically, this paper connects research in machine learning interpretability to survey methodology methods. We allow researchers to discover how persuasive treatments are expressed "in the wild" rather than subjectively specified by researchers ex ante.
 
-**The effects of land tenure formalization depend on the political setting--evidence from an RCT in Benin. Luke Sanford**
+**The effects of land tenure formalization depend on the political setting--evidence from an RCT in Benin. Luke Sanford** ![]({{ site.url }}{{ site.baseurl }}/images/respic/HTE_motivation.png){: style="width: 200px; float: right; margin: 0px 10px"}
 
 I show that the positive effects of the Plan Fonciers Ruraux program in Benin are initially geographically concentrated in areas which have low initial levels of land tenure security. After an election in 2016 which reduced confidence in the judiciary and other formal institutions, the effect of the PFR is reduced significantly and is not distinguishable from zero. This paper shows the first evidence from an RCT that political factors moderate the effects of land tenure formalization.
 
