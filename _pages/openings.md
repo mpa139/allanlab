@@ -11,7 +11,7 @@ We are currently looking for one PhD student and up to three postdoctoral fellow
 
 ## PhD Position
 
-My doctoral students work on how political and economic institutions influence when natural resources are conserved or exploited. My doctoral students all have a strong statistics, modeling, machine learning, or remote sensing background and are interested in environmental political economy questions. Most take 2 years of coursework and at least one field exam in the Political Science department here. More information and the application can be found [here](https://environment.yale.edu/admissions/doctoral)
+My doctoral students work on how political and economic institutions influence when natural resources are conserved or exploited. My doctoral students all have a strong statistics, modeling, machine learning, or remote sensing background and are interested in environmental political economy questions. Most take 2 years of coursework and at least one field exam in the Political Science, Statistics and Data Science, or Economics departments. More information and the application can be found [here](https://environment.yale.edu/admissions/doctoral)
 
 ## Postdoctoral Positions
 We are seeking applicants for up to three postdoctoral research fellow positions focused on environmental political economy and environmental data science at the Yale School of the Environment. We seek to leverage new, high dimensional sources of data including satellite imagery and text to answer questions at the frontier of human well-being, climate change, environmental policy, and economic development. We develop and implement machine learning methods paired with statistical causal inference to answer challenging policy questions, often in non-experimental settings. Our group includes students from the School of Environment and Forest School, the Political Science Department, the Statistics and Data Science department, the Math department, and the Engineering department.
@@ -20,7 +20,7 @@ We are seeking a diverse pool of applicants who wish to join a collaborative and
 
 Postdoctoral positions are for one year with the option to renew for a second year contingent on performance and funding. Postdoctoral salaries are determined by the Yale Office for Postdoctoral Affairs, but are $56,448 at a minimum in the first year, and increase with experience. Postdoctoral associates will have funded research assistants and a research budget and are expected to spend a minimum of 50% of their time on collaborative, lab projects (led or co-led by the postdoc).
 
-**For more information, find the full advertisement and application instructions [here]({{ site.baseurl }}/downloads/2022_postdocs.pdf)).**
+**For more information, find the full advertisement and application instructions [here]({{ site.baseurl }}/downloads/SPIRES_2022_Postdocs.pdf)).**
 
 
 
