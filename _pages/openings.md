@@ -7,7 +7,7 @@ permalink: /vacancies
 ---
 
 # Open Positions
-We are currently looking for one PhD student and up to three postdoctoral fellows to join the SPIRES lab in Fall 2022! We are also accepting up to 3 research masters students in the [MESc](https://environment.yale.edu/academics/masters/mfs-mesc) program.
+We are currently looking for one PhD student and up to three postdoctoral fellows to join the SPIRES lab in Fall 2023! We are also accepting up to 3 research masters students in the [MESc](https://environment.yale.edu/academics/masters/mfs-mesc) program.
 
 ## PhD Position
 
