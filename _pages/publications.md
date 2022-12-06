@@ -49,9 +49,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2022
 
+
+[Fairness and Explainability: Briding the Gap Towards Fair Model Explanations](https://nds-vu.github.io/publications/)\
+Yuying Zhao, Yu Wang, Tyler Derr.
+In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
+
+[Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery](https://nds-vu.github.io/publications/)\
+Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.
+In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
+
 [Demystify Degree-related Bias in Link Prediction](https://nds-vu.github.io/publications/)\
 Yu Wang and Tyler Derr.
-In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) PhD Forum, Orlando, FL, USA, November 28 - December 1, 2022.
+In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 
 [THINK: Temporal Hypergraph Hyperbolic Network](https://nds-vu.github.io/publications/)\
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.
