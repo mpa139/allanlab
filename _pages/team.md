@@ -246,13 +246,13 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 
 ## High school students hosted
 
-Summer 2022:
-Sam Karmarkar
-Motunrayo Owoborode
+Summer 2022:  
+Sam Karmarkar  
+Motunrayo Owoborode  
 
-Summer 2021:
-Brandon Knox
-Sandy Yuan
+Summer 2021:  
+Brandon Knox  
+Sandy Yuan  
 
 Summer 2020:  
 David Ugo-Omernukwa, <b>Bronx High School of Science</b>  
