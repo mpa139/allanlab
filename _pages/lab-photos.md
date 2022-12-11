@@ -7,8 +7,6 @@ permalink: /lab-photos/
 
 # NDS Lab Photos
 
-## NDS Lab and friends end of Summer 2021 BBQ
-
 <!-- 
 #### Example youtube video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idhere......" frameborder="0" allowfullscreen></iframe>
