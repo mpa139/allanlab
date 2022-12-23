@@ -1,6 +1,6 @@
 - name: Zhuoya Shi
   photo: Zhuoya.jpg
-  info: PhD Candidate, expected graduation date - Sep 2022
+  info: PhD Candidate, expected graduation date - May 2023
   email: zs1110@nyu.edu
   number_educ: 2
   education1: "Research Project: <a href='/projects/urban-facade-inspection'>A BIM-based approach for improving building façade inspection in cities</a>"
@@ -8,7 +8,7 @@
 
 - name: Daniel Lu
   photo: Dan.jpg
-  info: PhD Student, expected graduation date - May 2023
+  info: PhD Student, expected graduation date - Dec 2023
   email: dbl299@nyu.edu
   number_educ: 1
   education1: "Research Project: <a href='/projects/work-zone-safety'>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</a>"
@@ -16,7 +16,7 @@
 
 - name: Keundeok Park
   photo: kay.jpg
-  info: PhD Student, expected graduation date - May 2023
+  info: PhD Student, expected graduation date - Dec 2023
   email: kp2393@nyu.edu
   number_educ: 1
   education1: "Research Project: <a href='/projects/arm4mod'>AI-powered and Robot-assisted Manufacturing for Modular Construction: Train module assembly progress inference AI model training in Virtual Reality</a>"
