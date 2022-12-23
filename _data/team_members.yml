@@ -29,11 +29,11 @@
   number_educ: 1
   education1: <a href="/downloads/poster_Beyza.pdf">Research poster</a>
 
-- name: Mohammad Zair Cheema
-  photo: zair.jpg
-  info: PhD Student, expected graduation date - May 2025
-  email: zair.cheema@nyu.edu
-  number_educ: 0
+# - name: Mohammad Zair Cheema
+#   photo: zair.jpg
+#   info: PhD Student, expected graduation date - May 2025
+#   email: zair.cheema@nyu.edu
+#   number_educ: 0
 
 - name: Hanna Lee
   photo: hannalee.jfif
