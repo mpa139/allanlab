@@ -1,3 +1,23 @@
+- title: "ICAM-reg: Interpretable Classification and Regression with Feature Attribution for Mapping Neurological Phenotypes in Individual Scans"
+  image: ICAM.png
+  description:
+  authors: C Bass, M da Silva, C Sudre, LZJ Williams, PD Tudosiu, F Alfaro-Almagro, SP Fitzgibbon, MF Glasser, SM Smith, EC Robinson
+  link:
+    url: https://ieeexplore.ieee.org/document/9947339/
+    display: IEEE Transactions on Medical Imaging (2022).
+  highlight: 1
+  news2:
+
+- title: "A deep-discrete learning framework for spherical surface registration"
+  image: model_ddr.png
+  description:
+  authors: MA Suliman, LZJ Williams, A Fawaz, EC Robinson   
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-16446-0_12
+    display: Conference on Medical Image Computing and Computer-Assisted Intervention 2022 (pp. 119-129)
+  highlight: 1
+  news2:
+  
 - title: "Distinguishing Healthy Ageing from Dementia: A Biomechanical Simulation of Brain Atrophy Using Deep Networks"
   image: Biomechanicalmodel.png
   description:
@@ -38,15 +58,6 @@
   highlight: 
   news2:
   
-- title: "ICAM-reg: Interpretable Classification and Regression with Feature Attribution for Mapping Neurological Phenotypes in Individual Scans"
-  image: 
-  description:
-  authors: C Bass, M da Silva, C Sudre, LZJ Williams, PD Tudosiu, F Alfaro-Almagro, SP Fitzgibbon, MF Glasser, SM Smith, EC Robinson
-  link:
-    url: https://arxiv.org/abs/2103.02561
-    display:  arxiv
-  highlight: 
-  news2:
 
 - title: "ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping"
   image: ICAM.png
@@ -55,18 +66,9 @@
   link:
     url: https://proceedings.neurips.cc/paper/2020/hash/56f9f88906aebf4ad985aaec7fa01313-Abstract.html
     display:  Neural Information Processing Systems (NeurIPS) 7697--7709(2020)
-  highlight: 1
+  highlight: 
   news2:
   
-- title: "Image synthesis with a convolutional capsule generative adversarial network"
-  image: bass_capsules.png
-  description:
-  authors: C Bass, T Dai, B Billot, K Arulkumaran, A Creswell, C Clopath, V De Paola, AA Bharath
-  link:
-    url: https://openreview.net/forum?id=rJen0zC1lE
-    display:  International Conference on Medical Imaging with Deep Learning 39--62 (2019)
-  highlight: 1
-  news2:
 
 - title: "Multimodal surface matching with higher-order smoothness constraints "
   image:
