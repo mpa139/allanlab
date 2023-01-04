@@ -18,7 +18,7 @@
   highlight: 1
   news2:
   
-  title: "Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis"
+- title: "Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis"
   image: surface_transformer.jpeg
   description:
   authors: S Dahan, A Fawaz, LZJ Williams, C Yang, TS Coalson, MF Glasser, AD Edwards, D Rueckert, EC Robinson
