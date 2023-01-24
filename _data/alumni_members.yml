@@ -62,3 +62,14 @@
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
   education3:
 
+- name: Willem Tromp
+  photo: website_pic_willem.jpg
+  info: PhD Student, started September 2018
+  duration: In the Allan Lab 2018 - 2022
+  email: WTromp@physics.leidenuniv.nl
+  number_educ: 1
+  education1: Master Leiden University with Felix Baumberger, Milan Allan
+  education2:
+  education3:
+  education4:
+
