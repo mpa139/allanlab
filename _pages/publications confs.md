@@ -8,6 +8,14 @@ permalink: /publications_confs/
 
 # Selected Conference Papers
 
+## 2023
+
+{% for conf in site.data.conf23 %}
+---
+  {{ forloop.index }} . {{ conf.conf23 }} <br />
+
+{% endfor %}
+
 ## 2022
 
 {% for conf in site.data.conf22 %}
