@@ -1,3 +1,21 @@
+- date: 1/2023
+  headline: "Yu's paper <a href=\"https://arxiv.org/abs/2207.06221\" target=\"_blank\" rel=\"noopener noreferrer\">Collaboration-Aware Graph Convolutional Network for Recommender Systems</a> is accepted at TheWebConf'23!
+
+- date: 1/2023
+  headline: "Yuying passes her Preliminary Exam!"
+
+- date: 2022
+  headline: "YEAR"
+
+- date: 12/2022
+  headline: "Yuying accepts her offer to join Visa as a PhD research intern for Summer'23!"
+
+- date: 12/2022
+  headline: "Yu accepts his offer to join Adobe as a PhD research intern for Summer'23!"
+
+- date: 12/2022
+  headline: "Yuying and Lance are awarded AAAI-23 Student Scholarships and selected as volunteers!"
+
 - date: 11/2022
   headline: "Tyler gave a keynote at the ICDM'22 International Workshop on Knowledge Graphs on ''Overcoming Data Quality Issues in Graph Learning''!"
 
@@ -19,16 +37,16 @@
 - date: 6/2022
   headline: "Tyler invited to serve as Publicity Chair at KDD'23!"
 
-- date: 8/2021
+- date: 8/2022
   headline: "Lance's preprint <a href=\"https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery</a> is now online!"
 
 - date: 8/2022
   headline: "Tyler gave an invited talk ''Machine Learning on Graphs'' at Oak Ridge National Laboratory!"
 
-- date: 8/2021
+- date: 8/2022
   headline: "Yu's paper <a href=\"https://arxiv.org/pdf/2112.00238.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Imbalanced Graph Classification via Graph-of-Graph Neural Networks</a> is accepted at ACM CIKM'22!"
 
-- date: 7/2021
+- date: 7/2022
   headline: "Yu's preprint <a href=\"https://arxiv.org/pdf/2207.06221.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Collaboration-Aware Graph Convolutional Networks for Recommendation Systems</a> is now online!"
 
 - date: 6/2022
@@ -49,16 +67,16 @@
 - date: 5/2022
   headline: "Our research was highlighted in VU Provost C. Cybele Raver's keynote at The Vanderbilt Summit on Modern Conflict!"
   
-- date: 4/2021
+- date: 4/2022
   headline: "CFP: Our workshop <a href=\"https://gta3.hrl.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Techniques for Adversarial Activity Analytics (GTA3)</a> is accepted to IEEE BigData'22!"
   
 - date: 5/2022
   headline: "Yu awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper <a href=\"https://dl.acm.org/doi/abs/10.1145/3459637.3482487\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a>!"
 
-- date: 4/2021
+- date: 4/2022
   headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to IEEE ICDM'22!"
 
-- date: 3/2021
+- date: 3/2022
   headline: "Yi receives the Dean's Graduate Fellowship Award and will join NDS Lab as a new PhD in Fall 2022!"
 
 - date: 1/2022
@@ -73,10 +91,10 @@
 - date: 3/2022
   headline: "Tyler receives Outstanding PC Member Award at WSDM'22! (Credit to NDS subreviewers Yu, Yuying, Lance, Zhaoqing)"
 
-- date: 3/2021
+- date: 3/2022
   headline: "Yuying is accepted to present her work Bridging the Gap between Fairness and Explainability at SDM'22 Doctoral Forum!"
 
-- date: 3/2021
+- date: 3/2022
   headline: "Yu is accepted to present his work on Overcoming Data Quality Issues for Graph Neural Networks at SDM'22 Doctoral Forum!"
 
 - date: 3/2022
