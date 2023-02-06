@@ -14,16 +14,31 @@
   github: 0
 
 - name: Macharia Kanyatte
-  photo: MachariaKanyatte .png
+  photo: MachariaKanyatte.png
   info: Electrical Engineering BS
   email: macharia.m.kanyatte@vanderbilt.edu
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: Tennessee Louis Stokes Alliance Program
   education2: 
   education3: 
   education4: 
   education5: 
   website: 0
   linkedin: https://www.linkedin.com/in/macharia-kanyatte/
+  twitter: 0
+  github: 0
+  
+- name: Catherine Yang
+  photo: NoPhoto.png
+  info: Computer Science BS/MS
+  email: catherine.y.yang@vanderbilt.edu
+  number_educ: 0
+  education1:
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: 0
   twitter: 0
   github: 0
