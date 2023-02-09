@@ -67,7 +67,7 @@ In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Wa
 Yu Wang and Tyler Derr.
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 
-[THINK: Temporal Hypergraph Hyperbolic Network](https://nds-vu.github.io/publications/)\
+[THINK: Temporal Hypergraph Hyperbolic Network](https://tylersnetwork.github.io/papers/icdm22-think.pdf)\
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.
 In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022.
 
