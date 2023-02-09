@@ -47,16 +47,21 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Full List
 
-### Publications in 2022
+### Publications in 2023
 
+[Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
+Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.
+In Proceedings of the ACM Web Conference 2023 (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023.
 
-[Fairness and Explainability: Briding the Gap Towards Fair Model Explanations](https://nds-vu.github.io/publications/)\
+[Fairness and Explainability: Briding the Gap Towards Fair Model Explanations](https://arxiv.org/abs/2212.03840)\
 Yuying Zhao, Yu Wang, Tyler Derr.
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
 
 [Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery](https://nds-vu.github.io/publications/)\
 Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
+
+### Publications in 2022
 
 [Demystify Degree-related Bias in Link Prediction](https://nds-vu.github.io/publications/)\
 Yu Wang and Tyler Derr.
