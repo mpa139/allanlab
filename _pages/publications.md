@@ -57,13 +57,13 @@ In Proceedings of the ACM Web Conference 2023 (TheWebConf), Austin, TX, USA, Apr
 Yuying Zhao, Yu Wang, Tyler Derr.
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
 
-[Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery](https://nds-vu.github.io/publications/)\
+[Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery](https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf)\
 Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
 
 ### Publications in 2022
 
-[Demystify Degree-related Bias in Link Prediction](https://nds-vu.github.io/publications/)\
+[Degree-related Bias in Link Prediction](https://tylersnetwork.github.io/papers/icdmw22-degreebiaslinkpred.pdf)\
 Yu Wang and Tyler Derr.
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 
@@ -71,7 +71,7 @@ In Proceedings of the 22nd International Conference on Data Mining Workshop (ICD
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.
 In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022.
 
-[Decision Boundaries of Deep Neural Networks](https://nds-vu.github.io/publications/)\
+[Decision Boundaries of Deep Neural Networks](https://arxiv.org/abs/1912.11460)\
 Hamid Karimi and Tyler Derr.
 In Proceedings of the 21th IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, The Bahamas, December 12-15, 2022. 
 
@@ -87,11 +87,12 @@ In Proceedings of the 31th ACM International Conference on Information and Knowl
 Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, Tyler Derr, and You Chen\
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.
 
-[Fair View Graph Neural Network for Fair Node Representation Learning](https://nds-vu.github.io/publications/)\
+[Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute
+Leakage](https://arxiv.org/pdf/2206.03426.pdf)\
 Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, and Tyler Derr\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
-[On Structural Explanation of Bias in Graph Neural Networks](https://nds-vu.github.io/publications/)\
+[On Structural Explanation of Bias in Graph Neural Networks](https://arxiv.org/pdf/2206.12104.pdf)\
 Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
