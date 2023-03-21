@@ -8,7 +8,7 @@ permalink: /slcn/
 
 <img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="900">
 
-<button name="button">Click me</button>
+<button name="button">Data Access</button> <button name="button">Data Description</button>
 
 
 ## What is SLCN?
