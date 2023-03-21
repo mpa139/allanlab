@@ -8,7 +8,7 @@ permalink: /slcn/
 
 <img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="900">
 
-<button name="button">Data Access</button> <button name="button">Data Description</button>
+<button  onclick="window.location.href='https://slcn.grand-challenge.org/)';"name="button">Data Access</button> <button name="button">Data Description</button>  <button name="button">Cortical Surface Tools</button>  <button name="button">Repositories</button>  <button name="button">Timeline</button>
 
 
 ## What is SLCN?
