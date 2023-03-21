@@ -8,7 +8,7 @@ permalink: /slcn/
 
 <img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="900">
 
-| Data Access | Data Description | Cortical Surface Tools| Repositories | Timeline | Submission | Evaluation | Prizes | 
+| Data Access      | Data Description      | Cortical Surface Tools      | Repositories      | Timeline      | Submission      | Evaluation      | Prizes      | 
 |:-----------:|:----------------:|:---------------------:|:------------:|:--------:|:----------:|:----------:|:------:|
 |                                                                                                                     |
 
