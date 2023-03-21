@@ -10,6 +10,7 @@ permalink: /slcn/
 
 | Data Access | Data Description | Cortical Surface Tools| Repositories | Timeline | Submission | Evaluation | Prizes | 
 |:-----------:|:----------------:|:---------------------:|:------------:|:--------:|:----------:|:----------:|:------:|
+|                                                                                                                     |
 
 ## What is SLCN?
 SLCN (Surface Learning for Clinical Neuroimaging) is a new MICCAI workshop aimed at promoting the development of deep learning methods suitable for cortical surface data. This year, participants are taksed with predicting developmental phenotypes (gestational age at birth) from cortical surface data acquired as part of the [Developing Human Connectome Project](http://www.developingconnectome.org/). 
