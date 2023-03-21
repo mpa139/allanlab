@@ -8,8 +8,7 @@ permalink: /slcn/
 
 <img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="900">
 
-:Buttons
-:Button label=GitHub, url=https://github.com
+[Click me](http://www.google.com){: .btn}
 
 ## What is SLCN?
 SLCN (Surface Learning for Clinical Neuroimaging) is a new MICCAI workshop aimed at promoting the development of deep learning methods suitable for cortical surface data. This year, participants are taksed with predicting developmental phenotypes (gestational age at birth) from cortical surface data acquired as part of the [Developing Human Connectome Project](http://www.developingconnectome.org/). 
