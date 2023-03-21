@@ -6,4 +6,4 @@ sitemap: false
 permalink: /slcn/
 ---
 
-### SLCN Challenge 
+![SLCN Banner](/pubpic/SLCN_Banner.png)
