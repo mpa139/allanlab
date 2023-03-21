@@ -6,4 +6,4 @@ sitemap: false
 permalink: /slcn/
 ---
 
-![SLCN Banner](_images/pubpic/SLCN_Banner.png)
+| <img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="900"> |
