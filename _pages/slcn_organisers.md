@@ -17,6 +17,6 @@ permalink: /slcn_organisers/
 | --- | --- | --- | 
 | Emma Robinson | Logan Williams | Simon Dahan |
 
-| <img src="/images/pubpic/abdulah_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/saga_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> |
+| <img src="/images/pubpic/abdulah_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/saga_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/youorong_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> |
 | --- | --- | 
-| Abdulah Fawaz | Saga Masui |
+| Abdulah Fawaz | Saga Masui | Youorong Guo |
