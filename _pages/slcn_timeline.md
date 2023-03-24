@@ -22,8 +22,7 @@ permalink: /slcn_data_access/
 This challenges is divided into **two** phases. The Preliminary phase is set so that participants can check their docker submissions are working correctly. This is not a trivial task, so we strongly encourage participants to test their docker submissions as soon as possible.
 
 The Final phase is when participants submit their algorithms for the final challenge ranking. This phase has two tasks:
-
-    Birth age prediction on template space data
-    Birth are prediction on native space
+1. Birth age prediction on template space data
+2. Birth are prediction on native space
 
 The performance on each of these tasks contributes to the final ranking - please see [Evaluation]() for more details. 
