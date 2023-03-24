@@ -16,3 +16,7 @@ permalink: /slcn_organisers/
 | <img src="/images/pubpic/emma_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/logan_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/simon_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | 
 | --- | --- | --- | 
 | Emma Robinson | Logan Williams | Simon Dahan |
+
+| <img src="/images/pubpic/abdulah_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/saga_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> |
+| --- | --- | 
+| Abdulah Fawaz | Saga Masui |
