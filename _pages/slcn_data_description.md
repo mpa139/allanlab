@@ -1,3 +1,4 @@
+---
 title: "SLCN MICCAI Challenge"
 layout: textlay
 excerpt: "SLCN MICCAI 2023 Challenge"
