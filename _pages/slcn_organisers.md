@@ -13,7 +13,6 @@ permalink: /slcn_organisers/
 
 ## Organising Committee
 
-| <img src="/images/pubpic/emma_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/logan_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="900"> | <img src="/images/pubpic/simon_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="900"> | 
+| <img src="/images/pubpic/emma_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/logan_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/simon_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | 
 | --- | --- | --- | 
 | Emma Robinson | Logan Williams | Simon Dahan |
-
