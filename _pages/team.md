@@ -246,6 +246,14 @@ Jump to [PhD Student](#phd-student), [Master and Bachelor students](#master-and-
 
 ## High school students hosted
 
+Summer 2022:  
+Sam Karmarkar, <b>Brooklyn Technical High School</b>  
+Motunrayo Owoborode, <b>Young Women's Leadership School of Queens</b>  
+
+Summer 2021:  
+Brandon Knox, <b>Peddie School</b>  
+Sandy Yuan, <b>Brooklyn Technical High School</b>  
+
 Summer 2020:  
 David Ugo-Omernukwa, <b>Bronx High School of Science</b>  
 Nyah Smith, <b>Computer Science High School</b>  
