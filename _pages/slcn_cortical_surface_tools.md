@@ -13,6 +13,7 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 
 ## Processing and visualising cortical surfaces
+
 ### Cortical surface processing
 Preprocessed cortical data are provided, but participants are also encouraged to develop/utilise other cortical metrics for prediction. e.g. cortical surface area. However, their use should be **clearly motivated**.
 
