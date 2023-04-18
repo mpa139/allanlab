@@ -25,4 +25,4 @@ Visualisations are an essential component of interpreting cortical surface data 
 
 A suitable tool for visualising cortical surfaces is **wb_view**, available as part of Connectome Workbench (graphical user interface shown below). A tutorial for wb_view is [here](https://www.humanconnectome.org/storage/app/media/documentation/tutorials/Connectome_WB_Tutorial_v1.5.pdf), and a Guide to Workbench Annotations is [here](https://www.humanconnectome.org/storage/app/media/documentation/tutorials/Guide_to_WB_Annotations_1.5.pdf). This is only a suggestion, and participants are welcome to use whichever data visualisation tool they are familiar with. 
 
-<img src="/images/pubpic/wb_view.jpg" alt="wb_view" title="wb_view" width="900"
+<img src="/images/pubpic/wb_view.jpg" alt="wb_view" title="wb_view" width="900">
