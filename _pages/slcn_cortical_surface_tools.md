@@ -7,7 +7,7 @@ permalink: /slcn_cortical_surface_tools/
 ---
 
 
-<img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="1000">
+<img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="950">
 
 <button  onclick="window.location.href='https://metrics-lab.github.io/slcn/';">SLCN</button> 
 <button  onclick="window.location.href='https://metrics-lab.github.io/slcn_data_access/';">Data Access</button> <button onclick="window.location.href='
