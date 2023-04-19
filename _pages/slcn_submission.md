@@ -14,8 +14,11 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 ## Submission
 
+<br>
 
 > **Guidelines for the submission will be detailed soon and will take the form of a docker submission. A template submission github will be available for participants.**
+
+<br>
 
 <style>
 blockquote {

@@ -13,4 +13,6 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 
 ## Prizes
-Successful submissions to MLCN will be offered oral/poster presentations (with a chance to win the best paper award worth $500 USD) and the opportunity to submit to a special issue of the MELBA journal.
+
+
+**TBC**
