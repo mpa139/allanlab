@@ -14,9 +14,9 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 ## Timeline
 1. Preliminary phase opens: TBC
-2. Preliminary phase closes: TBC
+2. Preliminary phase closes: TBC (expected to be: end of June)
 3. Final phase opens: TBC
-4. Final phase closes: TBC (expected end of August)
+4. Final phase closes: TBC (expected to be: end of August)
 5. Notification of results: TBC
 
 ## Phase descriptions

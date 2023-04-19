@@ -16,7 +16,12 @@ https://metrics-lab.github.io/slcn_data_description/';">**Data Description**</bu
 ### Features
 As per last year, the challenge data set will include cortical surface meshes and 4 cortical metric files (sulcal depth, cortical thickness, curvature and T1/T2 myelin maps; shown below). 
 
-For this years challenge, we have expanded the imaging data that teams can use to build predictive surface-based models. This includes cortical **diffusion** and **resting-state functional MRI**. 
+
+<img src="/images/pubpic/SLCN_data_example.png" alt="Example Data" title="Example Data" width="950">
+
+<br>
+
+For this year's challenge, we have expanded the imaging data that teams can use to build predictive surface-based models. This includes cortical **diffusion** and **resting-state functional MRI**. 
 
 #### Diffusion
 A total of five measures of cortical diffusion are available. Fractional anisotropy (FA) and mean diffusivity (MD) (video tutorial [here](https://www.youtube.com/watch?v=wWcCKHp09QA) were calculated using [MRtrix3](https://www.sciencedirect.com/science/article/pii/S1053811919307281) from the b=0 and b=1000 diffusion-weighted images as preprocesed using the [dHCP SHARD diffusion pipeline](https://www.sciencedirect.com/science/article/pii/S1053811920309228?via%3Dihub). 
@@ -34,5 +39,3 @@ The resting-state fMRI data made available as part of this challenge were genera
 
 As with the diffusion metrics, spatial maps were resampled from their template space resolution of 32k vertices to 40k vertices. 
 
-
-<img src="/images/pubpic/SLCN_data_example.png" alt="Example Data" title="Example Data" width="950">

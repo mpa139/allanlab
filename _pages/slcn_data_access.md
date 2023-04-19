@@ -16,10 +16,14 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 ### Step One: 
 Requests for access must be manually approved by the challenge organising committee.  Participants must provide evidence that they have signed the [dHCP data access agreement](http://www.developingconnectome.org/data-release/second-data-release/open-access-dhcp-data-terms-of-use-%20version-4-0_2019-05-23/), which can be electronically signed by [registering here](https://data.developingconnectome.org/app/template/Login.vm) (you should arrive at the page shown below).  After signing, you will receive a confirmation email.
 
-<img src="/images/pubpic/dhcp_registration.png" alt="dHCP Registration" title="dHCP Registration" width="900">
+<img src="/images/pubpic/dhcp_registration.png" alt="dHCP Registration" title="dHCP Registration" width="950">
 
 ### Step Two:
 Participants will need to create an account on [GIN](https://gin.g-node.org), as this is where the data are hosted. 
 
 ### Step Three: 
 Please forward the confirmation email (from step one) and your GIN username to **slcn.challenge@gmail.com**, and one of the committee members will approve your request. 
+
+Once you have been approuved, you will be able to access the data: 
+
+<img src="../images/pubpic/gin_repo.png" alt="dHCP Registration" title="dHCP Registration" width="950">

@@ -13,15 +13,10 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 
 ## Evaluation
-Submissions will be evaluated across two domains, and the final ranking will be determined as an aggregate of performance across each. These two domains are: 
-1. Birth age (template space) (mean absolute error; MAE)
-2. Birth age (native space) (MAE)
+
+Submissions will be evaluated across one or multiple modalities following teams' methods and the final ranking will be determined as an aggregate of performance across each task. 
 
 The following steps will be used to rank participants:
-* Step 1: Separate rankings will be computed based on each domain (for both domains, lower MAE = better)
-* Step 2: From the two ranking tables, the mean ranking of each participant will be computed as the numerical mean of the single rankings (domain 1 = 75% weighting, domain 2 = 25% weighting)
-* Step 3: In case of equal ranking, the achieved MAE in domain 1 will be used as a tie-break
-* Step 4: If equal MAE is achieved in domain 1, then the achieved MAE in domain 2 will be used as the tie-break
-
-## MLCN Workshop paper
-Participants are invited to also submit an extended paper to Machine Learning for Clinical Neuroimaging (MLCN) deadline 1st July. These papers will undergo peer review and the best papers will be presented at the MLCN MICCAI workshop in September 2022. MLCN submissions include some for of interpretable visualisation method, evaluated on the cortical surface. Peer review criteria will equally weight model performance (on the validation set) and clinical interpretability of the findings.
+* Step 1: Separate rankings will be computed based on each task (Mean Absolute Error (MAE) for GA prediction and R^2 score for Bayley's score prediction)
+* Step 2: In case of equal ranking on the second task, the achieved MAE in task 1 will be used as a tie-break
+* Step 3: If equal MAE is achieved in task 1, then the achieved R^2 in domain 2 will be used as the tie-break

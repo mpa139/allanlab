@@ -12,24 +12,19 @@ permalink: /slcn_submission/
 https://metrics-lab.github.io/slcn_data_description/';">Data Description</button>  <button onclick="window.location.href='https://metrics-lab.github.io/slcn_cortical_surface_tools/';">Cortical Surface Tools</button>  <button onclick="window.location.href='https://metrics-lab.github.io/slcn_repositories/';">Repositories</button>  <button onclick="window.location.href='https://metrics-lab.github.io/slcn_timeline/';">Timeline</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_submission/';">**Submission**</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_evaluation/';">Evaluation</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_prizes/';">Prizes</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_organisers/';">Organisers</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_references/';">References</button>
 
 
-## Timeline
-1. Preliminary phase opens: TBC
-2. Preliminary phase closes: TBC
-3. Final phase opens: TBC
-4. Final phase closes: TBC 
-5. Motification of results: TBC
+## Submission
 
-## Phase descriptions
 
-### Preliminary phase
+> **Guidelines for the submission will be detailed soon and will take the form of a docker submission. A template submission github will be available for participants.**
 
-This challenges is divided into **two** phases. The Preliminary phase is set so that participants can check their docker submissions are working correctly. This is not a trivial task, so we strongly encourage participants to test their docker submissions as soon as possible.
+<style>
+blockquote {
+  padding: 0.5em;
+  margin: 0;
+  font-size: 90%;
+  color: #333;
+  background-color: #f9f9f9;
+  border-left: 5px solid #ccc;
+}
+</style>
 
-### Final Phase
-
-The Final phase is when participants submit their algorithms for the final challenge ranking. This phase has two tasks:
-
-1. Birth age prediction on template space data
-2. Prediction of cognitive outcome with Bayley-III Cognitive and Language scales scores
-
-The performance on each of these tasks contributes to the final ranking - please see [Evaluation]() for more details. 
