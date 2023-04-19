@@ -6,7 +6,7 @@ sitemap: false
 permalink: /slcn_organisers/
 ---
 
-<img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="1100">
+<img src="/images/pubpic/SLCN_Banner.png" alt="SLCN Banner" title="SLCN Banner" width="1000">
 
 <button  onclick="window.location.href='https://metrics-lab.github.io/slcn/';">SLCN</button> <button  onclick="window.location.href='https://metrics-lab.github.io/slcn_data_access/';">Data Access</button> <button onclick="window.location.href='
 https://metrics-lab.github.io/slcn_data_description/';">Data Description</button>  <button onclick="window.location.href='https://metrics-lab.github.io/slcn_cortical_surface_tools/';">Cortical Surface Tools</button>  <button onclick="window.location.href='https://metrics-lab.github.io/slcn_repositories/';">Repositories</button>  <button onclick="window.location.href='https://metrics-lab.github.io/slcn_timeline/';">Timeline</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_submission/';">Submission</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_evaluation/';">Evaluation</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_prizes/';">Prizes</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_organisers/';">Organisers</button> <button onclick="window.location.href='https://metrics-lab.github.io/slcn_references/';">References</button>
@@ -20,4 +20,4 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 | <img src="/images/pubpic/abdulah_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/saga_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> | <img src="/images/pubpic/yourong_slcn.png" alt="SLCN Banner" title="SLCN Banner" width="300"> |
 | --- | --- | --- | 
-| Abdulah Fawaz | Saga Masui | Youorong Guo |
+| Abdulah Fawaz | Saga Masui | Yourong Guo |
