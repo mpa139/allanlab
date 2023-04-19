@@ -14,8 +14,9 @@ https://metrics-lab.github.io/slcn_data_description/';">Data Description</button
 
 ## References
 This dataset and benchmark are based on the following references:
-* Fawaz, A. et al. (2021). Benchmarking Geometric Deep Learning for Cortical Segmentation and Neurodevelopmental Phenotype Prediction. bioRxiv.
-* Dahan, S. et al. (2022). Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis. MIDL
+* Fawaz, A. et al. (2021). Benchmarking Geometric Deep Learning for Cortical Segmentation and Neurodevelopmental Phenotype Prediction, bioRxiv.
+* Dahan, S. et al. (2022). Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis, MIDL 2022.
+* Williams, LZJ et al. (2023). Structural and functional asymmetry of the neonatal cerebral cortex, Nature Human Behaviour. 
 
 The following reference the background and motivation for this challenge:
 * Glasser, M. F. et al. (2016). A multi-modal parcellation of human cerebral cortex. Nature, 536(7615), 171-178.

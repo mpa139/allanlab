@@ -35,4 +35,4 @@ The resting-state fMRI data made available as part of this challenge were genera
 As with the diffusion metrics, spatial maps were resampled from their template space resolution of 32k vertices to 40k vertices. 
 
 
-<img src="/images/pubpic/SLCN_data_example.png" alt="Example Data" title="Example Data" width="900">
+<img src="/images/pubpic/SLCN_data_example.png" alt="Example Data" title="Example Data" width="950">
