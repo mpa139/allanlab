@@ -37,7 +37,7 @@ Recently, ([Fawaz et al., 2021](https://www.biorxiv.org/content/10.1101/2021.12.
 ## Tasks 
 The goal of this challenge will therefore be to elicit submissions of novel methods for cortical phenotype regression, with emphasis on interpretable or explainable machine learning methods which deliver biomarkers predictive of risk for neurodevelopmental impairment. These will be benchmarked on the tasks of:
 -  **Regression of gestational age at birth** (seen as a correlate of prematurity).
--  **Prediction of cognitive outcome with  Bayley-III Cognitive and Language scales scores**.
+-  **Prediction of cognitive outcome measured using Bayley-III composite cognitive scores**.
 
 <br>
 <br>
