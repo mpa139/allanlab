@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2023
 
+ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering\
+Yunfei Hu\*, Yuying Zhao\*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou.
+iScience, 2023. (also accepted and presented at RECOMB-Seq, Istanbul, Turkey, April 14-15, 2023)
+
 [Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
 Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.
 In Proceedings of the ACM Web Conference 2023 (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023.
@@ -84,7 +88,7 @@ Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr.
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022.
 
 [Inferring EHR Utilization Workflows through Audit Logs](https://nds-vu.github.io/publications/)\
-Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, Tyler Derr, and You Chen\
+Xinmeng Zhang\*, Yuying Zhao\*, Chao Yan, Tyler Derr, and You Chen\
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.
 
 [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute
