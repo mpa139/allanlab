@@ -50,54 +50,54 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2023
 
 ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering\
-Yunfei Hu\*, Yuying Zhao\*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou.
+Yunfei Hu\*, Yuying Zhao\*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou.\
 iScience, 2023. (also accepted and presented at RECOMB-Seq, Istanbul, Turkey, April 14-15, 2023)
 
 [Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
-Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.
+Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.\
 In Proceedings of the ACM Web Conference 2023 (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023.
 
 [Fairness and Explainability: Briding the Gap Towards Fair Model Explanations](https://arxiv.org/abs/2212.03840)\
-Yuying Zhao, Yu Wang, Tyler Derr.
+Yuying Zhao, Yu Wang, Tyler Derr.\
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
 
 [Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery](https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf)\
-Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.
+Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.\
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, USA, February 7-14, 2023.
 
 ### Publications in 2022
 
 [Degree-related Bias in Link Prediction](https://tylersnetwork.github.io/papers/icdmw22-degreebiaslinkpred.pdf)\
-Yu Wang and Tyler Derr.
+Yu Wang and Tyler Derr.\
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 
 [THINK: Temporal Hypergraph Hyperbolic Network](https://tylersnetwork.github.io/papers/icdm22-think.pdf)\
-Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.
+Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.\
 In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022.
 
 [Decision Boundaries of Deep Neural Networks](https://arxiv.org/abs/1912.11460)\
-Hamid Karimi and Tyler Derr.
+Hamid Karimi and Tyler Derr.\
 In Proceedings of the 21th IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, The Bahamas, December 12-15, 2022. 
 
 [Enhancing Individual Fairness through Propensity Score Matching](https://nds-vu.github.io/publications/)\
-Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, Tyler Derr, and Hui Liu.
+Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, Tyler Derr, and Hui Liu.\
 In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022.
 
 [Imbalanced Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
-Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr.
+Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr.\
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022.
 
 [Inferring EHR Utilization Workflows through Audit Logs](https://nds-vu.github.io/publications/)\
-Xinmeng Zhang\*, Yuying Zhao\*, Chao Yan, Tyler Derr, and You Chen\
+Xinmeng Zhang\*, Yuying Zhao\*, Chao Yan, Tyler Derr, and You Chen.\
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.
 
 [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute
 Leakage](https://arxiv.org/pdf/2206.03426.pdf)\
-Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, and Tyler Derr\
+Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, and Tyler Derr.\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
 [On Structural Explanation of Bias in Graph Neural Networks](https://arxiv.org/pdf/2206.12104.pdf)\
-Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li\
+Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li.\
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022
 
 [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://arxiv.org/pdf/2202.05240.pdf)\
