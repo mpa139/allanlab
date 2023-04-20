@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2023
 
+Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
+Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang.\
+IEEE Transactions on Knowledge and Data Engineering, 2023. \
+
 ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering\
 Yunfei Hu\*, Yuying Zhao\*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou.\
 iScience, 2023. (also accepted and presented at RECOMB-Seq, Istanbul, Turkey, April 14-15, 2023)
