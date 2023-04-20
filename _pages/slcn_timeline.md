@@ -30,6 +30,6 @@ This challenges is divided into **two** phases. The Preliminary phase is set so 
 The Final phase is when participants submit their algorithms for the final challenge ranking. This phase has two tasks:
 
 1. Birth age prediction on template space data
-2. Prediction of cognitive outcome with Bayley-III Cognitive and Language scales scores
+2. Prediction of cognitive outcome with Bayley-III composite cognitive scores
 
 The performance on each of these tasks contributes to the final ranking - please see [Evaluation]() for more details. 
