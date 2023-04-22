@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
+title: The DERI Vision Group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
+  Website of the DERI Vision Group.
 baseurl: ""
 url: ""
 
