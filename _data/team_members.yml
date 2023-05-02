@@ -29,7 +29,13 @@
   number_educ: 1
   education1: <a href="/downloads/poster_Beyza.pdf">Research poster</a>
 
-test
+- name: test
+  photo: kay.jpg
+  info: test
+  email: test
+  number_educ: test
+  education1: test
+  education2: test
 
 # - name: Mohammad Zair Cheema
 #   photo: zair.jpg
