@@ -33,7 +33,7 @@
   authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
   link:
     url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
+    display:  Nat Commun 13, 70 (2022)
   highlight: 0
   news2:
 
@@ -45,7 +45,7 @@
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  Phys. Rev. Research 3, 013153 (2021)
   highlight: 1
-  news2: See also [Nat Comm 13, 70 (2022)](https://arxiv.org/abs/2107.14716)
+  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
   image: YSR.png
@@ -347,7 +347,7 @@
   authors:
     MP Allan, S Berner, M Corso, T Greber, J Osterwalder
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+    url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
 
