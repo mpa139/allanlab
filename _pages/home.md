@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Gopal Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The Choi's Lab at Chonnam National University."
 sitemap: false
 permalink: /
 ---
