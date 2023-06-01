@@ -17,7 +17,7 @@
   number_educ: 3
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
+  education3: PhD Leiden University, prize for reseacher of the year at the Science faculty
 
 - name: Doohee Cho
   photo: Doohee2.jpg
@@ -82,3 +82,14 @@
   education1: Postdoc in the Aarts Lab, Leiden University
   education2: PhD with Jan Aarts
   education3: Master KU Leuven
+
+- name: Koen M Bastiaans
+  photo: Koen.jpg
+  info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
+  duration: In the Allan Lab from 2015 - 2023 (as a MSc student, then PhD (cum laude, Ehrenfest-Afanassjewa prize), and postdoc).
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 4
+  education1: Postdoc in the Otte Lab, Leiden University
+  education2: Postdoc in the Allan Lab, Leiden University
+  education3: PhD with Milan Allan, Leiden University (prize for best physics PhD in the Netherlands)
+  education4: Master Leiden University with Milan Allan

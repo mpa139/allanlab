@@ -80,15 +80,13 @@
   education1: Leidse Instrumentmakers School
   education2:
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
+- name: Ilse Kuijf
+  photo: Ilse.jpeg
+  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
   email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 4
-  education1: Postdoc in the Otte Lab, Leiden University
-  education2: Postdoc in the Allan Lab, Leiden University
-  education3: PhD with Milan Allan, Leiden University (started Sep 2015)
-  education4: Master Leiden University with Milan Allan
+  number_educ: 1
+  education1: Master Leiden University
+
 
 - name: "This could be you !"
   photo: rock.jpg
