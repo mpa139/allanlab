@@ -81,12 +81,11 @@
   education2:
 
 - name: Ilse Kuijf
-  photo: Ilse.jpeg
+  photo: ilse.jpeg
   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
   email: Bastiaans@Physics.LeidenUniv.nl
   number_educ: 1
   education1: Master Leiden University
-
 
 - name: "This could be you !"
   photo: rock.jpg
