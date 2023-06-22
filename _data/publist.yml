@@ -1,4 +1,4 @@
-- title: "DSingle-electron charge transfer into putative Majorana and trivial modes in individual vortices"
+- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
   image: imageaward_edited.png
   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
   authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
@@ -6,7 +6,16 @@
     url: https://www.nature.com/articles/s41467-023-39109-w
     display: Nature Communications 4, 3341 (2023)
   highlight: 1
-  news1: And Michelle wrote a [nice item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time)
+  news1: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+
+- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+  image: imageaward_edited.png
+  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  link:
+    url: https://arxiv.org/abs/2306.02397
+    display: arXiv
+  highlight: 0
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
   image: BSCCOgap.png
