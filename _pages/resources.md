@@ -4,6 +4,9 @@ layout: piclay
 excerpt: "METRICS Lab -- Resources"
 permalink: /resources/
 ---
+## Lectures
+
+Access to the 2020-2021 (pandemic recordings) of our machine learning and advanced machine learning (deep learning) courses are available from [here](https://drive.google.com/drive/folders/1eRcC2RF690JaoGl2rhtlxiAHw85qtspb?usp=sharing). These include videos, slides, jupyter notebooks and solutions.
 
 ## Group Tutorials
 We run tutorials on a variety of topics including machine learning, medical image processing and foundation neuroscience. Below are links to slides and notebooks:
