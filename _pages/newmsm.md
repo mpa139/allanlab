@@ -37,7 +37,7 @@ conda activate ./msm-env/
         ```console
         git clone https://github.com/rbesenczi/msm-newresampler.git
         cd msm-newresampler/src
-        git checkout tags/v0.3.1
+        git checkout tags/v0.4.1
         make && make install
         cd ../..
         ```
@@ -45,7 +45,7 @@ conda activate ./msm-env/
         ```console
         git clone https://github.com/rbesenczi/msm-newmeshreg.git
         cd msm-newmeshreg/src
-        git checkout tags/v0.3.1
+        git checkout tags/v0.4.1
         make && make install
         cd ../..
         ```
@@ -53,7 +53,7 @@ conda activate ./msm-env/
         ```console
         git clone https://github.com/rbesenczi/newMSM.git
         cd newMSM/src
-        git checkout tags/v0.3.1
+        git checkout tags/v0.4.1
         make && make install
         cd ../..
         ```
