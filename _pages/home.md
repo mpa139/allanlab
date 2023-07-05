@@ -23,7 +23,7 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/NDS_logo.png" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 2" />
         </div>
          <div class="item">
