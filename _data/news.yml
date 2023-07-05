@@ -1,3 +1,30 @@
+- date: 6/2023
+  headline: "Tyler is awarded the NSF CAREER Award! News @: <a href=\"https://engineering.vanderbilt.edu/news/2023/vanderbilt-researcher-wins-nsf-career-award-to-close-a-gap-in-network-analysis-by-better-modeling-negative-online-interactions-like-unfollowing-and-blocking/\" target=\"_blank\" rel=\"noopener noreferrer\">School of Engineering</a> and <a href=\"https://www.vanderbilt.edu/autismandinnovation/2023/06/16/frist-center-faculty-fellow-tyler-derr-wins-prestigious-nsf-career-award/\" target=\"_blank\" rel=\"noopener noreferrer\">Frist Center</a>"
+
+- date: 6/2023
+  headline: "Yuying and Catherine receive Student Travel Awards to participate at KDD'23!"
+
+- date: 6/2023
+  headline: "Catherine's paper ''The Friendship Paradox: An Analysis on Signed Social Networks with Positive and Negative Links'' was accepted to KDD'23 Undergraduate Consortium!"
+
+- date: 6/2023
+  headline: "Yuying's paper ''Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio'' was accepted to MLG Workshop at KDD'23!"
+
+- date: 6/2023
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2306.06202\" target=\"_blank\" rel=\"noopener noreferrer\">NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics</a> was accepted to the Workshop on Graph Learning Benchmarks at KDD'23 and is now online with new datasets, code, and documentation!"
+
+- date: 6/2023
+  headline: "Tyler gave an invited talk ''Advanced Graph Analytics for Real-World Applications'' in the Griffiss Institute's Tech Talks at Air Force Research Lab Information Directorate!"
+
+- date: 5/2022
+  headline: "Yuying is awarded Vanderbilt's C. F. Chen Best Paper Runner-Up Award in Computer Science for her paper <a href=\"https://ojs.aaai.org/index.php/AAAI/article/view/26344\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations</a>!"
+
+- date: 4/2023
+  headline: "Yu is awarded Vanderbilt's 2023 Graduate Leadership Anchor Award for Research!"
+
+- date: 4/2023
+  headline: "Tyler gave an invited talk ''Creating and Leveraging Knowledge Graphs in Real-World Applications'' at ACM Web Conference during Knowledge Graph Day!"
+
 - date: 3/2023
   headline: "Tyler was selected for the Visiting Faculty Research Program (VFRP) of The Air Force Research Laboratory's Information Directorate (AFRL/RI) and its Information Institute (II)!"
   
@@ -8,13 +35,10 @@
   headline: "Lance gave an <a href=\"https://www.youtube.com/watch?v=P73oEikxI3Y&list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ&index=4\" target=\"_blank\" rel=\"noopener noreferrer\">invited talk</a> at <a href=\"https://m2d2.io/talks/m2d2/about/\" target=\"_blank\" rel=\"noopener noreferrer\">Molecular Modeling and Drug Discovery (M2D2)</a> organized by Mila and Valance Discovery presenting his work MolKGNN!"
 
 - date: 3/2023
-  headline: "Tyler will give an invited talk at ACM Web Conference during Knowledge Graph Day!"
-
-- date: 3/2023
   headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to IEEE ICDM'23!"
 
 - date: 3/2023
-  headline: "Yuying's paper ''ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering'' is accepted at RECOMB-Seq 2023!"
+  headline: "Yuying's paper <a href=\"https://www.cell.com/iscience/fulltext/S2589-0042(23)00869-6\" target=\"_blank\" rel=\"noopener noreferrer\">ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering</a> is accepted for presentation at RECOMB-Seq 2023 and publication in iScience!"
 
 - date: 1/2023
   headline: "Welcome new BS members!</b> <br /> <span style=\"color: #808080\">Catherine and Macharia join NDS Lab</span>"
