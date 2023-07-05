@@ -6,9 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-
-We are the Network and Data Science (NDS) lab at Vanderbilt University, led by Tyler Derr. Our research lies in data mining and machine learning, especially deep learning on graphs, social network analysis, and data science for social good with applications such as drug discovery, education, political science, and autism research.
-
 <!-- For now, you can see our memebers [here](people). -->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
@@ -48,6 +45,12 @@ We are the Network and Data Science (NDS) lab at Vanderbilt University, led by T
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+<h1>Welcome!</h1>
+
+We are the Network and Data Science (NDS) lab at Vanderbilt University, led by Tyler Derr. Our research lies in data mining and machine learning, especially deep learning on graphs, social network analysis, and data science for social good with applications such as drug discovery, education, political science, and autism research.
+
 
  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
 
