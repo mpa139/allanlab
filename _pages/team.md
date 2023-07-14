@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Team"
+title: "NeuroergoLab - Team"
 layout: gridlay
 excerpt: "Allan Lab: Team members"
 sitemap: false
@@ -11,186 +11,84 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+<!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+<img src="{{ site.url }}{{ site.baseurl }}/assets/lab_2021.png" class="img-responsive" style="float: center" />
 
-{% assign even_odd = number_printed | modulo: 2 %}
+## Lab Director
 
-{% if even_odd == 0 %}
+<img src="{{ site.url }}{{ site.baseurl }}/assets/people/mehta.jpeg" class="img-responsive" width="25%" style="float: left" />
+
+**Ranjana Mehta** is an Associate Professor in the Department of Industrial and Systems Engineering at Texas A&M University. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
+
+She is the recipient of:
+* Technical Innovation, the Institute of Industrial and Systems Engineers, 2022
+* Presidential Impact Fellow, Texas A&M University, 2021
+* Virginia Tech Engineering Outstanding Recent Alumni Award, Virginia Tech, 2020
+* TEES Engineering Genesis Award, Texas A&M University, 2020
+* TEES Faculty Fellow, Texas A&M University, 2020
+* HFE WOMAN of the Year, Human Factors and Ergonomics Society, 2019
+* Creativeness in Ergonomics Practitioner of the Year Award, Applied Ergonomics Society (IISE), 2019
+* William C. Howell Young Investigator Award, Human Factors and Ergonomics Society, 2017
+* James G. Zimmer New Investigator Research Award, American Public Health Association, 2014
+
+
+## Ph.D. Students
+
+<style>
+  /* table {
+    width: 100%;
+  } */
+
+  /* td {
+    width: 25%;
+  } */
+
+  p {
+    padding-left: 10px;
+  }
+</style>
+
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/zhang.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-8 clearfix">
+  <p>
+    <strong>Yinsu Zhang</strong> has a BS in Mechanical Engineering from Rensselaer Polytechnic Institute and MS in Mechanical Engineering from Texas A&M University. His research interests are in human-automation interactions and in objective measures of dynamic driver trust in autonomous vehicles.
+  </p>
+</div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yadav.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+<div class="col-sm-8 clearfix">
+  <p>
+    <strong>Aakash Yadav</strong> has a B.Tech. in Mechanical Engineering from the Indian Institute of Technology Tirupati. His research interests span robotics, human-robot interaction, human factors, cognition, neuroergonomics, and affective computing. Aakash works towards understanding the teaming between robots and humans to improve the combined system performance, efficiency, and safety. He loves to walk, bike, hike, and canoe in his free time.
+  </p>
 </div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
 
 ## Alumni
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+<h4>Ph.D.</h4>
+{% for member in site.data.alumni_phd %}
+<a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+<h4>Masters</h4>
+{% for member in site.data.alumni_masters %}
+<a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
+{% endfor %}
 
-## Former visitors, BSc/ MSc students
-<div class="row">
+<h4>Undergraduate</h4>
+{% for member in site.data.alumni_ug %}
+{{ member.name }}, {{ member.major }}, {{ member.time }} 
+{% endfor %}
 
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h4>Visiting Scholars</h4>
 {% for member in site.data.alumni_visitors %}
-{{ member.name }}
+{{ member.name }}, {{ member.info }}, {{ member.time }}
 {% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.

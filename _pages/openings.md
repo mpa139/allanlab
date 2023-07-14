@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "NeuroergoLab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,34 +8,40 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+The NeuroErgonomics Lab at the University of Wisconsin-Madison Industrial and Systems Engineering Dept seeks aspiring PhD students who want to tackle human factors challenges in **BCI, HRI, NeuroStim, Wearables, and NeuroErgonomics in the Wild**. If interested, please email rmehta@tamu.edu with your CV  and contact information of three references. Specific open post doc opportunities are also listed below.
 
-We are  looking for new group members with passion, talent, and grit!
+## Open Postdoc Positions
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+Two postdoc opportunities in closed-loop human states predictions and support and human-autonomy teaming with the Texas A&M NeuroErgonomics Lab
 
-### Past open positions
+**Position**: Post-doctoral Fellow
+
+**Start Date**: Summer/Fall 2023 (in person)
+
+**Lab**: NeuroErgonomics Lab (Director: Ranjana Mehta, PhD)
+
+The NeuroErgonomics Lab in the Department of Industrial and Systems Engineering at Texas A&M University is seeking **two post-doctoral fellows** with strong backgrounds in human factors and ergonomics, cognitive neuroscience, HCI, or neural engineering to lead one of two extramurally funded research projects:
+
+1) Human states predictions (e.g., stress, learning, fatigue) and closed-loop technological mitigations in controlled and field environments using wearable neuro/physiological/behavioral sensors; and
+
+2) Multimodal brain-behavior mappings of human-autonomy teaming across increasing contextual complexities. 
+
+About the NeuroErgonomics Lab: Research in the NeuroErgonomics Lab utilizes theories, methods, and techniques from physiology, biomechanics, neuroscience, engineering, and psychology to better understand, monitor, and augment human health and safety in high-risk environments (emergency response, defense, energy, space explorations).
+
+Qualifications:
+
+* Interested candidates should have obtained a Ph.D. by the start date **(the position can start in Summer/Fall 2023)**.
+* Knowledge of human factors theories and assessment methods (performance, physiological, and subjective assessments)
+* Knowledge and experience in developing/applying computational techniques to analyze bio-behavioral data (e.g., neural, physiological, movement, or eye tracking)
+* Excellent human subjects’ experimentation skills
+* Strong programming skills
+* A strong track record of peer-reviewed publications and presentations
+* The ideal candidate will have proven talent to work independently with excellent interpersonal, communication, and mentoring skills
+
+Contact Ranjana Mehta through LinkedIn for more information! Please send your curriculum vitae, statement of research interest, and names and contact information for two references who can be contacted for letters of recommendation to Dr. Ranjana Mehta.
+
+<!-- ### Past open positions
 
 You find the past job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf), -->
