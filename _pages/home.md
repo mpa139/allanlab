@@ -71,4 +71,4 @@ Basic research in our lab focuses on understanding, monitoring, and augmenting h
 </figure>
 
 
-The website template borrowed from <a href="https://www.allanlab.org/aboutwebsite.html">Allan Lab</a>.
+This website is built using [Jekyll](https://jekyllrb.com/) and adapted from borrowed from <a href="https://www.allanlab.org/aboutwebsite.html">Allan Lab</a>.

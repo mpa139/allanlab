@@ -1,11 +1,21 @@
-
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:9 %}
+<!-- {% for article in site.data.news limit:9 %}
 <p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
+{% endfor %} -->
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+<ul class="posts" style="list-style-type:none;">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <br>
+      </li>
+      <br>
+    {% endfor %}
+  </ul>
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/blog">... see all News</a></h4>
 
     </div>
