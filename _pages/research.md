@@ -17,3 +17,16 @@ We analyze worker physiological, movement, and performance-based markers using w
 
 ## [Neurotechnology: Mechanisms to Market]( {{ site.url }}{{ site.baseurl }}/neurotech/ )
 Our applied research and technology development efforts focus on augmenting and supporting embodied cognition through equitable multimodal interface designs, wearable brain-computer interfaces (BCIs), and neurostimulation that are applicable during learning, skill acquisition, and performance augmentation in high-stress operational settings.
+
+<br>
+
+**Our research is funded by several national and international research and industry agencies.**
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nsf.png" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/oesi.jpeg" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nih.jpeg" style="height: 150px">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nasem.jpeg" style="height: 150px">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/qnrf.png" style="height: 150px">
+</figure>
+

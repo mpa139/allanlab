@@ -18,12 +18,12 @@
   web: http://www.rohithkarthikeyan.com/
   info: Research and Development Researcher at Apple Inc.
 
-- name: John Kang
-  degree: Ph.D., Industrial & Systems Engineering (2023)
-  web: https://www.linkedin.com/in/jjkang612/
-  info: 
-
 - name: Oshin Tyagi
   degree: Ph.D., Industrial & Systems Engineering (2023)
   web: https://www.linkedin.com/in/oshin-tyagi-a58751182/
   info: Assistant Professor at University of Michigan-Ann Arbor
+
+- name: John Kang
+  degree: Ph.D., Industrial & Systems Engineering (2023)
+  web: https://www.linkedin.com/in/jjkang612/
+  info: 
