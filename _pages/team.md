@@ -136,11 +136,11 @@ She is the recipient of:
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/vidhya.jpeg" class="img-responsive" width="100%" style="float: center"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/tiago.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/vidhyadarshini/">Vidhya Darshini</a> Banoth is a student intern at the NeuroErgonomics Laboratory. She has a B.Tech degree in Mechanical Engineering from CVR College of Engineering, Hyderabad, India. She is currently pursuing her Master’s in Industrial Engineering and has worked in the Information Technology Industry for 1 year. Her research interests include human factors, neuroergonomics, green manufacturing, machine learning, and sustainable development.
+    <a href="https://www.linkedin.com/in/tiagogunter/">Tiago Gunter</a> is a student technician at the NeuroErgonomics Laboratory. 
   </p>
 </div>
 </div>
