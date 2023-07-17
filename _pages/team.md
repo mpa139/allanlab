@@ -1,7 +1,7 @@
 ---
 title: "NeuroergoLab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "NeuroergoLab: Team members"
 sitemap: false
 permalink: /team/
 ---
