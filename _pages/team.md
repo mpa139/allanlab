@@ -140,7 +140,7 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/tiagogunter/">Tiago Gunter</a> is a student technician at the NeuroErgonomics Laboratory. 
+    <a href="https://www.linkedin.com/in/tiagogunter/">Tiago Gunter</a> is a student technician at the NeuroErgonomics Laboratory. He is pursuing a BS in Mechanical Engineering with a minor in Biomechanics, and hopes to pursue a PhD in Mechanical Engineering in the future. Tiago's research interest lie in developing prosthetics, medical devices, and exoskeletons to improve the quality of life of those suffering from various medical conditions. In his free time, he enjoys spending time with friends and family, traveling, working out, and cooking.
   </p>
 </div>
 </div>
