@@ -23,7 +23,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mehta.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
-  <a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana Mehta</a> is an Associate Professor in the Department of Industrial and Systems Engineering at Texas A&M University. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
+  <a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana Mehta</a> is a Professor in the Department of Industrial and Systems Engineering at University of Wisconsin-Madison. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
 
 She is the recipient of:
 * **Technical Innovation**, the Institute of Industrial and Systems Engineers, 2022
