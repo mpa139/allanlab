@@ -17,3 +17,13 @@
   education2: Deep learning algorithms for precision registration of multimodal brain scans
   education3: 
   education4: 
+
+- name: Dr. Arnaud Boutillon
+  photo: arnaud.jpg
+  info: Research Associate
+  email: arnaud.boutillon(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Medical Image Analysis
+  education2: Brain conductivity measurements and 3D+T fetal cardiac MRI
+  education3: 
+  education4: 
