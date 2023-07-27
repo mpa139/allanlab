@@ -7,3 +7,11 @@
   education2: Predicting biomarkers of cognitive function from brain magnetic resonance imaging data
   education3: 
   education4:
+
+- name: Dr. Alena Uus
+  photo: alena.png
+  info: Research Associate
+  email: alena.uus(at)kcl.ac.uk
+  number_educ: 2
+  education1: PhD in Information Engineering
+  education2: Motion compensation and blood flow reconstruction for fetal MRI and registration for neonatal diffusion MRI
