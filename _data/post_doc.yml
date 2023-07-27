@@ -1,10 +1,12 @@
-- name: Dr. Alena Uus
-  photo: alena.png
-  info: Research Associate
-  email: alena.uus(at)kcl.ac.uk
+- name: Dr. Irina Grigorescu
+  photo: irina1.jpg
+  info: Research Assistant
+  email: irina.grigorescu(at)kcl.ac.uk
   number_educ: 2
-  education1: PhD in Information Engineering
-  education2: Motion compensation and blood flow reconstruction for fetal MRI and registration for neonatal diffusion MRI
+  education1: BSc & MSc in Computer Science, MRes in Medical Imaging
+  education2: PhD in Biomedical Engineering
+  education3: Deep learning for motion correction of fetal MRI
+  education4:
 
 - name: Dr. Mohamed Suliman
   photo: mohamed.jpg
