@@ -7,7 +7,7 @@ permalink: /talks/
 
 ## Selection of Emma's Talks 
 
-<b>July 2023</b>  Keynote - OHBM2023 [slides](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/EawCu44tfhhBpk5Qzl9sFSMBtRXvcFC1090ltjn51VnY4w?e=bRB6Rk) and talk
+<b>July 2023</b>  Keynote - OHBM2023 [slides](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/EawCu44tfhhBpk5Qzl9sFSMBtRXvcFC1090ltjn51VnY4w?e=bRB6Rk) and [talk](https://www.youtube.com/watch?v=z8MkmBz85wI)
 
 <b>Nov 2022</b>  [Keynote - GeoMedIA 22](https://www.youtube.com/watch?v=xjXwRQII3Z4) - Geometric Deep Learning for Cortical Imaging - opportunities and recent research (talk starts at ~ 1hr 7 mins into YouTube recording)
 
