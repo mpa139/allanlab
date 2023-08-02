@@ -7,6 +7,8 @@ permalink: /talks/
 
 ## Selection of Emma's Talks 
 
+<b>July 2023</b>  Keynote OHBM2023 [slides](https://emckclac-my.sharepoint.com/:b:/g/personal/k1644933_kcl_ac_uk/EawCu44tfhhBpk5Qzl9sFSMBtRXvcFC1090ltjn51VnY4w?e=9BlqSc) [talk](https://www.youtube.com/watch?v=z8MkmBz85wI)
+
 <b>Nov 2022</b>  [Keynote - GeoMedIA 22](https://www.youtube.com/watch?v=xjXwRQII3Z4) - Geometric Deep Learning for Cortical Imaging - opportunities and recent research (talk starts at ~ 1hr 7 mins into YouTube recording)
 
 <b>Sep 2021</b>  [McGill Feindel Virtual Brain and Mind Lecture Series](https://us-webapp.spotme.com/5bf5d99d38927b8bb6b8f093d97ece81/view/session/af44f917d022cffedd29fac7327a4dae) - Precision modelling of individual cortical organisation and its links with cognition and neuropsychiatric disease (requires sign up for the web platform)
