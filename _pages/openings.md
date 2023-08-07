@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-The NeuroErgonomics Lab at the University of Wisconsin-Madison Industrial and Systems Engineering Dept seeks aspiring PhD students who want to tackle human factors challenges in **BCI, HRI, NeuroStim, Wearables, and NeuroErgonomics in the Wild**. If interested, please email rmehta@tamu.edu with your CV  and contact information of three references. Specific open post doc opportunities are also listed below.
+The NeuroErgonomics Lab at the University of Wisconsin-Madison Industrial and Systems Engineering Dept seeks aspiring PhD students who want to tackle human factors challenges in **BCI, HRI, NeuroStim, Wearables, and NeuroErgonomics in the Wild**. If interested, please email rmehta38@wisc.edu with your CV  and contact information of three references. Specific open post doc opportunities are also listed below.
 
 ## Open Postdoc Positions
 
