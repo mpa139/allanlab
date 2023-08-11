@@ -47,6 +47,33 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Full List
 
+### Recent Preprints and Submissions
+
+[Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644)\
+Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr.\ 
+arXiv preprint arXiv:2307.04644 (2023).
+
+[Fairness-Aware Graph Neural Networks: A Survey](https://arxiv.org/abs/2307.03929)\
+April Chen, Ryan A. Rossi, Namyong Park, Puja Trivedi, Yu Wang, Tong Yu, Sungchul Kim, Franck Dernoncourt, and Nesreen K. Ahmed.\
+arXiv preprint arXiv:2307.03929 (2023).
+
+[Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf)\
+Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and Tyler Derr.\
+non-archival version accepted at Mining and Learning on Graphs (MLG) Workshop at KDD 2023. 
+
+[NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics](https://arxiv.org/abs/2306.06202)\
+Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos.\
+arXiv preprint arXiv:2306.06202 (2023).
+
+[Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract)\
+Yunchao "Lance" Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler.
+bioRxiv preprint (2023). 
+
+[Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
+Yu Wang, Charu Aggarwal, and Tyler Derr\
+arXiv preprint arXiv:2110.12035 (2021).
+
+
 ### Publications in 2023
 
 Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
@@ -117,10 +144,6 @@ Yu Wang, Wei Jin, and Tyler Derr\
 Graph Neural Networks: Foundations, Frontiers, and Applications (Lingfei Wu, Peng Cui, Jian Pei, and Liang Zhao (Eds.)), Springer, Chapter 18. 2022
 
 ### Publications in 2021
-
-[Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
-Yu Wang, Charu Aggarwal, and Tyler Derr\
-Preprint, 2021
 
 [Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)\
 Yu Wang and Tyler Derr\
