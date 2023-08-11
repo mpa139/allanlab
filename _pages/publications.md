@@ -50,7 +50,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Recent Preprints and Submissions
 
 [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644)\
-Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \ 
+Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \
 arXiv preprint arXiv:2307.04644 (2023).
 
 [Fairness-Aware Graph Neural Networks: A Survey](https://arxiv.org/abs/2307.03929)\
