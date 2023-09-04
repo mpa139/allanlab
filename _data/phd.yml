@@ -30,21 +30,6 @@
   twitter: 0
   github: https://github.com/YuyingZhao
   
-- name: Yi Zhang
-  photo: YiZhang.png
-  info: Computer Science PhD
-  email: yi.zhang@vanderbilt.edu
-  number_educ: 1
-  education1: Vanderbilt Dean's Graduate Fellowship Award
-  education2: 
-  education3: 
-  education4: 
-  education5:
-  website: https://yizhan2854.github.io/
-  linkedin: 0
-  twitter: 0
-  github: https://github.com/YiZhan2854
-  
 - name: Yunchao (Lance) Liu
   photo: YunchaoLiu.png
   info: Computer Science PhD
@@ -59,3 +44,33 @@
   linkedin: https://www.linkedin.com/in/yunchaoliu/
   twitter: https://twitter.com/YunchaoLanceLiu
   github: https://github.com/YunchaoLiu
+
+- name: Xueqi Cheng
+  photo: XueqiCheng.png
+  info: Computer Science PhD
+  email: xueqi.cheng@vanderbilt.edu
+  number_educ: 1
+  education1: Vanderbilt IBM Fellowship Award
+  education2:
+  education3: 
+  education4: 
+  education5:
+  website: https://xueqic.github.io/
+  linkedin: https://www.linkedin.com/in/xqc/
+  twitter: 
+  github: https://github.com/XueqiC
+
+- name: Anne Tumlin
+  photo: AnneTumlin.png
+  info: Computer Science PhD
+  email: anne.m.tumlin@vanderbilt.edu
+  number_educ: 1
+  education1: Vanderbilt Russell G. Hamilton Graduate Scholars Award
+  education2: Co-advised with VeriVITAL Lab @ VU
+  education3: 
+  education4: 
+  education5:
+  website: 
+  linkedin: https://www.linkedin.com/in/anne-tumlin-176a551ab/
+  twitter: 
+  github: https://github.com/atumlin
