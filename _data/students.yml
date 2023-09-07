@@ -16,18 +16,25 @@
 #   education1:
 
 
-- name: Ilana Kuzminsky
-  photo: Ilana.jpg
+- name: Genrieta Shmunis
+  photo: Henri.png
   info: PhD student
-  email: ilana.ilana12@gmail.com
+  email: genrieta@gmail.com
   number_educ: 2
-  education1: B.Sc. Dual Major in Chemistry and Life Sciences, Bar-Ilan University 2020
-  education2: M.Sc. in Chemistry with <a href="https://www.chill-lab.com/">Prof. Jordan Chill</a>,  Bar-Ilan University 2022
+  education1: B.Sc. in Life Sciences and Molecular Biology, Bar-Ilan University 2004
+  education2: M.Sc. in Biology with <a href="https://rbni.technion.ac.il/node/243">Prof. Arie Admon</a>,  Technion 2006
 
 - name: Tal Nissenbaum
   photo: Tal.jpg
   info: M.Sc. student
   email: talniss@gmail.com
+  number_educ: 1
+  education1: B.Sc. Life Science, Bar-Ilan University 2022
+
+  - name: Rivka Males
+  photo: rock.jpg
+  info: M.Sc. student
+  email: rymales@gmail.com
   number_educ: 1
   education1: B.Sc. Life Science, Bar-Ilan University 2022
 
@@ -37,6 +44,13 @@
   email: noago67@gmail.com
   number_educ: 1
   education1: B.Sc. Biotechnology, Hadassah Academic College 2022
+
+- name: Or Gabay
+  photo: Or.jpg
+  info: M.Sc. student
+  email: gabayor2000@gmail.com
+  number_educ: 1
+  education1: B.Sc. Computational Biology, Bar-Ilan University 2022
 
 - name: "This could be you !"
   photo: rock.jpg
