@@ -28,9 +28,9 @@ permalink: /research/
 
 <br/> 
 
-Previously, we provided a proof-of-concept that dietary sulfur amino acids correlate with the concentrations of hydrogen sulfide (H2S) in the colon, and in-turn H2S induces a post-translational modification termed S-sulfhydration on reactive cysteine residues of bacterial and host proteins. 
+###### Previously, we provided a proof-of-concept that dietary sulfur amino acids correlate with the concentrations of hydrogen sulfide (H2S) in the colon, and in-turn H2S induces a post-translational modification termed S-sulfhydration on reactive cysteine residues of bacterial and host proteins. 
 
-We found that feeding a chronic kidney disease mouse model with diet high in sulfur amino acids resulted in higher S-sulfhydration of the bacterial enzyme tryptophanase that inhibited its production of the uremic toxin indoxyl sulfate. Tryptophanase inhibition alleviated kidney disease in these mice, compared to diet low in sulfur amino acids.
+###### We found that feeding a chronic kidney disease mouse model with diet high in sulfur amino acids resulted in higher S-sulfhydration of the bacterial enzyme tryptophanase that inhibited its production of the uremic toxin indoxyl sulfate. Tryptophanase inhibition alleviated kidney disease in these mice, compared to diet low in sulfur amino acids.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Figure_S8_science.png" alt="Saa diet S-sulfhydration model"  width="80%" /> 
 
