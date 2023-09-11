@@ -20,7 +20,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mehta.jpeg" class="img-responsive" width="100%" style="float: center"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mehta2.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
   <a href="https://directory.engr.wisc.edu/ie/Faculty/Mehta_Ranjana/">Ranjana Mehta</a> is a Professor in the Department of Industrial and Systems Engineering at University of Wisconsin-Madison. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
