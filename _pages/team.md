@@ -23,7 +23,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mehta.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
-  <a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana Mehta</a> is a Professor in the Department of Industrial and Systems Engineering at University of Wisconsin-Madison. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
+  <a href="https://directory.engr.wisc.edu/ie/Faculty/Mehta_Ranjana/">Ranjana Mehta</a> is a Professor in the Department of Industrial and Systems Engineering at University of Wisconsin-Madison. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
 
 She is the recipient of:
 * **Technical Innovation**, the Institute of Industrial and Systems Engineers, 2022
@@ -77,17 +77,6 @@ She is the recipient of:
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/johnh.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/john-hayes-829a831a1/">John Hayes</a> has a Bachelor of Science in Biology from Texas A&M and is currently pursuing a Ph.D. in Industrial Engineering with a focus on Health and Human Systems. His research interests are in applying human factors engineering and neuroergonomics to improve training and performance in aerospace environments. His goal is to pursue a career with NASA. John was awarded the Huffines Student Research Grant for the Spring 2023 semester.
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/david.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
@@ -97,22 +86,13 @@ She is the recipient of:
 </div>
 </div>
 
-## Masters Students
+<!-- ## Masters Students -->
 
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/shivangi.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/shivangi-dwivedi-7410b3200/">Shivangi Dwivedi</a> has a B. Tech in Electronics and Instrumentation engineering from Dr. APJ Abdul Kalam Technical University(Uttar Pradesh, India), M.Tech in Electrical Engineering from Madan Mohan Malaviya Technical University (Uttar Pradesh, India) with thesis work from MNIT (Jaipur, Rajasthan). Her research interests include neuroergonomics, machine learning, and designing compatible systems for vulnerable populations. She is passionate about making a contribution to people’s lives through her research and wishes to establish a career in academia.
-  </p>
-</div>
-</div>
 
-## Staff
 
-<div class="row">
+<!-- ## Staff -->
+
+<!-- <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/lindsey.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
@@ -121,48 +101,33 @@ She is the recipient of:
     <a href="https://www.linkedin.com/in/lindsey-brenner-a7a513183/">Lindsey Brenner</a> is a Project Coordinator for the NeuroErgonomics Laboratory and is the project manager for the NSF-funded Convergence-Accelerator initiative — Track B: AI and the Future of Work (LEARNER). Lindsey graduated from Texas A&M University with a bachelor’s degree in Political Science.
   </p>
 </div>
-</div>
+</div> -->
 
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/peter.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    Peter Kaloostian Selly Is a Research Assistant for the NeuroErgonomics Laboratory. He has a B.S. in Psychology from the University of California San Diego with a focus on neuroscience. His research interests include brain-computer interface (BCI) technologies and behavioral neuroscience. 
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/tiago.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/tiagogunter/">Tiago Gunter</a> is a student technician at the NeuroErgonomics Laboratory. He is pursuing a BS in Mechanical Engineering with a minor in Biomechanics, and hopes to pursue a PhD in Mechanical Engineering in the future. Tiago's research interest lie in developing prosthetics, medical devices, and exoskeletons to improve the quality of life of those suffering from various medical conditions. In his free time, he enjoys spending time with friends and family, traveling, working out, and cooking.
-  </p>
-</div>
-</div>
 
 ## Alumni
 
-<h4>Ph.D.</h4>
+<h3>Ph.D.</h3>
 {% for member in site.data.alumni_phd %}
 <a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
 {% endfor %}
 
-<h4>Masters</h4>
+<h3>Masters</h3>
 {% for member in site.data.alumni_masters %}
 <a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
 {% endfor %}
 
-<h4>Undergraduate</h4>
+<h3>Visiting Scholars</h3>
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}, {{ member.info }}, {{ member.time }}
+{% endfor %}
+
+<h3>Staff</h3>
+{% for member in site.data.alumni_staff %}
+<a href="{{ member.web }}">{{ member.name }}</a>, {{ member.info }}, {{ member.time }} <br>
+{% endfor %}
+
+<h3>Undergraduate</h3>
 {% for member in site.data.alumni_ug %}
 {{ member.name }}, {{ member.major }}, {{ member.time }} 
 {% endfor %}
 
-<h4>Visiting Scholars</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}, {{ member.info }}, {{ member.time }}
-{% endfor %}
