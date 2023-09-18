@@ -6,4 +6,4 @@ sitemap: false
 permalink: /dhcp-download/
 ---
 
-Instructions for downloading dHCP data from NDA.
+Instructions for downloading dHCP data from NDA cna be found [here](https://www.genome.gov/genetics-glossary/Transcription)
