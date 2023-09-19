@@ -1,3 +1,13 @@
+- name: Cesar B Martinez-Alvarez
+  photo: cesar.jpg
+  info: Donnelley Postdoctoral Associate | Incoming Assistant Professor of Political Science (UCSB)
+  email: cesar.martinez-alvarez@yale.edu
+  website: <a href="https://www.cesarbmartinez.com/">Personal Website</a>
+  number_educ: 3
+  education1: BA International Relations, El Colegio de Mexico 2013
+  education2: MA International Policy, Stanford University 2016
+  education3: PhD Political Science, UCLA 2022
+
 - name: Matthew Gordon
   photo: headshot.jpg
   info: PhD Candidate in Environmental Economics
@@ -56,7 +66,6 @@
   email: katy.sun@yale.edu
   number_educ: 1
   education1: Yale University 2024
-
 
 - name: Ruolin "Eudora" Miao
   photo: Eudora.jpeg
