@@ -46,6 +46,14 @@
   number_educ: 1
   education1: B.S. Sustainable Development, Concentration in Community, Regional and Global Development, 2015
 
+- name: Owen Cortner
+  photo: Owen.jpg
+  info: Postdoctoral Associate at Yale School of the Environment
+  email: owen.cortner@yale.edu
+  number_educ: 3
+  education1: B.S. Environmental Science, New Mexico State University, 2011
+  education2: M.S. International Agricultural Development, Specialization in Animal Science, University of California Davis, 2016
+  education3: Dr. sc. Environmental Policy, ETH Zürich, 2023
 
 - name: Izzi Hu
   photo: Izzi.jpeg
