@@ -9,12 +9,16 @@ permalink: /vacancies/
 # Open positions
 
 ### Current open positions
-[New Associate OR Research Software Engineer in Image Registration and Machine Learning for Clinical Translation of Neuroimaging](https://www.jobs.ac.uk/job/CKC160/research-associate-or-research-software-engineer-in-image-registration-and-machine-learning-for-clinical-translation-of-neuroimaging) Role is 1) to extending MSM to explcitly account for inter-subject cortical heterogeneity during registration; 2) Build normative models sensitive to all signs of cortical pathology in individuals; using Machine Learning, discrete optimisation, normative/generative modelling
-
+Sorry, we don't currently have any RA openings.
 
 
 ### Applications for PhD and Postdoc positions
-Coming soon!
+
+PhD programs are opening later this year, get in touch if you are interested in working on AI problems for medical imaging and computational neuroscience.
+
+[AI-driven simulations of brain development](https://kcl-mrcdtp.com/project/ai-driven-simulations-of-brain-development/) Combining computational neuroscience with biomedical engineering we will build simulations of neurological processes and use these to predict which babies are most at risk of neurodevelopmental disorders
+
+[Commonwealth PhD Scholarships for the least developed countries and fragile states](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states) if you think this applies to you get in touch 
 
 <br>
 <br>
