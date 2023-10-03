@@ -28,5 +28,10 @@ Our applied research and technology development efforts focus on augmenting and 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nih.jpeg" style="height: 150px">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nasem.jpeg" style="height: 150px">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/qnrf.png" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nasa.png" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/niosh.png" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/dot.png" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/cos.png" style="height: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/sai.jpeg" style="height: 150px">
 </figure>
 
