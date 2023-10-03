@@ -68,6 +68,13 @@ Basic research in our lab focuses on understanding, monitoring, and augmenting h
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nsf.png" style="height: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/oesi.jpeg" style="height: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nih.jpeg" style="height: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nasem.jpeg" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/qnrf.png" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nasa.png" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/niosh.png" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/dot.png" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/cos.png" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/sai.jpeg" style="height: 110px">
 </figure>
 
 
