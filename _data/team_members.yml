@@ -23,7 +23,7 @@
   email: owen.cortner@yale.edu
   number_educ: 3
   education1: B.S. Environmental Science, New Mexico State University, 2011
-  education2: M.S. International Agricultural Development, Specialization in Animal Science, University of California Davis, 2016
+  education2: M.S. International Agricultural Development, UC Davis, 2016
   education3: Dr. sc. Environmental Policy, ETH Zürich, 2023
 
 - name: Megan Ayers
@@ -55,6 +55,14 @@
   number_educ: 1
   education1: B.S. Sustainable Development, Concentration in Community, Regional and Global Development, 2015
 
+  name: Gracia Hadiwidjaja (Grace) 
+  photo: Grace.jpeg
+  info: PhD Student at Yale School of the Environment
+  email: gracia.hadiwidjaja@yale.edu
+  number_educ: 2
+  education1: B.A. Mathematics and Religious Studies
+  education2: Msc. Policy Analysis, KU Leuven
+  
 - name: Izzi Hu
   photo: Izzi.jpeg
   info: Lab dog
