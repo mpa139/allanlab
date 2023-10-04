@@ -64,7 +64,7 @@ Basic research in our lab focuses on understanding, monitoring, and augmenting h
 
 #### Our research is supported by:
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nsf.png" style="height: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/oesi.jpeg" style="height: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/nih.jpeg" style="height: 110px">
@@ -75,6 +75,11 @@ Basic research in our lab focuses on understanding, monitoring, and augmenting h
 <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/dot.png" style="height: 110px">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/cos.png" style="height: 110px">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/logos/sai.jpeg" style="height: 110px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/fa.png">
+</figure> -->
+
+<figure class = "fourth">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/logos/fa.png" style="width: 100%">
 </figure>
 
 
