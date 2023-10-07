@@ -77,6 +77,16 @@
     display:  In International Workshop on Machine Learning in Clinical Neuroimaging 2021 (pp. 145-154). Springer, Cham.
   highlight: 
   news2:
+
+- title: "Differential Patterns of Cortical Expansion in Fetal and Preterm Brain Development"
+  image: 
+  description:
+  authors: M da Silva, K Garcia, V Kyriakopoulou, LZJ Williams, AM Winkler, J Cardoso, EC Robinson
+  link:
+    url: https://github.com/mariftsilva/FITNG/blob/main/Poster-FITNG.pdf
+    display:  FIT'NG 2023 
+  highlight: 
+  news2:
   
 - title: "Geometric Deep Learning of the Human Connectome Project Multimodal Cortical Parcellation"
   image: 
