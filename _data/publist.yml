@@ -38,16 +38,6 @@
   highlight: 
   news2:
 
-- title: "Uncovering common variants of cortical folding through hierarchical surface registration"
-  image: 
-  description:
-  authors: Y Guo, M. Suliman, LZJ Williams, M Glasser, J O'Muircheartaigh, EC Robinson
-  link:
-    url: https://github.com/metrics-lab/Posters/blob/main/2023/OHBM/Guo_Uncovering-Folding-Hierarchical-Registration.pdf
-    display: OHBM 2023 
-  highlight: 
-  news2:
-  
 - title: "Continuous GCN-GANs for Modelling Neonatal Cortical Surface Development"
   image: tmi_image_3.png
   description:
