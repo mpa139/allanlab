@@ -27,15 +27,15 @@
     display:  In International Workshop on Machine Learning in Clinical Neuroimaging 2021 (pp. 145-154). Springer, Cham.
   highlight: 
   news2:
-  
-- title: "Differential Patterns of Cortical Expansion in Fetal and Preterm Brain Development"
-  image: 
+
+- title: "Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis"
+  image: surface_transformer.jpeg
   description:
-  authors: M da Silva, K Garcia, V. Kyriakopoulou, LZJ Williams, AM Winkler, J Cardoso, EC Robinson
+  authors: S Dahan, A Fawaz, LZJ Williams, C Yang, TS Coalson, MF Glasser, AD Edwards, D Rueckert, EC Robinson
   link:
-    url: https://github.com/mariftsilva/FITNG/blob/main/Poster-FITNG.pdf
-    display: FIT'NG 2023 
-  highlight: 
+    url: https://2022.midl.io/papers/b3
+    display: Medical Imaging Deep Learning 2022 
+  highlight: 1
   news2:
 
 - title: "Continuous GCN-GANs for Modelling Neonatal Cortical Surface Development"
