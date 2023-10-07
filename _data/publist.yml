@@ -17,17 +17,7 @@
     display: Conference on Medical Image Computing and Computer-Assisted Intervention 2022 (pp. 119-129)
   highlight: 1
   news2:
-
-- title: "Improving Phenotype Prediction Using Long-Range Spatio-Temporal Dynamics of Functional Connectivity"
-  image: 
-  description:
-  authors: S Dahan LZJ Williams, D Rueckert, EC Robinson
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-87586-2_15
-    display:  In International Workshop on Machine Learning in Clinical Neuroimaging 2021 (pp. 145-154). Springer, Cham.
-  highlight: 
-  news2:
-
+  
 - title: "Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis"
   image: surface_transformer.jpeg
   description:
@@ -37,7 +27,7 @@
     display: Medical Imaging Deep Learning 2022 
   highlight: 1
   news2:
-
+  
 - title: "Continuous GCN-GANs for Modelling Neonatal Cortical Surface Development"
   image: tmi_image_3.png
   description:
@@ -74,7 +64,7 @@
   authors: LZJ Williams, SP Fitzgibbon, J Bozek, AM Winkler, R Dimitrova, T Poppe, A Schuh, A Makropoulos, J Cupitt, J O'Muircheartaigh, E Duff, L Cordero-Grande, AN Price, JV Hajnal, D Rueckert, SM Smith,  AD Edwards, EC Robinson
   link:
     url: https://www.biorxiv.org/content/10.1101/2021.10.13.464206v1.abstract
-    display:   Nature Human Behaviour (2023): 1-14.
+    display:   biorxiv
   highlight: 1
   news2:
 
@@ -179,4 +169,3 @@
     display: Nature Communications 2020
   highlight: 
   news2:
-
