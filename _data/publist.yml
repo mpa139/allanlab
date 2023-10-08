@@ -78,6 +78,16 @@
   highlight: 
   news2:
 
+- title: "Uncovering common variants of cortical folding through hierarchical surface registration"
+  image: 
+  description:
+  authors: Y Guo, M Suliman, LZJ Williams, M Glasser, J O'Muircheartaigh, EC Robinson
+  link:
+    url: https://github.com/metrics-lab/Posters/blob/main/2023/OHBM/Guo_Uncovering-Folding-Hierarchical-Registration.pdf
+    display:  OHBM 2023 
+  highlight: 
+  news2:
+
 - title: "Differential Patterns of Cortical Expansion in Fetal and Preterm Brain Development"
   image: 
   description:
