@@ -16,7 +16,7 @@ Two postdoc opportunities in closed-loop human states predictions and support an
 
 **Position**: Post-doctoral Fellow
 
-**Start Date**: Summer/Fall 2023 (in person)
+**Start Date**: Spring 2024 (in person)
 
 **Lab**: NeuroErgonomics Lab (Director: Ranjana Mehta, PhD)
 
@@ -30,7 +30,7 @@ About the NeuroErgonomics Lab: Research in the NeuroErgonomics Lab utilizes theo
 
 Qualifications:
 
-* Interested candidates should have obtained a Ph.D. by the start date **(the position can start in Summer/Fall 2023)**.
+* Interested candidates should have obtained a Ph.D. by the start date **(the position can start in Spring 2024)**.
 * Knowledge of human factors theories and assessment methods (performance, physiological, and subjective assessments)
 * Knowledge and experience in developing/applying computational techniques to analyze bio-behavioral data (e.g., neural, physiological, movement, or eye tracking)
 * Excellent human subjects’ experimentation skills
