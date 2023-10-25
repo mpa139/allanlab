@@ -18,7 +18,7 @@ Most of the code from the original version has been replaced or revised, but som
  - application of octree search during registration
  - parallelisation of cost calculation during registration
 
-Please note, the current version is 0.4.3-BETA. All feedbacks are much appreciated.
+Please note, the current version is 0.5.0-BETA. All feedbacks are much appreciated.
 
 ## Download and install
 NewMSM is available to download from FSL or Github. Please follow the steps described below. (Note: tested on Ubuntu Linux and MacOS.)
@@ -49,7 +49,7 @@ conda activate ./msm-env/
         ```console
         git clone https://github.com/rbesenczi/newMSM.git
         cd newMSM/libraries/msm-newresampler/src/
-        git checkout v0.4.3
+        git checkout v0.5.0
         make && make install
         cd ../../msm-newmeshreg/src/
         make && make install
