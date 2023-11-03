@@ -4,6 +4,7 @@ comments: true
 title:  "The NeuroErgonomics Lab attends HFES 2023 in Washington, DC"
 date:   2023-11-02 06:10:54 -0500
 mathjax: true
+image: /assets/postimgs/231102hf/lab.png
 ---
 
 **Contents**
