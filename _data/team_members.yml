@@ -2,32 +2,59 @@
   photo: Zhuoya.jpg
   info: PhD Candidate, expected graduation date - May 2023
   email: zs1110@nyu.edu
+  prj: A BIM-based approach for improving building façade inspection in cities
   number_educ: 2
   education1: "Research Project: <a href='/projects/urban-facade-inspection'>A BIM-based approach for improving building façade inspection in cities</a>"
   education2: <a href="/downloads/Research_Poster_ZhuoyaSHI.pdf">Research poster</a>
+  desc: Zhuoya Shi is a current PhD candidate in Civil Engineering. She earned her bachelor's degree in Cost Estimating from Chang'an University (2014) and a Master's in Construction Engineering from University of Southern California (2017). She joined NYU in Fall 2017 to pursue her PhD in civil engineering with an emphasis on improving urban facade safety inspections using a BIM-based approach.
 
 - name: Daniel Lu
   photo: Dan.jpg
   info: PhD Student, expected graduation date - Dec 2023
   email: dbl299@nyu.edu
+  prj: "<a href='/projects/work-zone-safety'>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality </a>"
   number_educ: 1
   education1: "Research Project: <a href='/projects/work-zone-safety'>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</a>"
   education2: <a href="/downloads/poster_Dan.pdf">Research poster</a>
+  desc: Daniel Lu is a current PhD candidate in civil engineering at New York University. He earned his MS in architectural engineering at the University of Texas at Austin and BSc in civil engineering at Cornell University
 
 - name: Keundeok Park
   photo: kay.jpg
-  info: PhD Student, expected graduation date - Dec 2023
+  info: PhD Candidate, expected graduation date - Dec 2023
   email: kp2393@nyu.edu
   number_educ: 1
-  education1: "Research Project: <a href='/projects/arm4mod'>AI-powered and Robot-assisted Manufacturing for Modular Construction: Train module assembly progress inference AI model training in Virtual Reality</a>"
-  education2: 
+  prj: "<a href='/projects/arm4mod'>AI-based semantic generative design models for architectural layout design</a>"
+  desc: Keundeok Park is a current PhD Candidate in Urban Systems at New York University, joining the bilab Fall 2019. He earned his BSc in Urban Planning and Engineering, MSc in Urban Planning from the Hanyang University in South Korea, and MSc in Applied Urban Science & Informatics at Center for Urban Science and Progress, New York University.
 
 - name: Beyza Kiper
   photo: beyza.jpg
   info: PhD Student, expected graduation date - May 2025
   email: bkiper@nyu.edu
+  prj: Computer Vision Enabled Urban Façade Safety and Maintenance
   number_educ: 1
   education1: <a href="/downloads/poster_Beyza.pdf">Research poster</a>
+  desc: Beyza Kiper is a current PhD candidate in Civil Engineering. Before joining NYU as a PhD student in Fall 2021, she earned her MSc in Civil Engineering at Purdue University and her BSc in Civil Engineering at Yildiz Technical University in Istanbul.
+
+- name: Qi Lin
+  photo: qi.jpg
+  info: PhD Candidate, expected graduation date - May 2026
+  prj: TBD
+  email: ql2309@nyu.edu
+  desc: Qi is a PhD candidate in Urban Systems. Prior to joining NYU in 2022, he received his MS in Urban Planning from Columbia University and his MArch from the University of Southern California.
+
+- name: Shuo Zhang
+  photo: shuo.png
+  info: PhD Student, expected graduation date - May 2027
+  prj: TBD
+  email: sz4580@nyu.edu
+  desc: Shuo is a current PhD student in Transportation systems. Before joining NYU as a PhD student in Fall 2023, he earned his MSc in Transportation engineering at UCLA and BSc in Civil engineering at Dalian Jiaotong University.
+
+- name: Heng Quan
+  photo: heng.jpg
+  prj: TBD
+  info: PhD Student, expected graduation date - May 2027
+  email: hq322@nyu.edu
+  desc: Heng Quan is currently pursuing his PhD in Urban Systems at NYU, having joined in the Fall of 2023. Prior to this, he earned his BSc in Statistics and Computer Science from the University of Illinois at Urbana-Champaign and his MSc in Applied Urban Science and Informatics from New York University.
 
 # - name: Mohammad Zair Cheema
 #   photo: zair.jpg

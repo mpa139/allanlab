@@ -1,0 +1,8 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: bash -c "gem install bundler:2.2.2 && jekyll serve --watch --force_polling --verbose --livereload"
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll

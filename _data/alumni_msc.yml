@@ -2,7 +2,8 @@
 
 - name: Juan Guerrero
 
-- name: Poornachandra Venkadesh, graduated in May 2020
+- name: Poornachandra Venkadesh
+# - name: Poornachandra Venkadesh, graduated in May 2020
 
 - name: Neda Talebzadeh
 
@@ -38,36 +39,51 @@
 
 - name: Naveen D'Souza Lazar
 
-- name: Bo Gu, graduated in December 2014
+# - name: Bo Gu, graduated in December 2014
+- name: Bo Gu
 
 - name: Hanzhi Chen
 
-- name: Varun Kumaraswamy, graduated in May 2014
+# - name: Varun Kumaraswamy, graduated in May 2014
+- name: Varun Kumaraswamy
 
 - name: Chenhao Jin
 
 - name: Jennifer Frazier
 
-- name: Jason Jiang, graduated in May 2014
+# - name: Jason Jiang, graduated in May 2014
+- name: Jason Jiang
 
-- name: Nur Sila Gulgec, graduated in August 2013
+- name: Nur Sila Gulgec
+# - name: Nur Sila Gulgec, graduated in August 2013
 
-- name: Ruiming Liu, graduated in August 2013
+- name: Ruiming Liu
+# - name: Ruiming Liu, graduated in August 2013
 
-- name: Juncheng (Billy) Li, graduated in August 2013
+# - name: Juncheng (Billy) Li, graduated in August 2013
+- name: Juncheng (Billy) Li
 
-- name: Haobo Ma, graduated in August 2013
+# - name: Haobo Ma, graduated in August 2013
+- name: Haobo Ma
 
-- name: Alejandro Gomez, graduated in August 2013 
+# - name: Alejandro Gomez, graduated in August 2013 
+- name: Alejandro Gomez
 
-- name: Katie Knox, graduated in August 2013
+- name: Katie Knox
+# - name: Katie Knox, graduated in August 2013
 
-- name: Jennifer Frazier, graduated in December 2012
 
-- name: Timothy Lam, graduated in August 2012
+- name: Jennifer Frazier
+# - name: Jennifer Frazier, graduated in December 2012
 
-- name: Emre Caner Akcay, graduated in August 2010
+- name: Timothy Lam
+# - name: Timothy Lam, graduated in August 2012
 
-- name: Chenhao Jin, graduated in Spring 2012
+- name: Emre Caner Akcay
+# - name: Emre Caner Akcay, graduated in August 2010
 
-- name: Weiyu Zhang, graduated in Spring 2012
+# - name: Chenhao Jin, graduated in Spring 2012
+- name: Chenhao Jin
+
+- name: Weiyu Zhang
+# - name: Weiyu Zhang, graduated in Spring 2012

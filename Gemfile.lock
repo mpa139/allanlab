@@ -8,7 +8,9 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
+    ffi (1.14.2)
     ffi (1.14.2-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -51,17 +53,22 @@ GEM
     rexml (3.2.4)
     rouge (3.26.0)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux-musl
 
 DEPENDENCIES
-  jekyll (>= 3.6.3)
+  jekyll
+  webrick
 
 BUNDLED WITH
    2.2.2

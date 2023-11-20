@@ -1,0 +1,34 @@
+I"5
+<h1 id="bim-based-and-an-automated-approach-for-hvac-troubleshooting">BIM-based and an Automated Approach for HVAC Troubleshooting</h1>
+<p><img src="/images/pubpic/past_prj1.png" alt="" class="img-responsive" />
+Corrective maintenance (CM) has been and will be the predominant maintenance mode in the US in the near future.  Among these indoor air related ones are require prompt attention because people spend about 90% of their time in buildings in the US (EPA, 1989) and such problems directly affect occupants’ productivity and health (Seppänen et al., 2006). However, investigating indoor air related problems is challenging due to the fact that: Information that is needed for troubleshooting of indoor air problems changes as the characteristics of work orders change; Information required during investigation of indoor air problems reside in discrete data sources; and Existing data sources are not efficient to get insights about a problem in a short time. To deal with these industry problems, the objective of my research is to develop a framework which can enable identification, integration and visualization of the information that is critical for troubleshooting of indoor air problems in spaces served by centralized HVAC systems. The proposed research  brings contributions to the existing body of knowledge in the areas of facility maintenance, BIM, and human computer interaction (HCI). The research will enhance the existing body of knowledge in the FM domain by providing structured mechanisms to help HVAC mechanics to identify critical clues for troubleshooting of indoor air problems. The contribution in relation to BIMs will enable expanding information stored in BIMs with explicit representation of HVAC system functional relationships and clues that HVAC mechanics would need for troubleshooting. The research also contributes to HCI domain in terms of the design, evaluation and generation of visualization-based environments for improving the efficiency of HVAC mechanics while investigating indoor air problems.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<ul>
+  <li>
+    <p>Yang, X. and Ergan, S. (2015). “Leveraging BIM to provide automated support for efficient troubleshooting of hvac-related problems.” Journal of Computing in Civil Engineering,  DOI: 10.1061/(ASCE)CP.1943-5487.0000492, 04015023.</p>
+  </li>
+  <li>
+    <p>Yang, X. and Ergan, S. (2015). “Design and Evaluation of an Integrated Visualization Platform to Support Corrective Maintenance of HVAC Problem–Related Work Orders.” Journal of Computing in Civil Engineering, DOI: 10.1061/(ASCE)CP.1943-5487.0000510 , 04015041.</p>
+  </li>
+  <li>
+    <p>Yang, X., and Ergan, S. (2015). “Characteristics of work orders and information requirements of HVAC mechanics to troubleshoot HVAC related problems” Journal of Building Engineering (under review).</p>
+  </li>
+  <li>
+    <p>Yang, X., and Ergan, S. (2014). “A formal approach to provide information and visualization support for troubleshooting of HVAC related problems.” EG-ICE:  21st International Workshop on Intelligent Computing in Engineering, July 16th-18th, 2014, Cardiff, UK. http://egice2014.engineering.cf.ac.uk/images/BIN/papers/14.pdf.</p>
+  </li>
+  <li>
+    <p>Yang, X., and Ergan, S. (2014). “Towards a formal approach for determining functions of HVAC components represented in IFC”, Proceedings of International Conference on Computing in Civil and Building Engineering ICCCBE/CIB W078, June 23-25, 2014, Florida, USA, pp. 633-640.  DOI: http://dx.doi.org/10.1061/9780784413616.079.</p>
+  </li>
+  <li>
+    <p>Yang, X., and Ergan, S. (2013). “Processes, information requirements and challenges associated with corrective maintenance in relation to indoor air problem related work orders”, Proceedings of International Symposium on Automation and Robotics in Construction (ISARC), August 13-15, 2013, Montreal, Canada, pp. 1119-1128. http://www.iaarc.org/publications/fulltext/isarc2013Paper300.pdf.</p>
+  </li>
+  <li>
+    <p>Yang, X., and Ergan, S. (2012). “Evaluation of various visualization forms for facility operation and maintenance”, Proceedings of International Symposium of Automation and Robotics in Construction: ISARC 2012, June 26-29, 2012, Eindhoven, the Netherlands, pp. 438-444. DOI: http://dx.doi.org/10.4017/gt.2012.11.02.471.755.</p>
+  </li>
+</ul>
+
+<p><br /></p>
+:ET

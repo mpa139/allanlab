@@ -1,0 +1,5 @@
+---
+BUNDLE_JOBS: "2"
+BUNDLE_IGNORE_MESSAGES: "true"
+BUNDLE_BUILD__NOKOGIRI: "--use-system-libraries"
+BUNDLE_DISABLE_VERSION_CHECK: "true"

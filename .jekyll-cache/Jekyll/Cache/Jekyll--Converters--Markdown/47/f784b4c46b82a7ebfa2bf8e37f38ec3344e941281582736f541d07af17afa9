@@ -1,0 +1,75 @@
+I"j%<!-- # Research Domains
+<br>
+<span style="color:blue"><b>Architecture and Neuroscience</b></span>  
+*How can we quantify the impact of architectural design features on human experience? Can we use the findings to improve the design practice for better and healtier experiences in the built environment?*  
+
+<span style="color:blue"><b>Urban Challenges for AEC/FM</b></span>  
+*How can the design, construction and facilities management processes be improved to tackle with  the challenges imposed by urban settings?*  
+
+<span style="color:blue"><b>Understanding the context under which Civil Infrastructure Systems (CIS) operate</b></span>  
+*How sensors and models can be integrated to better understand system behaviors?*  
+
+<span style="color:blue"><b>Healthier building systems</b></span>  
+*How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*  
+
+<b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
+
+<b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
+<br><br><br> -->
+<h1 id="current-projects">Current Projects</h1>
+<p>Click images to see more details about projects.</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A BIM-based approach for improving building façade inspection in cities</pubtit>
+      <p><a href="http://0.0.0.0:4000/projects/urban-facade-inspection"><img src="/images/pubpic/prj3.png" alt="" class="img-responsive" /></a>
+  <!-- <p>For highly and densely populated cities like New York City, façade inspection is a mandatory routine every 5 years for buildings that have more than 6 floors. The current inspection is mainly based on visual checks, and the results are based on the inspectors’ experience. The objectives of this research are (1) to identify the required information for the decision-making of façade inspection and (2) to support the façade inspection process with a model-based  generation of comprehensive checklists and flexible visualization of inspection findings.</p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality</pubtit>
+      <p><a href="http://0.0.0.0:4000/projects/increasing-work-zone-safety"><img src="/images/pubpic/prj6.png" alt="" class="img-responsive" /></a>
+  <!-- <p>According to the Federal Highway Administration (FHWA), work zone fatalities at road construction projects account for up to 3% of all workplace fatalities in a given year, and the primary causes are runovers/backovers, collisions, and caught in-between mobile equipment. One of the main proactive approaches adopted by construction companies to prevent these incidents is safety training courses, which are designed to help increase workers’ awareness of hazards around the job sites and take timely actions to avoid injuries. However, work zone safety knowledge from training courses is not enough to change the level of vigilance of workers, which is easily affected by factors such as fatigue or environmental distractions. With the development of wearable technologies, an increasing number of research studies have been exploring the feasibility of using wearable sensors to detect workers’ attention and vigilance towards job site hazards. However, merely measuring workers’ awareness of hazards is not sufficient. There is still a need to understand key parameters that impact worker and driver behaviors regarding received alarms/warnings/notifications and design notification systems that are calibrated for the optimal time, frequency, and modality to push information on potential hazards at work zones. With the goal of reducing the number of injuries and fatalities, this project aims to understand the key parameters (e.g., work zone location characteristics, personal vigilance levels, types of construction work) that play roles in achieving responsive behaviors in workers. Key questions this research will address include in what conditions people ignore or respond to warnings, how notification systems can be calibrated for getting responsive actions from workers, and what modalities, frequencies, and timings of pushing notifications are most effective. Through wearable sensors and realistic representations of work zones in virtual reality, we plan to collect worker behavioral and physiological (heart rate) responses to warnings issued under various realistic scenarios and various warning mechanisms.</p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</pubtit>
+      <p><a href="http://0.0.0.0:4000/projects/work-zone-safety"><img src="/images/pubpic/prj7_worker_safety.png" alt="" class="img-responsive" /></a>
+  <!-- <p>According to the Federal Highway Administration (FHWA), work zone fatalities at road construction projects account for up to 3% of all workplace fatalities in a given year, and the primary causes are runovers/backovers, collisions, and caught in-between mobile equipment. Hence, drivers and the way they perceive the work zone and related notifications are primary factors required to reduce fatalities. A study of work zone crash data in five states showed that around half of the crashes occur within or adjacent to work activities, putting workers in danger together with drivers [2]. To reduce work zone injuries and fatalities, regulations such as mandated Personal Protective Equipment (PPE), traffic control plans, advance warning signs, the share of traveler information, and signal timing adjustments (ANSI, OSHA) were introduced by the regulatory bodies. However, these mainly aim for changing the behavior of drivers instead of workers. Although there is a large body of analysis and modeling literature related to work zone accidents as documented in [3], the actual safety treatments applicable to real-world work zones are limited at best and there is still a need for proactive approaches to be deployed at highway work zones, capable of warning construction workers of approaching hazards in advance. To improve work zone safety, in the previous two phases of this project, we proposed a virtual reality (VR)-based platform that integrates with SUMO and hardware in the loop sensors to realistically simulate dangerous situations in work zones (i.e., enabling worker-initiated changes in the work zone to be accounted in SUMO and updated simulation to be displayed real-time in VR). In this phase, we propose to add two main components to the existing VR work zone safety testing platform. The first component focuses on monitoring construction workers’ attention. To that end, we propose adding new functionality to the current VR platform to track the subjects’ attention through his/her head-movement and eye-movement to infer his/her gaze pattern. With the introduction of this method to measure the subject’s attention, we plan to capture additional critical information about the decision a worker makes.</p> --></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>AI-powered and Robot-assisted Manufacturing for Modular Construction: Train module assembly progress inference AI model training in Virtual Reality</pubtit>
+      <p><a href="http://0.0.0.0:4000/projects/arm4mod"><img src="/images/pubpic/prj8_kpark.png" alt="" class="img-responsive" /></a>
+  <!-- <p>Modular construction aims at overcoming challenges faced by the traditional construction process such as the shortage of skilled workers, fast-track project requirements, and cost associated with on-site productivity losses and recurrent rework. Since manufacturing is done off-site in controlled factory settings, modular construction is associated with increased productivity and better quality control. However, because every construction project is unique and results in distinct work pieces and building elements to be assembled, modular construction factories necessitate better mechanisms to assist workers during the assembly process in order to minimize errors in selecting the pieces to be assembled and idle times while figuring out the next step in an assembly sequence. Machine intelligence provides opportunities for such assistance; however, a challenge is to rapidly generate large datasets with rich contextual data to train such intelligent agents. This work overviews a mechanism to generate such datasets in virtual environments and evaluates the performance of AI models trained using data generated in virtual environments in recognizing the next installation step in modular assembly sequences. Performance of the trained MV-CNN models (with accuracy of 0.97) shows that virtual environments can potentially be used to generate the required datasets for AI without the costly, time-consuming, and labor-intensive investments needed upfront for capturing real-world data.</p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>AI-based semantic generative design models for architectural layout design</pubtit>
+      <p><a href="http://0.0.0.0:4000/projects/ai-arch"><img src="/images/pubpic/prj9_kpark.png" alt="" class="img-responsive" /></a>
+  <!-- <p></p> --></p>
+    </div>
+  </div>
+
+</div>
+
+<p><br /></p>
+:ET
