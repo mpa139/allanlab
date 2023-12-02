@@ -26,6 +26,9 @@ permalink: /team/
   <a href="https://directory.engr.wisc.edu/ie/Faculty/Mehta_Ranjana/">Ranjana Mehta</a> is a Professor in the Department of Industrial and Systems Engineering at University of Wisconsin-Madison. She is also a graduate faculty with the Texas A&M Institute for Neuroscience at Texas A&M University, director of the NeuroErgonomics Laboratory, co-director of the Texas A&M Ergonomics Center, and a faculty fellow with the Center for Population Health and Aging and the Center for Remote Health Technologies and Systems. She received her MS and Ph.D. from Virginia Tech, MEng from University at Buffalo, and BE from Mumbai University.
 
 She is the recipient of:
+* **Fellow**, Human Factors and Ergonomics Society, 2023
+* **The Human Factors Prize**, Human Factors and Ergonomics Society, 2022
+* **NASA ideas* Fellow**, 2022
 * **Technical Innovation**, the Institute of Industrial and Systems Engineers, 2022
 * **Presidential Impact Fellow**, Texas A&M University, 2021
 * **Virginia Tech Engineering Outstanding Recent Alumni Award**, Virginia Tech, 2020
