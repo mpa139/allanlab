@@ -2,21 +2,14 @@
   photo: Milan1.jpg
   info: Associate professor
   email: daniel.soudry@technion.ac.il
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: Jiasen Niu
+- name: Chen Zeno
   photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
+  info: PhD. student
+  email: chenzeno@campus.technion.ac.il
+  number_educ: 1
+  education1: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Jian Wei</a>, Peking University
+  
 - name: Yudai Sato
   photo: Sato.jpeg
   info: Postdoc, started September 2023
