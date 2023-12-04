@@ -26,10 +26,9 @@
   photo: tjeruk.jpg
   info: PhD. student
   email: yanivbl@campus.technion.ac.il
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
+  number_educ: 2
+  education1: <a href="mailto:yanivbl@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Homepage</a>
 
 - name: Meng Li
   photo: MengLi.jpg
