@@ -5,16 +5,12 @@
   number_educ: 1
   education1: <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Homepage</a>
 
-- name: Irene Battisti
+- name: Elad Hoffer 
   photo: irene.jpg
-  info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University, prize for reseacher of the year at the Science faculty
+  info: PhD number_educ: 1
+  education1: <a href="https://eladhoffer.github.io/">Homepage</a>
 
+  
 - name: Doohee Cho
   photo: Doohee2.jpg
   info: Postdoc
