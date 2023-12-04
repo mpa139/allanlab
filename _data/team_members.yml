@@ -13,6 +13,16 @@
   number_educ: 2
   education1: <a href="mailto:chenzeno@campus.technion.ac.il">Email</a>
   education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
+
+  - name: Niv Giladi
+  photo: Thomas.jpg
+  info: PhD student
+  email: giladiniv@cs.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:giladiniv@cs.technion.ac.il">Email</a>
+  education2: <a href="https://www.linkedin.com/in/niv-giladi-814447127/">Homepage</a>
+
+- name: Tzofnat Greenberg-Toledo
   
 - name: Mor Shpigel-Nacson
   photo: Sato.jpeg
