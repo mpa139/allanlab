@@ -13,6 +13,23 @@
 
 - name: Itay Golan 
   photo: irene.jpg
+  info: PhD 
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/golanitay/">Homepage</a>
+
+- name: Liat Ben-Ori  
+  photo: irene.jpg
+  info: MSc 
+  
+
+- name: Brian Chmiel
+  photo: irene.jpg
+  info: PhD (Shared PhD student with <a href="https://bron.cs.technion.ac.il/"> Alex Bronstein</a>)
+  number_educ: 1
+  education1: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
+
+- name: Itay Golan 
+  photo: irene.jpg
   info: PhD number_educ: 1
   education1: <a href="https://www.linkedin.com/in/golanitay/">Homepage</a>
 
