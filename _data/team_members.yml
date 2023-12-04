@@ -55,15 +55,14 @@
   education1: <a href="mailto:stzgrin@campus.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Homepage</a>
 
-- name: Maialen Ortego Larrazabal
+- name: Hagay Michaeli
   photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
+  info: MSc Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+  email: hagaymi@campus.technion.ac.il
   number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
+  education1: <a href="mailto:hagaymi@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.linkedin.com/in/hagay-michaeli-a3b319152/?originalSubdomain=il">Homepage</a>
+
 
 - name: Kees van Oosten
   photo: DSC_1032.JPG
