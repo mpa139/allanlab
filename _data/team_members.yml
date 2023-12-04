@@ -33,19 +33,19 @@
 - name: Itay Evron
   photo: MengLi.jpg
   info: PhD. student
-  email: benschop@physics.leidenuniv.nl
+  email: evron@campus.technion.ac.il
   number_educ: 2
   education1: <a href="mailto:evron@campus.technion.ac.il">Email</a>
   education2: <a href="https://www.evron.me/">Homepage</a>
 
 
-- name: Thomas Gozlinski
+- name: Matan Haroush
   photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
+  info: PhD. student
+  email: matan.h@campus.technion.ac.il
   number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
+  education1: <a href="mailto:matan.h@campus.technion.ac.il">Email</a>
+  education2: <a href="https://scholar.google.co.il/citations?user=2bPlSXQAAAAJ&hl=en">Homepage</a>
 
 - name: Amber Mozes
   photo: Amber.png
