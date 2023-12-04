@@ -30,13 +30,14 @@
   education1: <a href="mailto:yanivbl@campus.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Homepage</a>
 
-- name: Meng Li
+- name: Itay Evron
   photo: MengLi.jpg
-  info: Postdoc, since 2023
+  info: PhD. student
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
+  education1: <a href="mailto:evron@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.evron.me/">Homepage</a>
+
 
 - name: Thomas Gozlinski
   photo: Thomas.jpg
