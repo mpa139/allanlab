@@ -47,15 +47,13 @@
   education1: <a href="mailto:matan.h@campus.technion.ac.il">Email</a>
   education2: <a href="https://scholar.google.co.il/citations?user=2bPlSXQAAAAJ&hl=en">Homepage</a>
 
-- name: Amber Mozes
+- name: Tzofnat Greenberg-Toledo
   photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
+  info:  Shared PhD student with [Shahar kvatinsky ](https://kvatinsky.com/)
+  email: stzgrin@campus.technion.ac.il
   number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
+  education1: <a href="mailto:stzgrin@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Homepage</a>
 
 - name: Maialen Ortego Larrazabal
   photo: Maialen.png
