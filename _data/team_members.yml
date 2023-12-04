@@ -2,6 +2,9 @@
   photo: Milan1.jpg
   info: Associate professor
   email: daniel.soudry@technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:daniel.soudry@technion.ac.il">Email</a>
+  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
 
 - name: Chen Zeno
   photo: Jiasen.png
@@ -16,8 +19,8 @@
   info: PhD. student
   email: mor.shpigel@campus.technion.ac.il
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+  education1: <a href="mailto:mor.shpigel@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.linkedin.com/in/mor-shpigel-nacson-096727183/">Homepage</a>
 
 - name: Yaniv Blumenfeld 
   photo: tjeruk.jpg
