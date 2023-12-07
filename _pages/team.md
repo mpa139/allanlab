@@ -15,7 +15,7 @@ If interested, please send your CV and grade transcript so I can know your backg
 Note: I do not typically have internship positions for undergrads from other institutions, so please do not send such inquiries.
 
 
-Jump to [Current group members](#Current group members), [alumni](#alumni), [administrative support](#administrative-support).
+Jump to [Current group memebers](#Current-group-members), [alumni](#alumni), [administrative support](#administrative-support).
 
 ## Current group members
 {% assign number_printed = 0 %}
