@@ -89,22 +89,25 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/jeevan.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    Jeevan Jayasuriya holds a BS in Mechatronics Engineering from the Open University of Sri Lanka, a BS in Physics from the University of Sri Jayewardenepura, and an MS in Mechanical Engineering from Clarkson University. His research interests include assistive device design, neuroergonomics, control systems, robotics, and machine learning.
+  </p>
+</div>
+</div>
+
+
+
 <!-- ## Masters Students -->
 
 
 
 <!-- ## Staff -->
 
-<!-- <div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/lindsey.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/lindsey-brenner-a7a513183/">Lindsey Brenner</a> is a Project Coordinator for the NeuroErgonomics Laboratory and is the project manager for the NSF-funded Convergence-Accelerator initiative — Track B: AI and the Future of Work (LEARNER). Lindsey graduated from Texas A&M University with a bachelor’s degree in Political Science.
-  </p>
-</div>
-</div> -->
 
 
 ## Alumni
