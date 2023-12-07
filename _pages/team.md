@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Current Group Members
 
  **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.
 
