@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Current Group Members
+# Group Members
 
  **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.
 
@@ -19,7 +19,7 @@ Note: I do not typically have internship positions for undergrads from other ins
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Staff
+## Current hroup members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
