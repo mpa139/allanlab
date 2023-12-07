@@ -1,43 +1,37 @@
 - name: Edward Moroshko
-  photo: verdoes.jpg
+  photo: edwardm.jpg
   duration:  <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Homepage</a>
   info: Post-Doc
-  number_educ: 1
-  education1: <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Homepage</a>
-
+  
 - name: Elad Hoffer 
-  photo: irene.jpg
+  photo: eladh.jpg
+  duration:  <a href="https://eladhoffer.github.io/">Homepage</a>
   info: PhD 
-  number_educ: 1
-  education1: <a href="https://eladhoffer.github.io/">Homepage</a>
+ 
 
 
 - name: Itay Golan 
-  photo: irene.jpg
+  photo: itayg.jpg
+  duration: <a href="https://www.linkedin.com/in/golanitay/">Homepage</a>
   info: PhD 
-  number_educ: 1
-  education1: <a href="https://www.linkedin.com/in/golanitay/">Homepage</a>
-
-- name: Liat Ben-Ori  
-  photo: irene.jpg
-  info: MSc 
-  
+ 
 
 - name: Brian Chmiel
-  photo: irene.jpg
+  photo: brainc.jpg
+  duration: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
   info: PhD (Shared PhD student with <a href="https://bron.cs.technion.ac.il/"> Alex Bronstein</a>)
-  number_educ: 1
-  education1: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
+  
 
 - name: Itay Hubara 
-  photo: irene.jpg
+  photo: itayh.jpg
+  duration:  <a href="https://scholar.google.co.il/citations?user=dyYryZYAAAAJ&hl=iw">Homepage</a>
   info: PhD 
-  number_educ: 1
-  education1: <a href="https://scholar.google.co.il/citations?user=dyYryZYAAAAJ&hl=iw">Homepage</a>
-
+ 
 - name: Alon Brutzkus 
-  photo: irene.jpg
+  photo: alonb.jpg
+  duration: <a href="https://scholar.google.com/citations?user=m1wmXdgAAAAJ&hl=iw">Homepage</a>
   info: Post-Doc 
-  number_educ: 1
-  education1: <a href="https://scholar.google.com/citations?user=m1wmXdgAAAAJ&hl=iw">Homepage</a>
-
+  
+- name: Liat Ben-Ori  
+  info: MSc 
+  
