@@ -1,4 +1,5 @@
 - name: Edward Moroshko
+  photo: edward.jpg
   duration:  <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Homepage</a>
   info: Post-Doc
   
@@ -16,7 +17,7 @@
  
 
 - name: Brian Chmiel
-  photo: brainc.jpg
+  photo: brianc.jpg
   duration: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
   info: PhD (Shared PhD student with <a href="https://bron.cs.technion.ac.il/"> Alex Bronstein</a>)
   
