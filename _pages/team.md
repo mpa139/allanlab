@@ -1,14 +1,20 @@
 ---
-title: "Allan Lab - Team"
+title: "Daniel Soudry - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Soudry Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.
+
+If interested, please send your CV and grade transcript so I can know your background before we meet.
+
+Note: I do not typically have internship positions for undergrads from other institutions, so please do not send such inquiries.
+
+** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
