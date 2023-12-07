@@ -53,9 +53,9 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<em>I. Hubara, D. Soudry, and R. El-Yaniv,</em><br />Binarized Neural Networks<br /> US Patent 10,831,444 (2020)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>D. Soudry, D. Di Castro, A. Gal, A. Kolodny, and S. Kvatinsky</em><br /> Analog Multiplier Using Memristor a Memristive Device and Methods for Implementing Hebbian Learning Rules Using Memristor Arrays <br /> US Patent US9754203 B2 (2016)
 
 ## Full List of publications
 
