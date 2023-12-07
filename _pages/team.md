@@ -8,16 +8,14 @@ permalink: /team/
 
 # Group Members
 
- **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.
+ I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.
 
 If interested, please send your CV and grade transcript so I can know your background before we meet.
 
 Note: I do not typically have internship positions for undergrads from other institutions, so please do not send such inquiries.
 
-** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Current group members](#Current group members), [alumni](#alumni), [administrative support](#administrative-support).
 
 ## Current group members
 {% assign number_printed = 0 %}
