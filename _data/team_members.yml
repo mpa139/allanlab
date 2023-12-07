@@ -1,5 +1,5 @@
 - name: Daniel Soudry
-  photo: Milan1.jpg
+  photo: daniels.jpg
   info: Associate professor
   email: daniel.soudry@technion.ac.il
   number_educ: 2
@@ -7,7 +7,7 @@
   education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
 
 - name: Chen Zeno
-  photo: Jiasen.png
+  photo: chenz.jpg
   info: PhD student
   email: chenzeno@campus.technion.ac.il
   number_educ: 2
@@ -15,7 +15,7 @@
   education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
 
 - name: Niv Giladi
-  photo: Thomas.jpg
+  photo: niv1.jpg
   info: PhD student
   email: giladiniv@cs.technion.ac.il
   number_educ: 2
@@ -23,7 +23,7 @@
   education2: <a href="https://www.linkedin.com/in/niv-giladi-814447127/">Homepage</a>
   
 - name: Mor Shpigel-Nacson
-  photo: Sato.jpeg
+  photo: mor1-e1648049357108.png
   info: PhD student
   email: mor.shpigel@campus.technion.ac.il
   number_educ: 2
@@ -48,7 +48,7 @@
 
 
 - name: Matan Haroush
-  photo: Thomas.jpg
+  photo: matanh1.jpg
   info: PhD student
   email: matan.h@campus.technion.ac.il
   number_educ: 2
@@ -64,7 +64,7 @@
   education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Homepage</a>
 
 - name: Hagay Michaeli
-  photo: Maialen.png
+  photo: hagaim.jpg
   info: MSc Student 
   email: hagaymi@campus.technion.ac.il
   number_educ: 2
@@ -73,20 +73,14 @@
 
 
 - name: Edan Kinderman
-  photo: DSC_1032.JPG
+  photo: idank.jpeg
   info: MSc Student 
   email: kinderman@campus.technion.ac.il
   number_educ: 2
   education1: <a href="mailto:kinderman@campus.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/edan-kinderman-1320611b8/?originalSubdomain=il">Homepage</a>
 
-- name: Edan Kinderman
-  photo: DSC_1032.JPG
-  info: MSc Student 
-  email: kinderman@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:kinderman@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/edan-kinderman-1320611b8/?originalSubdomain=il">Homepage</a>
+
 
 
   
