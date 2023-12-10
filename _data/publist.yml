@@ -80,7 +80,7 @@
 
 
 - title: "Implicit Bias in Deep Linear Classification: Initialization Scale vs Training Accuracy"
-  image: TBG_ARPES.png
+  image: ImplicitBiasinDeepPaper.JPG
   description: We provide a detailed asymptotic study of gradient flow trajectories and their implicit optimization bias when minimizing the exponential loss over "diagonal linear networks". This is the simplest model displaying a transition between "kernel" and non-kernel ("rich" or "active") regimes.
   authors:  E. Moroshko, S. Gunasekar, B. Woodworth, J. D. Lee, N. Srebro, D. Soudry
   link:
