@@ -120,7 +120,7 @@
 
 - title: "Post-training 4-bit quantization of convolution networks for rapid-deployment"
   image: PostTrainingPaper.JPG
-  description: This paper introduces the first practical 4-bit post training quantization approach: it does not involve training the quantized model (fine-tuning), nor it requires the availability of the full dataset. We target the quantization of both activations and weights and suggest three complementary methods for minimizing quantization error at the tensor level.
+  description: This paper introduces the first practical 4-bit post training quantization approach.
   authors: R. Banner, Y. Nahshan, D. Soudry
   link:
     url: https://arxiv.org/abs/1810.05723
