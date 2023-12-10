@@ -6,7 +6,7 @@
     url: https://arxiv.org/abs/2306.10598 
     display:  NeurIPS 2023 (2023)
   highlight: 1
-  news2: 
+  news1: 
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasFree.JPG
