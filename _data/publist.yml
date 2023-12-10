@@ -90,9 +90,9 @@
   news2: 
 
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
-  image: TheKnowledgeWithin.JPG
+  image: ImplicitBiasinDeepPaper.JPG
   authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate  
+  description: Recently, an extensive amount of research has been focused on compressing and accelerating Deep Neural Networks (DNN). So far, high compression rate algorithms require part of the training dataset for a low precision calibration, or a fine-tuning process. However, this requirement is unacceptable when the data is unavailable or contains sensitive information, as in medical and biometric use-cases. We present three methods for generating synthetic samples from trained models.
   link:
     url: https://arxiv.org/abs/1912.01274
     display:   CVPR 2020 (2020)
