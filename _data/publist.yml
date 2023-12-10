@@ -16,7 +16,7 @@
     url: https://arxiv.org/abs/2303.08085
     display: CVPR 2023 (2023)
   highlight: 1
-  news1:  See more details about the paper <a href="https://hmichaeli.github.io/alias_free_convnets/"> Here </a>
+  news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
 
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
   image: TheImplicitPaper.JPG
