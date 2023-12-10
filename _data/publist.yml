@@ -1,6 +1,6 @@
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: N. Giladi*, S. Gottlieb*, M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, D. Soudry  (*Indicates equal contribution)
   link:
     url: https://arxiv.org/abs/2306.10598 
@@ -10,7 +10,7 @@
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasFree.JPG
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: H. Michaeli, T. Michaeli, D. Soudry
   link:
     url: https://arxiv.org/abs/2303.08085
@@ -20,7 +20,7 @@
 
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
   image: TheImplicitPaper.JPG
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: M. Shpigel Nacson*, R. Mulayoff*, G. Ongie, T. Michaeli, D. Soudry (*Indicates equal contribution)
   link:
     url: https://arxiv.org/abs/2306.17499
@@ -40,7 +40,7 @@
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
   image: HowCatastrophicPaper.JPG
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, D. Soudry
   link:
     url: https://arxiv.org/abs/2205.09588
@@ -50,7 +50,7 @@
 
 - title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
   image: StatisicalFrameworkPaper.JPG
-  description:
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: M. Haroush, T. Frostig, R. Heller, D. Soudry
   link:
     url: https://openreview.net/forum?id=Oy9WeuZD51
@@ -60,7 +60,7 @@
 
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
   image: AcceleratedSparse.JPG
-  description:
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, D. Soudry
   link:
     url: https://arxiv.org/abs/2102.08124
@@ -69,7 +69,7 @@
 
 - title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
   image: NeuralGradientPaper.JPG
-  description:
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: B. Chmiel*, L. Ben-Uri*, M. Shkolnik, E. Hoffer, R. Banner, D. Soudry  (*Indicates equal contribution) 
   link:
     url: https://openreview.net/forum?id=EoFNy62JGd
@@ -80,7 +80,7 @@
 
 - title: "Implicit Bias in Deep Linear Classification: Initialization Scale vs Training Accuracy"
   image: TBG_ARPES.png
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate 
   authors:  E. Moroshko, S. Gunasekar, B. Woodworth, J. D. Lee, N. Srebro, D. Soudry
   link:
     url: https://arxiv.org/abs/2007.06738
@@ -91,7 +91,7 @@
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
   image: TheKnowledgeWithin.JPG
   authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate  
   link:
     url: https://arxiv.org/abs/1912.01274
     display:   CVPR 2020 (2020)
@@ -101,7 +101,7 @@
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
   image: AtStabilityEdgePaper.JPG
   authors: N. Giladi*, M. Shpigel Nacson*, E. Hoffer, D. Soudry  (*Indicates equal contribution)
-  description: 
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate 
   link:
     url: https://arxiv.org/abs/1909.12340
     display:  ICLR 2020 (2020)
