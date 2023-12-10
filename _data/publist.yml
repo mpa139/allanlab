@@ -91,7 +91,7 @@
 
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
   image: TheKnowledgeWithinPaper.JPG
-  authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry
+  authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry**
   description: Recently, an extensive amount of research has been focused on compressing and accelerating Deep Neural Networks (DNN). So far, high compression rate algorithms require part of the training dataset for a low precision calibration, or a fine-tuning process. However, this requirement is unacceptable when the data is unavailable or contains sensitive information, as in medical and biometric use-cases. We present three methods for generating synthetic samples from trained models.
   link:
     url: https://arxiv.org/abs/1912.01274
@@ -101,7 +101,7 @@
 
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
   image: AtStabilityEdgePaper.JPG
-  authors: N. Giladi**, M. Shpigel Nacson**, E. Hoffer, D. Soudry 
+  authors: N. Giladi **, M. Shpigel Nacson **, E. Hoffer, D. Soudry** 
   description: We examine asynchronous training from the perspective of dynamical stability. We find that the degree of delay interacts with the learning rate, to change the set of minima accessible by an asynchronous stochastic gradient descent algorithm. We derive closed-form rules on how the learning rate could be changed, while keeping the accessible set the same.
   link:
     url: https://arxiv.org/abs/1909.12340
@@ -130,7 +130,7 @@
   news2: The source code to replicate all experiments is available on <a href = "https://github.com/submission2019/cnn-quantization"> GitHub </a> 
 
 - title: "How do infinite width bounded norm networks look in function space?"
-  image: HowDoInfinite.JPG
+  image: HowToInfinitePaper.JPG
   description: We consider the question of what functions can be captured by ReLU networks with an unbounded number of units (infinite width), but where the overall network Euclidean norm (sum of squares of all weights in the system, except for an unregularized bias term for each unit) is bounded.  
   authors: P. Savarese, I. Evron, D. Soudry, N. Srebro
   link:
@@ -141,7 +141,7 @@
 
   
 - title: "Scalable Methods for 8-bit Training of Neural Networks"
-  image: ScalableMethodsPaper.JPG
+  image: ScalableMethodPaper.JPG
   description: Our theoretical analysis suggests that most of the training process is robust to substantial precision reduction, and points to only a few specific operations that require higher precision. Armed with this knowledge, we quantize the model parameters, activations and layer gradients to 8-bit, leaving at a higher precision only the final step in the computation of the weight gradients. Additionally, as QNNs require batch-normalization to be trained at high precision, we introduce Range Batch-Normalization (BN) which has significantly higher tolerance to quantization noise and improved computational complexity.
   link:
     url: https://arxiv.org/abs/1805.11046
