@@ -40,7 +40,7 @@
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
   image: HowCatastrophicPaper.JPG
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
+  description: To better understand catastrophic forgetting, we study fitting an overparameterized linear model to a sequence of tasks with different input distributions. We analyze how much the model forgets the true labels of earlier tasks after training on subsequent tasks, obtaining exact expressions and bounds.
   authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, D. Soudry
   link:
     url: https://arxiv.org/abs/2205.09588
