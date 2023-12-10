@@ -82,7 +82,7 @@
 - title: "Implicit Bias in Deep Linear Classification: Initialization Scale vs Training Accuracy"
   image: ImplicitBiasinDeepPaper.JPG
   description: We provide a detailed asymptotic study of gradient flow trajectories and their implicit optimization bias when minimizing the exponential loss over "diagonal linear networks". This is the simplest model displaying a transition between "kernel" and non-kernel ("rich" or "active") regimes.
-  authors:  E. Moroshko, S. Gunasekar, B. Woodworth, J. D. Lee, N. Srebro, D. Soudry
+  authors:  E. Moroshko, S. Gunasekar, B. Woodworth, J. D. Lee, N. Srebro, **D. Soudry
   link:
     url: https://arxiv.org/abs/2007.06738
     display:  NeurIPS 2020, Spotlight (3% acceptance rate) (2020)
