@@ -21,7 +21,7 @@
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
   image: TheImplicitPaper.JPG
   description: We study the type of solutions to which stochastic gradient descent converges when used to train a single hidden-layer multivariate ReLU network with the quadratic loss. Our results are based on a dynamical stability analysis.
-  authors: M. Shpigel Nacson (*), R. Mulayoff (*), G. Ongie, T. Michaeli, D. Soudry**
+  authors: M. Shpigel Nacson #, R. Mulayoff #, G. Ongie, T. Michaeli, **D. Soudry
   link:
     url: https://arxiv.org/abs/2306.17499
     display: ICLR 2023 (2023)
