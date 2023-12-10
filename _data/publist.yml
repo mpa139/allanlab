@@ -1,6 +1,6 @@
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
-  description: Distributed training is essential for large scale training of deep neural networks (DNNs). 
+  description: 
   authors: N. Giladi*, S. Gottlieb*, M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, D. Soudry  (*Indicates equal contribution)
   link:
     url: https://arxiv.org/abs/2306.10598
