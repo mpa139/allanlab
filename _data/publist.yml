@@ -1,6 +1,6 @@
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
+  description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
   authors: N. Giladi*, S. Gottlieb*, M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, D. Soudry  (*Indicates equal contribution)
   link:
     url: https://arxiv.org/abs/2306.10598 
@@ -9,7 +9,7 @@
   news1: 
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
-  image: AliasFree.JPG
+  image: AliasFreePaper.JPG
   description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: H. Michaeli, T. Michaeli, D. Soudry
   link:
