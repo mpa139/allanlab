@@ -1,7 +1,7 @@
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
   description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
-  authors: N. Giladi**, S. Gottlieb**, M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, D. Soudry  
+  authors: N. Giladi (*), S. Gottlieb (*), M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, **D. Soudry**  
   link:
     url: https://arxiv.org/abs/2306.10598 
     display:  NeurIPS 2023 (2023)
@@ -11,7 +11,7 @@
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasPaper.JPG
   description: We propose an extended anti-aliasing method that tackles both downsampling and non-linear layers, thus creating truly alias-free, shift-invariant CNNs.
-  authors: H. Michaeli, T. Michaeli, D. Soudry
+  authors: H. Michaeli, T. Michaeli, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2303.08085
     display: CVPR 2023 (2023)
@@ -21,8 +21,7 @@
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
   image: TheImplicitPaper.JPG
   description: We study the type of solutions to which stochastic gradient descent converges when used to train a single hidden-layer multivariate ReLU network with the quadratic loss. Our results are based on a dynamical stability analysis.
-  authors: M. Shpigel Nacson **, R. Mulayoff **, G. Ongie, T. Michaeli, D. Soudry
-  link:
+  authors: M. Shpigel Nacson (*), R. Mulayoff (*), G. Ongie, T. Michaeli, **D. Soudry**
     url: https://arxiv.org/abs/2306.17499
     display: ICLR 2023 (2023)
   highlight: 1
@@ -30,7 +29,7 @@
 - title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
   image: AccurateNeuralPaper.JPG
   description: Previous works separately showed that accurate 4-bit quantization of the neural gradients needs to (1) be unbiased and (2) have a log scale. However, no previous work aimed to combine both ideas, as we do in this work. Specifically, we examine the importance of having unbiased quantization in quantized neural network training, where to maintain it, and how to combine it with logarithmic. 
-  authors: B. Chmiel, R. Banner, E. Hoffer, H. Ben Yaacov, D. Soudry
+  authors: B. Chmiel, R. Banner, E. Hoffer, H. Ben Yaacov, **D. Soudry**
   link:
     url: https://openreview.net/forum?id=yTbNYYcopd
     display: ICLR 2023 (2023)
@@ -41,7 +40,7 @@
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
   image: HowCatastrophicPaper.JPG
   description: To better understand catastrophic forgetting, we study fitting an overparameterized linear model to a sequence of tasks with different input distributions. We analyze how much the model forgets the true labels of earlier tasks after training on subsequent tasks, obtaining exact expressions and bounds.
-  authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, D. Soudry
+  authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2205.09588
     display:  COLT 2022 (2022)
@@ -51,7 +50,7 @@
 - title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
   image: StatisicalFrameworkPaper.JPG
   description: We frame Out Of Distribution (OOD) detection in DNNs as a statistical hypothesis testing problem. Tests generated within our proposed framework combine evidence from the entire network.
-  authors: M. Haroush, T. Frostig, R. Heller, D. Soudry
+  authors: M. Haroush, T. Frostig, R. Heller, **D. Soudry**
   link:
     url: https://openreview.net/forum?id=Oy9WeuZD51
     display:   ICLR 2022 (2022)
@@ -61,7 +60,7 @@
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
   image: AcceleratedSparsePaper.JPG
   description:  In this work, we first suggest a new measure called mask-diversity which correlates with the expected accuracy of the different types of structural pruning.
-  authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, D. Soudry
+  authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2102.08124
     display:  NeurIPS 2021 (2021)
@@ -71,7 +70,7 @@
 - title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
   image: NeuralGradientPaper.JPG
   description: We find that the distribution of neural gradients is approximately lognormal. Considering this, we suggest two closed-form analytical methods to reduce the computational and memory burdens of neural gradients.
-  authors: B. Chmiel**, L. Ben-Uri**, M. Shkolnik, E. Hoffer, R. Banner, D. Soudry  
+  authors: B. Chmiel (*), L. Ben-Uri (*), M. Shkolnik, E. Hoffer, R. Banner, **D. Soudry**  
   link:
     url: https://openreview.net/forum?id=EoFNy62JGd
     display:  ICLR 2021 (2021)
@@ -91,7 +90,7 @@
 
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
   image: TheKnowledgeWithinPaper.JPG
-  authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry**
+  authors:  M. Haroush, I. Hubara, E. Hoffer, **D. Soudry**
   description: Recently, an extensive amount of research has been focused on compressing and accelerating Deep Neural Networks (DNN). So far, high compression rate algorithms require part of the training dataset for a low precision calibration, or a fine-tuning process. However, this requirement is unacceptable when the data is unavailable or contains sensitive information, as in medical and biometric use-cases. We present three methods for generating synthetic samples from trained models.
   link:
     url: https://arxiv.org/abs/1912.01274
@@ -101,7 +100,7 @@
 
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
   image: AtStabilityEdgePaper.JPG
-  authors: N. Giladi **, M. Shpigel Nacson **, E. Hoffer, D. Soudry** 
+  authors: N. Giladi (*), M. Shpigel Nacson (*), E. Hoffer, **D. Soudry** 
   description: We examine asynchronous training from the perspective of dynamical stability. We find that the degree of delay interacts with the learning rate, to change the set of minima accessible by an asynchronous stochastic gradient descent algorithm. We derive closed-form rules on how the learning rate could be changed, while keeping the accessible set the same.
   link:
     url: https://arxiv.org/abs/1909.12340
@@ -112,7 +111,7 @@
 - title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
   image: MeanFieldPaper.JPG
   description: We apply mean-field techniques to networks with quantized activations in order to evaluate the degree to which quantization degrades signal propagation at initialization. We derive initialization schemes which maximize signal propagation in such networks and suggest why this is helpful for generalization.
-  authors: Y. Blumenfeld, D. Gilboa, D. Soudry
+  authors: Y. Blumenfeld, D. Gilboa, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1906.00771
     display:  NeurIPS 2019 (2019)
@@ -122,7 +121,7 @@
 - title: "Post-training 4-bit quantization of convolution networks for rapid-deployment"
   image: PostTrainingPaper.JPG
   description: This paper introduces the first practical 4-bit post training quantization approach.
-  authors: R. Banner, Y. Nahshan, D. Soudry
+  authors: R. Banner, Y. Nahshan, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1810.05723
     display:   NeurIPS 2019 (2019)
@@ -132,7 +131,7 @@
 - title: "How do infinite width bounded norm networks look in function space?"
   image: HowToInfinitePaper.JPG
   description: We consider the question of what functions can be captured by ReLU networks with an unbounded number of units (infinite width), but where the overall network Euclidean norm (sum of squares of all weights in the system, except for an unregularized bias term for each unit) is bounded.  
-  authors: P. Savarese, I. Evron, D. Soudry, N. Srebro
+  authors: P. Savarese, I. Evron, **D. Soudry**, N. Srebro
   link:
     url: https://arxiv.org/abs/1902.05040
     display: COLT 2019 (2019)
@@ -143,6 +142,7 @@
 - title: "Scalable Methods for 8-bit Training of Neural Networks"
   image: ScalableMethodPaper.JPG
   description: Our theoretical analysis suggests that most of the training process is robust to substantial precision reduction, and points to only a few specific operations that require higher precision. Armed with this knowledge, we quantize the model parameters, activations and layer gradients to 8-bit, leaving at a higher precision only the final step in the computation of the weight gradients. Additionally, as QNNs require batch-normalization to be trained at high precision, we introduce Range Batch-Normalization (BN) which has significantly higher tolerance to quantization noise and improved computational complexity.
+  authors: R. Banner, I. Hubara, E. Hoffer, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1805.11046
     display:  NeurIPS 2018 (2018)
@@ -152,7 +152,7 @@
 - title: "The Implicit Bias of Gradient Descent on Separable Data"
   image: TheImplicitBiasofGradientDescent.JPG
   description: We show that gradient descent on an unregularized logistic regression problem, for almost all separable datasets, converges to the same direction as the max-margin solution. The result generalizes also to other monotone decreasing loss functions with an infimum at infinity, and we also discuss a multi-class generalizations to the cross entropy loss. Furthermore, we show this convergence is very slow, and only logarithmic in the convergence of the loss itself.
-  authors: D. Soudry, E. Hoffer, M. Shpigel Nacson, N. Srebro
+  authors: **D. Soudry**, E. Hoffer, M. Shpigel Nacson, N. Srebro
   link:
     url: https://openreview.net/pdf?id=r1q7n9gAb
     display: ICLR 2018 (2018)
@@ -162,7 +162,7 @@
 - title: "Binarized Neural Networks"
   image: BinarizedNeuralNetworksPaper.JPG
   description: We introduce a method to train Binarized Neural Networks (BNNs) - neural networks with binary weights and activations at run-time. At training-time the binary weights and activations are used for computing the parameters gradients. During the forward pass, BNNs drastically reduce memory size and accesses, and replace most arithmetic operations with bit-wise operations, which is expected to substantially improve power-efficiency. 
-  authors: I. Hubara**, M. Courbariaux**, D. Soudry, R. El-Yaniv, Y. Bengio
+  authors: I. Hubara (*), M. Courbariaux (*), **D. Soudry**, R. El-Yaniv, Y. Bengio
   link:
     url: https://arxiv.org/abs/1602.02830
     display:  NIPS 2016 (2016)
