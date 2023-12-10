@@ -71,7 +71,7 @@
 - title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
   image: NeuralGradientPaper.JPG
   description: We find that the distribution of neural gradients is approximately lognormal. Considering this, we suggest two closed-form analytical methods to reduce the computational and memory burdens of neural gradients.
-  authors: B. Chmiel (), L. Ben-Uri (), M. Shkolnik, E. Hoffer, R. Banner, **D. Soudry**  
+  authors: B. Chmiel * , L. Ben-Uri * , M. Shkolnik, E. Hoffer, R. Banner, **D. Soudry**  
   link:
     url: https://openreview.net/forum?id=EoFNy62JGd
     display:  ICLR 2021 (2021)
@@ -101,7 +101,7 @@
 
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
   image: AtStabilityEdgePaper.JPG
-  authors: N. Giladi (), M. Shpigel Nacson (), E. Hoffer, **D. Soudry** 
+  authors: N. Giladi *, M. Shpigel Nacson *, E. Hoffer, **D. Soudry** 
   description: We examine asynchronous training from the perspective of dynamical stability. We find that the degree of delay interacts with the learning rate, to change the set of minima accessible by an asynchronous stochastic gradient descent algorithm. We derive closed-form rules on how the learning rate could be changed, while keeping the accessible set the same.
   link:
     url: https://arxiv.org/abs/1909.12340
@@ -163,7 +163,7 @@
 - title: "Binarized Neural Networks"
   image: BinarizedNeuralNetworksPaper.JPG
   description: We introduce a method to train Binarized Neural Networks (BNNs) - neural networks with binary weights and activations at run-time. At training-time the binary weights and activations are used for computing the parameters gradients. During the forward pass, BNNs drastically reduce memory size and accesses, and replace most arithmetic operations with bit-wise operations, which is expected to substantially improve power-efficiency. 
-  authors: I. Hubara (), M. Courbariaux (), **D. Soudry**, R. El-Yaniv, Y. Bengio
+  authors: I. Hubara *, M. Courbariaux *, **D. Soudry**, R. El-Yaniv, Y. Bengio
   link:
     url: https://arxiv.org/abs/1602.02830
     display:  NIPS 2016 (2016)
