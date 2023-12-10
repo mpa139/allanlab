@@ -9,7 +9,7 @@
   news1: 
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
-  image: AliasFreePaper1.JPG
+  image: AliasPaper.JPG
   description: We propose an extended anti-aliasing method that tackles both downsampling and non-linear layers, thus creating truly alias-free, shift-invariant CNNs.
   authors: H. Michaeli, T. Michaeli, D. Soudry
   link:
