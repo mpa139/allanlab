@@ -90,7 +90,7 @@
   news2: 
 
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
-  image: ImplicitBiasinDeepPaper.JPG
+  image: TheKnowledgeWithinPaper.JPG
   authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry
   description: Recently, an extensive amount of research has been focused on compressing and accelerating Deep Neural Networks (DNN). So far, high compression rate algorithms require part of the training dataset for a low precision calibration, or a fine-tuning process. However, this requirement is unacceptable when the data is unavailable or contains sensitive information, as in medical and biometric use-cases. We present three methods for generating synthetic samples from trained models.
   link:
@@ -102,7 +102,7 @@
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
   image: AtStabilityEdgePaper.JPG
   authors: N. Giladi*, M. Shpigel Nacson*, E. Hoffer, D. Soudry  (*Indicates equal contribution)
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate 
+  description: We examine asynchronous training from the perspective of dynamical stability. We find that the degree of delay interacts with the learning rate, to change the set of minima accessible by an asynchronous stochastic gradient descent algorithm. We derive closed-form rules on how the learning rate could be changed, while keeping the accessible set the same.
   link:
     url: https://arxiv.org/abs/1909.12340
     display:  ICLR 2020 (2020)
@@ -111,7 +111,7 @@
 
 - title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
   image: MeanFieldPaper.JPG
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate the degree to which quantization degrades signal propagation at initialization. We derive initialization schemes which maximize signal propagation in such networks and suggest why this is helpful for generalization
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate the degree to which quantization degrades signal propagation at initialization. We derive initialization schemes which maximize signal propagation in such networks and suggest why this is helpful for generalization.
   authors: Y. Blumenfeld, D. Gilboa, D. Soudry
   link:
     url: https://arxiv.org/abs/1906.00771
