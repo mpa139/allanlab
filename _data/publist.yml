@@ -131,7 +131,7 @@
 
 - title: "How do infinite width bounded norm networks look in function space?"
   image: HowDoInfinite.JPG
-  description:  
+  description: We consider the question of what functions can be captured by ReLU networks with an unbounded number of units (infinite width), but where the overall network Euclidean norm (sum of squares of all weights in the system, except for an unregularized bias term for each unit) is bounded.  
   authors: P. Savarese, I. Evron, D. Soudry, N. Srebro
   link:
     url: https://arxiv.org/abs/1902.05040
