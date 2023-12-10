@@ -142,7 +142,7 @@
   
 - title: "Scalable Methods for 8-bit Training of Neural Networks"
   image: ScalableMethodsPaper.JPG
-  description:
+  description: Our theoretical analysis suggests that most of the training process is robust to substantial precision reduction, and points to only a few specific operations that require higher precision. Armed with this knowledge, we quantize the model parameters, activations and layer gradients to 8-bit, leaving at a higher precision only the final step in the computation of the weight gradients. Additionally, as QNNs require batch-normalization to be trained at high precision, we introduce Range Batch-Normalization (BN) which has significantly higher tolerance to quantization noise and improved computational complexity.
   link:
     url: https://arxiv.org/abs/1805.11046
     display:  NeurIPS 2018 (2018)
