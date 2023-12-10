@@ -59,7 +59,7 @@
   news2: 
 
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
-  image: AcceleratedSparse.JPG
+  image: AcceleratedSparsePaper.JPG
   description: We apply mean-field techniques to networks with quantized activations in order to evaluate
   authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, D. Soudry
   link:
