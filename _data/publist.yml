@@ -29,7 +29,7 @@
 
 - title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
   image: AccurateNeuralPaper.JPG
-  description:
+  description: Previous works separately showed that accurate 4-bit quantization of the neural gradients needs to (1) be unbiased and (2) have a log scale. However, no previous work aimed to combine both ideas, as we do in this work. Specifically, we examine the importance of having unbiased quantization in quantized neural network training, where to maintain it, and how to combine it with logarithmic. 
   authors: B. Chmiel, R. Banner, E. Hoffer, H. Ben Yaacov, D. Soudry
   link:
     url: https://openreview.net/forum?id=yTbNYYcopd
