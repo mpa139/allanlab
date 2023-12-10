@@ -127,7 +127,7 @@
     url: https://arxiv.org/abs/1810.05723
     display:   NeurIPS 2019 (2019)
   highlight: 1
-  news1:  <a href = "https://github.com/submission2019/cnn-quantization"> The source code to replicate all experiments is available on GitHub </a> 
+  news1:  <a href = "https://github.com/submission2019/cnn-quantization"> See more details about this paper </a> 
 
 - title: "How do infinite width bounded norm networks look in function space?"
   image: HowToInfinitePaper.JPG
