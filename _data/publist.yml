@@ -163,7 +163,7 @@
 - title: "Binarized Neural Networks"
   image: BinarizedNeuralNetworksPaper.JPG
   description: We introduce a method to train Binarized Neural Networks (BNNs) - neural networks with binary weights and activations at run-time. At training-time the binary weights and activations are used for computing the parameters gradients. During the forward pass, BNNs drastically reduce memory size and accesses, and replace most arithmetic operations with bit-wise operations, which is expected to substantially improve power-efficiency. 
-  authors: I. Hubara (*), M. Courbariaux (*), **D. Soudry**, R. El-Yaniv, Y. Bengio
+  authors: I. Hubara #, M. Courbariaux #, **D. Soudry**, R. El-Yaniv, Y. Bengio
   link:
     url: https://arxiv.org/abs/1602.02830
     display:  NIPS 2016 (2016)
