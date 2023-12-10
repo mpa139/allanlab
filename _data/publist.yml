@@ -66,7 +66,7 @@
     url: https://arxiv.org/abs/2102.08124
     display:  NeurIPS 2021 (2021)
   highlight: 1
-   news1:   <a href="https://github.com/papers-submission/structured_transposable_masks"> See more details about this paper </a>
+  news1: <a href="https://github.com/papers-submission/structured_transposable_masks"> See more details about this paper </a>
 
 - title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
   image: NeuralGradientPaper.JPG
