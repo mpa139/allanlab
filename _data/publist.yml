@@ -10,7 +10,7 @@
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasFreePaper.JPG
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
+  description: We propose an extended anti-aliasing method that tackles both downsampling and non-linear layers, thus creating truly alias-free, shift-invariant CNNs.
   authors: H. Michaeli, T. Michaeli, D. Soudry
   link:
     url: https://arxiv.org/abs/2303.08085
