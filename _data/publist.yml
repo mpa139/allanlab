@@ -60,7 +60,7 @@
 
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
   image: AcceleratedSparsePaper.JPG
-  description: We apply mean-field techniques to networks with quantized activations in order to evaluate
+  description:  In this work, we first suggest a new measure called mask-diversity which correlates with the expected accuracy of the different types of structural pruning.
   authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, D. Soudry
   link:
     url: https://arxiv.org/abs/2102.08124
