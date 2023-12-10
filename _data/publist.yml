@@ -209,7 +209,7 @@
   link:
     url: https://scipost.org/SciPostPhys.3.2.010/pdf
     display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+  highlight: 0
 
 - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
   image: TIBB.png
@@ -231,7 +231,7 @@
   link:
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
     display: Nature Physics 13, 21 (2017)
-  highlight: 1
+  highlight: 0
   news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
 
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
@@ -243,7 +243,7 @@
   link:
     url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
     display: Nature Physics 11, 177 (2015)
-  highlight: 1
+  highlight: 0
   news1:
   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
@@ -268,7 +268,7 @@
   link:
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
     display: Nature Physics 9, 468 (2013)
-  highlight: 1
+  highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
@@ -281,7 +281,7 @@
   link:
     url: http://iopscience.iop.org/1367-2630/15/6/063029
     display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
+  highlight: 0
   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
@@ -290,7 +290,7 @@
     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
   authors:
     MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
+  highlight: 0
   link:
     url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
     display: Nature Physics 9, 220 (2013)
@@ -305,7 +305,7 @@
   link:
     url: http://www.sciencemag.org/content/336/6081/563
     display: Science 336, 563 (2012)
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
@@ -327,7 +327,7 @@
   link:
     url: http://www.sciencemag.org/content/327/5962/181
     display: Science 327, 181 (2010)
-  highlight: 1
+  highlight: 0
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
@@ -361,7 +361,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s11671-006-9036-2
     display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+  highlight: 0
 
 - title: Photoelectron Diffraction for a Look inside Nanostructures
   image: dummy.png
