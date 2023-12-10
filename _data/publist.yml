@@ -1,6 +1,6 @@
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
-  description: Distributed training is essential for large scale training of deep neural networks (DNNs). The dominant methods for large scale DNN training are synchronous (e.g. All-Reduce), but these require waiting for all workers in each step. Thus, these methods are limited by the delays caused by straggling workers. Results: We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers. With these findings, we propose a simple yet effective decentralized method to reduce the variation among workers and thus improve the robustness of synchronous training. This method can be integrated with the widely used All-Reduce. Our findings are validated on large-scale training tasks using 200 Gaudi Accelerators.
+  description: 
   authors: N. Giladi*, S. Gottlieb*, M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, D. Soudry  (*Indicates equal contribution)
   link:
     url: https://arxiv.org/abs/2306.10598 
