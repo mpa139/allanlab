@@ -1,173 +1,252 @@
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
+  image: DropComputePaper.JPG
+  description: Distributed training is essential for large scale training of deep neural networks (DNNs). The dominant methods for large scale DNN training are synchronous (e.g. All-Reduce), but these require waiting for all workers in each step. Thus, these methods are limited by the delays caused by straggling workers. Results: We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers. With these findings, we propose a simple yet effective decentralized method to reduce the variation among workers and thus improve the robustness of synchronous training. This method can be integrated with the widely used All-Reduce. Our findings are validated on large-scale training tasks using 200 Gaudi Accelerators.
+  authors: N. Giladi*, S. Gottlieb*, M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, D. Soudry  (*Indicates equal contribution)
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
+    url: https://arxiv.org/abs/2306.10598
+    display:  NeurIPS 2023 (2023)
   highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+  news2: 
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
+  image: Alias-Free.JPG
+  description: Although CNNs are believed to be invariant to translations, recent works have
+shown this is not the case, due to aliasing effects that stem from downsampling
+layers. The existing architectural solutions to prevent aliasing are partial since
+they do not solve these effects, that originate in non-linearities. We propose an extended anti-aliasing method that tackles both downsampling and non-linear layers,
+thus creating truly alias-free, shift-invariant CNNs1
+. We show that the presented
+model is invariant to integer as well as fractional (i.e., sub-pixel) translations, thus
+outperforming other shift-invariant methods in terms of robustness to adversarial
+translations.
+  authors: H. Michaeli, T. Michaeli, D. Soudry
   link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
-
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
+    url: https://arxiv.org/abs/2303.08085
+    display: CVPR 2023 (2023)
   highlight: 1
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
+  image: TheImplicitPaper.JPG
+  description: We study the type of solutions to which stochastic gradient descent converges when
+used to train a single hidden-layer multivariate ReLU network with the quadratic
+loss. Our results are based on a dynamical stability analysis. In the univariate
+case, it was shown that linearly stable minima correspond to network functions
+(predictors), whose second derivative has a bounded weighted L
+1 norm. Notably,
+the bound gets smaller as the step size increases, implying that training with a
+large step size leads to ‘smoother’ predictors. Here we generalize this result to
+the multivariate case, showing that a similar result applies to the Laplacian of the
+predictor. We demonstrate the tightness of our bound on the MNIST dataset, and
+show that it accurately captures the behavior of the solutions as a function of the
+step size. Additionally, we prove a depth separation result on the approximation
+power of ReLU networks corresponding to stable minima of the loss. Specifically,
+although shallow ReLU networks are universal approximators, we prove that
+stable shallow networks are not. Namely, there is a function that cannot be wellapproximated by stable single hidden-layer ReLU networks trained with a nonvanishing step size. This is while the same function can be realized as a stable
+two hidden-layer ReLU network. Finally, we prove that if a function is sufficiently
+smooth (in a Sobolev sense) then it can be approximated arbitrarily well using
+shallow ReLU networks that correspond to stable solutions of gradient descent.
+  authors: M. Shpigel Nacson*, R. Mulayoff*, G. Ongie, T. Michaeli, D. Soudry (*Indicates equal contribution)
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://arxiv.org/abs/2306.17499
+    display: ICLR 2023 (2023)
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
+  image: AccurateNeuralPaper.JPG
+  description: Quantization of the weights and activations is one of the main methods to reduce
+the computational footprint of Deep Neural Networks (DNNs) training. Current
+methods enable 4-bit quantization of the forward phase. However, this constitutes
+only a third of the training process. Reducing the computational footprint of the
+entire training process requires the quantization of the neural gradients, i.e., the
+loss gradients with respect to the outputs of intermediate neural layers.
+Previous works separately showed that accurate 4-bit quantization of the neural gradients needs to (1) be unbiased and (2) have a log scale. However, no previous work
+aimed to combine both ideas, as we do in this work. Specifically, we examine the
+importance of having unbiased quantization in quantized neural network training,
+where to maintain it, and how to combine it with logarithmic quantization. Based
+on this, we suggest a logarithmic unbiased quantization (LUQ) method to quantize
+both the forward and backward phases to 4-bit, achieving state-of-the-art results
+in 4-bit training without the overhead. For example, in ResNet50 on ImageNet,
+we achieved a degradation of 1.1%. We further improve this to a degradation
+of only 0.32% after three epochs of high precision fine-tuning, combined with a
+variance reduction method—where both these methods add overhead comparable
+to previously suggested methods.
+  authors: B. Chmiel, R. Banner, E. Hoffer, H. Ben Yaacov, D. Soudry
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
-  highlight: 0
+    url: https://openreview.net/forum?id=yTbNYYcopd
+    display: ICLR 2023 (2023)
+  highlight: 1
+  news1: 
+  news2: 
+
+- title: "How catastrophic can catastrophic forgetting be in linear regression?"
+  image: HowCatastrophicPaper.JPG
+  description: To better understand catastrophic forgetting, we study fitting an overparameterized linear model
+to a sequence of tasks with different input distributions. We analyze how much the model forgets
+the true labels of earlier tasks after training on subsequent tasks, obtaining exact expressions and
+bounds. We establish connections between continual learning in the linear setting and two other
+research areas – alternating projections and the Kaczmarz method.
+  authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, D. Soudry
+  link:
+    url: https://arxiv.org/abs/2205.09588
+    display:  COLT 2022 (2022)
+  highlight: 1
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
+  image: StatisicalFrameworkPaper.JPG
+  description: We frame Out Of Distribution (OOD) detection in DNNs as a
+statistical hypothesis testing problem. Tests generated within our proposed framework combine evidence from the entire network. Unlike previous OOD detection
+heuristics, this framework returns a p-value for each test sample. It is guaranteed
+to maintain the Type I Error (T1E - incorrectly predicting OOD for an actual
+in-distribution sample) for test data
+  authors: M. Haroush, T. Frostig, R. Heller, D. Soudry
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://openreview.net/forum?id=Oy9WeuZD51
+    display:   ICLR 2022 (2022)
   highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+  news2: 
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
+  image: AcceleratedSparse.JPG
+  description: In order to allow for similar accelerations in the training phase, we suggest
+a novel transposable fine-grained sparsity mask, where the same mask can be
+used for both forward and backward passes
+  authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, D. Soudry
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    url: https://arxiv.org/abs/2102.08124
+    display:  NeurIPS 2021 (2021)
   highlight: 1
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
+- title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
+  image: NeuralGradientPaper.JPG
+  description:s, we suggest two closed-form analytical
+methods to reduce the computational and memory burdens of neural gradients. The
+first method optimizes the floating-point format and scale of the gradients. The second method accurately sets sparsity thresholds for gradient pruning
+  authors: B. Chmiel*, L. Ben-Uri*, M. Shkolnik, E. Hoffer, R. Banner, D. Soudry  (*Indicates equal contribution) 
+  link:
+    url: https://openreview.net/forum?id=EoFNy62JGd
+    display:  ICLR 2021 (2021)
+  highlight: 1
+  news2:
+
+
+- title: "Implicit Bias in Deep Linear Classification: Initialization Scale vs Training Accuracy"
   image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  description: We provide a detailed asymptotic study of gradient flow trajectories and their
+implicit optimization bias when minimizing the exponential loss over “diagonal
+linear networks”
+  authors:  E. Moroshko, S. Gunasekar, B. Woodworth, J. D. Lee, N. Srebro, D. Soudry
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
-  news2:
-
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
-  link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: https://arxiv.org/abs/2007.06738
+    display:  NeurIPS 2020, Spotlight (3% acceptance rate) (2020)
   highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+  news2: 
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+- title: "The Knowledge Within: Methods for Data-Free Model Compression"
+  image: TheKnowledgeWithin.JPG
+  authors:  M. Haroush, I. Hubara, E. Hoffer, D. Soudry
+  description: We present three methods for generating synthetic samples from trained models. Then, we demonstrate how these samples can be used to calibrate and fine-tune quantized models without using any real data in the process. 
+  Our best performing method has a negligible accuracy degradation compared to the original training set. This method, which leverages intrinsic batch normalization layers' statistics of the trained model, can be used to evaluate data similarity. Our approach opens a path towards genuine data-free model compression, alleviating the need for training data during model deployment.
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
+    url: https://arxiv.org/abs/1912.01274
+    display:   CVPR 2020 (2020)
   highlight: 1
   news2:
 
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
+- title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
+  image: AtStabilityEdgePaper.JPG
+  authors: N. Giladi*, M. Shpigel Nacson*, E. Hoffer, D. Soudry  (*Indicates equal contribution)
+  description: Recent developments have made it possible to accelerate neural networks training significantly using large batch sizes and data parallelism. Training in an asynchronous fashion, where delay occurs, can make training even more scalable. However, asynchronous training has its pitfalls, mainly a degradation in generalization, even after convergence of the algorithm. This gap remains not well understood, as theoretical analysis so far mainly focused on the convergence rate of asynchronous methods. Contributions: We examine asynchronous training from the perspective of dynamical stability. We find that the degree of delay interacts with the learning rate, to change the set of minima accessible by an asynchronous stochastic gradient descent algorithm. We derive closed-form rules on how the learning rate could be changed, while keeping the accessible set the same. Specifically, for high delay values, we find that the learning rate should be kept inversely proportional to the delay. We then extend this analysis to include momentum. We find momentum should be either turned off, or modified to improve training stability. 
+  We provide empirical experiments to validate our theoretical findings.
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
-  highlight: 0
-  news2:
-
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
-  highlight: 0
-  news2:
-
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
+    url: https://arxiv.org/abs/1909.12340
+    display:  ICLR 2020 (2020)
   highlight: 1
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
+  image: MeanFieldPaper.JPG
+  description: We apply mean-field techniques to networks with quantized activations in order to evaluate the degree to which quantization degrades signal propagation at initialization. We derive initialization schemes which maximize signal propagation in such networks and suggest why this is helpful for generalization
+  authors: Y. Blumenfeld, D. Gilboa, D. Soudry
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
-
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
+    url: https://arxiv.org/abs/1906.00771
+    display:  NeurIPS 2019 (2019)
   highlight: 1
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- title: "Post-training 4-bit quantization of convolution networks for rapid-deployment"
+  image: PostTrainingPaper.JPG
+  description: We target the quantization of both activations and
+weights and suggest three complementary methods for minimizing quantization
+error at the tensor level, two of whom obtain a closed-form analytical solution.
+Combining these methods, our approach achieves accuracy that is just a few
+percents less the state-of-the-art baseline across a wide range of convolutional
+models
+  authors: R. Banner, Y. Nahshan, D. Soudry
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
+    url: https://arxiv.org/abs/1810.05723
+    display:   NeurIPS 2019 (2019)
+  highlight: 1
+  news2: The source code to replicate all experiments is available on <a href = "https://github.com/submission2019/cnn-quantization"> GitHub </a> 
+
+- title: "How do infinite width bounded norm networks look in function space?"
+  image: HowDoInfinite.JPG
+  description:  We consider the question of what functions can be captured by ReLU networks with an
+unbounded number of units (infinite width), but where the overall network Euclidean norm
+(sum of squares of all weights in the system, except for an unregularized bias term for each
+unit) is bounded; or equivalently what is the minimal norm required to approximate a given
+function.
+  authors: P. Savarese, I. Evron, D. Soudry, N. Srebro
+  link:
+    url: https://arxiv.org/abs/1902.05040
+    display: COLT 2019 (2019)
+  highlight: 1
+  news2: 
+
+  
+- title: "Scalable Methods for 8-bit Training of Neural Networks"
+  image: ScalableMethodsPaper.JPG
+  description: Quantized Neural Networks (QNNs) are often used to improve network efficiency during the inference phase, i.e. after the network has been trained. Extensive research in the field suggests many different quantization schemes. Still, the number of bits required, as well as the best quantization scheme, are yet unknown. Our theoretical analysis suggests that most of the training process is robust to substantial precision reduction, and points to only a few specific operations that require higher precision. Armed with this knowledge, we quantize the model parameters, activations and layer gradients to 8-bit, leaving at a higher precision only the final step in the computation of the weight gradients. Additionally, as QNNs require batch-normalization to be trained at high precision, we introduce Range Batch-Normalization (BN) which has significantly higher tolerance to quantization noise and improved computational complexity. Our simulations show that Range BN is equivalent to the traditional batch norm if a precise scale adjustment, which can be approximated analytically, is applied.
+  To the best of the authors' knowledge, this work is the first to quantize the weights, activations, as well as a substantial volume of the gradients stream, in all layers (including batch normalization) to 8-bit while showing state-of-the-art results over the ImageNet-1K dataset.
+  authors: R. Banner, I. Hubara, E. Hoffer, D. Soudry
+  link:
+    url: https://arxiv.org/abs/1805.11046
+    display:  NeurIPS 2018 (2018)
   highlight: 1
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "The Implicit Bias of Gradient Descent on Separable Data"
+  image: TheImplicitBiasofGradientDescent.JPG
+  description: We show that gradient descent on an unregularized logistic regression problem, for
+almost all separable datasets, converges to the same direction as the max-margin
+solution. The result generalizes also to other monotone decreasing loss functions
+with an infimum at infinity, and we also discuss a multi-class generalizations to the
+cross entropy loss. Furthermore, we show this convergence is very slow, and only
+logarithmic in the convergence of the loss itself. This can help explain the benefit
+of continuing to optimize the logistic or cross-entropy loss even after the training
+error is zero and the training loss is extremely small, and, as we show, even if the
+validation loss increases. Our methodology can also aid in understanding implicit
+regularization in more complex models and with other optimization methods.
+
+  authors: D. Soudry, E. Hoffer, M. Shpigel Nacson, N. Srebro
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
+    url: https://openreview.net/pdf?id=r1q7n9gAb
+    display: ICLR 2018 (2018)
+  highlight: 1
+  news2:
+
+- title: "Binarized Neural Networks"
+  image: BinarizedNeuralNetworksPaper.JPG
+  description: 
+  authors: I. Hubara*, M. Courbariaux*, D. Soudry, R. El-Yaniv, Y. Bengio (*Indicates equal contribution)
+  link:
+    url: https://arxiv.org/abs/1602.02830
+    display:  NIPS 2016 (2016)
   highlight: 1
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+  news2: 
 
+  
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
