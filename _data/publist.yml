@@ -238,7 +238,7 @@
   description: Recently, an extensive amount of research has been focused on compressing and accelerating Deep Neural Networks (DNN). So far, high compression rate algorithms require part of the training dataset for a low precision calibration, or a fine-tuning process. However, this requirement is unacceptable when the data is unavailable or contains sensitive information, as in medical and biometric use-cases. We present three methods for generating synthetic samples from trained models.
   link:
     url: https://arxiv.org/abs/1912.01274
-    display:   CVPR 2020 (2020)
+    display:   CVPR 2020 
   highlight: 1
   news2:
 
@@ -259,7 +259,7 @@
   description: We examine asynchronous training from the perspective of dynamical stability. We find that the degree of delay interacts with the learning rate, to change the set of minima accessible by an asynchronous stochastic gradient descent algorithm. We derive closed-form rules on how the learning rate could be changed, while keeping the accessible set the same.
   link:
     url: https://arxiv.org/abs/1909.12340
-    display:  ICLR 2020 (2020)
+    display:  ICLR 2020 
   highlight: 1
   news2:
 
@@ -281,7 +281,7 @@
   authors: Y. Blumenfeld, D. Gilboa, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1906.00771
-    display:  NeurIPS 2019 (2019)
+    display:  NeurIPS 2019
   highlight: 1
   news2:
 
@@ -291,7 +291,7 @@
   authors: R. Banner, Y. Nahshan, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1810.05723
-    display:   NeurIPS 2019 (2019)
+    display:   NeurIPS 2019 
   highlight: 1
   news1:  <a href = "https://github.com/submission2019/cnn-quantization"> See more details about this paper </a> 
 
@@ -301,7 +301,7 @@
   authors: P. Savarese, I. Evron, **D. Soudry**, N. Srebro
   link:
     url: https://arxiv.org/abs/1902.05040
-    display: COLT 2019 (2019)
+    display: COLT 2019 
   highlight: 1
   news2: 
 
@@ -312,7 +312,7 @@
   authors: R. Banner, I. Hubara, E. Hoffer, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1805.11046
-    display:  NeurIPS 2018 (2018)
+    display:  NeurIPS 2018
   highlight: 1
   news2:
 
