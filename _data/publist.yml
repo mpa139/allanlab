@@ -270,7 +270,7 @@
   authors: G. Ongie, R. Willett, **D. Soudry**, N. Srebro
   link:
     url: https://arxiv.org/pdf/1910.01635.pdf
-    display:  ICLR 2020 , <a href="https://www.youtube.com/watch?v=WObxWBLAdsA"> video about this paper </a>
+    display:  ICLR 2020 
   highlight: 0
   news1: <a href="https://www.youtube.com/watch?v=WObxWBLAdsA"> video about this paper </a>
   
@@ -294,6 +294,21 @@
     display:   NeurIPS 2019 
   highlight: 1
   news1:  <a href = "https://github.com/submission2019/cnn-quantization"> See more details about this paper </a> 
+
+- title: "Lexicographic and Depth-Sensitive Margins in Homogeneous and Non-Homogeneous Deep Models"
+  image: dummy.png
+  description:  " "
+  authors: M. Shpigel Nacson, S. Gunasekar, J. Lee, N. Srebro, **D. Soudry**
+  link:
+    url: https://arxiv.org/pdf/1905.07325.pdf
+    display:  ICML 2019 
+  highlight: 0
+  news1: 
+
+
+
+
+  
 
 - title: "How do infinite width bounded norm networks look in function space?"
   image: HowToInfinitePaper.JPG
