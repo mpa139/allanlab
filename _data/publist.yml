@@ -304,11 +304,7 @@
     display:  ICML 2019 
   highlight: 0
   news1: 
-
-
-
-
-  
+ 
 
 - title: "How do infinite width bounded norm networks look in function space?"
   image: HowToInfinitePaper.JPG
@@ -319,6 +315,37 @@
     display: COLT 2019 
   highlight: 1
   news2: 
+
+- title: "Convergence of Gradient Descent on Separable Data"
+  image: dummy.png
+  description:  " "
+  authors: M. Shpigel Nacson, J. Lee, S. Gunasekar, N. Srebro, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/1803.01905
+    display:  AISTATS 2019, Oral Presentation (2.5% acceptance rate). 
+  highlight: 0
+  news1: 
+
+- title: " “Stochastic Gradient Descent on Separable Data: Exact Convergence with a Fixed Learning Rate"
+  image: dummy.png
+  description:  " "
+  authors: M. Shpigel Nacson, N. Srebro, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/1806.01796v3
+    display:  AISTATS 2019 
+  highlight: 0
+  news1: 
+
+
+
+
+
+
+
+
+
+
+
 
   
 - title: "Scalable Methods for 8-bit Training of Neural Networks"
