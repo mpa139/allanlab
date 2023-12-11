@@ -4,7 +4,7 @@
   authors: C. Zeno, G. Ongie, Y. Blumenfeld, N. Weinbergery, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2311.06748
-    display:  NeurIPS 2023 (2023)
+    display:  NeurIPS 2023 
   highlight: 0
   news1: 
 
@@ -14,29 +14,39 @@
   authors: N. Giladi *, S. Gottlieb * , M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, **D. Soudry**  
   link:
     url: https://arxiv.org/abs/2306.10598 
-    display:  NeurIPS 2023 (2023)
+    display:  NeurIPS 2023 
   highlight: 1
   news1: 
 
 
 - title: "Explore to Generalize in Zero-Shot RL"
   image: dummy.png
-  description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
+  description:  " "
   authors: E. Zisselman, I. Lavie, **D. Soudry**, A. Tamar 
   link:
     url: https://arxiv.org/abs/2306.03072
-    display:  NeurIPS 2023 (2023)
+    display:  NeurIPS 2023 
   highlight: 0
   news1:
 
 
 - title: "Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"
   image: dummy.png
-  description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
+  description:  " "
   authors:  I. Kreisler *, M. Shpigel Nacson *, **D. Soudry**, Yair Carmon
   link:
     url: https://arxiv.org/abs/2305.13064
-    display:  NeurIPS 2023 (2023)
+    display:  ICML 2023 
+  highlight: 0
+  news1: 
+
+- title: "Continual Learning in Linear Classification on Separable Data"
+  image: dummy.png
+  description:  " "
+  authors:  I. Evron, E. Moroshko, G. Buzaglo, M. Khriesh, B. Marjieh, N. Srebro, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2306.03534
+    display:  ICML 2023
   highlight: 0
   news1: 
 
@@ -46,7 +56,7 @@
   authors: H. Michaeli, T. Michaeli, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2303.08085
-    display: CVPR 2023 (2023)
+    display: CVPR 2023 
   highlight: 1
   news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
 
@@ -56,8 +66,18 @@
   authors: M. Shpigel Nacson, R. Mulayoff, G. Ongie, T. Michaeli, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2306.17499
-    display: ICLR 2023 (2023)
+    display: ICLR 2023 
   highlight: 1
+
+- title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
+  image: dummy.png
+  description:  " "
+  authors: B. Chmiel, I. Hubara, R. Banner, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2203.10991
+    display:   ICLR 2023 ("notable top 25%" of accepted papers)
+  highlight: 0
+  news1: 
 
 - title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
   image: AccurateNeuralPaper.JPG
@@ -69,6 +89,23 @@
   highlight: 1
   news1: 
   news2: 
+
+- title: "The Role of Codeword-to-Class Assignments in Error Correcting Codes: An Empirical Study"
+  image: dummy.png
+  description:  " "
+  authors: I. Evron * , O. Onn * , T. Weiss, H. Azeroual,**D. Soudry**
+  link:
+    url: hhttps://arxiv.org/pdf/2302.05334
+    display:   AISTAT 2023 
+  highlight: 0
+  news1: 
+
+
+
+
+
+
+  
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
   image: HowCatastrophicPaper.JPG
