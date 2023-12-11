@@ -1,3 +1,13 @@
+- title: "How do Minimum-Norm Shallow Denoisers Look in Function Space?"
+  image: dummy.png
+  description:  " "
+  authors: C. Zeno, G. Ongie, Y. Blumenfeld, N. Weinbergery, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2311.06748
+    display:  NeurIPS 2023 (2023)
+  highlight: 0
+  news1: 
+
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
   description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
