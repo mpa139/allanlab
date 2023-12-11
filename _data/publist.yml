@@ -326,7 +326,7 @@
   highlight: 0
   news1: 
 
-- title: " “Stochastic Gradient Descent on Separable Data: Exact Convergence with a Fixed Learning Rate"
+- title: "Stochastic Gradient Descent on Separable Data: Exact Convergence with a Fixed Learning Rate"
   image: dummy.png
   description:  " "
   authors: M. Shpigel Nacson, N. Srebro, **D. Soudry**
@@ -336,6 +336,24 @@
   highlight: 0
   news1: 
 
+- title: "Norm matters: efficient and accurate normalization schemes in deep networks"
+  image: dummy.png
+  description:  " "
+  authors: E. Hoffer * , R. Banner * , I. Golan * , **D. Soudry**
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2018/file/a0160709701140704575d499c997b6ca-Paper.pdf
+    display:   NeurIPS 2018, Spotlight (3.5% acceptance rate)
+  highlight: 0
+  news1: 
+
+- title: "Implicit Bias of Gradient Descent on Linear Convolutional Networks"
+  image: dummy.png
+  description:  " "
+  authors: S. Gunasekar, J. D. Lee, **D. Soudry**, N. Srebro
+    url: https://arxiv.org/abs/1806.00468
+    display:   NeurIPS 2018
+  highlight: 0
+  news1: 
 
 
 
