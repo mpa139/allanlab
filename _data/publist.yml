@@ -19,12 +19,23 @@
   news1: 
 
 
- -title: "Explore to Generalize in Zero-Shot RL"
-  image: DropComputePaper.JPG
+- title: "Explore to Generalize in Zero-Shot RL"
+  image: dummy.png
   description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
   authors: E. Zisselman, I. Lavie, **D. Soudry**, A. Tamar 
   link:
     url: https://arxiv.org/abs/2306.03072
+    display:  NeurIPS 2023 (2023)
+  highlight: 0
+  news1:
+
+
+- title: "Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"
+  image: dummy.png
+  description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
+  authors:  I. Kreisler *, M. Shpigel Nacson *, **D. Soudry**, Yair Carmon
+  link:
+    url: https://arxiv.org/abs/2305.13064
     display:  NeurIPS 2023 (2023)
   highlight: 0
   news1: 
