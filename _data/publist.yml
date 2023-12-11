@@ -350,7 +350,7 @@
   image: dummy.png
   description:  " "
   authors: S. Gunasekar, J. D. Lee, **D. Soudry**, N. Srebro
-    url: https://arxiv.org/abs/1806.00468
+    url:  https://arxiv.org/abs/1806.00468
     display:   NeurIPS 2018
   highlight: 0
   news1: 
