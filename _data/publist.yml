@@ -18,6 +18,17 @@
   highlight: 1
   news1: 
 
+
+ -title: "Explore to Generalize in Zero-Shot RL"
+  image: DropComputePaper.JPG
+  description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
+  authors: E. Zisselman, I. Lavie, **D. Soudry**, A. Tamar 
+  link:
+    url: https://arxiv.org/abs/2306.03072
+    display:  NeurIPS 2023 (2023)
+  highlight: 0
+  news1: 
+
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasPaper.JPG
   description: We propose an extended anti-aliasing method that tackles both downsampling and non-linear layers, thus creating truly alias-free, shift-invariant CNNs.
