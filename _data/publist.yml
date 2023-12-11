@@ -429,7 +429,15 @@
   highlight: 0
   news1: 
 
-
+- title: "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous Or Discrete Weights"
+  image: dummy.png
+  description:  " "
+  authors: D. Soudry, I. Hubara and R. Meir
+  link:
+    url:  https://proceedings.neurips.cc/paper_files/paper/2014/file/076a0c97d09cf1a0ec3e19c7f2529f2b-Paper.pdf
+    display:  NIPS 2014
+  highlight: 0
+  news1: <a href = "https://www.dropbox.com/s/i1aech4zd78ot3a/paper_with_appendix.pdf?dl=0"> Paper with appendix (with a few typos corrected from NIPS website) </a>  , <a href = "https://github.com/ExpectationBackpropagation/EBP_Matlab_Code/"> Code </a> ,<a href = "https://arxiv.org/abs/1503.03562"> Preliminary results on MNIST </a> 
 
 
 
