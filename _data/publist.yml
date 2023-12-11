@@ -356,16 +356,6 @@
   highlight: 0
   news1: 
 
-
-
-
-
-
-
-
-
-
-
   
 - title: "Scalable Methods for 8-bit Training of Neural Networks"
   image: ScalableMethodPaper.JPG
@@ -377,6 +367,16 @@
   highlight: 1
   news2:
 
+- title: "Characterizing Implicit Bias in Terms of Optimization Geometry"
+  image: dummy.png
+  description:  " "
+  authors: S. Gunasekar, J. Lee, **D. Soudry**, N. Srebro
+  link:
+    url:  https://arxiv.org/abs/1802.08246
+    display:   ICML 2018
+  highlight: 0
+  news1: 
+
 - title: "The Implicit Bias of Gradient Descent on Separable Data"
   image: TheImplicitBiasofGradientDescent.JPG
   description: We show that gradient descent on an unregularized logistic regression problem, for almost all separable datasets, converges to the same direction as the max-margin solution. The result generalizes also to other monotone decreasing loss functions with an infimum at infinity, and we also discuss a multi-class generalizations to the cross entropy loss. Furthermore, we show this convergence is very slow, and only logarithmic in the convergence of the loss itself.
@@ -387,6 +387,27 @@
   highlight: 1
   news2:
 
+- title: "Fix your classifier: the marginal value of training the last weight layer"
+  image: dummy.png
+  description:  " "
+  authors: E. Hoffer, I. Hubara, **D. Soudry**
+  link:
+    url:  https://arxiv.org/abs/1801.04540
+    display:   ICLR 2018
+  highlight: 0
+  news1: 
+
+
+- title: "Train longer, generalize better: closing the generalization gap in large batch training of neural networks"
+  image: dummy.png
+  description:  " "
+  authors: E. Hoffer * , I. Hubara * , **D. Soudry**
+  link:
+    url:  https://papers.nips.cc/paper_files/paper/2017/hash/a5e0ff62be0b08456fc7f1e88812af3d-Abstract.html
+    display:   NIPS 2017, Oral presentation (1.2% acceptance rate)
+  highlight: 0
+  news1: <a href = "https://github.com/eladhoffer/bigBatch"> See more details about this paper </a> 
+  
 - title: "Binarized Neural Networks"
   image: BinarizedNeuralNetworksPaper.JPG
   description: We introduce a method to train Binarized Neural Networks (BNNs) - neural networks with binary weights and activations at run-time. At training-time the binary weights and activations are used for computing the parameters gradients. During the forward pass, BNNs drastically reduce memory size and accesses, and replace most arithmetic operations with bit-wise operations, which is expected to substantially improve power-efficiency. 
@@ -397,6 +418,53 @@
   highlight: 1
   news1: 
   news2: 
+
+- title: "A Fully Analog Memristor-Based Multilayer Neural Network with Online Backpropagation Training"
+  image: dummy.png
+  description:  " "
+  authors: S. Greshnikov, E. Rosenthal, **D. Soudry**, and S. Kvatinsky
+  link:
+    url:  https://www.semanticscholar.org/paper/A-fully-analog-memristor-based-neural-network-with-Rosenthal-Greshnikov/66879965418dedeadadd1761b386a1dbaa67c7b2
+    display:  Proceeding of the IEEE International Conference on Circuits and Systems, pp. 1394-1397, 2016
+  highlight: 0
+  news1: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
