@@ -439,7 +439,15 @@
   highlight: 0
   news1: <a href = "https://www.dropbox.com/s/i1aech4zd78ot3a/paper_with_appendix.pdf?dl=0"> Paper with appendix (with a few typos corrected from NIPS website) </a>  , <a href = "https://github.com/ExpectationBackpropagation/EBP_Matlab_Code/"> Code </a> ,<a href = "https://arxiv.org/abs/1503.03562"> Preliminary results on MNIST </a> 
 
-
+- title: "Neuronal spike generation mechanism as an oversampling, noise-shaping A-to-D converter"
+  image: dummy.png
+  description:  " "
+  authors:  D. B. Chklovskii and **D. Soudry**
+  link:
+    url:  https://papers.nips.cc/paper_files/paper/2012/hash/36660e59856b4de58a219bcf4e27eba3-Abstract.html
+    display:  NIPS, 2012
+  highlight: 0
+  news1: 
 
 
 
