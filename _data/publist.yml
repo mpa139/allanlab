@@ -85,7 +85,7 @@
   authors: B. Chmiel, R. Banner, E. Hoffer, H. Ben Yaacov, **D. Soudry**
   link:
     url: https://openreview.net/forum?id=yTbNYYcopd
-    display: ICLR 2023 (2023)
+    display: ICLR 2023
   highlight: 1
   news1: 
   news2: 
@@ -100,22 +100,25 @@
   highlight: 0
   news1: 
 
-
-
-
-
-
-  
-
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
   image: HowCatastrophicPaper.JPG
   description: To better understand catastrophic forgetting, we study fitting an overparameterized linear model to a sequence of tasks with different input distributions. We analyze how much the model forgets the true labels of earlier tasks after training on subsequent tasks, obtaining exact expressions and bounds.
   authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2205.09588
-    display:  COLT 2022 (2022)
+    display:  COLT 2022 
   highlight: 1
   news2:
+
+- title: "Implicit Bias of the Step Size in Linear Diagonal Neural Networks"
+  image: dummy.png
+  description:  " "
+  authors: M. Shpigel-Nacson, K. Ravichandran, N. Srebro,**D. Soudry**
+  link:
+    url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
+    display: ICML 2022
+  highlight: 0
+  news1: 
 
 - title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
   image: StatisicalFrameworkPaper.JPG
@@ -127,6 +130,16 @@
   highlight: 1
   news2: 
 
+- title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
+  image: dummy.png
+  description:  " "
+  authors:  A. Tamar, **D. Soudry**, E. Zisselman
+  link:
+    url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
+    display: AAAI 2022 (15% acceptance rate)
+  highlight: 0
+  news1: 
+
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
   image: AcceleratedSparsePaper.JPG
   description:  In this work, we first suggest a new measure called mask-diversity which correlates with the expected accuracy of the different types of structural pruning.
@@ -137,6 +150,47 @@
   highlight: 1
   news1: <a href="https://github.com/papers-submission/structured_transposable_masks"> See more details about this paper </a>
 
+- title: "Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling"
+  image: dummy.png
+  description:  " "
+  authors: N. Giladi, Z. Ben-Haim, S. Nevo, Y. Matias,**D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2106.07218
+    display:  NeurIPS 2021
+  highlight: 0
+  news1: 
+
+- title: "The Implicit Bias of Minima Stability: A View from Function Space"
+  image: dummy.png
+  description:  " "
+  authors: R. Mulayoff, T. Michaeli, **D. Soudry**
+  link:
+    url: https://openreview.net/forum?id=2STmSnZAEt2
+    display:  NeurIPS 2021
+  highlight: 0
+  news1: 
+
+- title:  "On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent"
+  image: dummy.png
+  description:  " "
+  authors: S. Azulay, E. Moroshko, M. Shpigel Nacson, B. Woodworth, N. Srebro, A. Globerson, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2102.09769
+    display:  ICML 2021, Long talk (3% acceptance rate).
+  highlight: 0
+  news1: 
+
+- title: "Accurate Post Training Quantization With Small Calibration Sets"
+  image: dummy.png
+  description:  " "
+  authors:  I. Hubara * , Y. Nahshan * , Y. Hanani*, R. Banner, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2006.10518
+    display:  ICML 2021
+  highlight: 0
+  news1: 
+
+  
 - title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
   image: NeuralGradientPaper.JPG
   description: We find that the distribution of neural gradients is approximately lognormal. Considering this, we suggest two closed-form analytical methods to reduce the computational and memory burdens of neural gradients.
@@ -158,6 +212,26 @@
   highlight: 1
   news2: 
 
+- title: "Beyond Signal Propagation: Is Feature Diversity Necessary in Deep Neural Network Initialization?"
+  image: dummy.png
+  description:  " "
+  authors: Y. Blumenfeld, D. Gilboa, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2007.01038
+    display:  ICML 2020
+  highlight: 0
+  news1: 
+
+- title: "Kernel and Rich Regimes in Overparametrized Models"
+  image: dummy.png
+  description:  " "
+  authors: B. Woodworth, S. Gunasekar,  P. Savarese, E. Moroshko, I. Golan, J. Lee, **D. Soudry**, N. Srebro
+  link:
+    url: https://arxiv.org/abs/2002.09277
+    display:  COLT 2020
+  highlight: 0
+  news1: 
+
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
   image: TheKnowledgeWithinPaper.JPG
   authors:  M. Haroush, I. Hubara, E. Hoffer, **D. Soudry**
@@ -168,6 +242,17 @@
   highlight: 1
   news2:
 
+
+- title: "Augment Your Batch: Improving Generalization Through Instance Repetition"
+  image: dummy.png
+  description:  " "
+  authors: E. Hoffer, T. Ben-Nun, N. Giladi, I. Hubara, T. Hoefler, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/1901.09335
+    display:  CVPR 2020
+  highlight: 0
+  news1: 
+
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
   image: AtStabilityEdgePaper.JPG
   authors: N. Giladi *, M. Shpigel Nacson *, E. Hoffer, **D. Soudry** 
@@ -177,6 +262,19 @@
     display:  ICLR 2020 (2020)
   highlight: 1
   news2:
+
+
+- title: "A Function Space View of Bounded Norm Infinite Width ReLU Nets: The Multivariate Case"
+  image: dummy.png
+  description:  " "
+  authors: G. Ongie, R. Willett, **D. Soudry**, N. Srebro
+  link:
+    url: https://arxiv.org/pdf/1910.01635.pdf
+    display:  ICLR 2020
+  highlight: 0
+  news1: <a href="https://www.youtube.com/watch?v=WObxWBLAdsA"> video about this paper </a>
+  
+  Video https://www.youtube.com/watch?v=WObxWBLAdsA
 
 - title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
   image: MeanFieldPaper.JPG
