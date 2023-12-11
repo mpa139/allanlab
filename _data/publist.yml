@@ -274,8 +274,7 @@
   highlight: 0
   news1: <a href="https://www.youtube.com/watch?v=WObxWBLAdsA"> video about this paper </a>
   
-  Video https://www.youtube.com/watch?v=WObxWBLAdsA
-
+  
 - title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
   image: MeanFieldPaper.JPG
   description: We apply mean-field techniques to networks with quantized activations in order to evaluate the degree to which quantization degrades signal propagation at initialization. We derive initialization schemes which maximize signal propagation in such networks and suggest why this is helpful for generalization.
