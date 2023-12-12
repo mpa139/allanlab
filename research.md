@@ -8,6 +8,29 @@ permalink: /research/
 
 # Research
 
+*Motivation*
+
+I am interested in a quantitative understanding of intelligence, both artificial and biological — and in the possible relationship between the two. I am mainly focused on neural network models, which are a canonical model for neural computation in the brain and are a central part of many modern artificial intelligence systems. 
+
+Such [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network) with deep architectures have dramatically improved the state-of-the-art in computer vision, speech recognition, natural language processing, and many other domains. 
+
+Despite this impressive progress, artificial neural networks are still [far behind](https://en.wikipedia.org/wiki/Artificial_neural_network) the capabilities of [biological neural networks](https://en.wikipedia.org/wiki/Neural_circuit) in most areas: even the simplest fly is far more resourceful than our most advanced robots. This indicates we have much to improve! 
+
+At the same time, if we wish to understand biological neural networks we must first be able to understand learning in the simplest non-linear artificial neural network – which still remains a mystery.
+
+Therefore, my current research aims to uncover the fundamental mathematical principles governing both types of neural networks.
+
+*Research interests*
+
+My research covers all aspects of neural networks and deep learning.
+Click below for more information on a few open questions that interest me.
+
+
+
+
+
+
+
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
