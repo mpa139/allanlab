@@ -54,13 +54,17 @@ permalink: /
 
 I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning (see [Research](research)). 
 
-Short Bio
+**Short Bio**
 
-I did my post-doc (as a Gruss Lipper fellow) working with Prof. Liam Paninski in the Department of Statistics and the Center for Theoretical Neuroscience at Columbia University. 
+I did my post-doc (as a [Gruss Lipper](https://eglcf.org/) fellow) working with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) in the [Department of Statistics](https://stat.columbia.edu/) and the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
 
-I did my Ph.D. (2008-2013, direct track) in the Network Biology Research Laboratory in the Department of Electrical Engineering at the Technion, Israel Institute of Technology, under the guidance of Prof. Ron Meir. 
+I did my Ph.D. (2008-2013, direct track) in the Network Biology Research Laboratory in the Department of Electrical & Computer Engineering at the Technion, Israel Institute of Technology, under the guidance of Prof. [Ron Meir](https://ronmeir.net.technion.ac.il/).
 
 In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a B.Sc. in Physics, after studying in the Technion since 2004.
+
+[My Complete CV](https://www.dropbox.com/scl/fi/meeb90dlqii5fdbpdz3uy/CV-Daniel-Soudry.pdf?rlkey=c8jtugouhozqxdx1gmcv24tiy&dl=0)
+
+
 
 
 
