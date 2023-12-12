@@ -28,10 +28,10 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SoudryHome.JPG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SoudryHome.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GroupHome.JPG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GroupHome.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mor_presentingHome.PNG" alt="Slide 3" />
@@ -40,7 +40,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TheKnowledgeWithinPaper.JPG" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hagayhome.GIF" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AliasPaper.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AcceleratedSparsePaper.JPG" alt="Slide 6" />
