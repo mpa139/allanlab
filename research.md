@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-## Motivation
+**Motivation**
 
 I am interested in a quantitative understanding of intelligence, both artificial and biological — and in the possible relationship between the two. I am mainly focused on neural network models, which are a canonical model for neural computation in the brain and are a central part of many modern artificial intelligence systems. 
 
@@ -25,7 +25,7 @@ Therefore, my current research aims to uncover the fundamental mathematical prin
 My research covers all aspects of neural networks and deep learning.
 See below for more information on a few open questions that interest me.
 
-### Current research: Deep Learning
+## Current research: Deep Learning
 
     Learning and optimization in artificial neural networks
     Resource efficient training and inference in artificial neural networks
