@@ -791,7 +791,7 @@
   authors:  D. Pfau *, D. Soudry *, Y. Gao, Y. Mu, J. Freeman, M. Ahrens, L. Paninski 
   link:
     url: 
-    display:  
+    display: NIPS workshop on Large scale optical physiology -From data-acquisition to models of neural coding (2014) 
   news1:  
 
 - title: "Whole Brain Region of Interest Detection (Poster)"
@@ -915,7 +915,7 @@
     display:  See Here
   news1:  
 
-  - title: "No bad local minima: Data independent training error guarantees for multilayer neural networks"
+- title: "No bad local minima: Data independent training error guarantees for multilayer neural networks"
   image: dummy.png
   description:  " "
   authors:   D. Soudry, E. Hoffer
