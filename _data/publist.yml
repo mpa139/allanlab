@@ -518,6 +518,25 @@
     display: JMLR, 2018
   news1: 
 
+- title: "Multi-scale approaches for high-speed imaging and analysis of large neural populations"
+  image: dummy.png
+  description:  " "
+  authors:   J. Friedrich, W. Yang, **D. Soudry**, Y. Mu, M. B. Ahrens, R. Yuste, D. S. Peterka, L. Paninski 
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005685
+    display: PLos Comput Biol, vol., 13 no. 8, e1005685, 2017
+  news1: 
+
+- title: "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis"
+  image: dummy.png
+  description:  " "
+  authors:    Y. Dordek *, D. Soudry *, R. Meir, D. Derdikman
+  link:
+    url: https://elifesciences.org/articles/10094v2
+    display: eLife, vol. 5, e10094, 2016
+  news1: <a href="https://elifesciences.org/articles/10094v2"> F1000 Recommended </a>
+
+
 
 
 
