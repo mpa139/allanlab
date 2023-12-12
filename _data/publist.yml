@@ -589,9 +589,35 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 35, 2014
   news1:
- 
- 
 
+- title: "Simple, fast and accurate implementation of the diffusion approximation algorithm for stochastic ion channels with multiple states"
+  image: dummy.png
+  description:  " "
+  authors: P. Orio and **D. Soudry**
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036670
+    display: PLoS ONE, vol. 7, no. 5 p. e36670, 2012
+  news1:
+
+
+- title: "Conductance-based neuron models and the slow dynamics of excitability"
+  image: dummy.png
+  description:  " "
+  authors: D. Soudry and R. Meir
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fncom.2012.00004/full
+    display: Front. Comput. Neurosci., vol. 6, no. 4, 2012
+  news1:
+ 
+- title: "History-Dependent Dynamics in a Generic Model of Ion Channels–An Analytic Study"
+  image: dummy.png
+  description:  " "
+  authors: D. Soudry and R. Meir
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fncom.2010.00003/full
+    display: Front. Comput. Neurosci., vol. 4, Jan. 2010
+  news1:
+ 
 
 
 
