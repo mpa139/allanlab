@@ -691,6 +691,82 @@
   news1:  
 
 
+- title: "Quantized Neural Networks (Poster)"
+  image: dummy.png
+  description:  " "
+  authors: I. Hubara * , M. Courbariaux  *, **D. Soudry**, R. El-Yaniv, Y. Bengio
+  link:
+    url: 
+    display: NIPS workshop on Efficient Methods for Deep Neural Networks  (2016)
+  news1:  
+
+
+- title: "Binarized neural networks (Poster)"
+  image: dummy.png
+  description:  " "
+  authors: I. Hubara * , M. Courbariaux  *, **D. Soudry**, R. El-Yaniv, Y. Bengio
+  link:
+    url: 
+    display: Machine Learning seminar, IBM research center, Haifa (2016)
+  news1:  
+
+- title: "Data-driven neural models part II: connectivity patterns of human seizures (Best student poster)"
+  image: dummy.png
+  description:  " "
+  authors: P. J. Karoly, D. R. Freestone, **D. Soudry**, L. Kuhlmann, L. Paninski, M. Cook
+  link:
+    url: 
+    display: CNS (2016)
+  news1:  
+
+- title: "Data-driven neural models part I: state and parameter estimation (Poster)"
+  image: dummy.png
+  description:  " "
+  authors: D. R. Freestone, P. J. Karoly, **D. Soudry**, L. Kuhlmann, M.Cook
+  link:
+    url: 
+    display: CNS (2016)
+  news1:  
+
+
+- title: "Extracting grid characteristics from spatially distributed place cell inputs using non-negative PCA (Poster)"
+  image: dummy.png
+  description:  " "
+  authors: Y. Dordek * ,  D. Soudry * , R. Meir,  D. Derdikman
+  link:
+    url: 
+    display: SFN (2015)
+  news1:  
+
+- title: "Fast Constrained Non-negative Matrix Factorization for Whole-Brain Calcium Imaging Data (Poster)"
+  image: dummy.png
+  description:  " "
+  authors: J. Friedrich, **D. Soudry**, Y. Mu, J. Freeman, M. Ahrens, and L. Paninski
+  link:
+    url: https://users.soe.ucsc.edu/~afletcher/neuralsysnips.html
+    display: NIPS workshop on Statistical Methods for Understanding Neural Systems (2015)
+  news1:  
+
+- title: "Implementing efficient 'shotgun' inference of neural connectivity from highly sub-sampled activity data (Spotlight Presentation and poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  link:
+    url: https://videolectures.net/netadis2015_soudry_activity_data/
+    display: NIPS workshop on Modelling and Inference for Dynamics on Complex Interaction Networks (2015)
+  news1:  
+
+
+- title: "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous Or Discrete Weights (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry,I. Hubara and R. Meir
+  link:
+    url: 
+    display: Machine Learning seminar (IBM research center, Haifa 2015)
+  news1:  
+
+
 
 
 
