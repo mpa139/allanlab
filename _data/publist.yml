@@ -536,6 +536,61 @@
     display: eLife, vol. 5, e10094, 2016
   news1: <a href="https://elifesciences.org/articles/10094v2"> F1000 Recommended </a>
 
+- title: "Simultaneous Denoising, Deconvolution, and Demixing of Calcium Imaging Data"
+  image: dummy.png
+  description:  " "
+  authors:  E. A. Pnevmatikakis, **D. Soudry**, Y. Gao, T. A. Machado, J. Merel, D. Pfau,T. Reardon,Y. Mu, C. Lacefield, W. Yang, M. Ahrens, R. Bruno, T. M. Jessell, D. S. Peterka, R. Yuste, L. Paninski,
+  link:
+    url: https://www.cell.com/neuron/fulltext/S0896-6273(15)01084-3
+    display: Neuron, vol. 89, no. 2,  2016
+  news1: <a href="https://www.cell.com/cms/attachment/2046949148/2057837139/mmc1.pdf"> ِAppendix </a> , <a href="https://github.com/flatironinstitute/CaImAn-MATLAB">Code </a>
+
+- title: "Efficient 'Shotgun' Inference of Neural Connectivity from Highly Sub-sampled Activity Data"
+  image: dummy.png
+  description:  " "
+  authors:   D. Soudry, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004464
+    display:  PLoS Comput Biol, vol. 11, no. 10, 2015
+  news1: <a href="https://videolectures.net/netadis2015_soudry_activity_data/"> 5 mins presentation </a> , <a href="https://github.com/danielso/Shotgun">Code </a>
+
+- title: "Memristor-based multilayer neural networks with online gradient descent training"
+  image: dummy.png
+  description:  " "
+  authors: D. Soudry, D. Di Castro, A. Gal, A. Kolodny, and S. Kvatinsky
+  link:
+    url: https://ieeexplore.ieee.org/document/7010034
+    display:  IEEE TNNLS, vol. 26, no. 10, 2015
+  news1: <a href="https://www.dropbox.com/sh/7je4fufb6d4c2sr/AAA7RgsIlsRu-lNN6imELqjDa?dl=0"> Complete Code </a> 
+
+- title: "Diffusion approximation-based simulation of stochastic ion channels: which method to use?"
+  image: dummy.png
+  description:  " "
+  authors: D. Pezo, **D. Soudry**, P. Orio
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00139/full
+    display:  Front. Comput. Neurosci., vol. 8, no. 139, 2014 (Part of the research topic "Neuronal stochastic variability: influences on spiking dynamics and network activity")
+  news1: 
+    
+- title: "The neuronal response at extended timescales: a linearized spiking input-output relation”
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
+    display:  Front. Comput. Neurosci., vol. 8, no. 29, 2014
+  news1: 
+       
+- title: "The neuronal response at extended timescales: long term correlations without long memory"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
+    display:  Front. Comput. Neurosci., vol. 8, no. 35, 2014
+  news1:
+ 
+ 
 
 
 
