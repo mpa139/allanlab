@@ -5,6 +5,10 @@ excerpt: "Daniel Soudry at Technion - Israel Institue of Technology &rarr"
 sitemap: false
 permalink: /
 ---
+** Daniel Soudry **
+
+Welcome to my home page !
+
 I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning (see [Research](research)). 
 
 
