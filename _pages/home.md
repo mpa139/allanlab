@@ -59,7 +59,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
 Short Bio
 
 
-[Deparment of Electrical & Copmuter Engineering ]((https://ece.technion.ac.il/))
+[Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/)
 
 [Technion](https://www.technion.ac.il/en/home-2/)
 
