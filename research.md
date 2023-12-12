@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-*Motivation*
+##Motivatio##
 
 I am interested in a quantitative understanding of intelligence, both artificial and biological — and in the possible relationship between the two. I am mainly focused on neural network models, which are a canonical model for neural computation in the brain and are a central part of many modern artificial intelligence systems. 
 
