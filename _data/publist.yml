@@ -651,9 +651,44 @@
   authors: Poster: E. Hoffer, T. Ben-Nun, N. Giladi, I. Hubara, T. Hoefler, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1901.09335
-    display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop, poster (2019).
+    display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop, poster (2019)
   news1:  
- 
+
+- title: "Task Agnostic Continual Learning Using Online Variational Bayes"
+  image: dummy.png
+  description:  " "
+  authors:  Poster: C. Zeno *, I. Golan *, E. Hoffer, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/1803.10123
+    display:  NIPS Deep Bayesian learning workshop, 2018
+  news1:  
+
+- title: "Infer2Train: leveraging inference for better training of deep networks"
+  image: dummy.png
+  description:  " "
+  authors:  Poster: E Hoffer, B Weinstein, I Hubara, S Gofman, **D Soudry**
+  link:
+    url: http://learningsys.org/nips18/assets/papers/24CameraReadySubmissionInfer2Train.pdf
+    display: NIPS Deep Bayesian learning workshop, 2018
+  news1:  
+
+- title: "Exponentially vanishing sub-optimal local minima in multilayer neural networks"
+  image: dummy.png
+  description:  " "
+  authors:  Poster: **D. Soudry**, E. Hoffer
+  link:
+    url: https://arxiv.org/abs/1702.05777
+    display: ICLR workshop, 2018
+  news1:  
+
+- title: "Quantized Neural Networks"
+  image: dummy.png
+  description:  " "
+  authors:  Poster:  I. Hubara * , M. Courbariaux  *, **D. Soudry**, R. El-Yaniv, Y. Bengio
+  link:
+    url: 
+    display: NIPS workshop on Efficient Methods for Deep Neural Networks  (2016)
+  news1:  
 
 
 
