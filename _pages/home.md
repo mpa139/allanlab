@@ -62,14 +62,14 @@ In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a
 [My Complete CV](https://www.dropbox.com/scl/fi/meeb90dlqii5fdbpdz3uy/CV-Daniel-Soudry.pdf?rlkey=c8jtugouhozqxdx1gmcv24tiy&dl=0)
 
 
- **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
+ **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/team) 
 
 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 310px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 310px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 400px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 400px">
 </figure>
