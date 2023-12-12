@@ -627,64 +627,64 @@
     display: Third Symposium on Advances in Approximate Bayesian Inference, contributed talk (2021).
   news1:
 
-- title: "How Learning Rate and Delay Affect Minima Selection in Asynchronous Training of Neural Networks: Toward Closing the Generalization Gap"
+- title: "How Learning Rate and Delay Affect Minima Selection in Asynchronous Training of Neural Networks: Toward Closing the Generalization Gap (Oral)"
   image: dummy.png
   description:  " "
-  authors: Oral: N. Giladi * , Mor Shpigel * , E. Hoffer, **D. Soudry**
+  authors: N. Giladi * , Mor Shpigel * , E. Hoffer, **D. Soudry**
   link:
     url: https://drive.google.com/file/d/101yxxakquNQYtr5CD7bdbDgDLVmt1H-J/view
     display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop (2019)
   news1:  
  
-- title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
+- title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off (Oral)"
   image: dummy.png
   description:  " "
-  authors: Oral: Y. Blumenfeld, D. Gilboa, **D. Soudry**
+  authors:  Y. Blumenfeld, D. Gilboa, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1906.00771
     display:  ICML 'Physics for deep learning' workshop (2019)
   news1: 
 
-- title: "Increasing batch size through instance repetition improves generalization"
+- title: "Increasing batch size through instance repetition improves generalization (Poster)"
   image: dummy.png
   description:  " "
-  authors: Poster: E. Hoffer, T. Ben-Nun, N. Giladi, I. Hubara, T. Hoefler, **D. Soudry**
+  authors:  E. Hoffer, T. Ben-Nun, N. Giladi, I. Hubara, T. Hoefler, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1901.09335
     display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop, poster (2019)
   news1:  
 
-- title: "Task Agnostic Continual Learning Using Online Variational Bayes"
+- title: "Task Agnostic Continual Learning Using Online Variational Bayes (Poster)"
   image: dummy.png
   description:  " "
-  authors:  Poster: C. Zeno *, I. Golan *, E. Hoffer, **D. Soudry**
+  authors:  C. Zeno *, I. Golan *, E. Hoffer, **D. Soudry**
   link:
     url: https://arxiv.org/abs/1803.10123
     display:  NIPS Deep Bayesian learning workshop, 2018
   news1:  
 
-- title: "Infer2Train: leveraging inference for better training of deep networks"
+- title: "Infer2Train: leveraging inference for better training of deep networks (Poster)"
   image: dummy.png
   description:  " "
-  authors:  Poster: E Hoffer, B Weinstein, I Hubara, S Gofman, **D Soudry**
+  authors:   E Hoffer, B Weinstein, I Hubara, S Gofman, **D Soudry**
   link:
     url: http://learningsys.org/nips18/assets/papers/24CameraReadySubmissionInfer2Train.pdf
     display: NIPS Deep Bayesian learning workshop, 2018
   news1:  
 
-- title: "Exponentially vanishing sub-optimal local minima in multilayer neural networks"
+- title: "Exponentially vanishing sub-optimal local minima in multilayer neural networks (Poster)"
   image: dummy.png
   description:  " "
-  authors:  Poster: **D. Soudry**, E. Hoffer
+  authors:  D. Soudry, E. Hoffer
   link:
     url: https://arxiv.org/abs/1702.05777
     display: ICLR workshop, 2018
   news1:  
 
-- title: "Quantized Neural Networks"
+- title: "Quantized Neural Networks (Poster)"
   image: dummy.png
   description:  " "
-  authors:  Poster:  I. Hubara * , M. Courbariaux  *, **D. Soudry**, R. El-Yaniv, Y. Bengio
+  authors: I. Hubara * , M. Courbariaux  *, **D. Soudry**, R. El-Yaniv, Y. Bengio
   link:
     url: 
     display: NIPS workshop on Efficient Methods for Deep Neural Networks  (2016)
