@@ -20,7 +20,7 @@ At the same time, if we wish to understand biological neural networks we must fi
 
 Therefore, my current research aims to uncover the fundamental mathematical principles governing both types of neural networks.
 
-*Research interests*
+## Research interests
 
 My research covers all aspects of neural networks and deep learning.
 Click below for more information on a few open questions that interest me.
