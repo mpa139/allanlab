@@ -617,8 +617,43 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2010.00003/full
     display: Front. Comput. Neurosci., vol. 4, Jan. 2010
   news1:
- 
 
+- title: "Why Cold Posteriors? On the Suboptimal Generalization of Optimal Bayes Estimates"
+  image: dummy.png
+  description:  " "
+  authors:C. Zeno, I. Golan, A. Pakman, **D. Soudry**
+  link:
+    url: https://openreview.net/forum?id=cu6zDHCfhZx
+    display: Third Symposium on Advances in Approximate Bayesian Inference, contributed talk (2021).
+  news1:
+
+- title: "How Learning Rate and Delay Affect Minima Selection in Asynchronous Training of Neural Networks: Toward Closing the Generalization Gap"
+  image: dummy.png
+  description:  " "
+  authors: Oral: N. Giladi * , Mor Shpigel * , E. Hoffer, **D. Soudry**
+  link:
+    url: https://drive.google.com/file/d/101yxxakquNQYtr5CD7bdbDgDLVmt1H-J/view
+    display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop (2019)
+  news1:  
+ 
+- title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off"
+  image: dummy.png
+  description:  " "
+  authors: Oral: Y. Blumenfeld, D. Gilboa, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/1906.00771
+    display:  ICML 'Physics for deep learning' workshop (2019)
+  news1: 
+
+- title: "Increasing batch size through instance repetition improves generalization"
+  image: dummy.png
+  description:  " "
+  authors: Poster: E. Hoffer, T. Ben-Nun, N. Giladi, I. Hubara, T. Hoefler, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/1901.09335
+    display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop, poster (2019).
+  news1:  
+ 
 
 
 
