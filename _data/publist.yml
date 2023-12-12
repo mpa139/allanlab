@@ -621,7 +621,7 @@
 - title: "Why Cold Posteriors? On the Suboptimal Generalization of Optimal Bayes Estimates"
   image: dummy.png
   description:  " "
-  authors:C. Zeno, I. Golan, A. Pakman, **D. Soudry**
+  authors: C. Zeno, I. Golan, A. Pakman, **D. Soudry**
   link:
     url: https://openreview.net/forum?id=cu6zDHCfhZx
     display: Third Symposium on Advances in Approximate Bayesian Inference, contributed talk (2021).
