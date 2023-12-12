@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Daniel Soudry - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Daniel Soudry at Technion - Israel Institue of Technology &rarr"
 sitemap: false
 permalink: /
 ---
