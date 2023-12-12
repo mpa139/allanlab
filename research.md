@@ -27,9 +27,9 @@ See below for more information on a few open questions that interest me.
 
 ## Current research: Deep Learning
 
-- <br>  </br> Learning and optimization in artificial neural networks
--  <br> Resource efficient training and inference in artificial neural networks  </br>
--  <br> Hardware implementations of artificial neural networks  </br>
+ <br>  </br> Learning and optimization in artificial neural networks
+ <br> Resource efficient training and inference in artificial neural networks  </br>
+ <br> Hardware implementations of artificial neural networks  </br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 70%; float: center; margin: 10px"}
 
