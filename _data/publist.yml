@@ -767,15 +767,135 @@
   news1:  
 
 
+- title: Efficient “shotgun” inference of neural connectivity from highly sub-sampled activity data (Oral)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  link:
+    url: 
+    display:  Swartz Annual Meeting at Janelia Research Campus (2015)
+  news1:  
+
+- title: "A shotgun sampling solution for the common input problem in neural connectivity inference (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  link:
+    url: 
+    display:  COSYNE (2015)
+  news1:  
+
+- title: " Whole Brain Region of Interest Detection (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Pfau *, D. Soudry *, Y. Gao, Y. Mu, J. Freeman, M. Ahrens, L. Paninski 
+  link:
+    url: 
+    display:  NIPS workshop on Large scale optical physiology: From data-acquisition to models of neural coding (2014)
+  news1:  
+
+- title: " Whole Brain Region of Interest Detection (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Pfau *, D. Soudry *, Y. Gao, Y. Mu, J. Freeman, M. Ahrens, L. Paninski 
+  link:
+    url: 
+    display:  AREADNE (2014)
+  news1:  
+
+- title: " Mean Field Bayes Backpropagation: scalable training of multilayer neural networks with discrete weights (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  Machine Learning seminar (IBM research center, Haifa 2013)
+  news1:  
 
 
+- title: "Implementing Hebbian Learning Rules with Memristors (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry, D. Di Castro, A. Gal, A. Kolodny, and S. Kvatinsky
+  link:
+    url: 
+    display: Memristor-based Systems for Neuromorphic Applications (Torino University 2013)
+  news1:  
+
+- title: "A spiking input-output relation for general biophysical neuron models explains observed 1/f response (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  COSYNE (2013)
+  news1:  
 
 
+- title: "Spiking input-output relation of general biophysical neuron models – exact analytic solutions and comparisons with experiment (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  Variants and invariants in brain and behavior (Technion 2012)
+  news1:  
 
 
+- title: "The slow dynamics of neuronal excitability - exact analytic solutions for the response of general biophysical neuron models at long times, and comparisons with experiment (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  Brain Plasticity Symposium (Tel Aviv university 2012)
+  news1:  
 
+- title: "The slow dynamics of neuronal excitability (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  ISFN (2012)
+  news1:  
 
+- title: "The neuron as a population of ion channels: The emergence of stochastic and history dependent behavior (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  COSYNE (2011)
+  news1:  
 
+- title: "The neuron as a population of ion channels: The emergence of stochastic and history dependent behavior (Oral)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  ISFN (2010)
+  news1:  
+
+  
+- title: "History dependent dynamics in ion channels - an analytic study (Poster)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  COSYNE (2010)
+  news1:  
+
+- title: "Adapting Timescales: From Channel to Neuron” (Oral)"
+  image: dummy.png
+  description:  " "
+  authors:  D. Soudry and R. Meir
+  link:
+    url: 
+    display:  ISFN (2009)
+  news1:  
 
 
 
@@ -982,6 +1102,16 @@
   highlight: 0
 
 - title: Photoelectron Diffraction for a Look inside Nanostructures
+  image: dummy.png
+  description: ""
+  authors:
+    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+  link:
+    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
+    display: CHIMIA 11, 759 (2006)
+  highlight: 0
+
+  - title: Photoelectron Diffraction for a Look inside Nanostructures
   image: dummy.png
   description: ""
   authors:
