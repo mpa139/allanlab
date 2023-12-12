@@ -27,9 +27,9 @@ See below for more information on a few open questions that interest me.
 
 ## Current research: Deep Learning
 
-Learning and optimization in artificial neural networks
-Resource efficient training and inference in artificial neural networks
-Hardware implementations of artificial neural networks
+- Learning and optimization in artificial neural networks**
+- Resource efficient training and inference in artificial neural networks
+- Hardware implementations of artificial neural networks
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 70%; float: center; margin: 10px"}
 
