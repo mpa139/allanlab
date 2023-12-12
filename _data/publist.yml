@@ -449,7 +449,7 @@
   highlight: 0
   news1: 
 
-  - title: "Training of Quantized Deep Neural Networks using a Magnetic Tunnel Junction-Based Synapse"
+- title: "Training of Quantized Deep Neural Networks using a Magnetic Tunnel Junction-Based Synapse"
   image: dummy.png
   description:  " "
   authors:  T. Greenberg-Toledo, B. Perach, I. Hubara, **D. Soudry**, S. Kvatinsky
@@ -460,7 +460,7 @@
   news1: 
 
 
-  - title: "Task Agnostic Continual Learning Using Online Variational Bayes with Fixed-Point Updates" 
+- title: "Task Agnostic Continual Learning Using Online Variational Bayes with Fixed-Point Updates" 
   image: dummy.png
   description:  " "
   authors:   C. Zeno *, I. Golan *, E. Hoffer, **D. Soudry**
@@ -470,13 +470,53 @@
   highlight: 0
   news1: 
 
+- title: "The Global Optimization Geometry of Shallow Linear Neural Networks" 
+  image: dummy.png
+  description:  " "
+  authors:    Z. Zhu, **D. Soudry**, Y. C. Eldar, M. B. Wakin
+  link:
+    url: https://link.springer.com/article/10.1007/s10851-019-00889-w?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20190603
+    display:  Journal of Mathematical Imaging and Vision, 2019
+  highlight: 0
+  news1: 
 
+- title: "Seizure pathways: A model-based investigation" 
+  image: dummy.png
+  description:  " "
+  authors:    P. J. Karoly, L. Kuhlmann, **D. Soudry**, D. B. Grayden, M. J. Cook, D. R. Freestone
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006403
+    display: PLoS Comput Biol., vol. 14 no. 10, e1006403, 2018
+  highlight: 0
+  news1: 
 
+- title: "The Implicit Bias of Gradient Descent on Separable Data" 
+  image: dummy.png
+  description:  " "
+  authors:     D. Soudry, E. Hoffer, M. Shpigel Nacson, S. Gunasekar, N. Srebro
+  link:
+    url: https://jmlr.org/papers/v19/18-188.html
+    display: JMLR, 2018
+  highlight: 0
+  news1: 
 
+- title: "Bifurcation Analysis of Two Coupled Jansen-Rit Neural Mass Models"
+  image: dummy.png
+  description:  " "
+  authors: S. Ahmadizadeh, P. Jane Karoly, D. Nesic, D. Br. Grayden, M. J.Cook, **D. Soudry**, D. R. Freestone
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192842
+    display: PLOS One, vol. 13 no. 3, e0192842, 2018
+  news1: 
 
-
-
-
+- title: "Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations"
+  image: dummy.png
+  description:  " "
+  authors:  I. Hubara * , M. Courbariaux * ,**D. Soudry**, R. El-Yaniv, Y. Bengio. 
+  link:
+    url: https://jmlr.org/papers/v18/16-456.html
+    display: JMLR, 2018
+  news1: 
 
 
 
