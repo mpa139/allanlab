@@ -449,7 +449,26 @@
   highlight: 0
   news1: 
 
+  - title: "Training of Quantized Deep Neural Networks using a Magnetic Tunnel Junction-Based Synapse"
+  image: dummy.png
+  description:  " "
+  authors:  T. Greenberg-Toledo, B. Perach, I. Hubara, **D. Soudry**, S. Kvatinsky
+  link:
+    url:  https://iopscience.iop.org/article/10.1088/1361-6641/ac251b/meta
+    display:  to appear in  Semiconductor Science and Technology, 2021
+  highlight: 0
+  news1: 
 
+
+  - title: "Task Agnostic Continual Learning Using Online Variational Bayes with Fixed-Point Updates" 
+  image: dummy.png
+  description:  " "
+  authors:   C. Zeno *, I. Golan *, E. Hoffer, **D. Soudry**
+  link:
+    url: https://direct.mit.edu/neco/article/33/11/3139/107073/Task-Agnostic-Continual-Learning-Using-Online
+    display:  Neural Computation, 2021
+  highlight: 0
+  news1: 
 
 
 
