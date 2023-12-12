@@ -5,7 +5,7 @@ excerpt: "Daniel Soudry at Technion - Israel Institue of Technology &rarr"
 sitemap: false
 permalink: /
 ---
-** Daniel Soudry **
+**Daniel Soudry**
 
 Welcome to my home page !
 
@@ -28,22 +28,22 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SoudryHome.JPG" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GroupHome.JPG" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mor_presentingHome.PNG" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TheKnowledgeWithinPaper.JPG" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hagayhome.GIF" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AcceleratedSparsePaper.JPG" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -58,7 +58,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
 
 
 
-**Short Bio**
+Short Bio
 
 I did my post-doc (as a [Gruss Lipper](https://eglcf.org/) fellow) working with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) in the [Department of Statistics](https://stat.columbia.edu/) and the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
 
@@ -68,11 +68,6 @@ In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a
 
 [My Complete CV](https://www.dropbox.com/scl/fi/meeb90dlqii5fdbpdz3uy/CV-Daniel-Soudry.pdf?rlkey=c8jtugouhozqxdx1gmcv24tiy&dl=0)
 
-
-
-
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
 
  **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
 
