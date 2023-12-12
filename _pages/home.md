@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to LMU Munich!** During the next two years, we will build up a group at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,29 +52,17 @@ More details to follow.
 </div>
 
 
-I am an associate professor and Schmidt Career Advancement Chair in AI, working in the Department of Electrical and Computer Engineering at the Technion, in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning, as detailed here. 
+I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning (see [Research](research)). 
 
 Short Bio
 
+I did my post-doc (as a Gruss Lipper fellow) working with Prof. Liam Paninski in the Department of Statistics and the Center for Theoretical Neuroscience at Columbia University. 
 
-[Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/)
+I did my Ph.D. (2008-2013, direct track) in the Network Biology Research Laboratory in the Department of Electrical Engineering at the Technion, Israel Institute of Technology, under the guidance of Prof. Ron Meir. 
 
-[Technion](https://www.technion.ac.il/en/home-2/)
-
-
-
+In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a B.Sc. in Physics, after studying in the Technion since 2004.
 
 
-
-
-We are a dynamic research group, at the  and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
-
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
 
 We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
 
