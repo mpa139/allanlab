@@ -27,6 +27,14 @@ See below for more information on a few open questions that interest me.
 
 ## Current research: Deep Learning
 
+<h1>The ul element</h1>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
  <br>  </br> Learning and optimization in artificial neural networks
  <br> Resource efficient training and inference in artificial neural networks  </br>
  <br> Hardware implementations of artificial neural networks  </br>
