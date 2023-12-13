@@ -40,7 +40,7 @@ th {
   // Bottom align for column headings
   > thead > tr > th {
     vertical-align: bottom;
-    border-bottom: 2px solid $table-border-color;
+    border-bottom: 0px solid $table-border-color;
   }
   // Remove top border from thead by default
   > caption + thead,
@@ -100,7 +100,7 @@ th {
   > thead > tr {
     > th,
     > td {
-      border-bottom-width: 2px;
+      border-bottom-width: 0px;
     }
   }
 }
@@ -177,7 +177,7 @@ table {
     margin-bottom: ($line-height-computed * 0.75);
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
-    border: 1px solid $table-border-color;
+    border: 0px solid $table-border-color;
 
     // Tighten up spacing
     > .table {
