@@ -38,7 +38,7 @@ See below for more information on a few open questions that interest me.
   <li>Hardware implementations of artificial neural networks</li>
 </ul>
 </td>
-    <td> <img src="/images/respic/research1.png" style="width: 70%; float: center; margin: 5px;"></td>
+    <td> <img src="/images/respic/research1.png" ></td>
 </table>
 
 
