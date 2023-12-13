@@ -27,21 +27,6 @@ See below for more information on a few open questions that interest me.
 
 <h3 > <a href="#Deep Learning">Current research: Deep Learning</a></h3>
 
-
-
-
-<table>
-   <tr>
-    <td><ul>
-      <li>Learning and optimization in artificial neural networks</li>
-  <li>Resource efficient training and inference in artificial neural networks </li>
-  <li>Hardware implementations of artificial neural networks</li>
-</ul>
-</td>
-    <td> <img src="/images/respic/research1.png" ></td>
-</table>
-
-
 <ul>
   <li>Learning and optimization in artificial neural networks</li>
   <li>Resource efficient training and inference in artificial neural networks </li>
@@ -49,7 +34,7 @@ See below for more information on a few open questions that interest me.
 </ul>
 
 <div>
-  <img src="/images/respic/research1.png" style="width: 30%; float: right; margin: 5px;">
+  <img src="/images/respic/research1.png" ">
 </div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
