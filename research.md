@@ -25,7 +25,7 @@ Therefore, my current research aims to uncover the fundamental mathematical prin
 My research covers all aspects of neural networks and deep learning.
 See below for more information on a few open questions that interest me.
 
-<h2  <a href="#Deep Learning">Current research: Deep Learning</a></h2>
+<h2 > <a href="#Deep Learning">Current research: Deep Learning</a></h2>
 
 
 <ul>
