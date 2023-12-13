@@ -66,7 +66,7 @@ There are several open theoretical questions in deep learning. Answering these t
 <ul>
   <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ML1.png){: style="width: 70%; float: center; margin: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ML1.png){: style="width: 30%; float: center; margin: 10px"} 
 
 Why is it happening?
   
