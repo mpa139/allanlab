@@ -25,7 +25,7 @@ Therefore, my current research aims to uncover the fundamental mathematical prin
 My research covers all aspects of neural networks and deep learning.
 See below for more information on a few open questions that interest me.
 
-<h2 > <a href="#Deep Learning">Current research: Deep Learning</a></h2>
+<h3 > <a href="#Deep Learning">Current research: Deep Learning</a></h3>
 
 
 <ul>
@@ -37,7 +37,7 @@ See below for more information on a few open questions that interest me.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 70%; float: center; margin: 10px"}
 
 
-<h2 id="Neuroscience Methods">Post-Doc research: Neuroscience Methods </h2>
+<h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
 
 <ul>
   <li>Activity inference </li>
@@ -47,8 +47,8 @@ See below for more information on a few open questions that interest me.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.JPG){: style="width: 70%; float: center; margin: 10px"}
 
+<h3 > <a href="#Neuroscience Theory">Post-Doc research: PhD research: Neuroscience Theorys</a></h3>
 
-<h2 id="Neuroscience Theory">PhD research: Neuroscience Theory </h2>
 Modeling and analysis of
 <ul>
   <li>Biological neural networks</li>
@@ -60,6 +60,10 @@ Modeling and analysis of
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.JPG){: style="width: 70%; float: center; margin: 10px"}
 
 <h2 id="Deep Learning">Deep Learning </h2>
+
+<h2 id="Neuroscience Methods">Neuroscience Methods </h2>
+
+<h2 id="Neuroscience Theory">Neuroscience Theory </h2>
 
 
 
