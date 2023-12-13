@@ -32,17 +32,17 @@ See below for more information on a few open questions that interest me.
 
 <table>
    <tr style="border: none;">
-    <td><ul>
+    <td style="border: none;"><ul>
   <li>Learning and optimization in artificial neural networks</li>
   <li>Resource efficient training and inference in artificial neural networks </li>
   <li>Hardware implementations of artificial neural networks</li>
 </ul>
 </td>
-    <td> <img src="/images/respic/research1.png" style="width: 70%; float: center; margin: 5px;"></td>
+    <td style="border: none;> <img src="/images/respic/research1.png" style="width: 70%; float: center; margin: 5px;"></td>
   </tr>
-   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Mexico</td>
+   <tr style="border: none;>
+    <td style="border: none;>Centro comercial Moctezuma</td>
+    <td style="border: none;>Mexico</td>
   </tr>
 </table>
 
