@@ -33,6 +33,7 @@ See below for more information on a few open questions that interest me.
 <table>
    <tr>
     <td><ul>
+       <h3 > <a href="#Deep Learning">Current research: Deep Learning</a></h3>
   <li>Learning and optimization in artificial neural networks</li>
   <li>Resource efficient training and inference in artificial neural networks </li>
   <li>Hardware implementations of artificial neural networks</li>
