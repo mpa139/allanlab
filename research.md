@@ -37,6 +37,18 @@ See below for more information on a few open questions that interest me.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 70%; float: center; margin: 10px"}
 
 
+<h2 id="Neuroscience Methods">Post-Doc research: Neuroscience Methods </h2>
+
+<ul>
+  <li>Activity inference </li>
+  <li>Model based connectivity </li>
+  <li>Efficient simulation methods</li>
+</ul>
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.JPG){: style="width: 70%; float: center; margin: 10px"}
+
+
+
 
 
 
