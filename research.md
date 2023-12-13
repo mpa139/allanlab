@@ -35,7 +35,7 @@ See below for more information on a few open questions that interest me.
 </ul>
 
 <div>
-  <img src="/images/respic/research1.png" style=""width: 30%; float: right; margin: 5px;">
+  <img src="/images/respic/research1.png" style="width: 30%; float: right; margin: 5px;">
 </div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
@@ -46,7 +46,10 @@ See below for more information on a few open questions that interest me.
   <li>Efficient simulation methods</li>
 </ul>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.JPG){: style="width: 30%; float: center; margin: 10px"}
+
+<div>
+  <img src="/images/respic/research2.JPG" style="width: 30%; float: center; margin: 10px">
+</div>
 
 <h3 > <a href="#Neuroscience Theory">Post-Doc research: PhD research: Neuroscience Theorys</a></h3>
 
