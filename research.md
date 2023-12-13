@@ -41,9 +41,6 @@ See below for more information on a few open questions that interest me.
     <td> <img src="/images/respic/research1.png" style="width: 70%; float: center; margin: 5px;"></td>
   </tr>
    <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Mexico</td>
-  </tr>
 </table>
 
 
