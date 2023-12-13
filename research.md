@@ -28,8 +28,10 @@ See below for more information on a few open questions that interest me.
 <h3 > <a href="#Deep Learning">Current research: Deep Learning</a></h3>
 
 
-<table style="border: 0px">
-   <tr>
+
+
+<table>
+   <tr style="border: none;">
     <td><ul>
   <li>Learning and optimization in artificial neural networks</li>
   <li>Resource efficient training and inference in artificial neural networks </li>
