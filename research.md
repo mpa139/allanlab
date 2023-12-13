@@ -34,7 +34,7 @@ See below for more information on a few open questions that interest me.
   <li>Hardware implementations of artificial neural networks</li>
 </ul>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 30%; float: right; margin: 5px"}
+<img src="/images/respic/research1.png" style=""width: 30%; float: right; margin: 5px;">
 
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
@@ -60,17 +60,14 @@ Modeling and analysis of
 <h2 id="Deep Learning">Deep Learning </h2>
 
 There are several open theoretical questions in deep learning. Answering these theoretical questions will provide design guidelines and help with some important practicals issue (explained below). Two central questions are:
-   ![]({{ site.url }}{{ site.baseurl }}/images/respic/ML1.png){: style="width: 30%; float: center; margin: 10px"} 
 <ul>
   <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
- <img src="/images/respic/ML1.png" style="width: 30%; float: center; margin: 10px;">
+ <img src="/images/respic/ML1.png" style="width: 70%; float: center; margin: 10px;">
 Why is it happening?</li>
  
 
   <li><b>Low generalization error.</b> Neural networks are often trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For example, as can be seen in the figure below (from <a href=https://arxiv.org/abs/1706.10239>Wu, Zu & E 2017 </a>), polyomial curves (right) tend to overfit much more than neural networks (left): 
-  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ML2.png){: style="width: 70%; float: center; margin: 10px"} 
-
+   <img src="/images/respic/ML2.png" style="width: 70%; float: center; margin: 10px;">
 Why is it happening?
 
 There are many practical bottlenecks in deep learning (the following figures are from Sun et al. 2017). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
