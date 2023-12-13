@@ -34,8 +34,9 @@ See below for more information on a few open questions that interest me.
   <li>Hardware implementations of artificial neural networks</li>
 </ul>
 
-<img src="/images/respic/research1.png" style=""width: 30%; float: right; margin: 5px;">
-
+<div>
+  <img src="/images/respic/research1.png" style=""width: 30%; float: right; margin: 5px;">
+</div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
 
