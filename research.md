@@ -48,6 +48,20 @@ See below for more information on a few open questions that interest me.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.JPG){: style="width: 70%; float: center; margin: 10px"}
 
 
+<h2 id="Neuroscience Theory">PhD research: Neuroscience Theory </h2>
+Modeling and analysis of
+<ul>
+  <li>Biological neural networks</li>
+  <li>Neurons </li>
+  <li> Synapses </li>
+  <li> Ion channels </li>
+</ul>
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.JPG){: style="width: 70%; float: center; margin: 10px"}
+
+
+
+
 
 
 
