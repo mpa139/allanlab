@@ -59,7 +59,7 @@ Modeling and analysis of
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.JPG){: style="width: 70%; float: center; margin: 10px"}
 
-
+<h2 id="Deep Learning">PhD research: Deep Learning </h2>
 
 
 
