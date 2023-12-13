@@ -71,7 +71,7 @@ There are several open theoretical questions in deep learning. Answering these t
 Why is it happening?
   
   </li>
-  <li>Low generalization error. Neural networks are often trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For example, as can be seen in the figure below (from Wu, Zu & E 2017), polyomial curves (right) tend to overfit much more than neural networks (left):   </li>
+  <li><b>Low generalization error.</b> Neural networks are often trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For example, as can be seen in the figure below (from <a href=https://arxiv.org/abs/1706.10239>Wu, Zu & E 2017), polyomial curves (right) tend to overfit much more than neural networks (left):   </li>
   
 </ul>
 
