@@ -60,9 +60,8 @@ Modeling and analysis of
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.JPG){: style="width: 70%; float: center; margin: 10px"}
 
 <h2 id="Deep Learning">Deep Learning </h2>
-<h3>
+
 There are several open theoretical questions in deep learning. Answering these theoretical questions will provide design guidelines and help with some important practicals issue (explained below). Two central questions are:
-<h3>  
   
 <ul>
   <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
