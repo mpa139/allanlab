@@ -28,12 +28,12 @@ See below for more information on a few open questions that interest me.
 <h3 > <a href="#Deep Learning">Current research: Deep Learning</a></h3>
 
 
-<div  style="background-color:blue">
+<div style="background-color:blue">
   parent div
-  <div  style="background-color:red">
+  <div style="background-color:red">
     child 11111
   </div>
-  <div  style="background-color:green">
+  <div style="background-color:green">
   child 22222
   </div>
 </div>
