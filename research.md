@@ -28,7 +28,7 @@ See below for more information on a few open questions that interest me.
 <h3 > <a href="#Deep Learning">Current research: Deep Learning</a></h3>
 
 
-<table>
+<table style="border: 0px">
    <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Mexico</td>
