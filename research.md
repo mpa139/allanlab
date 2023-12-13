@@ -80,11 +80,15 @@ Why is it happening?
 There are many practical bottlenecks in deep learning (the following figures are from Sun et al. 2017). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
 
   
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ML2.png){: style="width: 70%; float: center; margin: 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ML3.png){: style="width: 70%; float: center; margin: 10px"} 
 
   
   </li>
-  
+ <li><b>Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
+   
+[]({{ site.url }}{{ site.baseurl }}/images/respic/ML4.png){: style="width: 70%; float: center; margin: 10px"} 
+
+    
 </ul>
 
 
