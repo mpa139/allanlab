@@ -26,7 +26,7 @@ My research covers all aspects of neural networks and deep learning.
 See below for more information on a few open questions that interest me.
 
 
-<h1> Current research: Deep Learning</h1>
+<h2> Current research: Deep Learning</h2>
 
 <ul>
   <li>Learning and optimization in artificial neural networks</li>
