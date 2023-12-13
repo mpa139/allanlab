@@ -25,19 +25,14 @@ Therefore, my current research aims to uncover the fundamental mathematical prin
 My research covers all aspects of neural networks and deep learning.
 See below for more information on a few open questions that interest me.
 
-## Current research: Deep Learning
 
-<h1>The ul element</h1>
+<h1> Current research: Deep Learning</h1>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Learning and optimization in artificial neural networks</li>
+  <li>Resource efficient training and inference in artificial neural networks </li>
+  <li>Hardware implementations of artificial neural networks</li>
 </ul>
-
- <br>  </br> Learning and optimization in artificial neural networks
- <br> Resource efficient training and inference in artificial neural networks  </br>
- <br> Hardware implementations of artificial neural networks  </br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 70%; float: center; margin: 10px"}
 
