@@ -34,7 +34,7 @@ See below for more information on a few open questions that interest me.
   <li>Hardware implementations of artificial neural networks</li>
 </ul>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 50%; float: right; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/research1.png){: style="width: 30%; float: right; margin: 10px"}
 
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
@@ -45,7 +45,7 @@ See below for more information on a few open questions that interest me.
   <li>Efficient simulation methods</li>
 </ul>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.JPG){: style="width: 70%; float: right; margin: 2px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/research2.JPG){: style="width: 30%; float: right; margin: 10px"}
 
 <h3 > <a href="#Neuroscience Theory">Post-Doc research: PhD research: Neuroscience Theorys</a></h3>
 
@@ -57,7 +57,7 @@ Modeling and analysis of
   <li> Ion channels </li>
 </ul>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.JPG){: style="width: 40%; float: right; margin: 3px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/research3.JPG){: style="width: 30%; float: right; margin: 10px"}
 
 <h2 id="Deep Learning">Deep Learning </h2>
 
