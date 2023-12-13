@@ -34,7 +34,7 @@ See below for more information on a few open questions that interest me.
 </ul>
 
 <div>
-  <img src="/images/respic/research1.png" ">
+  <img src="/images/respic/research1.png" style="width: 50%; float: right; margin: 0px">
 </div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
