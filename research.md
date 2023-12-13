@@ -63,9 +63,7 @@ There are several open theoretical questions in deep learning. Answering these t
    ![]({{ site.url }}{{ site.baseurl }}/images/respic/ML1.png){: style="width: 30%; float: center; margin: 10px"} 
 <ul>
   <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
- <img src="/images/respic/ML1.png" alt="Italian Trulli">
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/ML1.png){: style="width: 30%; float: center; margin: 10px"} 
-
+ <img src="/images/respic/ML1.png" style="width: 30%; float: center; margin: 10px;">
 Why is it happening?</li>
  
 
