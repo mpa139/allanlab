@@ -1,0 +1,14 @@
+I"3
+<h1 id="utilization-of-game-engines-and-virtual-models-to-identify-fm-requirements-for-bim-deliverables">Utilization of game engines and virtual models to identify FM requirements for BIM deliverables</h1>
+<p><img src="/images/pubpic/past_prj8.png" alt="" class="img-responsive" />
+The objective of this research is to identify the facilities managers’ requirements on as-built BIM delivered by contractors, with a focus on the maintenance of HVAC systems. This study builds on the level of development (LOD) effort by AIA and Industry Foundation Classes (IFC) data standard by buildingSmart to show the level of detail of the geometric, spatial and semantic facility information needed to perform specific FM tasks. The research method includes a) the extraction of properties of HVAC system components in IFC and representation of the components in LOD levels and b) developing virtual models of components based on LOD specification to conduct workshops with expert facility operators.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<ul>
+  <li>Dias, P.D., and Ergan, S. (2016). “The need for representing facility information with customized LOD for specific FM tasks.” ASCE Construction Research Congress, San Juan, Puerto Rico, May 31- June 2, 2016. (abstract accepted).</li>
+</ul>
+
+<p><br /></p>
+:ET

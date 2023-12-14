@@ -1,0 +1,15 @@
+I"�
+
+<h1 id="intelligent-wearable-warning-devices-for-improving-roadway-worker-safety">Intelligent Wearable Warning Devices for Improving Roadway Worker Safety</h1>
+<p><img src="/images/pubpic/prj7_worker_safety.png" alt="" class="img-responsive" />
+In the United States, fatalities resulting from vehicular crashes in roadway work zones have recently peaked to over 900 deaths in a single year. Research has investigated many contributing factors (vehicle motorist, environment), but has yet to study how roadway workers’ physically react (e.g., evade body, turn head direction) to hazardous traffic vehicles (e.g., speeding, intrusion). Meanwhile, industry developments have proposed work zone alert systems that detect hazardous vehicles near the construction area and raise alarms (e.g., sounds, lights) for roadway workers from a stationary device. While wearable warning devices can improve on current stationary alert systems, there remains a lack of understanding of how roadway workers will respond to alarms with different attributes (e.g., modality, duration). Roadway workers can also experience alarm fatigue, becoming less responsive (e.g., slower reaction time, less attention to hazards) from repeatedly receiving the same alarms. To address these challenges, this research project seeks to develop an intelligent wearable warning system that raises alarms on an individual worker’s body, based on how workers naturally behave in roadway work zones and which alarm attributes can ensure their long-term overall safety. This project will utilize a wearable sensor and virtual reality (VR) roadway work zone simulation platform to collect data on how  workers physically react to different hazardous vehicles and various attributes of alarms emitted by a wearable device. The collected data will then be used to: 1) develop a deep learning model (i.e., transformer) for accurately predicting a worker’s behavior towards hazardous vehicles, absent any alarms, 2) identify a list of attributes of wearable alarms that are effective in improving worker safety, 3) evaluate a deep reinforcement learning-based (i.e., deep Q-network) alarm control algorithm for modifying wearable alarm attributes to counteract long-term alarm fatigue. These investigations will advance the future development of wearable warning devices for improving roadway construction workers’ safety from vehicular crashes.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<ul>
+  <li>Lu, D., &amp; Ergan, S.(2023) “Predicting roadway workers’ safety behaviour in short-term work zones” in EG-ICE 2023 International Conference on Intelligent Computing in Engineering, July, 2023.</li>
+</ul>
+
+<p><br /></p>
+:ET

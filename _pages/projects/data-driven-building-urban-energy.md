@@ -1,15 +1,15 @@
 ---
-title: "biLAB | Past Project"
+title: "biLAB | Current Project"
 layout: textlay
-excerpt: "Past project"
+excerpt: "Current project"
 sitemap: false
-permalink: /projects/increasing-work-zone-safety
+permalink: /projects/data-driven-building-urban-energy
 ---
 
-{% for project in site.data.projects_past %}
-    {% if project.addr == "increasing-work-zone-safety" %}
+{% for project in site.data.projects_current %}
+    {% if project.addr == "data-driven-building-urban-energy" %}
         {% assign prj = project %}
-        {% break %} <!-- Optional: use this if you only need the first match -->
+        {% break %}
     {% endif %}
 {% endfor %}
 
