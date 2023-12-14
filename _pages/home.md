@@ -9,18 +9,6 @@ Welcome to my home page !
 
 I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning (see [Research](research)). 
 
- **Motivation**
-
-I am interested in a quantitative understanding of intelligence, both artificial and biological — and in the possible relationship between the two. I am mainly focused on neural network models, which are a canonical model for neural computation in the brain and are a central part of many modern artificial intelligence systems. 
-
-Such [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network) with deep architectures have dramatically improved the state-of-the-art in computer vision, speech recognition, natural language processing, and many other domains. 
-
-Despite this impressive progress, artificial neural networks are still [far behind](https://en.wikipedia.org/wiki/Artificial_neural_network) the capabilities of [biological neural networks](https://en.wikipedia.org/wiki/Neural_circuit) in most areas: even the simplest fly is far more resourceful than our most advanced robots. This indicates we have much to improve! 
-
-At the same time, if we wish to understand biological neural networks we must first be able to understand learning in the simplest non-linear artificial neural network – which still remains a mystery.
-
-Therefore, my current research aims to uncover the fundamental mathematical principles governing both types of neural networks.
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
