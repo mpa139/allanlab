@@ -107,13 +107,23 @@ Can we find automatic and robust method to find the "optimal" hyper-parameters?
 
 
 
-
-  
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
-
-
-
 <h2 id="Neuroscience Methods">Neuroscience Methods </h2>
+
+Neuroscience datasets are typically very challenging. They are usually very noise, of limited duration, and are affected by many unobserved latent variables. Analyzing and modeling these datasets becomes more and more challenging over the years, since the number of recorded neurons increases exponentially, similarly to "Moore's law" (Figure from [Stevenson&Kording 2011](https://www.nature.com/articles/nn.2731)):
+
+ <img src="/images/respic/NM1.png" style="width: 70%; float: center; margin: 10px;">
+
+In order to analyze neuroscience data, certain inference tasks are typically necessary to be able to interpret the data:
+
+<b> Activity inference.</b> Neural activity is often measured optically: each neuron is edited genetically so it emits fluorescent pulses whenever it fires a "spike". For example (from [Aherns et al. 2013](https://www.nature.com/articles/nmeth.2434)) see this [video](https://youtu.be/lppAwkek6DI) 
+
+Can we infer the "spiking" firing patterns of each neuron from the observed movie? This includes automatic localization of each neurons, demixing of signals from nearby neurons, denoising and deconvlusion of the observed fluorescence to obtain the original "spikes".
+
+<b> Connectivity estimation.</b>Given the activity patterns of various neurons in the network, can we infer their synaptic and functional connectivity?
+
+<b> Efficient simulation.</b>Accurately simulating large network models, or even highly detailed single neuron models can be very slow and inefficient. Can we improve the simulation methods?
+
+
 
 <h2 id="Neuroscience Theory">Neuroscience Theory </h2>
 
