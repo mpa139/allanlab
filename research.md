@@ -101,23 +101,7 @@ How can we decrease the amount of label data required for training?
 
 For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYkyuPznxZUc1nGy)) [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) , small changes in the training procedure have a large effect on the network performance.
 
- <iframe width="560" height="315" src="//www.youtube.com/embed/w0K1wwSJZoc" frameborder="0">&nbsp; </iframe>
-
-  <iframe width="560" height="315" src="https://youtu.be/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
-
-  <iframe width="560" height="315" src="//www.youtube.com/embed/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
-
-
-    <div class="myvideo">
-       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-           <source src="/media/2016-10-24-add-video-to-github-README/visualise_params.mp4" type="video/mp4" />
-           <source src="/media/2016-10-24-add-video-to-github-README/visualise_params.ogv" type="video/ogg" />
-           <source src="/media/2016-10-24-add-video-to-github-README/visualise_params.webm"  type="video/webm"  />
-       </video>
-    </div>
-
-
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
 
 
 Can we find automatic and robust method to find the "optimal" hyper-parameters?
