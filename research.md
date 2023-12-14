@@ -85,7 +85,7 @@ Why is it happening?
 
 There are many <u> practical bottlenecks </u> in deep learining (the following fifures are from [Sun et al. 2017](https://arxiv.org/abs/1707.02968).Such bottlenecks occur since neural networks models are large, and keep getting larger over the years: 
 
- <img src="/images/respic/ML3.JPG" style="width: 100%; float: center; margin: 10px;">
+ <img src="/images/respic/ML3.JPG" style="width: 70%; float: center; margin: 10px;">
 
 <b> Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
  <img src="/images/respic/ML4.png" style="width: 70%; float: center; margin: 10px;">
