@@ -79,7 +79,7 @@ Why is it happening?
    <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;">
 Why is it happening?
 
-There are many **practical bottlenecks** in deep learning (the following figures are from <a href=https://arxiv.org/abs/1707.02968>Sun et al. 2017 </a>). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
+There are many <u>practical bottlenecks</u> in deep learning (the following figures are from <a href=https://arxiv.org/abs/1707.02968>Sun et al. 2017 </a>). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
  </li>
 
   
