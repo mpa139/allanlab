@@ -91,7 +91,7 @@ There are many <u>practical bottlenecks</u> in deep learning (the following figu
 How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk <a href=https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm >here </a> (in Hebrew) for some of our results on this.
    
   <li><b>Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant: 
-   <img src="/images/respic/ML5.png" style="width: 100%; float: center; margin: 10px;">
+   <img src="/images/respic/ML5.png" style="width: 70%; float: center; margin: 10px;">
 How can we decrease the amount of label data required for training?
 
  </li>
