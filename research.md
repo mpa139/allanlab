@@ -85,7 +85,8 @@ There are many <u>practical bottlenecks</u> in deep learning (the following figu
 
  <li><b>Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
  <img src="/images/respic/ML4.png" style="width: 70%; float: center; margin: 10px;">
- How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk <a href=https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm >here </a> (in Hebrew) for some of our results on this.
+   
+How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk <a href=https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm >here </a> (in Hebrew) for some of our results on this.
    
   </li>
 
