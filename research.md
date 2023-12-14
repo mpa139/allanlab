@@ -82,7 +82,7 @@ For example, as can be seen in the figure below from [Wu, Zu & E 2017](https://a
    
 Why is it happening?
 
-
+There are many <u> practical bottlenecks </u> in deep learining (the following fifures are from [Sun et al. 2017](https://arxiv.org/abs/1707.02968).Such bottlenecks occur since neural networks models are large, and keep getting larger over the years: 
 
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
