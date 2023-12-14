@@ -10,7 +10,7 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 ---
-<p><em><b>- {{ article.headline }} -</b></em></p>
+<p><em style="font-size: 20px; color: black; font-weight: bold;">{{ article.headline }}</em></p>
 <p> {{ article.text}}</p>
 <br>
 {% endfor %}
