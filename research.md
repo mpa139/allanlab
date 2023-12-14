@@ -100,6 +100,7 @@ How can we decrease the amount of label data required for training?
 
 For example, ad can be seen in this video [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) , small changes in the training procedure have a large effect on the network performance:
 
+<iframe width="560" height="315" src="https://youtu.be/OJBFDSynsdU" frameborder="0" allowfullscreen></iframe>
 
 
 
