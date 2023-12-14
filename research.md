@@ -126,7 +126,10 @@ Can we infer the "spiking" firing patterns of each neuron from the observed movi
 
 <h2 id="Neuroscience Theory">Neuroscience Theory </h2>
 
+A central issue in neuroscience is to find the "appropriate" level of modeling: in every level and component of the nervous system we find complex biophysical machinery that affects their functional input output relation. There are many possible levels of modeling:
 
+<b>Network model.</b> Given some observed phenomenon, such as the formation of [hexgonal grid cells](https://en.wikipedia.org/wiki/Grid_cell#:~:text=A%20hexagonal%20lattice.,environment%20in%20a%20hexagonal%20pattern.)
+see this [video](https://docs.google.com/file/d/0BxdUul7wciWqOWUzN3JvT3FhbFE/view?t=15&resourcekey=0-XkhB79FUw2JM53ooWwqkHA) 
 
 
 
