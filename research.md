@@ -74,8 +74,8 @@ There are several open theoretical questions in deep learning. Answering these t
   <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
  <img src="/images/respic/ML1.png" style="width: 100%; float: center; margin: 10px;"></li>
 Why is it happening?
- 
 
+<li><b>Low generalization error.</b> Neural networks are often trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For. Such [Wu Zu & E 2017](https://arxiv.org/abs/1706.10239)) [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 
 
