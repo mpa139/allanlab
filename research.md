@@ -107,6 +107,9 @@ For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYk
 
   <iframe width="560" height="315" src="https://youtu.be/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
 
+  <iframe width="560" height="315" src="//www.youtube.com/embed/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
+
+
 
 Can we find automatic and robust method to find the "optimal" hyper-parameters?
 
