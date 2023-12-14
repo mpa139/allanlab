@@ -88,12 +88,12 @@ There are many <u> practical bottlenecks </u> in deep learining (the following f
  <img src="/images/respic/ML3.JPG" style="width: 100%; float: center; margin: 10px;">
 
 <b> Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
- <img src="/images/respic/ML4.png" style="width: 100%; float: center; margin: 10px;">
+ <img src="/images/respic/ML4.png" style="width: 70%; float: center; margin: 10px;">
 
  How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk [here](https://www.youtube.com/watch?v=CaKlcxyBRP8) (in Hebrew) for some of our results on this.
 
 <b> Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant:
-<img src="/images/respic/ML5.png" style="width: 100%; float: center; margin: 10px;">
+<img src="/images/respic/ML5.png" style="width: 70%; float: center; margin: 10px;">
 
 How can we decrease the amount of label data required for training?
 
@@ -129,7 +129,7 @@ A central issue in neuroscience is to find the "appropriate" level of modeling: 
 <b>Network model.</b> Given some observed phenomenon, such as the formation of [hexgonal grid cells](https://en.wikipedia.org/wiki/Grid_cell#:~:text=A%20hexagonal%20lattice.,environment%20in%20a%20hexagonal%20pattern.)
 see this [video](https://docs.google.com/file/d/0BxdUul7wciWqOWUzN3JvT3FhbFE/view?t=15&resourcekey=0-XkhB79FUw2JM53ooWwqkHA) 
 
-<img src="/images/respic/NT2.JPG" style="width: 50%; float: center; margin: 10px;">
+<img src="/images/respic/NT2.JPG" style="width: 30%; float: center; margin: 10px;">
 
 What is the simplest neural network model that reproduces this phenomenon, and produces useful (disprovable) predictions? Can we infer from this model the ["purpose"](https://en.wikipedia.org/wiki/Four_causes#End) of this neural circuit?
 
