@@ -139,6 +139,12 @@ What is the simplest neural network model that reproduces this phenomenon, and p
 
 Given such biophysical and functional complexity, how can we build and analyze useful neural models, with meaningful predictions? 
 
+<b>Neuronal components.</b> Even sub-cellular components such as a [synapses](https://www.google.co.il/search?q=synapse&rlz=1C1GGRV_enIL751IL751&oq=synapse&aqs=chrome..69i57j69i65j0l4.2656j0j4&sourceid=chrome&ie=UTF-8), or an [ion channel](https://en.wikipedia.org/wiki/Ion_channel) are incredibly complex and can respond stochasticly to stimuli on very long and multiple timescales. For example, here are synaptic strength seems to evolve stochasticaly over timescales weeks ([Minerbi et al. 2009](https://en.wikipedia.org/wiki/Ion_channel)). See this [video](https://docs.google.com/file/d/0BxdUul7wciWqZTgtRTVjazRKQXc/view?t=6&resourcekey=0-Q5ePXyHCbxHy5Om2heOSnQ).
+
+<img src="/images/respic/NT4.JPG" style="width: 70%; float: center; margin: 10px;">
+
+
+
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
