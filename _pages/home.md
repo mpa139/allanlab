@@ -59,7 +59,7 @@ In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a
 
  **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/team) 
 
-
+ I currently teach the following courses :  046211 - Deep Learning , 046195  - Introduction to Machine learning , 046326 - Introduction to Biological Signals and Systems. More Info about these courses can be found in the [Technion moodle](https://moodle2324.technion.ac.il/).
 
 
 
