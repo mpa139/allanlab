@@ -89,8 +89,18 @@ There are many <u>practical bottlenecks</u> in deep learning (the following figu
   </li> 
 How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk <a href=https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm >here </a> (in Hebrew) for some of our results on this.
    
+  <li><b>Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant: 
+   <img src="/images/respic/ML5.png" style="width: 100%; float: center; margin: 10px;">
+How can we decrease the amount of label data required for training?
 
+ </li>
 
+ <li><b>Choosing hyper-parameters.</b> Since larger models take longer to train, it becomes more challenging to choose model hyper-parameters (e.g., architecture, learning rate) in order to obtain good performance. For example, as can be seen in this video (<a href=https://arxiv.org/abs/1704.03971 >Xian&Li 2017 </a>), small changes in the training procedure have a large effect on the network performance:
+   
+ </li>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/OJBFDSynsdU">
+</iframe>
+Can we find automatic and robust method to find the "optimal" hyper-parameters?
     
 </ul>
 
