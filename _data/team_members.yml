@@ -38,14 +38,14 @@
 - name: Qi Lin
   photo: qi.jpg
   info: PhD Candidate, expected graduation date - May 2026
-  prj: TBD
+  prj: <a href="/projects/data-driven-building-urban-energy">Data-driven Building and Urban Energy Efficiency for Sustainable Cities</a>
   email: ql2309@nyu.edu
   desc: Qi is a PhD candidate in Urban Systems. Prior to joining NYU in 2022, he received his MS in Urban Planning from Columbia University and his MArch from the University of Southern California.
 
 - name: Shuo Zhang
   photo: shuo.png
   info: PhD Student, expected graduation date - May 2027
-  prj: TBD
+  prj: <a href="/projects/sensor-enabled-mobility">Sensor-enabled Calibration of VR-Integrated Co-Simulation Platforms for Enhanced Accuracy in Multi-modal Mobility Models</a>
   email: sz4580@nyu.edu
   desc: Shuo is a current PhD student in Transportation systems. Before joining NYU as a PhD student in Fall 2023, he earned his MSc in Transportation engineering at UCLA and BSc in Civil engineering at Dalian Jiaotong University.
 
