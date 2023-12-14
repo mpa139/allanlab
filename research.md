@@ -61,7 +61,7 @@ Modeling and analysis of
 </ul>
 
 <div>
-  <img src="/images/respic/research3.JPG" style="width: 30%; float: center; margin: 10px;">
+  <img src="/images/respic/research3.JPG" style="width: 20%; float: center; margin: 10px;">
 </div>
 
 
