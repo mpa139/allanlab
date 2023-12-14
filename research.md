@@ -70,15 +70,15 @@ Modeling and analysis of
 <h2 id="Deep Learning">Machine Learning </h2>
 
 There are several open theoretical questions in deep learning. Answering these theoretical questions will provide design guidelines and help with some important practicals issue (explained below). Two central questions are:
-<ul>
-  <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
- <img src="/images/respic/ML1.png" style="width: 100%; float: center; margin: 10px;"></li>
+
+ <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
+ <img src="/images/respic/ML1.png" style="width: 100%; float: center; margin: 10px;">
   
 Why is it happening?
-<li> <b> Low generalization error.</b> Neural Networks are ofter trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. 
+<b> Low generalization error.</b> Neural Networks are ofter trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. 
 
 For example, as can be seen in the figure below from [Wu, Zu & E 2017](https://arxiv.org/abs/1706.10239) , polyomial curves (right) tend to overfit much more than neural networks (left):  
- <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;"></li>
+ <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;">
    
 Why is it happening?
 
@@ -86,21 +86,21 @@ There are many <u> practical bottlenecks </u> in deep learining (the following f
 
  <img src="/images/respic/ML3.JPG" style="width: 70%; float: center; margin: 10px;">
 
-<li> <b> Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
- <img src="/images/respic/ML4.png" style="width: 70%; float: center; margin: 10px;"></li>
+<b> Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
+ <img src="/images/respic/ML4.png" style="width: 70%; float: center; margin: 10px;">
 
  How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk [here](https://www.youtube.com/watch?v=CaKlcxyBRP8) (in Hebrew) for some of our results on this.
 
-<li> <b> Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant:
-<img src="/images/respic/ML5.png" style="width: 70%; float: center; margin: 10px;"></li>
+<b> Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant:
+<img src="/images/respic/ML5.png" style="width: 70%; float: center; margin: 10px;">
 
 How can we decrease the amount of label data required for training?
 
-<li> <b> Choosing hyper-parameters.</b> Since larger models take longer to train, it becomes more challenging to choose model hyper-parameters (e.g., architecture, learning rate) in order to obtain good performance. 
+<b> Choosing hyper-parameters.</b> Since larger models take longer to train, it becomes more challenging to choose model hyper-parameters (e.g., architecture, learning rate) in order to obtain good performance. 
 
 For example, ad can be seen in this video [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) , small changes in the training procedure have a large effect on the network performance:
-</li>
-</ul>
+
+
 <div>
 <iframe width="560" height="315" src="https://youtu.be/OJBFDSynsdU" frameborder="0" allowfullscreen></iframe>
 </div>
