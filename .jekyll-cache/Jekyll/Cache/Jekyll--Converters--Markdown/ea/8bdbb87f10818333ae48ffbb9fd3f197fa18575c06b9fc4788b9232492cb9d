@@ -1,0 +1,20 @@
+I"
+
+<h1 id="ai-powered-and-robot-assisted-manufacturing-for-modular-construction-train-module-assembly-progress-inference-ai-model-training-in-virtual-reality">AI-powered and Robot-assisted Manufacturing for Modular Construction: Train module assembly progress inference AI model training in Virtual Reality</h1>
+<p><img src="/images/pubpic/prj8_kpark.png" alt="" class="img-responsive" />
+Modular construction aims at overcoming challenges faced by the traditional construction process such as the shortage of skilled workers, fast-track project requirements, and cost associated with on-site productivity losses and recurrent rework. Since manufacturing is done off-site in controlled factory settings, modular construction is associated with increased productivity and better quality control. However, because every construction project is unique and results in distinct work pieces and building elements to be assembled, modular construction factories necessitate better mechanisms to assist workers during the assembly process in order to minimize errors in selecting the pieces to be assembled and idle times while figuring out the next step in an assembly sequence. Machine intelligence provides opportunities for such assistance; however, a challenge is to rapidly generate large datasets with rich contextual data to train such intelligent agents. This work overviews a mechanism to generate such datasets in virtual environments and evaluates the performance of AI models trained using data generated in virtual environments in recognizing the next installation step in modular assembly sequences. Performance of the trained MV-CNN models (with accuracy of 0.97) shows that virtual environments can potentially be used to generate the required datasets for AI without the costly, time-consuming, and labor-intensive investments needed upfront for capturing real-world data.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<ul>
+  <li>
+    <p>Park, K., &amp; Ergan, S. (2022). Toward Intelligent Agents to Detect Work Pieces and Processes in Modular Construction: An Approach to Generate Synthetic Training Data. In Construction Research Congress 2022 (pp. 802-811).</p>
+  </li>
+  <li>
+    <p>Park, K., Ergan, S., &amp; Feng, C. (2021). Towards intelligent agents to assist in modular construction: evaluation of datasets generated in virtual environments for AI training. In ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 38, pp. 327-333). IAARC Publications.</p>
+  </li>
+</ul>
+
+<p><br /></p>
+:ET

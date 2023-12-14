@@ -1,0 +1,10 @@
+I"§
+<h1 id="sensor-enabled-calibration-of-vr-integrated-co-simulation-platforms-for-enhanced-accuracy-in-multi-modal-mobility-models">Sensor-enabled Calibration of VR-Integrated Co-Simulation Platforms for Enhanced Accuracy in Multi-modal Mobility Models</h1>
+<p><img src="/images/pubpic/prj_shuo.jpeg" alt="" class="img-responsive" />
+Traffic simulations provide valuable insights into traffic control measures, infrastructure design, vehicle-to-vehicle communication, route selection behavior, emissions modeling, and more. SUMO (Simulation of Urban MObility), an open-source, microscopic, and multimodal traffic flow simulation platform, facilitates the creation of realistic traffic flow simulations by incorporating road networks, vehicles, pedestrians, and interactions with other applications such as virtual reality platforms and driver simulators. Calibration aims to bridge the gap between simulation outcomes and real-world observations; however, the effectiveness of calibration relies heavily on the realism of interactive behavior models for various agents, such as cars, drivers, bicyclists, pedestrians (including those with accessibility needs), and workers. Integrating multiple interactive simulations into a coherent representation of real-world transportation settings poses significant challenges due to the complexities of microsimulation, the diverse range of metrics, and varying traffic control systems. Calibration metrics, data sources, temporal scales, and spatial versus perceptual accuracies vary among platforms, leading to complexities when synchronizing and calibrating them collectively.<br />
+<br /><br /></p>
+
+<h3 id="related-papers">Related Papers</h3>
+
+<p><br /></p>
+:ET

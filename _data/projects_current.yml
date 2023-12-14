@@ -4,6 +4,7 @@
   pp:
   description: "This project aims to identify energy efficiency in buildings and communities at an urban scale. Leveraging publicly accessible datasets, a data-driven approach is employed, utilizing computer vision and spatial analysis techniques. The objective is to provide technical support for energy-saving retrofits in buildings and to achieve urban energy conservation and emission reduction goals. This endeavor contributes to the broader discourse on sustainable urban development and energy conservation. The findings from this research could potentially influence policy-making and urban planning, leading to more energy-efficient and sustainable urban environments."
   highlight: 1
+  news2:
 
 - title: "Sensor-enabled Calibration of VR-Integrated Co-Simulation Platforms for Enhanced Accuracy in Multi-modal Mobility Models"
   image: prj_shuo.jpeg
@@ -11,18 +12,18 @@
   pp:
   description: "Traffic simulations provide valuable insights into traffic control measures, infrastructure design, vehicle-to-vehicle communication, route selection behavior, emissions modeling, and more. SUMO (Simulation of Urban MObility), an open-source, microscopic, and multimodal traffic flow simulation platform, facilitates the creation of realistic traffic flow simulations by incorporating road networks, vehicles, pedestrians, and interactions with other applications such as virtual reality platforms and driver simulators. Calibration aims to bridge the gap between simulation outcomes and real-world observations; however, the effectiveness of calibration relies heavily on the realism of interactive behavior models for various agents, such as cars, drivers, bicyclists, pedestrians (including those with accessibility needs), and workers. Integrating multiple interactive simulations into a coherent representation of real-world transportation settings poses significant challenges due to the complexities of microsimulation, the diverse range of metrics, and varying traffic control systems. Calibration metrics, data sources, temporal scales, and spatial versus perceptual accuracies vary among platforms, leading to complexities when synchronizing and calibrating them collectively."
   highlight: 1
+  news2:
 
 - title: "A BIM-based approach for improving building façade inspection in cities"
   image: prj3.png
   addr: urban-facade-inspection
   pp:
-    pp1: "Shi, Z., Lee, Y. and Ergan, S. (2023). “Model-based checklist generation for façade safety inspection guidance" ASCE International Conference on Computing in Civil Engineering, i3CE, June 25-28, 2023, Corvallis, Oregon."
-    pp2: "Shi, Z., Park, K. and Ergan, S. (2023). “A Taxonomy of Urban Façade Defects and Their Distribution on Façade Components: A Data-driven Analysis of Historical Inspection Reports" Journal of Construction Engineering and Management (under review)."
+    pp1: "Shi, Z., Lee, Y. and Ergan, S. (2023). Model-based checklist generation for façade safety inspection guidance ASCE International Conference on Computing in Civil Engineering, i3CE, June 25-28, 2023, Corvallis, Oregon."
+    pp2: "Shi, Z., Park, K. and Ergan, S. (2023). A Taxonomy of Urban Façade Defects and Their Distribution on Façade Components: A Data-driven Analysis of Historical Inspection Reports Journal of Construction Engineering and Management (under review)."
     pp3: "Shi, Z., & Ergan, S. (2021). An Ontology Towards BIM-based Guidance of Building Façade Maintenance. In ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 38, pp. 901-908). IAARC Publications."
     pp4: "Shi, Z., & Ergan, S. (2020). Towards point cloud and model-based urban façade inspection: Challenges in the urban façade inspection process. In Construction Research Congress 2020: Safety, Workforce, and Education (pp. 385-394). American Society of Civil Engineers (ASCE)."
     pp5: "Shi, Z., Park, K., & Ergan, S. (2020). Towards a comprehensive façade inspection process: An NLP based analysis of historical façade inspection reports for knowledge discovery. In ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 37, pp. 433-440). IAARC Publications."
-    pp6: "Shi, Z., and Ergan, S. (2019). “”, 4th International Conference on Civil and Building Engineering Informatics, ICCBEI, Sendai, Japan, November 7-8, 2019. (abstract submitted)."
-    pp7: "Shi, Z., and Ergan, S. (2018). “Leveraging point cloud data for detecting building façade deteriorations caused by neighboring construction.” 5th International Project and Construction Management Conference (IPCMC), Cyprus, November 16-18, 2018."
+    pp6: "Shi, Z., and Ergan, S. (2018). Leveraging point cloud data for detecting building façade deteriorations caused by neighboring construction.” 5th International Project and Construction Management Conference (IPCMC), Cyprus, November 16-18, 2018."
   description: For highly and densely populated cities like New York City, façade inspection is a mandatory routine every 5 years for buildings that have more than 6 floors. The current inspection is mainly based on visual checks, and the results are based on the inspectors’ experience. The objectives of this research are (1) to identify the required information for the decision-making of façade inspection and (2) to support the façade inspection process with a model-based  generation of comprehensive checklists and flexible visualization of inspection findings.
   highlight: 1
   news2:
