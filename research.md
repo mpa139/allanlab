@@ -99,9 +99,11 @@ How can we decrease the amount of label data required for training?
 <li> <b> Choosing hyper-parameters.</b> Since larger models take longer to train, it becomes more challenging to choose model hyper-parameters (e.g., architecture, learning rate) in order to obtain good performance. 
 
 For example, ad can be seen in this video [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) , small changes in the training procedure have a large effect on the network performance:
-
+</li>
+</ul>
+<div>
 <iframe width="560" height="315" src="https://youtu.be/OJBFDSynsdU" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 
 
