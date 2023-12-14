@@ -131,9 +131,11 @@ see this [video](https://docs.google.com/file/d/0BxdUul7wciWqOWUzN3JvT3FhbFE/vie
 
 <img src="/images/respic/NT2.JPG" style="width: 70%; float: center; margin: 10px;">
 
+What is the simplest neural network model that reproduces this phenomenon, and produces useful (disprovable) predictions? Can we infer from this model the ["purpose"](https://en.wikipedia.org/wiki/Four_causes#End) of this neural circuit?
 
+<b>Neuron model.</b> Even a single neuron <u>in synaptic isolation</u>, given direct periodic pulse stimulation, can produce very complicated firing patterns over the timescales of days (Figure from [Gal et al. 2010](https://www.jneurosci.org/content/30/48/16332), a vector of response/no-response folded to matrix over 55 hours):
 
-
+<img src="/images/respic/NT3.png" style="width: 70%; float: center; margin: 10px;">
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
