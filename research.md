@@ -20,6 +20,8 @@ At the same time, if we wish to understand biological neural networks we must fi
 
 Therefore, my current research aims to uncover the fundamental mathematical principles governing both types of neural networks.
 
+
+
 ## Research interests
 
 My research covers all aspects of neural networks and deep learning.
@@ -65,7 +67,7 @@ Modeling and analysis of
 </div>
 
 
-<h2 id="Deep Learning">Deep Learning </h2>
+<h2 id="Deep Learning">Machine Learning </h2>
 
 There are several open theoretical questions in deep learning. Answering these theoretical questions will provide design guidelines and help with some important practicals issue (explained below). Two central questions are:
 <ul>
@@ -74,8 +76,19 @@ There are several open theoretical questions in deep learning. Answering these t
 Why is it happening?
  
 
+
+
+
+
+
+
+
   <li><b>Low generalization error.</b> Neural networks are often trained in a regime where #parameters » #data samples.
-Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For example, as can be seen in the figure below [Wu, Zu & E 2017](a href=https://arxiv.org/abs/1706.10239) ,a polyomial curves (right) tend to overfit much more than neural networks (left): 
+Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For example, as can be seen in the figure below 
+
+[Wu, Zu & E 2017](https://arxiv.org/abs/1706.10239)
+polyomial curves (right) tend to overfit much more than neural networks (left): 
+
    <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;">
  </li>
 Why is it happening?
