@@ -62,9 +62,9 @@ Modeling and analysis of
   <li> Ion channels </li>
 </ul>
 
-<div>
+
   <img src="/images/respic/research3.JPG" style="width: 20%; float: center; margin: 10px;">
-</div>
+
 
 
 <h2 id="Deep Learning">Machine Learning </h2>
@@ -101,9 +101,9 @@ How can we decrease the amount of label data required for training?
 For example, ad can be seen in this video [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) , small changes in the training procedure have a large effect on the network performance:
 
 
-<div>
+
 <iframe width="560" height="315" src="https://youtu.be/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 
 
