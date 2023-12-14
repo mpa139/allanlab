@@ -34,7 +34,7 @@ See below for more information on a few open questions that interest me.
 </ul>
 
 <div>
-  <img src="/images/respic/research1.png" style="width: 30%; float: right; margin: 10px">
+  <img src="/images/respic/research1.png" style="width: 30%; float: center; margin: 10px">
 </div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
@@ -59,6 +59,11 @@ Modeling and analysis of
   <li> Synapses </li>
   <li> Ion channels </li>
 </ul>
+
+<div>
+  <img src="/images/respic/research3.JPG" style="width: 30%; float: center; margin: 10px;">
+</div>
+
 
 <h2 id="Deep Learning">Deep Learning </h2>
 
