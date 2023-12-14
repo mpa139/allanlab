@@ -107,7 +107,7 @@ For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYk
 
   <iframe width="560" height="315" src="//www.youtube.com/embed/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
 
-  <figure class="large">
+
     <div class="myvideo">
        <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
            <source src="/media/2016-10-24-add-video-to-github-README/visualise_params.mp4" type="video/mp4" />
@@ -115,8 +115,8 @@ For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYk
            <source src="/media/2016-10-24-add-video-to-github-README/visualise_params.webm"  type="video/webm"  />
        </video>
     </div>
-<figcaption>A nice movie format</figcaption>
-</figure>
+
+
 
 
 
