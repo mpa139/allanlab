@@ -101,13 +101,15 @@ How can we decrease the amount of label data required for training?
    
  </li>
  
+
+</ul>
+
 <iframe width="420" height="345" src="
 https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm">
 </iframe>
 
 Can we find automatic and robust method to find the "optimal" hyper-parameters?
     
-</ul>
 
 
 <h2 id="Neuroscience Methods">Neuroscience Methods </h2>
