@@ -79,21 +79,21 @@ Why is it happening?
 <b> Low generalization error.</b> Neural Networks are ofter trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. 
 
 For example, as can be seen in the figure below from [Wu, Zu & E 2017](https://arxiv.org/abs/1706.10239) , polyomial curves (right) tend to overfit much more than neural networks (left):  
- <img src="/images/respic/ML2.png" style="width: 50%; float: center; margin: 10px;">
+ <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;">
    
 Why is it happening?
 
 There are many <u> practical bottlenecks </u> in deep learining (the following fifures are from [Sun et al. 2017](https://arxiv.org/abs/1707.02968).Such bottlenecks occur since neural networks models are large, and keep getting larger over the years: 
 
- <img src="/images/respic/ML3.JPG" style="width: 50%; float: center; margin: 10px;">
+ <img src="/images/respic/ML3.JPG" style="width: 100%; float: center; margin: 10px;">
 
 <b> Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
- <img src="/images/respic/ML4.png" style="width: 50%; float: center; margin: 10px;">
+ <img src="/images/respic/ML4.png" style="width: 100%; float: center; margin: 10px;">
 
  How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk [here](https://www.youtube.com/watch?v=CaKlcxyBRP8) (in Hebrew) for some of our results on this.
 
 <b> Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant:
-<img src="/images/respic/ML5.png" style="width: 50%; float: center; margin: 10px;">
+<img src="/images/respic/ML5.png" style="width: 100%; float: center; margin: 10px;">
 
 How can we decrease the amount of label data required for training?
 
@@ -135,13 +135,13 @@ What is the simplest neural network model that reproduces this phenomenon, and p
 
 <b>Neuron model.</b> Even a single neuron <u>in synaptic isolation</u>, given direct periodic pulse stimulation, can produce very complicated firing patterns over the timescales of days (Figure from [Gal et al. 2010](https://www.jneurosci.org/content/30/48/16332), a vector of response/no-response folded to matrix over 55 hours):
 
-<img src="/images/respic/NT3.png" style="width: 50%; float: center; margin: 10px;">
+<img src="/images/respic/NT3.png" style="width: 30%; float: center; margin: 10px;">
 
 Given such biophysical and functional complexity, how can we build and analyze useful neural models, with meaningful predictions? 
 
 <b>Neuronal components.</b> Even sub-cellular components such as a [synapses](https://www.google.co.il/search?q=synapse&rlz=1C1GGRV_enIL751IL751&oq=synapse&aqs=chrome..69i57j69i65j0l4.2656j0j4&sourceid=chrome&ie=UTF-8), or an [ion channel](https://en.wikipedia.org/wiki/Ion_channel) are incredibly complex and can respond stochasticly to stimuli on very long and multiple timescales. For example, here are synaptic strength seems to evolve stochasticaly over timescales weeks ([Minerbi et al. 2009](https://en.wikipedia.org/wiki/Ion_channel)). See this [video](https://docs.google.com/file/d/0BxdUul7wciWqZTgtRTVjazRKQXc/view?t=6&resourcekey=0-Q5ePXyHCbxHy5Om2heOSnQ).
 
-<img src="/images/respic/NT4.JPG" style="width: 50%; float: center; margin: 10px;">
+<img src="/images/respic/NT4.JPG" style="width: 30%; float: center; margin: 10px;">
 
  How can memory of past events be retained in the brain despite these large changes? Can we find the simplest "effective" input-output relation that can be used to model single neurons?
 
