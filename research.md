@@ -101,8 +101,6 @@ How can we decrease the amount of label data required for training?
 
 For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYkyuPznxZUc1nGy)) [Xiang&Li 2017](http://arxiv.org/abs/1704.03971) , small changes in the training procedure have a large effect on the network performance.
 
-<iframe width="220" height="315" src="//www.youtube.com/embed/OJBFDSynsdU?si=AYkyuPznxZUc1nGy" frameborder="0">&nbsp; </iframe>
-
 Can we find automatic and robust method to find the "optimal" hyper-parameters?
 
 
@@ -131,6 +129,7 @@ A central issue in neuroscience is to find the "appropriate" level of modeling: 
 <b>Network model.</b> Given some observed phenomenon, such as the formation of [hexgonal grid cells](https://en.wikipedia.org/wiki/Grid_cell#:~:text=A%20hexagonal%20lattice.,environment%20in%20a%20hexagonal%20pattern.)
 see this [video](https://docs.google.com/file/d/0BxdUul7wciWqOWUzN3JvT3FhbFE/view?t=15&resourcekey=0-XkhB79FUw2JM53ooWwqkHA) 
 
+<img src="/images/respic/NT2.JPG" style="width: 70%; float: center; margin: 10px;">
 
 
 
