@@ -79,7 +79,7 @@ Why is it happening?
    <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;">
 Why is it happening?
 
-There are many practical bottlenecks in deep learning (the following figures are from Sun et al. 2017). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
+There are many <u>practical bottlenecks</u> in deep learning (the following figures are from Sun et al. 2017). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
 
   
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ML3.png){: style="width: 70%; float: center; margin: 10px"}   </li>
