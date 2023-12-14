@@ -80,7 +80,7 @@ Why is it happening?
 Why is it happening?
 
 There are many <u>practical bottlenecks</u> in deep learning (the following figures are from <a href=https://arxiv.org/abs/1707.02968>Sun et al. 2017 </a>). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
-<img src="/images/respic/ML3.JPG" style="width: 100%; float: center; margin: 10px;">
+<img src="/images/respic/ML3.JPG" style="width: 70%; float: center; margin: 10px;">
  </li>
 
   
