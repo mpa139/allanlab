@@ -73,54 +73,20 @@ There are several open theoretical questions in deep learning. Answering these t
 <ul>
   <li> <b>Low training error.</b> Neural Networks are often initialized randomly, and then optimized using local steps with stochastic gradient descent (SGD). Surprisingly, we often observe that SGD converges to a low training error:
  <img src="/images/respic/ML1.png" style="width: 100%; float: center; margin: 10px;"></li>
+  
+Why is it happening?
+<li> <b> Low generalization error.</b> Neural Networks are ofter trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. 
+
+For example, as can be seen in the figure below from [Wu, Zu & E 2017](#https://arxiv.org/abs/1706.10239) , polyomial curves (right) tend to overfit much more than neural networks (left):  
+ <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;"></li>
+   
 Why is it happening?
 
-<li><b>Low generalization error.</b> Neural networks are often trained in a regime where #parameters » #data samples. Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For. Such [Wu Zu & E 2017](https://arxiv.org/abs/1706.10239)) [artificial neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 
 
+Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
 
-
-
-
-  <li><b>Low generalization error.</b> Neural networks are often trained in a regime where #parameters » #data samples.
-Surprisingly, these networks generalize well in such a regime, even when there is no explicit regularization. For example, as can be seen in the figure below from [Wu, Zu & E 2017](https://arxiv.org/abs/1706.10239),
-polyomial curves (right) tend to overfit much more than neural networks (left): 
-
-   <img src="/images/respic/ML2.png" style="width: 100%; float: center; margin: 10px;">
- </li>
-Why is it happening?
-
-There are many <u>practical bottlenecks</u> in deep learning (the following figures are from <a href=https://arxiv.org/abs/1707.02968>Sun et al. 2017 </a>). Such bottlenecks occur since neural networks models are large, and keep getting larger over the years:
-<img src="/images/respic/ML3.JPG" style="width: 70%; float: center; margin: 10px;">
-
-
- <li><b>Computational resources.</b> Using larger neural networks require more computational resources, such as power-hungry GPUs:
- <img src="/images/respic/ML4.png" style="width: 70%; float: center; margin: 10px;">
-
-  </li> 
-How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? 
-See my talk <a href=https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm >here </a> (in Hebrew) for some of our results on this.
-   
-  <li><b>Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant: 
-   <img src="/images/respic/ML5.png" style="width: 70%; float: center; margin: 10px;">
-How can we decrease the amount of label data required for training?
-
- </li>
-
- <li><b>Choosing hyper-parameters.</b> Since larger models take longer to train, it becomes more challenging to choose model hyper-parameters (e.g., architecture, learning rate) in order to obtain good performance. For example, as can be seen in this video (<a href=https://arxiv.org/abs/1704.03971 >Xian&Li 2017 </a>), small changes in the training procedure have a large effect on the network performance:
-   
- </li>
- 
-
-</ul>
-
-<iframe width="420" height="345" src="
-https://youtu.be/CaKlcxyBRP8?si=yvPhL8H1ydSaRGrm">
-</iframe>
-
-Can we find automatic and robust method to find the "optimal" hyper-parameters?
-    
 
 
 <h2 id="Neuroscience Methods">Neuroscience Methods </h2>
