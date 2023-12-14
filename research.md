@@ -21,6 +21,7 @@ At the same time, if we wish to understand biological neural networks we must fi
 Therefore, my current research aims to uncover the fundamental mathematical principles governing both types of neural networks.
 
 **Recorded Talks**
+
 Talks for the general audience:
 
 - [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I)
