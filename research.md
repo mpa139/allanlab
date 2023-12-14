@@ -91,7 +91,10 @@ There are many <u> practical bottlenecks </u> in deep learining (the following f
 
  How can we train and use neural networks more efficiently (i.e., better speed, energy, memory), without sacrificing accuracy? See my talk [here](https://www.youtube.com/watch?v=CaKlcxyBRP8) (in Hebrew) for some of our results on this.
 
+<li> <b> Labeled data.</b> In order to train neural nets to high accuracy levels, large quantities of labeled data are required. Such datasets are hard to obtain. For example, for many years the size of the largest vision training data remained constant:
+<img src="/images/respic/ML5.png" style="width: 70%; float: center; margin: 10px;"></li>
 
+How can we decrease the amount of label data required for training?
 
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
