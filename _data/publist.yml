@@ -918,6 +918,11 @@
     url: https://openreview.net/forum?id=cu6zDHCfhZx
     display: Third Symposium on Advances in Approximate Bayesian Inference, contributed talk (2021).
   news1:
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
+  news1: 
 
 - title: "How Learning Rate and Delay Affect Minima Selection in Asynchronous Training of Neural Networks: Toward Closing the Generalization Gap (Oral)"
   image: dummy.png
@@ -926,7 +931,12 @@
   link:
     url: https://drive.google.com/file/d/101yxxakquNQYtr5CD7bdbDgDLVmt1H-J/view
     display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop (2019)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
+  news1: 
  
 - title: "A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off (Oral)"
   image: dummy.png
@@ -935,6 +945,11 @@
   link:
     url: https://arxiv.org/abs/1906.00771
     display:  ICML 'Physics for deep learning' workshop (2019)
+  news1:
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
   news1: 
 
 - title: "Increasing batch size through instance repetition improves generalization (Poster)"
@@ -944,7 +959,12 @@
   link:
     url: https://arxiv.org/abs/1901.09335
     display: ICML 'Understanding and Improving Generalization in Deep Learning' workshop, poster (2019)
+    RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
   news1:  
+  
 
 - title: "Task Agnostic Continual Learning Using Online Variational Bayes (Poster)"
   image: dummy.png
@@ -953,6 +973,10 @@
   link:
     url: https://arxiv.org/abs/1803.10123
     display:  NIPS Deep Bayesian learning workshop, 2018
+    RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
   news1:  
 
 - title: "Infer2Train: leveraging inference for better training of deep networks (Poster)"
@@ -963,6 +987,10 @@
     url: http://learningsys.org/nips18/assets/papers/24CameraReadySubmissionInfer2Train.pdf
     display: NIPS Deep Bayesian learning workshop, 2018
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Exponentially vanishing sub-optimal local minima in multilayer neural networks (Poster)"
   image: dummy.png
@@ -972,6 +1000,10 @@
     url: https://arxiv.org/abs/1702.05777
     display: ICLR workshop, 2018
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Quantized Neural Networks (Poster)"
   image: dummy.png
@@ -981,6 +1013,10 @@
     url: 
     display: NIPS workshop on Efficient Methods for Deep Neural Networks  (2016)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: "Quantized Neural Networks (Poster)"
@@ -990,7 +1026,11 @@
   link:
     url: 
     display: NIPS workshop on Efficient Methods for Deep Neural Networks  (2016)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: "Binarized neural networks (Poster)"
@@ -1001,6 +1041,10 @@
     url: 
     display: Machine Learning seminar, IBM research center, Haifa (2016)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Data-driven neural models part II: connectivity patterns of human seizures (Best student poster)"
   image: dummy.png
@@ -1010,6 +1054,10 @@
     url: 
     display: CNS (2016)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Data-driven neural models part I: state and parameter estimation (Poster)"
   image: dummy.png
@@ -1028,7 +1076,11 @@
   link:
     url: 
     display: SFN (2015)
-  news1:  
+  news1:
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Fast Constrained Non-negative Matrix Factorization for Whole-Brain Calcium Imaging Data (Poster)"
   image: dummy.png
@@ -1038,6 +1090,10 @@
     url: https://users.soe.ucsc.edu/~afletcher/neuralsysnips.html
     display: NIPS workshop on Statistical Methods for Understanding Neural Systems (2015)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Implementing efficient 'shotgun' inference of neural connectivity from highly sub-sampled activity data (Spotlight Presentation and poster)"
   image: dummy.png
@@ -1046,7 +1102,11 @@
   link:
     url: https://videolectures.net/netadis2015_soudry_activity_data/
     display: NIPS workshop on Modelling and Inference for Dynamics on Complex Interaction Networks (2015)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous Or Discrete Weights (Poster)"
@@ -1057,6 +1117,10 @@
     url: 
     display: Machine Learning seminar (IBM research center, Haifa 2015)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: Efficient “shotgun” inference of neural connectivity from highly sub-sampled activity data (Oral)"
@@ -1067,6 +1131,10 @@
     url: 
     display:  Swartz Annual Meeting at Janelia Research Campus (2015)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "A shotgun sampling solution for the common input problem in neural connectivity inference (Poster)"
   image: dummy.png
@@ -1075,7 +1143,11 @@
   link:
     url: 
     display:  COSYNE (2015)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Whole Brain Region of Interest Detection (Poster)"
   image: dummy.png
@@ -1084,7 +1156,11 @@
   link:
     url: 
     display: NIPS workshop on Large scale optical physiology -From data-acquisition to models of neural coding (2014) 
-  news1:  
+  news1:
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Whole Brain Region of Interest Detection (Poster)"
   image: dummy.png
@@ -1093,7 +1169,11 @@
   link:
     url: 
     display:  AREADNE (2014)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: " Mean Field Bayes Backpropagation: scalable training of multilayer neural networks with discrete weights (Poster)"
   image: dummy.png
@@ -1102,7 +1182,11 @@
   link:
     url: 
     display:  Machine Learning seminar (IBM research center, Haifa 2013)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: "Implementing Hebbian Learning Rules with Memristors (Poster)"
@@ -1113,6 +1197,10 @@
     url: 
     display: Memristor-based Systems for Neuromorphic Applications (Torino University 2013)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "A spiking input-output relation for general biophysical neuron models explains observed 1/f response (Poster)"
   image: dummy.png
@@ -1121,7 +1209,11 @@
   link:
     url: 
     display:  COSYNE (2013)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: "Spiking input-output relation of general biophysical neuron models – exact analytic solutions and comparisons with experiment (Poster)"
@@ -1131,7 +1223,11 @@
   link:
     url: 
     display:  Variants and invariants in brain and behavior (Technion 2012)
-  news1:  
+  news1:
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 
 - title: "The slow dynamics of neuronal excitability - exact analytic solutions for the response of general biophysical neuron models at long times, and comparisons with experiment (Poster)"
@@ -1141,7 +1237,11 @@
   link:
     url: 
     display:  Brain Plasticity Symposium (Tel Aviv university 2012)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "The slow dynamics of neuronal excitability (Poster)"
   image: dummy.png
@@ -1151,6 +1251,10 @@
     url: 
     display:  ISFN (2012)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "The neuron as a population of ion channels: The emergence of stochastic and history dependent behavior (Poster)"
   image: dummy.png
@@ -1159,7 +1263,11 @@
   link:
     url: 
     display:  COSYNE (2011)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "The neuron as a population of ion channels: The emergence of stochastic and history dependent behavior (Oral)"
   image: dummy.png
@@ -1168,7 +1276,11 @@
   link:
     url: 
     display:  ISFN (2010)
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
   
 - title: "History dependent dynamics in ion channels - an analytic study (Poster)"
@@ -1179,6 +1291,10 @@
     url: 
     display:  COSYNE (2010)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
 
 - title: "Adapting Timescales: From Channel to Neuron” (Oral)"
   image: dummy.png
@@ -1188,6 +1304,17 @@
     url: 
     display:  ISFN (2009)
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 1
+  Notes: 0
+
+
+
+
+
+
+
 
 - title: "Mix & Match: training convnets with mixed image sizes for improved accuracy, speed and scale resiliency"
   image: dummy.png
@@ -1196,7 +1323,11 @@
   link:
     url: https://arxiv.org/abs/1908.08986
     display:  See Here
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 1
 
 - title: "On the Blindspots of Convolutional Networks"
   image: dummy.png
@@ -1206,6 +1337,10 @@
     url: https://arxiv.org/abs/1802.05187
     display:  See Here
   news1:  
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 1
 
 - title: "No bad local minima: Data independent training error guarantees for multilayer neural networks"
   image: dummy.png
@@ -1214,4 +1349,8 @@
   link:
     url: https://arxiv.org/abs/1605.08361
     display:  See Here
-  news1:  
+  news1: 
+  RefPro: 0
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 1
