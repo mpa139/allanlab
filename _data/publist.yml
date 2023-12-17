@@ -653,6 +653,11 @@
     url: https://direct.mit.edu/neco/article/33/11/3139/107073/Task-Agnostic-Continual-Learning-Using-Online
     display:  Neural Computation, 2021
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
   news1: 
 
 - title: "The Global Optimization Geometry of Shallow Linear Neural Networks" 
@@ -663,6 +668,11 @@
     url: https://link.springer.com/article/10.1007/s10851-019-00889-w?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20190603
     display:  Journal of Mathematical Imaging and Vision, 2019
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
   news1: 
 
 - title: "Seizure pathways: A model-based investigation" 
@@ -673,6 +683,11 @@
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006403
     display: PLoS Comput Biol., vol. 14 no. 10, e1006403, 2018
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
   news1: 
 
 - title: "The Implicit Bias of Gradient Descent on Separable Data" 
@@ -683,6 +698,11 @@
     url: https://jmlr.org/papers/v19/18-188.html
     display: JMLR, 2018
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
   news1: 
 
 - title: "Bifurcation Analysis of Two Coupled Jansen-Rit Neural Mass Models"
@@ -693,6 +713,11 @@
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192842
     display: PLOS One, vol. 13 no. 3, e0192842, 2018
   news1: 
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations"
   image: dummy.png
@@ -701,6 +726,11 @@
   link:
     url: https://jmlr.org/papers/v18/16-456.html
     display: JMLR, 2018
+  news1:
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Multi-scale approaches for high-speed imaging and analysis of large neural populations"
@@ -711,6 +741,11 @@
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005685
     display: PLos Comput Biol, vol., 13 no. 8, e1005685, 2017
   news1: 
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis"
   image: dummy.png
@@ -720,6 +755,11 @@
     url: https://elifesciences.org/articles/10094v2
     display: eLife, vol. 5, e10094, 2016
   news1: <a href="https://elifesciences.org/articles/10094v2"> F1000 Recommended </a>
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Simultaneous Denoising, Deconvolution, and Demixing of Calcium Imaging Data"
   image: dummy.png
@@ -729,6 +769,11 @@
     url: https://www.cell.com/neuron/fulltext/S0896-6273(15)01084-3
     display: Neuron, vol. 89, no. 2,  2016
   news1: <a href="https://www.cell.com/cms/attachment/2046949148/2057837139/mmc1.pdf"> ِAppendix </a> , <a href="https://github.com/flatironinstitute/CaImAn-MATLAB">Code </a>
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Efficient 'Shotgun' Inference of Neural Connectivity from Highly Sub-sampled Activity Data"
   image: dummy.png
@@ -738,6 +783,11 @@
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004464
     display:  PLoS Comput Biol, vol. 11, no. 10, 2015
   news1: <a href="https://videolectures.net/netadis2015_soudry_activity_data/"> 5 mins presentation </a> , <a href="https://github.com/danielso/Shotgun">Code </a>
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Memristor-based multilayer neural networks with online gradient descent training"
   image: dummy.png
@@ -747,6 +797,11 @@
     url: https://ieeexplore.ieee.org/document/7010034
     display:  IEEE TNNLS, vol. 26, no. 10, 2015
   news1: <a href="https://www.dropbox.com/sh/7je4fufb6d4c2sr/AAA7RgsIlsRu-lNN6imELqjDa?dl=0"> Complete Code </a> 
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Diffusion approximation-based simulation of stochastic ion channels: which method to use?"
   image: dummy.png
@@ -755,6 +810,11 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00139/full
     display:  Front. Comput. Neurosci., vol. 8, no. 139, 2014
+  news1: 
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
     
 - title: "The neuronal response at extended timescales: a linearized spiking input-output relation"
@@ -765,6 +825,11 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 29, 2014
   news1: 
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
        
 - title: "The neuronal response at extended timescales: long term correlations without long memory"
   image: dummy.png
@@ -774,6 +839,11 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 35, 2014
   news1:
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 - title: "Simple, fast and accurate implementation of the diffusion approximation algorithm for stochastic ion channels with multiple states"
   image: dummy.png
@@ -783,6 +853,11 @@
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036670
     display: PLoS ONE, vol. 7, no. 5 p. e36670, 2012
   news1:
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
 
 
 - title: "Conductance-based neuron models and the slow dynamics of excitability"
@@ -793,6 +868,11 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2012.00004/full
     display: Front. Comput. Neurosci., vol. 6, no. 4, 2012
   news1:
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
  
 - title: "History-Dependent Dynamics in a Generic Model of Ion Channels–An Analytic Study"
   image: dummy.png
@@ -802,6 +882,21 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2010.00003/full
     display: Front. Comput. Neurosci., vol. 4, Jan. 2010
   news1:
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
+  news1: 
+
+
+
+
+
+
+
+
+
+
 
 
 
