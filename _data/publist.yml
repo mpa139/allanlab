@@ -463,6 +463,13 @@
   highlight: 0
   news1: 
 
+
+
+
+
+
+
+
 - title: "Training of Quantized Deep Neural Networks using a Magnetic Tunnel Junction-Based Synapse"
   image: dummy.png
   description:  " "
@@ -471,6 +478,8 @@
     url:  https://iopscience.iop.org/article/10.1088/1361-6641/ac251b/meta
     display:  to appear in  Semiconductor Science and Technology, 2021
   highlight: 0
+  RefPro: 0
+  JournalPaper: 1  
   news1: 
 
 
