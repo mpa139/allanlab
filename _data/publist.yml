@@ -6,6 +6,7 @@
     url: https://arxiv.org/abs/2311.06748
     display:  NeurIPS 2023 
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
@@ -16,6 +17,7 @@
     url: https://arxiv.org/abs/2306.10598 
     display:  NeurIPS 2023 
   highlight: 1
+  Refereed Proceedings: 1
   news1: 
 
 
@@ -27,6 +29,7 @@
     url: https://arxiv.org/abs/2306.03072
     display:  NeurIPS 2023 
   highlight: 0
+  Refereed Proceedings: 1
   news1:
 
 
@@ -38,6 +41,7 @@
     url: https://arxiv.org/abs/2305.13064
     display:  ICML 2023 
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "Continual Learning in Linear Classification on Separable Data"
@@ -48,6 +52,7 @@
     url: https://arxiv.org/abs/2306.03534
     display:  ICML 2023
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
@@ -58,6 +63,7 @@
     url: https://arxiv.org/abs/2303.08085
     display: CVPR 2023 
   highlight: 1
+  Refereed Proceedings: 1
   news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
 
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
@@ -68,6 +74,7 @@
     url: https://arxiv.org/abs/2306.17499
     display: ICLR 2023 
   highlight: 1
+  Refereed Proceedings: 1
 
 - title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
   image: dummy.png
@@ -77,6 +84,7 @@
     url: https://arxiv.org/abs/2203.10991
     display:   ICLR 2023 ("notable top 25%" of accepted papers)
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
@@ -87,6 +95,7 @@
     url: https://openreview.net/forum?id=yTbNYYcopd
     display: ICLR 2023
   highlight: 1
+  Refereed Proceedings: 1
   news1: 
   news2: 
 
@@ -98,6 +107,7 @@
     url: hhttps://arxiv.org/pdf/2302.05334
     display:   AISTAT 2023 
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
@@ -108,6 +118,7 @@
     url: https://arxiv.org/abs/2205.09588
     display:  COLT 2022 
   highlight: 1
+  Refereed Proceedings: 1
   news2:
 
 - title: "Implicit Bias of the Step Size in Linear Diagonal Neural Networks"
@@ -118,6 +129,7 @@
     url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
     display: ICML 2022
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
@@ -128,6 +140,7 @@
     url: https://openreview.net/forum?id=Oy9WeuZD51
     display:   ICLR 2022 (2022)
   highlight: 1
+  Refereed Proceedings: 1
   news2: 
 
 - title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
@@ -138,6 +151,7 @@
     url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
     display: AAAI 2022 (15% acceptance rate)
   highlight: 0
+  Refereed Proceedings: 1
   news1: 
 
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
