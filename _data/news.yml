@@ -7,9 +7,13 @@
 - date: 21. September 2023
   headline: The paper ["Explore to Generalize in Zero-Shot RL"](https://arxiv.org/abs/2306.03072) has been accepted at NeurIPS 2023.
 
-- date: 28. May 2023
-  headline: The [SuperC website](https://superc2033.com) is live! We are excited to be part of this journey.
+- date: 25. April 2023
+  headline: The paper ["Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"](https://arxiv.org/abs/2305.13064) has been accepted at ICML 2023.
 
-- date: 22. June 2023
-  headline: Jiasen's paper on noise in mesoscopic junctions is [on arXiv](https://arxiv.org/abs/2306.02397). 
+- date: 25. April 2023
+  headline: The paper ["Continual Learning in Linear Classification on Separable Data"](https://arxiv.org/abs/2306.03534) has been accepted at ICML 2023.
+
+- date: 23. March 2023
+  headline: The paper ["Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"](https://arxiv.org/abs/2303.08085) has been accepted at CVPR 2023.
+
 
