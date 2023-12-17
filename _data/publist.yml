@@ -6,7 +6,10 @@
     url: https://arxiv.org/abs/2311.06748
     display:  NeurIPS 2023 
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
@@ -17,7 +20,10 @@
     url: https://arxiv.org/abs/2306.10598 
     display:  NeurIPS 2023 
   highlight: 1
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 
@@ -29,7 +35,10 @@
     url: https://arxiv.org/abs/2306.03072
     display:  NeurIPS 2023 
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1:
 
 
@@ -41,7 +50,10 @@
     url: https://arxiv.org/abs/2305.13064
     display:  ICML 2023 
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Continual Learning in Linear Classification on Separable Data"
@@ -52,7 +64,10 @@
     url: https://arxiv.org/abs/2306.03534
     display:  ICML 2023
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
@@ -63,7 +78,10 @@
     url: https://arxiv.org/abs/2303.08085
     display: CVPR 2023 
   highlight: 1
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
 
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
@@ -74,7 +92,10 @@
     url: https://arxiv.org/abs/2306.17499
     display: ICLR 2023 
   highlight: 1
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
 
 - title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
   image: dummy.png
@@ -84,7 +105,10 @@
     url: https://arxiv.org/abs/2203.10991
     display:   ICLR 2023 ("notable top 25%" of accepted papers)
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
@@ -95,7 +119,10 @@
     url: https://openreview.net/forum?id=yTbNYYcopd
     display: ICLR 2023
   highlight: 1
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
   news2: 
 
@@ -107,7 +134,10 @@
     url: hhttps://arxiv.org/pdf/2302.05334
     display:   AISTAT 2023 
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
@@ -118,7 +148,10 @@
     url: https://arxiv.org/abs/2205.09588
     display:  COLT 2022 
   highlight: 1
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 - title: "Implicit Bias of the Step Size in Linear Diagonal Neural Networks"
@@ -129,7 +162,10 @@
     url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
     display: ICML 2022
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
@@ -140,7 +176,10 @@
     url: https://openreview.net/forum?id=Oy9WeuZD51
     display:   ICLR 2022 (2022)
   highlight: 1
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2: 
 
 - title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
@@ -151,7 +190,10 @@
     url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
     display: AAAI 2022 (15% acceptance rate)
   highlight: 0
-  Refereed Proceedings: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
@@ -162,6 +204,10 @@
     url: https://arxiv.org/abs/2102.08124
     display:  NeurIPS 2021 (2021)
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: <a href="https://github.com/papers-submission/structured_transposable_masks"> See more details about this paper </a>
 
 - title: "Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling"
@@ -172,6 +218,10 @@
     url: https://arxiv.org/abs/2106.07218
     display:  NeurIPS 2021
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "The Implicit Bias of Minima Stability: A View from Function Space"
@@ -182,6 +232,10 @@
     url: https://openreview.net/forum?id=2STmSnZAEt2
     display:  NeurIPS 2021
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title:  "On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent"
@@ -192,6 +246,10 @@
     url: https://arxiv.org/abs/2102.09769
     display:  ICML 2021, Long talk (3% acceptance rate).
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Accurate Post Training Quantization With Small Calibration Sets"
@@ -202,6 +260,10 @@
     url: https://arxiv.org/abs/2006.10518
     display:  ICML 2021
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
   
@@ -213,6 +275,10 @@
     url: https://openreview.net/forum?id=EoFNy62JGd
     display:  ICLR 2021 (2021)
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 
@@ -224,6 +290,10 @@
     url: https://arxiv.org/abs/2007.06738
     display:  NeurIPS 2020, Spotlight (3% acceptance rate) (2020)
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2: 
 
 - title: "Beyond Signal Propagation: Is Feature Diversity Necessary in Deep Neural Network Initialization?"
@@ -234,6 +304,10 @@
     url: https://arxiv.org/abs/2007.01038
     display:  ICML 2020
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Kernel and Rich Regimes in Overparametrized Models"
@@ -244,6 +318,10 @@
     url: https://arxiv.org/abs/2002.09277
     display:  COLT 2020
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "The Knowledge Within: Methods for Data-Free Model Compression"
@@ -254,6 +332,10 @@
     url: https://arxiv.org/abs/1912.01274
     display:   CVPR 2020 
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 
@@ -265,6 +347,10 @@
     url: https://arxiv.org/abs/1901.09335
     display:  CVPR 2020
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?"
@@ -275,6 +361,10 @@
     url: https://arxiv.org/abs/1909.12340
     display:  ICLR 2020 
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 
@@ -286,6 +376,10 @@
     url: https://arxiv.org/pdf/1910.01635.pdf
     display:  ICLR 2020 
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: <a href="https://www.youtube.com/watch?v=WObxWBLAdsA"> video about this paper </a>
   
   
@@ -297,6 +391,10 @@
     url: https://arxiv.org/abs/1906.00771
     display:  NeurIPS 2019
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 - title: "Post-training 4-bit quantization of convolution networks for rapid-deployment"
@@ -307,6 +405,10 @@
     url: https://arxiv.org/abs/1810.05723
     display:   NeurIPS 2019 
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1:  <a href = "https://github.com/submission2019/cnn-quantization"> See more details about this paper </a> 
 
 - title: "Lexicographic and Depth-Sensitive Margins in Homogeneous and Non-Homogeneous Deep Models"
@@ -317,6 +419,10 @@
     url: https://arxiv.org/pdf/1905.07325.pdf
     display:  ICML 2019 
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
  
 
@@ -328,6 +434,10 @@
     url: https://arxiv.org/abs/1902.05040
     display: COLT 2019 
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2: 
 
 - title: "Convergence of Gradient Descent on Separable Data"
@@ -338,6 +448,10 @@
     url: https://arxiv.org/abs/1803.01905
     display:  AISTATS 2019, Oral Presentation (2.5% acceptance rate). 
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Stochastic Gradient Descent on Separable Data: Exact Convergence with a Fixed Learning Rate"
@@ -348,6 +462,10 @@
     url: https://arxiv.org/abs/1806.01796v3
     display:  AISTATS 2019 
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Norm matters: efficient and accurate normalization schemes in deep networks"
@@ -358,6 +476,10 @@
     url: https://proceedings.neurips.cc/paper_files/paper/2018/file/a0160709701140704575d499c997b6ca-Paper.pdf
     display:   NeurIPS 2018, Spotlight (3.5% acceptance rate)
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Implicit Bias of Gradient Descent on Linear Convolutional Networks"
@@ -368,6 +490,10 @@
     url:  https://arxiv.org/abs/1806.00468
     display:   NeurIPS 2018
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
   
@@ -379,6 +505,10 @@
     url: https://arxiv.org/abs/1805.11046
     display:  NeurIPS 2018
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 - title: "Characterizing Implicit Bias in Terms of Optimization Geometry"
@@ -389,6 +519,10 @@
     url:  https://arxiv.org/abs/1802.08246
     display:   ICML 2018
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "The Implicit Bias of Gradient Descent on Separable Data"
@@ -399,6 +533,10 @@
     url: https://openreview.net/pdf?id=r1q7n9gAb
     display: ICLR 2018 (2018)
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news2:
 
 - title: "Fix your classifier: the marginal value of training the last weight layer"
@@ -409,6 +547,10 @@
     url:  https://arxiv.org/abs/1801.04540
     display:   ICLR 2018
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 
@@ -420,6 +562,10 @@
     url:  https://papers.nips.cc/paper_files/paper/2017/hash/a5e0ff62be0b08456fc7f1e88812af3d-Abstract.html
     display:   NIPS 2017, Oral presentation (1.2% acceptance rate)
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: <a href = "https://github.com/eladhoffer/bigBatch"> See more details about this paper </a> 
   
 - title: "Binarized Neural Networks"
@@ -430,6 +576,10 @@
     url: https://arxiv.org/abs/1602.02830
     display:  NIPS 2016 (2016)
   highlight: 1
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
   news2: 
 
@@ -441,6 +591,10 @@
     url:  https://www.semanticscholar.org/paper/A-fully-analog-memristor-based-neural-network-with-Rosenthal-Greshnikov/66879965418dedeadadd1761b386a1dbaa67c7b2
     display:  Proceeding of the IEEE International Conference on Circuits and Systems, pp. 1394-1397, 2016
   highlight: 0
+  RefPro: 1
+  JournalPaper: 0  
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 - title: "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous Or Discrete Weights"
