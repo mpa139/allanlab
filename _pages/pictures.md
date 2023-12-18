@@ -2,7 +2,7 @@
 title: "Allan Lab - ERC"
 layout: piclay
 excerpt: "Allan Lab -- ERC"
-permalink: /pictures/
+permalink: /ERC/
 ---
 
 ## The ERC A-B-C-Deep Project
