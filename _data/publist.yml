@@ -88,6 +88,7 @@
   RefAbs: 0
   Notes: 0
   news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
+  ERC: 1
 
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
   image: TheImplicitPaper.JPG
@@ -101,6 +102,7 @@
   JourPap: 0 
   RefAbs: 0
   Notes: 0
+  ERC: 1
 
 - title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
   image: dummy.png
@@ -115,7 +117,8 @@
   RefAbs: 0
   Notes: 0
   news1: 
-
+  ERC: 0
+  
 - title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
   image: AccurateNeuralPaper.JPG
   description: Previous works separately showed that accurate 4-bit quantization of the neural gradients needs to (1) be unbiased and (2) have a log scale. However, no previous work aimed to combine both ideas, as we do in this work. Specifically, we examine the importance of having unbiased quantization in quantized neural network training, where to maintain it, and how to combine it with logarithmic. 
@@ -130,13 +133,15 @@
   Notes: 0
   news1: 
   news2: 
+  ERC: 1
+  
 
 - title: "The Role of Codeword-to-Class Assignments in Error Correcting Codes: An Empirical Study"
   image: dummy.png
   description:  " "
   authors: I. Evron * , O. Onn * , T. Weiss, H. Azeroual,**D. Soudry**
   link:
-    url: hhttps://arxiv.org/pdf/2302.05334
+    url: https://arxiv.org/pdf/2302.05334
     display:   AISTAT 2023 
   highlight: 0
   RefPro: 1
@@ -144,6 +149,8 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 1
+  
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
   image: HowCatastrophicPaper.JPG
@@ -158,6 +165,7 @@
   RefAbs: 0
   Notes: 0
   news2:
+  ERC: 0
 
 - title: "Implicit Bias of the Step Size in Linear Diagonal Neural Networks"
   image: dummy.png
@@ -172,6 +180,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 0
 
 - title: "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks"
   image: StatisicalFrameworkPaper.JPG
@@ -186,6 +195,7 @@
   RefAbs: 0
   Notes: 0
   news2: 
+  ERC: 0
 
 - title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
   image: dummy.png
@@ -200,6 +210,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 0
 
 - title: "Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks"
   image: AcceleratedSparsePaper.JPG
