@@ -2,6 +2,7 @@
 title: "Allan Lab - ERC"
 layout: gridlay
 excerpt: "Allan Lab -- ERC"
+sitemap: false
 permalink: /ERC/
 ---
 
