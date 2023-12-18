@@ -7,7 +7,7 @@
     display:  NeurIPS 2023 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -21,7 +21,7 @@
     display:  NeurIPS 2023 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -36,7 +36,7 @@
     display:  NeurIPS 2023 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1:
@@ -51,7 +51,7 @@
     display:  ICML 2023 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0   
   RefAbs: 0
   Notes: 0
   news1: 
@@ -65,7 +65,7 @@
     display:  ICML 2023
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -79,7 +79,7 @@
     display: CVPR 2023 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
@@ -93,7 +93,7 @@
     display: ICLR 2023 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
 
@@ -106,7 +106,7 @@
     display:   ICLR 2023 ("notable top 25%" of accepted papers)
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -120,7 +120,7 @@
     display: ICLR 2023
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -135,7 +135,7 @@
     display:   AISTAT 2023 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -149,7 +149,7 @@
     display:  COLT 2022 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -163,7 +163,7 @@
     display: ICML 2022
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -177,7 +177,7 @@
     display:   ICLR 2022 (2022)
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2: 
@@ -191,7 +191,7 @@
     display: AAAI 2022 (15% acceptance rate)
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -205,7 +205,7 @@
     display:  NeurIPS 2021 (2021)
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0  
   RefAbs: 0
   Notes: 0
   news1: <a href="https://github.com/papers-submission/structured_transposable_masks"> See more details about this paper </a>
@@ -219,7 +219,7 @@
     display:  NeurIPS 2021
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -233,7 +233,7 @@
     display:  NeurIPS 2021
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -247,7 +247,7 @@
     display:  ICML 2021, Long talk (3% acceptance rate).
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
