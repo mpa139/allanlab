@@ -600,7 +600,7 @@
 - title: "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous Or Discrete Weights"
   image: dummy.png
   description:  " "
-  authors: D. Soudry, I. Hubara and R. Meir
+  authors: <b> D. Soudry </b>, I. Hubara and R. Meir
   link:
     url:  https://proceedings.neurips.cc/paper_files/paper/2014/file/076a0c97d09cf1a0ec3e19c7f2529f2b-Paper.pdf
     display:  NIPS 2014
@@ -793,7 +793,7 @@
 - title: "Memristor-based multilayer neural networks with online gradient descent training"
   image: dummy.png
   description:  " "
-  authors: D. Soudry, D. Di Castro, A. Gal, A. Kolodny, and S. Kvatinsky
+  authors:  <b> D. Soudry </b>, D. Di Castro, A. Gal, A. Kolodny, and S. Kvatinsky
   link:
     url: https://ieeexplore.ieee.org/document/7010034
     display:  IEEE TNNLS, vol. 26, no. 10, 2015
@@ -822,7 +822,7 @@
 - title: "The neuronal response at extended timescales: a linearized spiking input-output relation"
   image: dummy.png
   description:  " "
-  authors:  D. Soudry and R. Meir
+  authors:   <b> D. Soudry </b> and R. Meir
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 29, 2014
@@ -836,7 +836,7 @@
 - title: "The neuronal response at extended timescales: long term correlations without long memory"
   image: dummy.png
   description:  " "
-  authors:  D. Soudry and R. Meir
+  authors:   <b> D. Soudry </b> and R. Meir
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 35, 2014
@@ -865,7 +865,7 @@
 - title: "Conductance-based neuron models and the slow dynamics of excitability"
   image: dummy.png
   description:  " "
-  authors: D. Soudry and R. Meir
+  authors:  <b> D. Soudry </b> and R. Meir
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2012.00004/full
     display: Front. Comput. Neurosci., vol. 6, no. 4, 2012
@@ -879,7 +879,7 @@
 - title: "History-Dependent Dynamics in a Generic Model of Ion Channels–An Analytic Study"
   image: dummy.png
   description:  " "
-  authors: D. Soudry and R. Meir
+  authors:  <b> D. Soudry </b> and R. Meir
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2010.00003/full
     display: Front. Comput. Neurosci., vol. 4, Jan. 2010
