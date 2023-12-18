@@ -1084,7 +1084,7 @@
 - title: "Extracting grid characteristics from spatially distributed place cell inputs using non-negative PCA (Poster)"
   image: dummy.png
   description:  " "
-  authors: Y. Dordek * ,  D. Soudry * , R. Meir,  D. Derdikman
+  authors: Y. Dordek * , <b> D. Soudry <b> * , R. Meir,  D. Derdikman
   link:
     url: 
     display: SFN (2015)
