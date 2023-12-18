@@ -692,7 +692,7 @@
 - title: "The Implicit Bias of Gradient Descent on Separable Data" 
   image: dummy.png
   description:  " "
-  authors:     D. Soudry, E. Hoffer, M. Shpigel Nacson, S. Gunasekar, N. Srebro
+  authors:     <b> D. Soudry </b>, E. Hoffer, M. Shpigel Nacson, S. Gunasekar, N. Srebro
   link:
     url: https://jmlr.org/papers/v19/18-188.html
     display: JMLR, 2018
