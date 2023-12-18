@@ -30,8 +30,8 @@
 
 
 - title: "Explore to Generalize in Zero-Shot RL"
-  image: dummy.png
-  description:  " "
+  image: ExploretoGen.JPG
+  description:  We study zero-shot generalization in reinforcement learning—optimizing a policy on a set of training tasks to perform well on a similar but unseen test task. 
   authors: E. Zisselman, I. Lavie, **D. Soudry**, A. Tamar 
   link:
     url: https://arxiv.org/abs/2306.03072
