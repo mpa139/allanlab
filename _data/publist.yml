@@ -238,6 +238,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 0
 
 - title: "The Implicit Bias of Minima Stability: A View from Function Space"
   image: dummy.png
@@ -252,6 +253,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 0
 
 - title:  "On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent"
   image: dummy.png
@@ -266,6 +268,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 0
 
 - title: "Accurate Post Training Quantization With Small Calibration Sets"
   image: dummy.png
@@ -280,6 +283,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 0
 
   
 - title: "Neural gradients are near-lognormal: understanding sparse and quantized training"
@@ -295,6 +299,7 @@
   RefAbs: 0
   Notes: 0
   news2:
+  ERC: 0
 
 
 - title: "Implicit Bias in Deep Linear Classification: Initialization Scale vs Training Accuracy"
@@ -309,7 +314,8 @@
   JourPap: 0 
   RefAbs: 0
   Notes: 0
-  news2: 
+  news2:
+  ERC: 0
 
 - title: "Beyond Signal Propagation: Is Feature Diversity Necessary in Deep Neural Network Initialization?"
   image: dummy.png
