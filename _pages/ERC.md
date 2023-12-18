@@ -1,6 +1,6 @@
 ---
 title: "Allan Lab - ERC"
-layout: piclay
+layout: gridlay
 excerpt: "Allan Lab -- ERC"
 permalink: /ERC/
 ---
