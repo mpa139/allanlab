@@ -1373,7 +1373,7 @@
 - title: "No bad local minima: Data independent training error guarantees for multilayer neural networks"
   image: dummy.png
   description:  " "
-  authors:   D. Soudry, E. Hoffer
+  authors:  <b> D. Soudry </b>, E. Hoffer
   link:
     url: https://arxiv.org/abs/1605.08361
     display:  See Here
