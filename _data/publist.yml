@@ -137,8 +137,8 @@
   
 
 - title: "The Role of Codeword-to-Class Assignments in Error Correcting Codes: An Empirical Study"
-  image: dummy.png
-  description:  " "
+  image: TheRoleOf.JPG
+  description:  we examine similarity-preserving assignments, where similar codewords are assigned to similar classes.
   authors: I. Evron * , O. Onn * , T. Weiss, H. Azeroual,**D. Soudry**
   link:
     url: https://arxiv.org/pdf/2302.05334
