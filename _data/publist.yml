@@ -1112,7 +1112,7 @@
 - title: "Implementing efficient 'shotgun' inference of neural connectivity from highly sub-sampled activity data (Spotlight Presentation and poster)"
   image: dummy.png
   description:  " "
-  authors:  D. Soudry, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  authors: <b> D. Soudry </b>, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
   link:
     url: https://videolectures.net/netadis2015_soudry_activity_data/
     display: NIPS workshop on Modelling and Inference for Dynamics on Complex Interaction Networks (2015)
@@ -1126,7 +1126,7 @@
 - title: "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous Or Discrete Weights (Poster)"
   image: dummy.png
   description:  " "
-  authors:  D. Soudry,I. Hubara and R. Meir
+  authors: <b> D. Soudry </b>,I. Hubara and R. Meir
   link:
     url: 
     display: Machine Learning seminar (IBM research center, Haifa 2015)
@@ -1140,7 +1140,7 @@
 - title: Efficient “shotgun” inference of neural connectivity from highly sub-sampled activity data (Oral)"
   image: dummy.png
   description:  " "
-  authors:  D. Soudry, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  authors: <b> D. Soudry </b>, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
   link:
     url: 
     display:  Swartz Annual Meeting at Janelia Research Campus (2015)
