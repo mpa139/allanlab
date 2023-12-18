@@ -73,6 +73,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 1
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasPaper.JPG
