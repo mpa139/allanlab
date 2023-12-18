@@ -17,7 +17,6 @@ Our goal is to develop a rigorous theory of algorithmic bias in DL and to apply 
 Our approach has three objectives: (1) identify the algorithmic biases affecting DL; (2) understand how these biases affect the functional capabilities and generalization performance; and (3) control these biases to alleviate critical practical bottlenecks. To demonstrate the feasibility of this challenging project, we describe how recent advances and concrete preliminary results enable us to effectively approach all these objectives.
 
 
-**This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101039436-ERC-A-B-C-Deep".**
 
 #### All related Research in the frame of this project:
 
@@ -58,6 +57,9 @@ Our approach has three objectives: (1) identify the algorithmic biases affecting
 {% endif %}
 
 <p> &nbsp; </p>
+
+
+**This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101039436-ERC-A-B-C-Deep".**
 
 
 
