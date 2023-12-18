@@ -70,7 +70,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{% if publi.highlight == 1 %}
+{% if publi.RefPro == 1 %}
 
 
   {{ publi.title }} <br />
