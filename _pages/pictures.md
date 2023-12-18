@@ -25,7 +25,7 @@ Our approach has three objectives: (1) identify the algorithmic biases affecting
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if publi.ERC == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
