@@ -261,7 +261,7 @@
     display:  ICML 2021
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0  
   RefAbs: 0
   Notes: 0
   news1: 
@@ -276,7 +276,7 @@
     display:  ICLR 2021 (2021)
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -291,7 +291,7 @@
     display:  NeurIPS 2020, Spotlight (3% acceptance rate) (2020)
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2: 
@@ -305,7 +305,7 @@
     display:  ICML 2020
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -319,7 +319,7 @@
     display:  COLT 2020
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -333,7 +333,7 @@
     display:   CVPR 2020 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -348,7 +348,7 @@
     display:  CVPR 2020
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -362,7 +362,7 @@
     display:  ICLR 2020 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -377,7 +377,7 @@
     display:  ICLR 2020 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0  
   RefAbs: 0
   Notes: 0
   news1: <a href="https://www.youtube.com/watch?v=WObxWBLAdsA"> video about this paper </a>
@@ -392,7 +392,7 @@
     display:  NeurIPS 2019
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -406,7 +406,7 @@
     display:   NeurIPS 2019 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0  
   RefAbs: 0
   Notes: 0
   news1:  <a href = "https://github.com/submission2019/cnn-quantization"> See more details about this paper </a> 
@@ -420,7 +420,7 @@
     display:  ICML 2019 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -435,7 +435,7 @@
     display: COLT 2019 
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2: 
@@ -449,7 +449,7 @@
     display:  AISTATS 2019, Oral Presentation (2.5% acceptance rate). 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0  
   RefAbs: 0
   Notes: 0
   news1: 
@@ -463,7 +463,7 @@
     display:  AISTATS 2019 
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -477,7 +477,7 @@
     display:   NeurIPS 2018, Spotlight (3.5% acceptance rate)
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -491,7 +491,7 @@
     display:   NeurIPS 2018
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -506,7 +506,7 @@
     display:  NeurIPS 2018
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -520,7 +520,7 @@
     display:   ICML 2018
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -534,7 +534,7 @@
     display: ICLR 2018 (2018)
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news2:
@@ -548,7 +548,7 @@
     display:   ICLR 2018
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -563,7 +563,7 @@
     display:   NIPS 2017, Oral presentation (1.2% acceptance rate)
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: <a href = "https://github.com/eladhoffer/bigBatch"> See more details about this paper </a> 
@@ -577,7 +577,7 @@
     display:  NIPS 2016 (2016)
   highlight: 1
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -592,7 +592,7 @@
     display:  Proceeding of the IEEE International Conference on Circuits and Systems, pp. 1394-1397, 2016
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -606,7 +606,7 @@
     display:  NIPS 2014
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: <a href = "https://www.dropbox.com/s/i1aech4zd78ot3a/paper_with_appendix.pdf?dl=0"> Paper with appendix (with a few typos corrected from NIPS website) </a>  , <a href = "https://github.com/ExpectationBackpropagation/EBP_Matlab_Code/"> Code </a> ,<a href = "https://arxiv.org/abs/1503.03562"> Preliminary results on MNIST </a> 
@@ -620,7 +620,7 @@
     display:  NIPS, 2012
   highlight: 0
   RefPro: 1
-  JournalPaper: 0  
+  JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -641,7 +641,9 @@
     display:  to appear in  Semiconductor Science and Technology, 2021
   highlight: 0
   RefPro: 0
-  JournalPaper: 1  
+  JourPap: 1 
+  RefAbs: 0
+  Notes: 0
   news1: 
 
 
@@ -653,11 +655,10 @@
     url: https://direct.mit.edu/neco/article/33/11/3139/107073/Task-Agnostic-Continual-Learning-Using-Online
     display:  Neural Computation, 2021
   highlight: 0
-  RefPro: 1
-  JournalPaper: 0  
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
   news1: 
 
 - title: "The Global Optimization Geometry of Shallow Linear Neural Networks" 
@@ -668,11 +669,10 @@
     url: https://link.springer.com/article/10.1007/s10851-019-00889-w?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20190603
     display:  Journal of Mathematical Imaging and Vision, 2019
   highlight: 0
-  RefPro: 1
-  JournalPaper: 0  
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
   news1: 
 
 - title: "Seizure pathways: A model-based investigation" 
@@ -683,11 +683,10 @@
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006403
     display: PLoS Comput Biol., vol. 14 no. 10, e1006403, 2018
   highlight: 0
-  RefPro: 1
-  JournalPaper: 0  
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
   news1: 
 
 - title: "The Implicit Bias of Gradient Descent on Separable Data" 
@@ -698,11 +697,10 @@
     url: https://jmlr.org/papers/v19/18-188.html
     display: JMLR, 2018
   highlight: 0
-  RefPro: 1
-  JournalPaper: 0  
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
   news1: 
 
 - title: "Bifurcation Analysis of Two Coupled Jansen-Rit Neural Mass Models"
@@ -712,9 +710,9 @@
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192842
     display: PLOS One, vol. 13 no. 3, e0192842, 2018
-  news1: 
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -726,9 +724,9 @@
   link:
     url: https://jmlr.org/papers/v18/16-456.html
     display: JMLR, 2018
-  news1:
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -740,9 +738,9 @@
   link:
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005685
     display: PLos Comput Biol, vol., 13 no. 8, e1005685, 2017
-  news1: 
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -755,11 +753,12 @@
     url: https://elifesciences.org/articles/10094v2
     display: eLife, vol. 5, e10094, 2016
   news1: <a href="https://elifesciences.org/articles/10094v2"> F1000 Recommended </a>
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
+
 
 - title: "Simultaneous Denoising, Deconvolution, and Demixing of Calcium Imaging Data"
   image: dummy.png
@@ -769,11 +768,12 @@
     url: https://www.cell.com/neuron/fulltext/S0896-6273(15)01084-3
     display: Neuron, vol. 89, no. 2,  2016
   news1: <a href="https://www.cell.com/cms/attachment/2046949148/2057837139/mmc1.pdf"> ِAppendix </a> , <a href="https://github.com/flatironinstitute/CaImAn-MATLAB">Code </a>
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
+
 
 - title: "Efficient 'Shotgun' Inference of Neural Connectivity from Highly Sub-sampled Activity Data"
   image: dummy.png
@@ -783,8 +783,9 @@
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004464
     display:  PLoS Comput Biol, vol. 11, no. 10, 2015
   news1: <a href="https://videolectures.net/netadis2015_soudry_activity_data/"> 5 mins presentation </a> , <a href="https://github.com/danielso/Shotgun">Code </a>
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -797,12 +798,12 @@
     url: https://ieeexplore.ieee.org/document/7010034
     display:  IEEE TNNLS, vol. 26, no. 10, 2015
   news1: <a href="https://www.dropbox.com/sh/7je4fufb6d4c2sr/AAA7RgsIlsRu-lNN6imELqjDa?dl=0"> Complete Code </a> 
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
-
+ 
 - title: "Diffusion approximation-based simulation of stochastic ion channels: which method to use?"
   image: dummy.png
   description:  " "
@@ -811,11 +812,12 @@
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00139/full
     display:  Front. Comput. Neurosci., vol. 8, no. 139, 2014
   news1: 
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
+
     
 - title: "The neuronal response at extended timescales: a linearized spiking input-output relation"
   image: dummy.png
@@ -824,9 +826,9 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 29, 2014
-  news1: 
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -838,12 +840,12 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00029/full
     display:  Front. Comput. Neurosci., vol. 8, no. 35, 2014
-  news1:
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
-  news1: 
+  news1:  
 
 - title: "Simple, fast and accurate implementation of the diffusion approximation algorithm for stochastic ion channels with multiple states"
   image: dummy.png
@@ -852,9 +854,9 @@
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036670
     display: PLoS ONE, vol. 7, no. 5 p. e36670, 2012
-  news1:
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -867,9 +869,9 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2012.00004/full
     display: Front. Comput. Neurosci., vol. 6, no. 4, 2012
-  news1:
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
@@ -881,9 +883,9 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fncom.2010.00003/full
     display: Front. Comput. Neurosci., vol. 4, Jan. 2010
-  news1:
-  RefPro: 1
-  JournalPaper: 0  
+  highlight: 0
+  RefPro: 0
+  JourPap: 1 
   RefAbs: 0
   Notes: 0
   news1: 
