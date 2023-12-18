@@ -11,6 +11,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 1
 
 - title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
   image: DropComputePaper.JPG
@@ -25,6 +26,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 1
 
 
 - title: "Explore to Generalize in Zero-Shot RL"
@@ -40,6 +42,7 @@
   RefAbs: 0
   Notes: 0
   news1:
+  ERC: 1
 
 
 - title: "Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"
@@ -55,6 +58,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 1
 
 - title: "Continual Learning in Linear Classification on Separable Data"
   image: dummy.png
