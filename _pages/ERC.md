@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - ERC"
+title: "Daniel Soudry - ERC"
 layout: gridlay
-excerpt: "Allan Lab -- ERC"
+excerpt: "Daniel Soudry -- ERC"
 sitemap: false
 permalink: /ERC/
 ---
