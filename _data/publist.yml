@@ -138,7 +138,7 @@
 
 - title: "The Role of Codeword-to-Class Assignments in Error Correcting Codes: An Empirical Study"
   image: TheRoleOf.JPG
-  description: " "
+  description: Our paper shows that these assignments play a major role in the performance of ECC. Specifically, we examine similarity-preserving assignments, where similar codewords are assigned to similar classes.
   authors: I. Evron * , O. Onn * , T. Weiss, H. Azeroual,**D. Soudry**
   link:
     url: https://arxiv.org/pdf/2302.05334
