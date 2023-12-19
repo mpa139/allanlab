@@ -61,7 +61,7 @@
   ERC: 1
 
 - title: "Continual Learning in Linear Classification on Separable Data"
-  image: dummy.png
+  image: ContinunalLearning.JPG
   description: We analyze continual learning on a sequence of separable linear classification tasks with binary labels. We show theoretically that learning with weak regularization reduces to solving a sequential max-margin problem, corresponding to a special case of the Projection Onto Convex Sets (POCS) framework.
   authors:  I. Evron, E. Moroshko, G. Buzaglo, M. Khriesh, B. Marjieh, N. Srebro, **D. Soudry**
   link:
