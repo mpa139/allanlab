@@ -87,10 +87,194 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 </ol>
 <p><strong>Peer-reviewed Journal Publications</strong></p>
 <p>Supervised authors are underlined, <sup>1</sup>postdoctoral researchers;<sup> 2</sup>graduate students, <sup>3</sup>undergraduate students</p>
+
+
+<p>2023</p>
+<ul>
+<li>
+Zhong,
+Y., Wen, Y., <u>Hopko, S.</u><sup>2</sup>, Karthikeyan, A., Pagilla, P., <b>Mehta</b>, <b>RK.*</b>,
+&amp; Bukkapatnam, S. (Accepted). Detecting Anomalous Robot Motion in Collaborative Robotic
+IEEE Internet of
+Things Journal.</li>
+
+
+<li>
+<u>Hopko,
+S</u>.<sup> 2</sup> <u>Zhang, Y.</u><sup>2</sup>, <u>Yadav, A.</u><sup>2</sup>, <b>Mehta</b>, <b>RK.*</b>, &amp; Pagilla, P. (Accepted).
+Brain-Behavior Relationships
+ACM Transactions on Human-Robot Interactions. <a
+href="https://doi.org/10.1145/3632149">https://doi.org/10.1145/3632149</a> </li>
+
+
+<li>
+<u>Kang, J.</u><sup> 2</sup>, Sasangohar, F., Payne, S., &amp; <b>Mehta</b>, <b>RK.*</b>
+(Accepted). Field-based longitudinal evaluation of multimodal worker fatigue
+assessment methods in offshore shiftwork. Applied Ergonomics. <a href="https://doi.org/10.1016/j.apergo.2023.104164">https://doi.org/10.1016/j.apergo.2023.104164</a> </li>
+
+
+<li>
+Peres,
+SC.*, Murphy, RR., &amp; <b>Mehta,
+RK.</b> (Accepted). Water, Lava, and Wind:
+and
+Human Factors Research during Real World Disasters. Interaction Studies.</li>
+
+
+<li>
+<u>Vyas, S.</u><sup>2</sup>, <u>Dwivedhi, S.</u><sup>2</sup>, <u>Brenner,
+L.</u><sup>4</sup>, <u>Pedron, I.</u><sup>3</sup>, Gabbard, J., Krishnamurthy, V., &amp; <b>Mehta</b>, <b>RK.*</b> (2023). Adaptive Training on Basic AR Interactions:
+Bi-Variate Metrics and Neuroergonomic Evaluation Paradigms. International
+Journal of Human–Computer Interaction, 1-16. <a href="https://doi.org/10.1080/10447318.2023.2250578">https://doi.org/10.1080/10447318.2023.2250578</a> </li>
+
+
+<li>
+Zahed,
+K., <b>Mehta, RK</b>., Erraguntla, M., Qaraqe, K., &amp; Sasangohar, F.* (2023).
+Understanding Patient Beliefs in Using Technology to Manage Diabetes: A Path
+Analysis Model from a National Online Sample. JMIR Diabetes. doi: 10.2196/41501.</li>
+
+
+<li>
+<u>Tyagi, O.</u><sup>2</sup>, <u>Mukherjee, T.</u><sup>2</sup>, <b>Mehta
+RK.*</b> (2023). Neurophysiological,
+muscular, and perceptual adaptations of exoskeleton use over days during
+overhead work with competing cognitive demands. Applied Ergonomics. doi: 10.1016/j.apergo.2023.104097.</li>
+
+
+<li>
+Yin,
+W., Chen, Y., Reddy, C., Zheng, L., <b>Mehta, RK.</b>, &amp; Zhang, X.* (2023).
+Flexible sensor-based biomechanical evaluation of low-back exoskeleton use in
+lifting. Ergonomics. <a
+href="https://doi.org/10.1080/00140139.2023.2216408">https://doi.org/10.1080/00140139.2023.2216408</a> </li>
+
+
+<li>
+Zahed,
+K., <b>Mehta, RK</b>., Erraguntla, M., Qaraqe, K., &amp; Sasangohar, F.* (Accept;
+JD ms#41501). Understanding Patient Beliefs in Using Technology to Manage
+Diabetes: A Path Analysis Model from a National Online Sample. JMIR Diabetes. <a
+href="https://preprints.jmir.org/preprint/41501">https://preprints.jmir.org/preprint/41501</a> </li>
+
+
+<li>
+Jahromi,
+R., Zahed, K., Erraguntla, M., <b>Mehta, RK.</b>, Qaraqe, K., &amp; Sasangohar,
+F.* (Accept; JD ms#40990). Hypoglycemia
+Detection Using Hand Tremors: A One-month Home Study in T1D Adults. JMIR
+Diabetes.</li>
+
+
+<li>
+<u>Tyagi,
+O.</u><sup>2</sup> &amp; <b>Mehta</b>, <b>RK</b>.*
+(2023). Sex-specific neural
+strategies during fatiguing work in older adults. Human Factors. <b><i>The
+Human Factors Prize, 2022. </i></b><a
+href="https://doi.org/10.1177/00187208231159526">https://doi.org/10.1177/00187208231159526</a><b><i> </i></b></li>
+
+
+<li>
+<u>Hopko,
+S</u>.<sup> 2</sup> <b>Mehta</b>, <b>RK.*</b>, &amp; Pagilla,
+P. (2023). Physiological and
+perceptual correlates of trust in collaborative robots: An empirical
+Applied
+Ergonomics, 106, 103863, <a href="https://doi.org/10.1016/j.apergo.2022.103863">https://doi.org/10.1016/j.apergo.2022.103863</a> 
+</li>
+</ul>
+
+
+<p>2022</p>
+<ul>
+
+<li>
+
+Yang,
+Ye., Shi, Y., <b>Mehta</b>, <b>RK</b>., &amp; Du, J.* (2022).
+Cognitive Characteristics in Firefighter Wayfinding Tasks: An Eye-Tracking
+Analysis. Advanced Engineering Informatics, 53, 101668, <a href="https://doi.org/10.1016/j.aei.2022.101668">https://doi.org/10.1016/j.aei.2022.101668</a> </li>
+
+
+<li>
+Aljihmani,
+L.*, Kerdjidj, O., Petrovski, G., Erraguntla, M., Sasangohar, F., <b>Mehta, RK.</b>,
+&amp; Qaraqe, K. (2022). Hand tremor-based hypoglycemia detection and
+prediction in adolescents with type 1 diabetes. Biomedical Signal Processing
+and Control, <i>78</i>, 103869, <a href="https://doi.org/10.1016/j.bspc.2022.103869">https://doi.org/10.1016/j.bspc.2022.103869</a> </li>
+
+
+<li>
+<u>Hopko,
+S</u>.<sup> 2</sup> &amp; <b>Mehta</b>, <b>RK</b>.* (2022). Trust in Shared Space Collaborative
+Human
+Factors, <a href="https://doi.org/10.1177/00187208221109039">https://doi.org/10.1177/00187208221109039</a> </li>
+
+
+<li>
+Shi, Y., <u>Johnson,
+C.</u><sup> 3</sup>, Xia, P.,<u>Kang, J.</u><sup>2</sup>, <u>Tyagi,
+O.</u><sup> 2</sup>, <b>Mehta</b>, <b>RK.</b> &amp; Du, E.*
+(2022). Neural Basis Analysis of Firefighters’ Wayfinding Performance via
+Functional Near- Infrared Spectroscopy (fNIRS). ASCE Journal of Computing in
+Civil Engineering, 36(4), 04022016.</li>
+
+
+<li>
+<b>Mehta,
+RK.*,</b>
+Moats, JB., <u>Karthikeyan, R.</u><sup> 2</sup>, Gabbard, J., Srinivasan, D. Du, J., Leonessa, A., Burks,
+G., Fernandes, R., &amp; Stephenson, D. (2022). Human-Centered Intelligent Trainings for Emergency
+AAAI AI Magazine, 43(1), 83-92. DOI: 10.1002/aaai.12041</li>
+
+
+<li>
+<u>Karthikeyan, R.</u><sup> 2</sup><u>,</u> <u>Carrizales,
+J</u>.<sup>3</sup>, <u>Johnson, C</u>.<sup>3</sup>, &amp; <b>Mehta</b>, <b>RK.*</b> (2022). A Window into the Tired
+Brain: Neurophysiological Dynamics of Visuospatial Working Memory under
+Fatigue. Human Factors, 00187208221094900.</li>
+
+
+<li>
+<u>Karthikeyan, R.</u><sup> 2</sup>, McDonald, A. &amp; <b>Mehta</b>, <b>RK.*</b> (2022).
+Stress detection during motor activity: A comparison of neural and
+physiological biomarkers in older adults. IEEE Transactions on Affective
+Computing, (01), 1-1. <a
+href="https://doi.ieeecomputersociety.org/10.1109/TAFFC.2022.3148234">https://doi.ieeecomputersociety.org/10.1109/TAFFC.2022.3148234</a> </li>
+
+
+<li> <u>Tyagi, O.</u><sup>2</sup> &amp; <b>Mehta</b>, <b>RK</b>.* (2022). Mind over body: A neuroergonomic approach
+to assessing motor performance under stress in older adults. Applied
+Ergonomics. 101, 103691. <a
+href="https://doi.org/10.1016/j.apergo.2022.103691">https://doi.org/10.1016/j.apergo.2022.103691</a> </li>
+
+
+<li>
+<u>Hopko,
+S</u>.<sup> 2</sup>, <u>Wang, J.</u><sup>3</sup>, &amp; <b>Mehta</b>, <b>RK</b>.* (2022). Human Factors Considerations and Metrics
+Frontiers in Robotics and AI. 6. <a
+href="https://doi.org/10.3389/frobt.2022.799522">https://doi.org/10.3389/frobt.2022.799522</a> 
+</li>
+</ul>
+
 <p>2021</p>
 <ul>
-<li><u>Tyagi, O.</u><sup>2</sup> &amp; <strong>Mehta</strong>, <strong>RK.</strong> (Accepted). Neuromuscular Fatigue Mechanisms under Stress: A Physical Neuroergonomics Perspective. Frontiers in Neuroergonomics.</li>
-<li><u>Tyagi, O.</u><sup>2</sup>, <u>Hopko, S.</u><sup>2</sup>, <u>Kang, J.</u><sup>2</sup>, <u>Shi, Y</u>.<sup>1</sup>, Du, E., &amp; <strong>Mehta</strong>, <strong>RK. </strong>(In press). Modeling brain dynamics during virtual reality-based emergency response training under stress. Human Factors.</li>
+
+<li><u>Tyagi, O.</u><sup>2</sup> &amp; <b>Mehta</b>, <b>RK</b>.*
+(2021). A
+Methodological Framework to Capture Neuromuscular Fatigue Mechanisms Under
+Stress. Frontiers in Neuroergonomics. <a
+href="https://doi.org/10.3389/fnrgo.2021.779069">https://doi.org/10.3389/fnrgo.2021.779069</a></li>
+
+
+<li><u>Tyagi, O.</u><sup>2</sup>, <u>Hopko, S.</u><sup>2</sup>, <u>Kang, J.</u><sup>2</sup>, Shi, Y., Du, E., &amp;
+<b>Mehta</b>, <b>RK.*</b> (2021). Modeling brain dynamics during virtual
+reality-based emergency response training under stress. Human Factors. <a href="https://doi.org/10.1177/00187208211054894">https://doi.org/10.1177/00187208211054894</a>  
+</li>
+
+<!-- <li><u>Tyagi, O.</u><sup>2</sup> &amp; <strong>Mehta</strong>, <strong>RK.</strong> (Accepted). Neuromuscular Fatigue Mechanisms under Stress: A Physical Neuroergonomics Perspective. Frontiers in Neuroergonomics.</li>
+<li><u>Tyagi, O.</u><sup>2</sup>, <u>Hopko, S.</u><sup>2</sup>, <u>Kang, J.</u><sup>2</sup>, <u>Shi, Y</u>.<sup>1</sup>, Du, E., &amp; <strong>Mehta</strong>, <strong>RK. </strong>(In press). Modeling brain dynamics during virtual reality-based emergency response training under stress. Human Factors.</li> -->
 <li>Benden, M., <strong>Mehta</strong>, <strong>RK.</strong>, Pickens, A., Harp, B., Smith, ML., Towne, S., Peres, SC. (In press). Health-related Consequences of the Type and Utilization Rates of Electronic Devices by College Students. BMC Public Health.</li>
 <li><strong>Mehta, RK.,</strong> Moats, JB., <u>Karthikeyan, R.</u><sup> 2</sup>, Gabbard, J., Srinivasan, D. Du, J., Leonessa, A., Burks, G., Fernandes, R., &amp; Stephenson, D. (In press). Human-Centered Intelligent Trainings for Emergency Responders.AAAI AI Magazine.</li>
 <li><u>Karthikeyan, R.</u><sup> 2</sup>, <u>Smoot, M.</u><sup>3</sup> &amp; <strong>Mehta</strong>, <strong>RK. </strong>(2021). Anodal tDCS Augments and Preserves Working Memory Beyond Time-on-Task Deficits. Scientific Reports, 11(1), 1-11.</li>
@@ -104,6 +288,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><u>Shi, Y.</u><sup>1</sup>, <u>Kang, J.</u><sup> 2</sup>, Xia, P., <u>Tyagi, O.</u><sup> 2</sup>, <strong>Mehta</strong>, <strong>RK.</strong>, Du, J. (2021). The effects of spatial knowledge information on firefighters’ wayfinding performance: A virtual reality search and rescue experiment, Safety Science. <a href="https://doi.org/10.1016/j.ssci.2021.105231">https://doi.org/10.1016/j.ssci.2021.105231</a></li>
 <li>Zahabi, M., Razak, AMA., <strong>Mehta</strong>, <strong>RK.</strong>, &amp; Manser, M. (2021). Effect of Advanced Driver-Assistance System Trainings on Driver Workload, Knowledge, and Trust. Transportation Research Part F: Traffic Psychology and Behavior, 76, 309-320.</li>
 </ul>
+
 <p>2020</p>
 <ul>
 <li><strong>Mehta, RK.</strong>, Nuamah, J.<sup>1</sup>, Peres, SC., Murphy, R. (2020). Field Methods to quantify emergency responder fatigue: Lessons Learned from sUAS deployment at the 2018 Kilauea Volcano Eruption. IISE Transactions on Occupational Ergonomics and Human Factors. 8 (3), 166-174. <a href="https://doi.org/10.1080/24725838.2020.1855272">https://doi.org/10.1080/24725838.2020.1855272</a></li>
@@ -120,6 +305,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li>Zahabi, M., Razak, AMA., <u>Shortz, AE.</u>, <strong>Mehta, RK.</strong>, &amp; Manser, M. (2020). Evaluating advanced driver-assistance system trainings using driver performance, attention allocation, and neural efficiency measures. Applied Ergonomics, 84, 103036.</li>
 <li><u>Zhu, Y.</u>, Rodriguez-Paras, C., Rhee, J.<sup> 1</sup>, <strong>Mehta, RK.</strong>, (2020). Methodological Approaches and Recommendations for Functional Near-infrared Spectroscopy Applications in HF/E Research. Human Factors, 62 (4), 613-642. <strong><em>Top 10 most cited paper.</em></strong></li>
 </ul>
+
 <p>2019</p>
 <ul>
 <li>Sharma, P., Pickens, A., <strong>Mehta, RK.</strong>, Han, G., &amp; Benden, M. E. (2019). Smart Software Can Increase Sit–Stand Desk Transitions During Active Computer Use. International Journal of Environmental Research and Public Health, 16(13), 2438.</li>
@@ -131,6 +317,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><u>Hosseinian, S. M.</u>, <u>Zhu, Y.</u>, <strong>Mehta, RK.</strong>, Erraguntla, M., &amp; Lawley, M. A. (2019). Static and Dynamic Work Activity Classification from a Single Accelerometer: Implications for Ergonomic Assessment of Manual Handling Tasks. IISE Transactions on Occupational Ergonomics and Human Factors, 7(1), 59-68. <strong><em>Featured in IISE Magazine, June 2019, Vol 50(6), pp 54.</em></strong></li>
 <li><u>Shortz, AE.</u>, <strong>Mehta, RK.</strong>, Peres, SC., Benden, ME., &amp; Zheng, Q. (2019). Development of the Fatigue Risk Assessment and Management in High-Risk Environments (FRAME) Survey: A Participatory Approach. International Journal of Environmental Research and Public Health, 16(4), 522.</li>
 </ul>
+
 <p>2018</p>
 <ul>
 <li>Rhee, J.<sup> 1</sup>, &amp; <strong>Mehta, RK.</strong>, (2018). Functional connectivity during handgrip motor fatigue in older adults is obesity and sex-specific. Frontiers in Human Neuroscience, 12, 455.</li>
@@ -141,6 +328,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><strong>Mehta, RK.</strong>, Peres, S. C., <u>Shortz, A. E.</u>, Hoyle, W., Lee, M., Saini, G., Pryor, M. W. (2018). Operator situation awareness and physiological states during offshore well control scenarios.Journal of Loss Prevention in the Process Industries, 55, 332-337.</li>
 <li>Buchanan, JJ., Park, I., Chen, J., <strong>Mehta, RK.</strong>, McCulloch, A., Rhee, J.<sup> 1</sup>, Wright, DL. (2018). Expert monitoring and verbal feedback as sources of performance pressure. Acta Psychologica, 186, 39-46.</li>
 </ul>
+
 <p>2017</p>
 <ul>
 <li><strong>Mehta, RK.</strong>, &amp; Cavuoto, LA. (2017). Relationship between BMI and fatigability is task-dependent. Human Factors, 59(5), 722 – 733.</li>
@@ -155,6 +343,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><u>Shortz, AE.</u>, &amp; <strong>Mehta, RK.</strong>, (2017). Cognitive challenges, aging, and neuromuscular fatigue. Physiology &amp; Behavior, 170, 19-26.</li>
 <li>Peres, SC., <strong>Mehta, RK.</strong>, &amp; <u>Ritchey</u><u>, </u><u>P</u><u>.</u> (2017). Assessing Ergonomic Risks of Software: Development of the SEAT. Applied Ergonomics, 59(A), 377-386.</li>
 </ul>
+
 <p>2016</p>
 <ul>
 <li>Garrett, G., Benden, ME., <strong>Mehta, RK.</strong>, Pickens, A., Peres, SC., &amp; Zhao, H. (2016). Call Center Productivity Over 6 Months Following a Standing Desk Intervention, IISE Transactions on Occupational Ergonomics and Human Factors, 4:2-3, 188-195.</li>
@@ -163,6 +352,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><strong>Mehta, RK.</strong>, <u>Shortz</u><u>, </u><u>AE</u>., Benden, ME. (2016). Standing Up for Learning: A Pilot Investigation on the Neurocognitive Benefits of Stand-Biased School Desks. Int. J. Environ. Res. Public Health13, no. 1: 59. (Shortz awarded School of Public Health Dean’s Best Paper Award)</li>
 <li><strong>Mehta, RK.</strong>, (2016). Stunted PFC activity during neuromuscular control under stress with obesity. European Journal of Applied Physiology, 116(2), 319-326.</li>
 </ul>
+
 <p>2015</p>
 <ul>
 <li><u>Shortz</u><u>, </u><u>AE</u><u>.</u>, Pickens, A., Zheng, Q., &amp; <strong>Mehta, RK.</strong>, (2015). The effect of cognitive fatigue on prefrontal cortex correlates of neuromuscular fatigue in older women. Journal of Neuroengineering and Rehabilitation, 12(1), 1.</li>
@@ -170,6 +360,7 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><strong>Mehta, RK.</strong>, &amp; Cavuoto, LA. (2015). The effects of obesity, age, and relative force levels on handgrip endurance. Applied Ergonomics, 46(A), 91-95</li>
 <li><strong>Mehta</strong><strong>, RK.</strong> &amp; Agnew, MJ. (2015). Subjective evaluation of physical and mental workload interactions across different muscle groups. JournalofOccupationalandEnvironmentalHygiene, 10(1), 62-68</li>
 </ul>
+
 <p>2014 and earlier</p>
 <ul>
 <li><strong>Mehta, RK.</strong>, &amp; Parasuraman, R. (2014). The effect of mental fatigue on the development of physical fatigue: A neuroergonomic approach. Human Factors, 56(4), 645-656.</li>
@@ -184,9 +375,233 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <li><strong>Mehta, RK.</strong>, &amp; Agnew, MJ. (2011). Effects of concurrent physical and mental demands for a short duration static task. International Journal of Industrial Ergonomics, 41(5), 488-493</li>
 <li><strong>Mehta, RK.</strong>, &amp; Agnew, MJ. (2010). Analysis of individual and occupational risk factors on task performance and biomechanical demands for a simulated drilling task. International Journal of Industrial Ergonomics, 40(5), 584-591.</li>
 </ul>
+
+
+
+<!-- Conference papers -->
 <p><strong>Peer-reviewed Conference Proceedings</strong></p>
 <p>Supervised authors are underlined, <sup>1</sup>postdoctoral researchers;<sup> 2</sup>graduate students, <sup>3</sup>undergraduate students</p>
 <ol>
+
+<li>
+
+<b>Mehta,
+R. K.*,</b> <u>Tyagi,
+O</u>.<sup>2</sup>, Kim, J. E., Yu, D., &amp; Baldwin, C. (2023, October). 25
+years of Neuroergonomics: Will we get to the Golden Jubilee? In&nbsp;<i>Proceedings
+of the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231192274). Sage CA: Los Angeles, CA: SAGE Publications. </li>
+
+
+<li>
+<u>Hayes,
+J.</u><sup> *2</sup>, <u>Dwivedi, S.</u><sup>
+2</sup>, <u>Pedron, I.<sup> </sup></u><sup>3</sup>, Gabbard, J., &amp; <b>Mehta,
+R. K.</b> (2023, November). Learning across Diverse Training Modalities is
+Different across Gender: Insights from a Neuroergonomics Approach. In&nbsp;<i>Proceedings
+of the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231205572). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Kang,
+J.</u><sup> *2</sup>, <b>Mehta, R. K.*</b>,
+Wang, X., Sasangohar, F. (2023, November). Feasibility and Compliance of
+Longitudinal Fatigue Measures on Offshore Oil Rigs. In&nbsp;<i>Proceedings of
+the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231205572). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Kang,
+J.</u><sup> *2</sup>, <b>Mehta, R. K.*</b>,
+Payne, S., Sasangohar, F. (2023, November). Impacts of Rotating Shiftwork on
+Offshore Worker Fatigue Levels and associated Adaptations. In&nbsp;<i>Proceedings
+of the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231205572). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Mukherjee,
+T. R.</u><sup>
+*2</sup>, <u>Tyagi,
+O.<sup> </sup></u><sup>2</sup>, &amp; <b>Mehta, R. K.</b> (2023, November).
+Passive Shoulder Exoskeleton Use over Days during a Variable Visuomotor Wiring
+Task. In&nbsp;<i>Proceedings of the Human Factors and Ergonomics Society Annual
+Meeting</i>&nbsp;(p. 21695067231205572). Sage CA: Los Angeles, CA: SAGE
+Publications.</li>
+
+
+<li>
+Chen,
+Y.<sup> 2</sup>, Yin, W.<sup> 2</sup>, Zheng, L., <b>Mehta, RK.,</b> &amp;
+Zhang, X. (2023, October). Biodynamic Modeling and Analysis of
+Human-Exoskeleton Interactions During Assisted Manual Handling. In&nbsp;<i>Proceedings
+of the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231192867). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+Wei,
+R.<sup> *2</sup>, McDonald, A. D., Garcia, A., &amp; <b>Mehta, R. K.</b> (2023,
+October). Is trust a belief, observation, or state: Results from an active
+inference analysis of driver-automation transitions of control. In&nbsp;<i>Proceedings
+of the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231192220). Sage CA: Los Angeles, CA: SAGE Publications. </li>
+
+
+<li>
+<u>Yadav,
+A.</u><sup> *2</sup>, <u>Ghosh, P.</u><sup> 3</sup>,
+<u>Rawashdeh, M.</u><sup> 3</sup>, <u>Lee, D.<sup> </sup></u><sup>3</sup>, <u>Bolf,
+T.</u><sup> 3</sup>, &amp; <b>Mehta, R. K.</b> (2023, October). All Human
+Versus Human-Robot Teaming: Measuring Neurophysiological Synchrony, Team
+Performance, and Trust during Search and Rescue. In&nbsp;<i>Proceedings of the
+Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231194337). Sage CA: Los Angeles, CA: SAGE Publications. </li>
+
+
+<li>
+<u>Nartey,
+D.</u><sup> *2</sup>, <u>Karthikeyan, R.</u><sup>
+2</sup>, Chaspari, T., &amp; <b>Mehta, RK.</b> (2023, October). Exploring
+Cognitive Fatigue: Machine Learning, Forecasting, Generalization,
+Personalization, Inference and Labels. In&nbsp;<i>Proceedings of the Human
+Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p. 21695067231192267).
+Sage CA: Los Angeles, CA: SAGE Publications </li>
+
+
+<li>
+<u>Tyagi,
+O.<sup> </sup></u><sup>*2</sup>, &amp; <b>Mehta, R. K.</b> (2023, October). Examining
+Central Fatigue Pathways under Stress: Integrating Insights from Graph
+Theoretical Neural Modeling and Motor Cortex Excitability. In&nbsp;<i>Proceedings
+of the Human Factors and Ergonomics Society Annual Meeting</i>&nbsp;(p.
+21695067231194339). Sage CA: Los Angeles, CA: SAGE Publications. <b><i>2023 Best Computation Paper Award,
+Occupational Ergonomics TG, HFES</i></b></li>
+
+
+<li>
+<u>Manchanda,
+E.<sup> *</sup></u><sup>3</sup>, <u>Gottumukkala, V.</u><sup> 3</sup>, <u>Vale, T.</u><sup> 3</sup>,
+<u>Abburu, M.<sup> </sup></u><sup>3</sup>, <u>Mukherjee, T. R.</u><sup> 2</sup>,
+<u>Tyagi, O.<sup> </sup></u><sup>2</sup>, &amp; <b>Mehta, R. K. </b>(2023,
+October). Performance, Perceived Impacts, and Perceived Use of Low-back
+Exoskeletons for EMS Work. In&nbsp;<i>Proceedings of the Human Factors and
+Ergonomics Society Annual Meeting</i>&nbsp;(p. 21695067231199685). Sage CA: Los
+Angeles, CA: SAGE Publications. </li>
+
+
+<li>
+Peres,
+SC.*, Murphy, R., &amp; <b>Mehta, R. K</b>. (2023). Best Practices to Reduce
+Fatigue in Small Uncrewed Aerial Systems Pilots. 2023 IEEE International
+Conference on Safety, Security, and Rescue Robotics (SSRR), November 13-15
+2023, Fukushima, Japan. <b><i>Finalist for the 2023 SSRR Best Paper Award</i></b></li>
+
+
+<li>
+Shah,
+J.<sup>2</sup>*, <u>Yadav, A.</u><sup>2</sup>, <u>Hopko, S.</u><sup>2</sup>, <b>Mehta, R. K</b>., &amp; Pagilla, P. (2023). Robot
+Adaptation under Operator Cognitive Fatigue Using Reinforcement Learning. In&nbsp;2023 32nd IEEE International Conference on Robot and Human Interactive
+Communication (RO-MAN) (pp. 10951-10958). IEEE.
+</li>
+
+
+<li>
+Molnar,
+L., <b>Mehta, RK.</b>, &amp; Robson, R.* (2022). Artificial Intelligence (AI),
+the Future of Work, and the Building of a National Talent Ecosystem. &nbsp;In:
+Rodrigo, M.M., Matsuda, N., Cristea, A.I., Dimitrova, V. (eds) Artificial
+Intelligence in Education. AIED 2022. Lecture Notes in Computer Science, vol
+13356 (pp. 99-103). Springer, Cham. <a
+href="https://doi.org/10.1007/978-3-031-11647-6_17">https://doi.org/10.1007/978-3-031-11647-6_17</a> </li>
+
+
+<li>
+Kalatzis,
+A.*, <u>Hopko, S.</u><sup>2</sup>, <b>Mehta, R. K</b>.,
+Stanley, L., &amp; Wittie, M. P. (2022). Sex Parity in Cognitive Fatigue Model
+Development for Effective Human-Robot Collaboration. In&nbsp;2022 IEEE/RSJ International Conference on Intelligent Robots and
+Systems (IROS)&nbsp;(pp. 10951-10958). IEEE. </li>
+
+
+<li>
+Nelson,
+C. R.*, Gabbard, J. L., Moats, J. B., &amp; <b>Mehta, R. K. </b>(2022).
+User-Centered Design and Evaluation of ARTTS: an Augmented Reality Triage Tool
+Suite for Mass Casualty Incidents. In&nbsp;2022 IEEE International Symposium on Mixed
+and Augmented Reality (ISMAR)&nbsp;(pp.
+336-345). IEEE.</li>
+
+
+<li>
+Xiao, X.*, <u>Zhang,
+Y.*</u><sup>2</sup>, Wei, R., McDonald, A., &amp; <b>Mehta</b>
+<b>RK.</b> (2022). Measurement and Analysis of Dynamic Trust in Automated
+Vehicles Lessons Learned, Recommendations, and Pilot Results. In Proceedings of
+the Human Factors and Ergonomics Society Annual Meeting (Vol. 66, No. 1, pp.
+1370-1371). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+Yin, W.*, Chen, Y.,
+Reddy, C., Zheng, L., <b>Mehta, RK.</b>, Zhang, X. (2022). Flexible
+Sensor-Based Biomechanical Evaluation of Passive Low-Back Exoskeleton Use in
+Lifting. In Proceedings of the Human Factors and Ergonomics Society Annual
+Meeting (Vol. 66, No. 1, pp. 277-279). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Yadav, A.</u>*<sup>2</sup>, <u>Hopko,
+S.</u><sup>2</sup>, &amp; <b>Mehta, RK.</b> (2022).
+Interplay of Cognitive Fatigue and Trust in Human-Robot Collaboration. In
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol.
+66, No. 1, pp. 535-535). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Tyagi, O.</u>*<sup>2</sup> &amp; <b>Mehta,
+RK.</b> (2022). Sex differences in neuromuscular fatigue mechanisms in older
+adults: Shedding light on brain mapping. In Proceedings of the Human Factors
+and Ergonomics Society Annual Meeting (Vol. 66, No. 1, pp. 645-645). Sage CA:
+Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Hayes, J.</u>*<sup>2</sup>, <u>Dwivedi,
+S.</u><sup>2</sup>, <u>Karthikeyan, R.</u><sup>2</sup>, <u>Abujelala, A.</u><sup>1</sup>, <u>Kang,
+J.</u><sup>2</sup>, Ye, Y., Du, J., &amp; <b>Mehta, RK.</b>,
+Zhang, X. (2022). Identifying Early Predictors of Learning in VR-based Drone
+Training. In Proceedings of the Human Factors and Ergonomics Society Annual
+Meeting (Vol. 66, No. 1, pp. 1872-1876). Sage CA: Los Angeles, CA: SAGE
+Publications. <b><i>Awarded Best Student Research Paper in the Training TG,
+HFES.</i></b></li>
+
+
+<li>
+<u>Dwivedi, S.*</u><sup>2</sup>, <u>Hayes, J.</u><sup>2</sup>, <u>Pedron,
+I.</u><sup>3</sup>, <u>Kang, J.</u><sup>2</sup>, <u>Barnes, C.</u><sup>3</sup>,<u>
+Bailey, A.</u><sup>3</sup>, <u>Brenner, L.</u><sup>4</sup>, Tanous, K, Nelson, C., Gabbard, J., &amp; <b>Mehta, RK.</b>
+(2022). Comparing the Efficacy of AR-Based Training with Video-Based Training.
+In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol.
+66, No. 1, pp. 1862-1866). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Zhang, Y</u>.*<sup>2</sup>, <u>Hopko,
+S.</u><sup>2</sup>, <u>Yadav, A.</u><sup>2</sup>, &amp; <b>Mehta, RK.</b> (2022-Oct). Capturing Dynamic Trust
+Metrics during Shared Space Human Robot Collaboration: An eye-tracking
+approach. In Proceedings of the Human Factors and Ergonomics Society Annual
+Meeting (Vol. 66, No. 1, pp. 536-536). Sage CA: Los Angeles, CA: SAGE Publications.</li>
+
+
+<li>
+<u>Yadav, A.</u>*<sup>2</sup>, <u>Hopko,
+S.</u>*<sup>2</sup>, <u>Zhang, Y.</u><sup>2</sup>, <b>Mehta</b> <b>RK.</b> (2022). Multimodal Bio-Behavioral
+Approaches to Study Trust in Human-Robot Collaboration.<b> </b>In&nbsp;<i>4th Annual Workshop on Novel and
+Emerging Test Methods &amp; Metrics for Effective HRI</i>, 2020 HRI Conference, Mar 11, Virtual.</li>
+
 <li><strong>Mehta</strong><strong>, RK.</strong>, <u>Shortz, A.</u><sup>2</sup>, Peres, SC. (2021). The Need for Ensemble Fatigue Monitoring Practices in Offshore Environments.In <em>Proceedings of the MKO Process Safety Symposium</em>.</li>
 <li><u>Hopko, S.</u><sup> 2</sup>, <strong>Mehta, RK.</strong>, McDonald, A. (2021). Trust in Automation: Comparison of Automobile, Robot, Medical, and Cyber Aid Technologies. In <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>(Vol. 64, No. 1, pp. 960-961). Sage CA: Los Angeles, CA: SAGE Publications.</li>
 <li><u>Kang, J.</u><sup>2</sup>, Sasangohar, F., <strong>Mehta</strong> <strong>RK.</strong> (2021). Current state of worker fatigue assessment and associated recommendations in oil and gas and petrochemical industries. In <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>(Vol. 64, No. 1, pp. 960-961). Sage CA: Los Angeles, CA: SAGE Publications.</li>
