@@ -47,7 +47,7 @@
 
 - title: "Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"
   image: GradDesMono.JPG
-  description: We find a quantity that does decrease monotonically throughout GD training: the sharpness attained by the gradient flow solution (GFS).
+  description: We find a quantity that does decrease monotonically throughout GD training - the sharpness attained by the gradient flow solution (GFS).
   authors: I Kreisler * , M. Shpigel Nacson * ,**D. Soudry**, Yair Carmon
   link:
     url: https://arxiv.org/abs/2305.13064
