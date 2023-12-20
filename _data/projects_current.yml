@@ -1,3 +1,14 @@
+- title: "A Computer Vision based approach to detect defects on urban building façades."
+  image: prj_beyza.jpeg
+  addr: cv-based-defects
+  pp:
+    pp1: Kiper, B., Ergan, S. (2023). “Generative Adversarial Network (GAN) based data augmentation for enhancing DL models on façade defect identification” in ASCE International Conference on Computing in Civil Engineering, i3CE, June 25-28, 2023, Corvallis, Oregon.
+    pp2: Kiper, B., Ergan, S.(2023) “Evaluation of Data Augmentation Methods In Transfer Learning-Based Multi-Defect Classifications” in EG-ICE 2023 International Conference on Intelligent Computing in Engineering, July 4-7, 2023, London, UK.
+    pp3: Kiper, B., Lin, X., Owoborode, M., Ergan, S., (2022). “An approach to generate point cloud-based defects for automated façade inspections.” In International Conference on Construction Applications of Virtual Reality (CONVR2022), November 16-19, 2022, Seoul, South Korea.
+
+  description: "The significance of building façade inspections in ensuring public safety is underscored by the history of severe accidents due to falls from façades. Traditional inspection methods, relying on manual expertise, are fraught with risks and inefficiencies, which highlights the pressing need for automated solutions. The data collection process for façade inspection is arduous, leading to a shortage of labeled images. This lack, alongside the irregular occurrence of different defect types, skews datasets, which undermines the performance of AI models. In parallel, existing written reports and isolated annotations on images and floor plans do not capture the full picture of a façade's condition, necessitating a method that can holistically monitor and record changes over time. Addressing these issues, this research introduces an integrated 3D façade inspection platform. This platform seeks to: 1) Improve detection models through the generation of synthetic data, which in turn enhances the performance of defect detection models 2) Enable dynamic monitoring of façade changes, employing deep learning for more accurate tracking 3) Create a 3D visualization platform that consolidates scattered data sources, thereby optimizing the assessment and prioritization of repairs. The research aims to elevate detection accuracy, offer a dynamic, comprehensive monitoring and visualization tool that adapts to the evolving urban façade landscape and to mitigate the risks inherent in traditional inspection methods, fostering a safer urban environment."
+  highlight: 1
+
 - title: "Data-driven Building and Urban Energy Efficiency for Sustainable Cities"
   image: prj_qi.jpeg
   addr: data-driven-building-urban-energy
