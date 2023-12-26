@@ -80,6 +80,30 @@
   education1: <a href="mailto:kinderman@campus.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/edan-kinderman-1320611b8/?originalSubdomain=il">Homepage</a>
 
+- name: Gon Buzaglo
+  photo: Gon.jpeg
+  info: MSc Student 
+  email: gonbuzaglo@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:gonbuzaglo@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.buzaglo.me/">Homepage</a>
+
+- name: Gil Denekamp
+  photo: liat2.jpeg
+  info: MSc Student 
+  email: gil.denekamp@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:gil.denekamp@campus.technion.ac.il">Email</a>
+  education2: <a href="">Homepage</a>
+
+- name: Itamar Harel
+  photo: liat2.jpeg
+  info: MSc Student 
+  email: itamarharel@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:itamarharel@campus.technion.ac.il">Email</a>
+  education2: <a href="">Homepage</a>
+
 
 
 
