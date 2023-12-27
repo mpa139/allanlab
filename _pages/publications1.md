@@ -3,9 +3,11 @@ title: "Daniel Soudry Lab - ERC"
 layout: gridlay
 excerpt: "Daniel Soudry Lab -- ERC"
 sitemap: false
-permalink: /publications1/
+permalink: /publicationserc/
 ---
 # The ERC A-B-C-Deep Project
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 210px">
 
 ## Algorithmic Bias Control in Deep learning
 
