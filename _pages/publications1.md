@@ -7,7 +7,7 @@ permalink: /publicationserc/
 ---
 # The ERC A-B-C-Deep Project
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 210px">
 
 ## Algorithmic Bias Control in Deep learning
 
