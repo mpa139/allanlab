@@ -70,7 +70,7 @@ See below for more information on a few open questions that interest me.
   <img src="/images/respic/research2.JPG" style="width: 30%; float: center; margin: 10px;">
 </div>
 
-<h3 > <a href="#Neuroscience Theory">Post-Doc research: PhD research: Neuroscience Theorys</a></h3>
+<h3 > <a href="#Neuroscience Theory">PhD research: Neuroscience Theorys</a></h3>
 
 Modeling and analysis of
 <ul>
