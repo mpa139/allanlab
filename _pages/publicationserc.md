@@ -65,7 +65,7 @@ The sign * indicates equal contribution of the authors.
 
 
 <figure class="fourth">
- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 410px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 610px">
 </figure>
 
 
