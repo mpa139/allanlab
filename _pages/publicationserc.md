@@ -8,10 +8,6 @@ permalink: /publicationserc/
 # The ERC A-B-C-Deep Project
 
 
-<figure class="fourth">
- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 800px">
-</figure>
-
   
 ## Algorithmic Bias Control in Deep learning
 
@@ -64,7 +60,15 @@ The sign * indicates equal contribution of the authors.
 <p> &nbsp; </p>
 
 
+
 **This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101039436-ERC-A-B-C-Deep.**
+
+
+<figure class="fourth">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 800px">
+</figure>
+
+
 
 
 
