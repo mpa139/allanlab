@@ -1,6 +1,6 @@
 ---
 title: "Daniel Soudry Lab - ERC"
-layout: homelay
+layout: erclay
 excerpt: "Daniel Soudry Lab -- ERC"
 sitemap: false
 permalink: /publicationserc/
