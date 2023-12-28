@@ -8,16 +8,8 @@ permalink: /publicationserc/
 # The ERC A-B-C-Deep Project
 
 
-
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 310px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 400px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 400px">
-</figure>
-
-
-<figure class="fourth">
- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 1000px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 800px">
 </figure>
 
   
