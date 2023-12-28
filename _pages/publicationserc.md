@@ -17,7 +17,7 @@ permalink: /publicationserc/
 
 
 <figure class="fourth">
- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG style="width: 1000px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logoHor.JPG" style="width: 1000px">
 </figure>
 
   
