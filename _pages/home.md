@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "iVizLab Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "iVizLab at SFU &rarr; SFU."
 sitemap: false
 permalink: /
 ---
