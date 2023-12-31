@@ -1,5 +1,5 @@
 - name: Steve DiPaola
-  photo: Milan1.jpg
+  photo: steve.jpg
   info: Associate professor, started Jan 2015
   email: milan.allan@gmail.com
   number_educ: 5
@@ -9,16 +9,16 @@
   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: Jiasen Niu
-  photo: Jiasen.png
+- name: Vanessa Utz
+  photo: vanessa.png
   info: Postdoc, started Oct 2020
   email: niu@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
   education2: BSc Jilin University
 
-- name: Yudai Sato
-  photo: Sato.jpeg
+- name: Meehae Song
+  photo: meehae.jpeg
   info: Postdoc, started September 2023
   email: jwlee0421@postech.ac.kr
   number_educ: 2
