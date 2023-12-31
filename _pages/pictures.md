@@ -10,7 +10,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 
 #### iVizLab AI Avatar Work
-<iframe width="560" height="315" src="http://youtube.com/embed/RMLD7jccv_w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMLD7jccv_w" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
