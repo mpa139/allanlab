@@ -1,7 +1,7 @@
 ---
 title: "iVizLab Lab - Home"
 layout: homelay
-excerpt: "iVizLab at SFU &rarr; SFU."
+excerpt: "iVizLab, SFU."
 sitemap: false
 permalink: /
 ---
