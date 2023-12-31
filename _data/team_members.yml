@@ -1,6 +1,6 @@
 - name: Steve DiPaola
   photo: steve.jpg
-  info: Associate professor, started Jan 2015
+  info: Professor , Lab Director
   email: milan.allan@gmail.com
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -10,16 +10,16 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
 - name: Vanessa Utz
-  photo: vanessa.png
-  info: Postdoc, started Oct 2020
+  photo: vanessa.jpg
+  info: PhD
   email: niu@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
   education2: BSc Jilin University
 
 - name: Meehae Song
-  photo: meehae.jpeg
-  info: Postdoc, started September 2023
+  photo: meehae.jpg
+  info: PhD
   email: jwlee0421@postech.ac.kr
   number_educ: 2
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
