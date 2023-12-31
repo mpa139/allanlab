@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+**Our Focus — Computer Modelling Human Expression/Cognition/Creativity** iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems.
+**Our Vision** This “Expression Based Interactive or Intelligent Visualization Lab” is grounded in the engineering of AI techniques, computer graphics, data visualization and user interfaces but also strives to encompass work from the areas of cognitive science, neuroscience, and the arts with the aim of creating more socially engaging systems that enhance communication, collaboration and learning
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
