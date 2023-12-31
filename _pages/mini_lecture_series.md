@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - AOA"
+title: "iVizLab - AOA"
 layout: textlay
-excerpt: "AOA"
+excerpt: "iVizLab"
 sitemap: false
 permalink: /aoa.html
 ---
