@@ -6,26 +6,26 @@
     url: https://dl.acm.org/doi/10.1145/3610661.3616183
     display: ACM Multimodal Interaction (ICMI),  (2023)
   highlight: 1
-  news2: See [news item](https://www.sfu.ca/sfunews/stories/2019/12/conversing-with-chatbots-artificial-intelligence-research-keeps-.html) NeuroIPS Best AI Demo
+  news2: See [News item](https://www.sfu.ca/sfunews/stories/2019/12/conversing-with-chatbots-artificial-intelligence-research-keeps-.html) NeuroIPS Best AI Demo
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Predictors of the rate of cognitive decline in older adults using machine learning"
+  image: 23_predictors1.png
+  description: We designed and implement a multivariate robust model to predict longitudinal cognitive changes over 12 years among older adults and to identify the most significant predictors of cognitive changes using AI techniques.
+  authors: Ahmadzadeh M, Cosco T, Best J, Chistie G, DiPaola S
   link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
+    url: https://doi.org/10.1371/journal.pone.0280029
+    display: Plos One, 23 pages (2023)
+  highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions"
+  image: 23_designing1.jpg
+  description: Our research is on the subjective evaluation of visual aesthetic emotions, using our new assement tool: Visual Aesthetic Wheel of Emotion (VAWE). The goal of many researchers in fields such as AI, affective computing, computational creativity, and computer vision is to build systems that transcend such limitations by processing visual information in terms of its deeper meaning rather than on the surface level.
+  authors: Abukhodair N, Song M, Serkan P, DiPaola S
   link:
     url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
+    display: Cognitive Systems Research, 23 pages (2023)
   highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+  news1: See [News item](https://www.sfu.ca/sfunews/stories/2019/12/conversing-with-chatbots-artificial-intelligence-research-keeps-.html) NeuroIPS Best AI Demo
 
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
