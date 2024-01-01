@@ -14,7 +14,7 @@
   authors: Ahmadzadeh M, Cosco T, Best J, Chistie G, DiPaola S
   link:
     url: https://doi.org/10.1371/journal.pone.0280029
-    display: Plos One, 23 pages (2023)
+    display: Plos One. 23 pages, (2023)
   highlight: 1
 
 - title: "Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions"
@@ -23,18 +23,18 @@
   authors: Abukhodair N, Song M, Serkan P, DiPaola S
   link:
     url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Cognitive Systems Research, 23 pages (2023)
+    display: Cognitive Systems Research. 23 pages, (2023)
   highlight: 1
   news1: See [News item](https://www.sfu.ca/sfunews/stories/2019/12/conversing-with-chatbots-artificial-intelligence-research-keeps-.html) NeuroIPS Best AI Demo
 
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption”
+  image: 23_climate1.jpg
+  description: In this work, we report on the growth of diffusion-based visual AI systems, their patterns of use, growth and the implications on the climate. Our estimates show that the mass adoption of these tools potentially contributes considerably to global energy consumption.
+  authors: Utz, V. & DiPaola, S. 
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_60.pdf
+    display: International Conference on Computational Creativity (ICCC). 9 pages, (2023)
   highlight: 1
   news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
@@ -56,7 +56,7 @@
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
+  highlight: 0
   news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
@@ -66,7 +66,7 @@
   link:
     url: https://www.nature.com/articles/s41467-020-20529-x
     display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+  highlight: 0
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
