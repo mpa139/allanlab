@@ -1,4 +1,4 @@
-gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+gem "github-pages", "~> 228 ", group: :jekyll_plugins
 
 source 'https://rubygems.org'
 
