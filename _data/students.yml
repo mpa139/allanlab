@@ -12,12 +12,6 @@
   photo: liuxi.jpg
   info: Graduate student, started Sept 2020
   email: liuxi20@lzu.edu.cn
-  
-
-- name: Na Wan
-  photo: wanna2.png
-  info: Graduate Student, started Sept 2020
-  email: wann20@lzu.edu.cn
 
 
 - name: Leyan Mao
@@ -44,5 +38,13 @@
 
 - name: Zhilong Feng
   info: Graduate Student, started Sept 2022
+
+
+- name: Jiaqi Chen
+  info: Graduate Student, started Sept 2023
+
+
+- name: Wei Shen
+  info: Graduate Student, started Sept 2023  
 
 
