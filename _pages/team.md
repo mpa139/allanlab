@@ -100,6 +100,18 @@ She is the recipient of:
 </div>
 </div>
 
+## Research Scientists
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/nichols.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://kieran-nichols.github.io/">Kieran Nichols</a> has a B.Sc. in Kinesiology from Pennsylvania State University, M.Scs. in Kinesiology and Mechanical Engineering from University of Wisconsin-Madison, and recently graduated with his Ph.D. in Mechanical Engineering from UW-Madison. His research interests include biomechanics, robotics, mechatronics, neuroergonomics, wearables, and human factors. His research aims to evaluate and improve cognitive and motor performance with user-centered feedback systems using sensing, cueing, and electrical stimulations. He enjoys gymnastics, cooking, and water activities, and is originally from Trinidad and Tobago.
+  </p>
+</div>
+</div>
 
 
 <!-- ## Masters Students -->
