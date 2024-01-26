@@ -113,6 +113,19 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mohanty.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/ronakmohanty/">Dr. Ronak R. Mohanty</a> is a Research Scientist in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. Specializing in Human-Computer Interaction and Applied Perception, he applies human-centric design principles, contributing to the development of innovative multisensory experiences in the Extended Reality (XR) technology space. His commitment to inclusivity and accessibility is evident in diverse domains, including health technology with a focus on haptic rehabilitation, medical applications like orthopedic surgery training, and advancements in XR learning. Dr. Mohanty played a significant role in the research and development of haptics-based wearable devices at Meta Reality Labs, a leader in XR technology. His contributions encompass cutting-edge human augmentation technologies and continues to shape technological advancements, reflecting a commitment to excellence in both academic and industrial realms.
+  </p>
+</div>
+</div>
+
+
+
 
 <!-- ## Masters Students -->
 
