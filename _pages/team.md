@@ -124,7 +124,7 @@ She is the recipient of:
 </div>
 </div>
 
-## Research Associates
+## Postdoctoral Research Associates
 
 
 <div class="row">
@@ -133,7 +133,7 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/umair-iqbal-03b2464a/">Umair</a> is a Research Associate in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. His research at UW-Madison encompasses the field of fatigue assessment and management with a special focus on offshore industry worker fatigue. Prior to his tenure at UW-Madison, he held the position of a Post Doctoral Fellow in the Department of Chemical Engineering at IIT Madras.During this period, his research focused on evaluation and enhancement of human-machine interface (HMI) design using eye-tracking technology. He holds a Ph.D. in Chemical Engineering from the Indian Institute of Technology Gandhinagar. He has obtained his M. Tech from IIT Gandhinagar and a B. Tech in Chemical Engineering from the National Institute of Technology Srinagar. Umair has a rich research experience in the field of human factors and process safety. His research thrust has been on the performance and reliability of control room operators using cognitive engineering approaches.  His work in process safety predominantly focuses on human error. He has extensively employed cutting-edge techniques such as electroencephalography (EEG) and eye-tracking to understand the cognitive aspects of human performance. Umair also loves to play badminton and chess.
+    <a href="https://www.linkedin.com/in/umair-iqbal-03b2464a/">Umair</a> is a postdoctoral research associate in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. His research at UW-Madison encompasses the field of fatigue assessment and management with a special focus on offshore industry worker fatigue. Prior to his tenure at UW-Madison, he held the position of a Post Doctoral Fellow in the Department of Chemical Engineering at IIT Madras.During this period, his research focused on evaluation and enhancement of human-machine interface (HMI) design using eye-tracking technology. He holds a Ph.D. in Chemical Engineering from the Indian Institute of Technology Gandhinagar. He has obtained his M. Tech from IIT Gandhinagar and a B. Tech in Chemical Engineering from the National Institute of Technology Srinagar. Umair has a rich research experience in the field of human factors and process safety. His research thrust has been on the performance and reliability of control room operators using cognitive engineering approaches.  His work in process safety predominantly focuses on human error. He has extensively employed cutting-edge techniques such as electroencephalography (EEG) and eye-tracking to understand the cognitive aspects of human performance. Umair also loves to play badminton and chess.
 
   </p>
 </div>
