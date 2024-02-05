@@ -151,6 +151,11 @@ She is the recipient of:
 
 ## Alumni
 
+<h3>Postdoctoral Researchers</h3>
+{% for member in site.data.alumni_pdoc %}
+<a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
+{% endfor %}
+
 <h3>Ph.D.</h3>
 {% for member in site.data.alumni_phd %}
 <a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
