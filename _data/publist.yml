@@ -3,8 +3,8 @@
   images: 
   authors: Park, K., Ergan, S., and Chen, F.
   link:
-    url:
-    display: Automation in Construction (accepted).
+    url: https://doi.org/10.1016/j.autcon.2023.105243
+    display: Automation in Construction, 158, 105243.
 
 - title: "Extracting principal building variables from automatically collected urban scale façade images for energy conservation through deep transfer learning"
   image:
