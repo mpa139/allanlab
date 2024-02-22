@@ -1,3 +1,13 @@
+
+- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+  image: ShotNoise.png
+  description: Can mesoscopic shot nise experiments show the doubling of the charge carriers in a superconductor? Thurns out, it's complicated. We investigates this in several different samples, and made predictions as to what is necessary to make this work.
+  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
+    display: Phys. Rev. Lett. 132, 076001
+  highlight: 1
+
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
   image: imageaward_edited.png
   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
@@ -7,15 +17,6 @@
     display: Nature Communications 4, 3341 (2023)
   highlight: 1
   news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
-
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
-  link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
   image: BSCCOgap.png
