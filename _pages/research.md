@@ -11,7 +11,7 @@ permalink: /research/
 
 
 
-**Our Research it is so great All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**Our Research**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.research %}
@@ -25,7 +25,7 @@ permalink: /research/
 
 <div class="col-sm-6 clearfix">
 
-  <strong> [{{ publi.title }}]({{ site.url }}{{ site.baseurl }}/{{ publi.page }})
+  <strong> [{{ publi.title }}]( {{ site.url }}{{ site.baseurl }}/{{ publi.page }} )
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
 
