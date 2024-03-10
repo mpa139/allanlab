@@ -6,10 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-**Our Focus — Computer Modelling Human Expression/Cognition/Creativity** iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems..
+**Our Focus** Computer Modelling Human Expression/Cognition/Creativity -- iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems.
 
 **Our Vision** This “Expression Based Interactive or Intelligent Visualization Lab” is grounded in the engineering of AI techniques, computer graphics, data visualization and user interfaces but also strives to encompass work from the areas of cognitive science, neuroscience, and the arts.
 
+<br>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -55,21 +56,16 @@ permalink: /
 </div>
 
 
-iVizlab is- “An interdisciplinary research lab that strives to make computational systems bend more to the human experience by incorporating biological, cognitive and behavioral knowledge models.” -Dr. Steve DiPaola
+iVizlab is - “An interdisciplinary research lab that strives to make computational systems bend more to the human experience by incorporating biological, cognitive and behavioral knowledge models.” - Dr. Steve DiPaola
 
-[Simon Fraser University ](https://www.sfu.ca) in teh School  [SIAT](https://www.sfu.ca/siat/). (see [Research](research)). 
-
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+[Simon Fraser University ](https://www.sfu.ca) in the  School  [SIAT](https://www.sfu.ca/siat/). (see [Research](research)). 
 
 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ref/sfuLogo.jpg"  style="width: 140px">
+  -----------------
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ref/siatLogo.jpg" style="width: 180px">
+
 </figure>
