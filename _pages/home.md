@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Our Focus — Computer Modelling Human Expression/Cognition/Creativity** iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems.
+**Our Focus — Computer Modelling Human Expression/Cognition/Creativity** iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems..
 
 **Our Vision** This “Expression Based Interactive or Intelligent Visualization Lab” is grounded in the engineering of AI techniques, computer graphics, data visualization and user interfaces but also strives to encompass work from the areas of cognitive science, neuroscience, and the arts.
 
