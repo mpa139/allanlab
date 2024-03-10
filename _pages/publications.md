@@ -7,11 +7,8 @@ permalink: /publications/
 ---
 
 
-# Publications
+# iViz Lab Publications
 
-## Group highlights
-
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,11 +49,10 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+## Full List
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <pubtit>{{ publi.title }}</pubtit> by
+  {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
+  <br> <a href="{{ publi.url }}">{{ publi.display }}
 {% endfor %}
