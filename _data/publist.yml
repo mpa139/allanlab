@@ -1,373 +1,1632 @@
-- title: "Combining Bio-Sensing, Multimodal Control, and Artificial Intelligence for Bio-Responsive Interactives"
-  image: 23_combining1.png
-  description: The work explores a more affective, bio-responsive experience for real-time/VR AI singularly or multiuser environments  especially where mindfulness and wellness are a goal.
-  authors: Song M and DiPaola S
-  link:
-    url: https://dl.acm.org/doi/10.1145/3610661.3616183
-    display: ACM Multimodal Interaction (ICMI),  (2023)
-  highlight: 1
-  news2: See [News item](https://www.sfu.ca/sfunews/stories/2019/12/conversing-with-chatbots-artificial-intelligence-research-keeps-.html) NeuroIPS Best AI Demo
+- new: 1
+  type: Journal
+  number: 1
+  authors:  Abukhodair N; Song M; DiPaola S
+  title:  " Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions" 
+  journal:  " Cognitive Systems Research" 
+  description:  23 pages
+  year: 2023
+  research: AICreativity
+  display:  " Cognitive Systems Research (2023)" 
+  url: https://www.google.com/search?q=' Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions' ' Cognitive Systems Research'
 
-- title: "Predictors of the rate of cognitive decline in older adults using machine learning"
-  image: 23_predictors1.png
-  description: We designed and implement a multivariate robust model to predict longitudinal cognitive changes over 12 years among older adults and to identify the most significant predictors of cognitive changes using AI techniques.
-  authors: Ahmadzadeh M, Cosco T, Best J, Chistie G, DiPaola S
-  link:
-    url: https://doi.org/10.1371/journal.pone.0280029
-    display: Plos One. 23 pages, (2023)
-  highlight: 1
+- new: 1
+  type: Conference
+  number: 1
+  authors:  Utz V; DiPaola S
+  title:  " Digital Overconsumption and Waste; A Closer Look at the Impacts of Generative AI" 
+  journal:  " Conference on Computer Vision and Pattern Recognition (CVPR) 2023" 
+  description:  Ethical Considerations in Creative Applications of Computer Vision (EC3V) Workshop
+  year: 2023
+  research: nul
+  display:  " Conference on Computer Vision and Pattern Recognition (CVPR) 2023 (2023)" 
+  url: https://www.google.com/search?q=' Digital Overconsumption and Waste; A Closer Look at the Impacts of Generative AI' ' Conference on Computer Vision and Pattern Recognition (CVPR) 2023'
 
-- title: "Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions"
-  image: 23_designing1.jpg
-  description: Our research is on the subjective evaluation of visual aesthetic emotions, using our new assement tool, Visual Aesthetic Wheel of Emotion (VAWE). The goal of many researchers in fields such as AI, affective computing, computational creativity, and computer vision is to build systems that transcend such limitations by processing visual information in terms of its deeper meaning rather than on the surface level.
-  authors: Abukhodair N, Song M, Serkan P, DiPaola S
-  link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Cognitive Systems Research. 23 pages, (2023)
-  highlight: 1
-  news1: See [News item](https://www.sfu.ca/sfunews/stories/2019/12/conversing-with-chatbots-artificial-intelligence-research-keeps-.html) NeuroIPS Best AI Demo
+- new: 1
+  type: Conference
+  number: 1
+  authors:  Utz V; DiPaola S
+  title:  " Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption" 
+  journal:  " International Conference on Computational Creativity" 
+  description:  9 pages
+  year: 2023
+  research: nul
+  display:  " International Conference on Computational Creativity (2023)" 
+  url: https://www.google.com/search?q=' Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption' ' International Conference on Computational Creativity'
 
-- title: "Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption"
-  image: 23_climate1.jpg
-  description: In this work, we report on the growth of diffusion-based visual AI systems, their patterns of use, growth and the implications on the climate. Our estimates show that the mass adoption of these tools potentially contributes considerably to global energy consumption.
-  authors: Utz, V. & DiPaola, S. 
-  link:
-    url: https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_60.pdf
-    display: International Conference on Computational Creativity (ICCC). 9 pages, (2023)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+- new: 1
+  type: Journal
+  number: 2
+  authors:  Ahmadzadeh M; Cosco T; Best J; Chistie G; DiPaola S
+  title:  " Predictors of the rate of cognitive decline in older adults using machine learning" 
+  journal:  " Plos One" 
+  description:  32 pages
+  year: 2023
+  research: nul
+  display:  " Plos One (2023)" 
+  url: https://www.google.com/search?q=' Predictors of the rate of cognitive decline in older adults using machine learning' ' Plos One'
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
-  highlight: 0
-  news2:
+- new: 1
+  type: Conference
+  number: 2
+  authors:  Song M; DiPaola S
+  title:  " Sound and Visual Entrainment in Affective Bio-Responsive Multi-User VR Interactives" 
+  journal:  " Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)" 
+  description:  5 pages
+  year: 2023
+  research: biobrainVR
+  display:  " Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (2023)" 
+  url: https://www.google.com/search?q=' Sound and Visual Entrainment in Affective Bio-Responsive Multi-User VR Interactives' ' Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)'
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 0
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+- new: 1
+  type: Journal
+  number: 3
+  authors:  Ahmadzadeh M; ...; DiPaola S; Moreno S
+  title:  " Neuroimaging and machine learning for studying the pathways from mild cognitive impairment to Alzheimer's disease; A systematic review" 
+  journal:  " BMC Neurology" 
+  description:  19 Pages
+  year: 2023
+  research: AICreativity
+  display:  " BMC Neurology (2023)" 
+  url: https://www.google.com/search?q=' Neuroimaging and machine learning for studying the pathways from mild cognitive impairment to Alzheimer's disease; A systematic review' ' BMC Neurology'
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 0
+- new: 1
+  type: Conference
+  number: 3
+  authors:  Song M; DiPaola S
+  title:  " Multimodal Entrainment in Bio-Responsive Multi-User VR Interactives" 
+  journal:  " ACM International Conference on Multimodal Interaction (ICMI)" 
+  description:  5 pages. Late Breaking Paper
+  year: 2023
+  research: biobrainVR
+  display:  " ACM International Conference on Multimodal Interaction (ICMI) (2023)" 
+  url: https://www.google.com/search?q=' Multimodal Entrainment in Bio-Responsive Multi-User VR Interactives' ' ACM International Conference on Multimodal Interaction (ICMI)'
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-  link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
-  news2:
+- new: 1
+  type: Conference
+  number: 4
+  authors:  DiPaola S; Song M
+  title:  " Combining Bio-Sensing; Multimodal Control; and Artificial Intelligence for Bio-Responsive Interactives" 
+  journal:  " ACM International Conference on Multimodal Interaction (ICMI)" 
+  description:  Workshop; Modeling Socio-Emotional and Cognitive Processes. 5 pages
+  year: 2023
+  research: biobrainVR
+  display:  " ACM International Conference on Multimodal Interaction (ICMI) (2023)" 
+  url: https://www.google.com/search?q=' Combining Bio-Sensing; Multimodal Control; and Artificial Intelligence for Bio-Responsive Interactives' ' ACM International Conference on Multimodal Interaction (ICMI)'
 
+- new: 1
+  type: Conference
+  number: 5
+  authors:  Choi SK; DiPaola S
+  title:  " Art creation as an emergent multimodal journey in Artificial Intelligence latent space" 
+  journal:  " ACM International Conference on Multimodal Interaction (ICMI)" 
+  description:  Workshop; Multimodal Affect and Aesthetic Experience. 7 pages
+  year: 2023
+  research: AICreativity
+  display:  " ACM International Conference on Multimodal Interaction (ICMI) (2023)" 
+  url: https://www.google.com/search?q=' Art creation as an emergent multimodal journey in Artificial Intelligence latent space' ' ACM International Conference on Multimodal Interaction (ICMI)'
 
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
-  link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
-  highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+- new: 1
+  type: Conference
+  number: 6
+  authors:  Goncharov A; Yalcin ON; DiPaola S
+  title:  " Expectations vs. Reality; The Impact of Adaptation Gap on Avatars in Social VR Platforms" 
+  journal:  " ACM International Conference on Multimodal Interaction (ICMI)" 
+  description:  workshop; ACE; how Artificial Character Embodiment shapes user behaviour in multi-modal interactions. 8 pages
+  year: 2023
+  research: virtualHumans
+  display:  " ACM International Conference on Multimodal Interaction (ICMI) (2023)" 
+  url: https://www.google.com/search?q=' Expectations vs. Reality; The Impact of Adaptation Gap on Avatars in Social VR Platforms' ' ACM International Conference on Multimodal Interaction (ICMI)'
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
-  link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
-  news2:
+- new: 1
+  type: Journal
+  number: 4
+  authors:  Zinovieff F; Aceves Seplveda G; DiPaola S; Sun P
+  title:  " Connective Tissue and Bacterial Echoes; Four Artists a River and an Artificial Agent" 
+  journal:  " Ecocene; Cappadocia Journal of Environmental Humanities" 
+  description:  Vol 3. No 2
+  year: 2022
+  research: nul
+  display:  " Ecocene; Cappadocia Journal of Environmental Humanities (2022)" 
+  url: https://www.google.com/search?q=' Connective Tissue and Bacterial Echoes; Four Artists a River and an Artificial Agent' ' Ecocene; Cappadocia Journal of Environmental Humanities'
 
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
-  link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
-  highlight: 0
-  news2:
+- new: 1
+  type: Journal
+  number: 5
+  authors:  Sun P; Zinovieff F; Aceves Sep£lveda G; and DiPaola S
+  title:  " Mitochondrial Crossings" 
+  journal:  " In Feral Feminisms 12" 
+  description:  Special Issue on Hacking the Anthropocene. 5 pages
+  year: 2022
+  research: nul
+  display:  " In Feral Feminisms 12 (2022)" 
+  url: https://www.google.com/search?q=' Mitochondrial Crossings' ' In Feral Feminisms 12'
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
-  highlight: 0
-  news2:
+- new: 1
+  type: Conference
+  number: 7
+  authors:  Kitson A; Muntean R; DiPaola S; Riecke B
+  title:  " Lucid Loop; Exploring the Parallels between Immersive Experiences and Lucid Dreaming" 
+  journal:  " DIS '22; Designing Interactive Systems Conference" 
+  description:  pp. 865-880
+  year: 2022
+  research: AICreativity
+  display:  " DIS '22; Designing Interactive Systems Conference (2022)" 
+  url: https://www.google.com/search?q=' Lucid Loop; Exploring the Parallels between Immersive Experiences and Lucid Dreaming' ' DIS '22; Designing Interactive Systems Conference'
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 1
-  news2:
+- new: 1
+  type: Conference
+  number: 8
+  authors:  Cuykendall S; DiPaola S
+  title:  " Floating Departures; Developing Quarantine Dance Technique as an Artistic Practice Beyond the Pandemic" 
+  journal:  " ACM Conference on Movement and Computing (MOCO)" 
+  description:  Chicago. USA. 7 pages
+  year: 2022
+  research: AICreativity
+  display:  " ACM Conference on Movement and Computing (MOCO) (2022)" 
+  url: https://www.google.com/search?q=' Floating Departures; Developing Quarantine Dance Technique as an Artistic Practice Beyond the Pandemic' ' ACM Conference on Movement and Computing (MOCO)'
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+- new: 1
+  type: Journal
+  number: 6
+  authors:  Saberi M; DiPaola S; Bernardet U
+  title:  " Expressing Personality Through Non-verbal Behavior in Real-Time Interaction" 
+  journal:  " Frontiers in Psychology" 
+  description:  Vol 12. 5474. 19 pages
+  year: 2021
+  research: virtualHumans
+  display:  " Frontiers in Psychology (2021)" 
+  url: https://www.google.com/search?q=' Expressing Personality Through Non-verbal Behavior in Real-Time Interaction' ' Frontiers in Psychology'
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
+- new: 1
+  type: Conference
+  number: 9
+  authors:  Shakeri H; Neustaedter C; DiPaola S
+  title:  " SAGA; Collaborative Storytelling with GPT-3" 
+  journal:  " ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)" 
+  description:  pp. 163-166
+  year: 2021
+  research: biobrainVR
+  display:  " ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW) (2021)" 
+  url: https://www.google.com/search?q=' SAGA; Collaborative Storytelling with GPT-3' ' ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)'
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
+- new: 1
+  type: Conference
+  number: 10
+  authors:  Zarei M; DiPaola S
+  title:  " VR-DesignSpace; A Creativity Support Environment Integrating Virtual Reality Technology into Collaborative Data-Informed Evaluation of Design Alternative" 
+  journal:  " International Conference on Human Computer Interaction (HCII 21)" 
+  description:  Computer and Information Science. vol 1420. (short paper). Springer
+  year: 2021
+  research: nul
+  display:  " International Conference on Human Computer Interaction (HCII 21) (2021)" 
+  url: https://www.google.com/search?q=' VR-DesignSpace; A Creativity Support Environment Integrating Virtual Reality Technology into Collaborative Data-Informed Evaluation of Design Alternative' ' International Conference on Human Computer Interaction (HCII 21)'
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+- new: 1
+  type: Conference
+  number: 11
+  authors:  Utz V; DiPaola S
+  title:  " Exploring the Application of AI-generated Artworks for the Study of Aesthetic Processing" 
+  journal:  " IEEE Multimedia Information Processing and Retrieval (MIPR)" 
+  description:  pp. 393-398
+  year: 2021
+  research: AICreativity
+  display:  " IEEE Multimedia Information Processing and Retrieval (MIPR) (2021)" 
+  url: https://www.google.com/search?q=' Exploring the Application of AI-generated Artworks for the Study of Aesthetic Processing' ' IEEE Multimedia Information Processing and Retrieval (MIPR)'
 
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
+- new: 1
+  type: Journal
+  number: 7
+  authors:  Choi SK; DiPaola S; H Toyryla
+  title:  " Artistic style meets artificial intelligence" 
+  journal:  " Journal of Perceptual Imaging" 
+  description:  13 pages
+  year: 2020
+  research: AICreativity
+  display:  " Journal of Perceptual Imaging (2020)" 
+  url: https://www.google.com/search?q=' Artistic style meets artificial intelligence' ' Journal of Perceptual Imaging'
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+- new: 1
+  type: Journal
+  number: 8
+  authors:  Utz V; DiPaola S
+  title:  " Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions" 
+  journal:  " Cognitive Systems Research" 
+  description:  Vol 59. pp. 63-72
+  year: 2020
+  research: AICreativity
+  display:  " Cognitive Systems Research (2020)" 
+  url: https://www.google.com/search?q=' Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions' ' Cognitive Systems Research'
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
+- new: 1
+  type: Conference
+  number: 12
+  authors:  Yalcin ON; Moreno S; DiPaola S
+  title:  " Social Prescribing Across the Lifespan with Virtual Humans" 
+  journal:  " ACM International Conference on Intelligent Virtual Agents (IVA)" 
+  description:  No. 56. pp. 1-3
+  year: 2020
+  research: biobrainVR
+  display:  " ACM International Conference on Intelligent Virtual Agents (IVA) (2020)" 
+  url: https://www.google.com/search?q=' Social Prescribing Across the Lifespan with Virtual Humans' ' ACM International Conference on Intelligent Virtual Agents (IVA)'
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+- new: 1
+  type: Conference
+  number: 13
+  authors:  Yalcin ON; Abukhodair N; DiPaola S
+  title:  " Empathic AI Painter; A Computational Creativity System with Embodied Conversational Interaction" 
+  journal:  " Machine Learning Research (NeurIPS Competition and Demonstration Track)" 
+  description:  Vol 12. pp. 131-141
+  year: 2020
+  research: AICreativity
+  display:  " Machine Learning Research (NeurIPS Competition and Demonstration Track) (2020)" 
+  url: https://www.google.com/search?q=' Empathic AI Painter; A Computational Creativity System with Embodied Conversational Interaction' ' Machine Learning Research (NeurIPS Competition and Demonstration Track)'
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
+- new: 1
+  type: Conference
+  number: 14
+  authors:  Utz V; DiPaola S
+  title:  " Aesthetic Judgments; Movement Perception and the Neural Architecture of the Visual System" 
+  journal:  " Biologically Inspired Cognitive Architectures (BICA)" 
+  description:  Advances in Intelligent Systems and Computing. vol 948. Springer
+  year: 2019
+  research: AICreativity
+  display:  " Biologically Inspired Cognitive Architectures (BICA) (2019)" 
+  url: https://www.google.com/search?q=' Aesthetic Judgments; Movement Perception and the Neural Architecture of the Visual System' ' Biologically Inspired Cognitive Architectures (BICA)'
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+- new: 1
+  type: Conference
+  number: 15
+  authors:  DiPaola S; Yalcin ON
+  title:  " A multi-layer artificial intelligence and sensing based affective conversational embodied agent" 
+  journal:  " Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)" 
+  description:  pp. 91-92
+  year: 2019
+  research: virtualHumans
+  display:  " Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (2019)" 
+  url: https://www.google.com/search?q=' A multi-layer artificial intelligence and sensing based affective conversational embodied agent' ' Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)'
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
+- new: 1
+  type: Conference
+  number: 16
+  authors:  Yalcin ON; DiPaola S
+  title:  " M-Path; A Conversational System for the Empathic Virtual Agent" 
+  journal:  " Biologically Inspired Cognitive Architectures (BICA)" 
+  description:  Advances in Intelligent Systems and Computing. vol 948. Springer
+  year: 2019
+  research: virtualHumans
+  display:  " Biologically Inspired Cognitive Architectures (BICA) (2019)" 
+  url: https://www.google.com/search?q=' M-Path; A Conversational System for the Empathic Virtual Agent' ' Biologically Inspired Cognitive Architectures (BICA)'
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+- new: 1
+  type: Conference
+  number: 17
+  authors:  Kitson A; DiPaola S; Riecke B
+  title:  " Lucid Loop; A Virtual Deep Learning Biofeedback System for Lucid Dreaming Practice" 
+  journal:  " ACM CHI Conference on Human Factors in Computing Systems (CHI EA)" 
+  description:  Paper LBW1322. 6 pages
+  year: 2019
+  research: nul
+  display:  " ACM CHI Conference on Human Factors in Computing Systems (CHI EA) (2019)" 
+  url: https://www.google.com/search?q=' Lucid Loop; A Virtual Deep Learning Biofeedback System for Lucid Dreaming Practice' ' ACM CHI Conference on Human Factors in Computing Systems (CHI EA)'
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+- new: 1
+  type: Conference
+  number: 18
+  authors:  Bernardet U; Kanq S; Feng A; DiPaola S; Shapiro A
+  title:  " Speech Breathing in Virtual Humans; An Interactive Model and Empirical Study" 
+  journal:  " IEEE Virtual Humans and Crowds for Immersive Environments (VHCIE)" 
+  description:  pp. 1-9. Osaka
+  year: 2019
+  research: virtualHumans
+  display:  " IEEE Virtual Humans and Crowds for Immersive Environments (VHCIE) (2019)" 
+  url: https://www.google.com/search?q=' Speech Breathing in Virtual Humans; An Interactive Model and Empirical Study' ' IEEE Virtual Humans and Crowds for Immersive Environments (VHCIE)'
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+- new: 1
+  type: Conference
+  number: 19
+  authors:  Song M; Tadeo T; Sandor I; Ulas S; DiPaola S
+  title:  " BioFlockVR; exploring visual entrainment through amorphous nature phenomena in bio-responsive multi-immersant VR interactives" 
+  journal:  " ACM International Conference on Image and Graphics Processing (ICIGP)" 
+  description:  New York
+  year: 2019
+  research: virtualHumans
+  display:  " ACM International Conference on Image and Graphics Processing (ICIGP) (2019)" 
+  url: https://www.google.com/search?q=' BioFlockVR; exploring visual entrainment through amorphous nature phenomena in bio-responsive multi-immersant VR interactives' ' ACM International Conference on Image and Graphics Processing (ICIGP)'
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+- new: 1
+  type: Conference
+  number: 20
+  authors:  Yalcin ON; DiPaola S
+  title:  " Evaluating levels of emotional contagion with an embodied conversational agent" 
+  journal:  " Annual Conference of the Cognitive Science Society" 
+  description:  pp. 3143-3149. Montreal
+  year: 2019
+  research: virtualHumans
+  display:  " Annual Conference of the Cognitive Science Society (2019)" 
+  url: https://www.google.com/search?q=' Evaluating levels of emotional contagion with an embodied conversational agent' ' Annual Conference of the Cognitive Science Society'
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+- new: 1
+  type: Journal
+  number: 9
+  authors:  Yalcin ON; DiPaola S
+  title:  " A computational model of empathy for interactive agents" 
+  journal:  " Biologically Inspired Cognitive Architectures Journal (BICA Journal)" 
+  description:  Vol 26.  pp. 20-25. BICA Research Award Winning Paper
+  year: 2018
+  research: virtualHumans
+  display:  " Biologically Inspired Cognitive Architectures Journal (BICA Journal) (2018)" 
+  url: https://www.google.com/search?q=' A computational model of empathy for interactive agents' ' Biologically Inspired Cognitive Architectures Journal (BICA Journal)'
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
+- new: 1
+  type: Journal
+  number: 10
+  authors:  DiPaola S; McCaig G; Gabora L
+  title:  " Informing Artificial Intelligence Generative Techniques using Cognitive Theories of Human Creativity" 
+  journal:  " Procedia Computer Science" 
+  description:  Special Issue; Biologically Inspired Cognitive Architectures. Vol 145. pp. 158-168
+  year: 2018
+  research: AICreativity
+  display:  " Procedia Computer Science (2018)" 
+  url: https://www.google.com/search?q=' Informing Artificial Intelligence Generative Techniques using Cognitive Theories of Human Creativity' ' Procedia Computer Science'
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+- new: 1
+  type: Conference
+  number: 21
+  authors:  Nixon M; DiPaola S; Bernardet U
+  title:  " An Eye Gaze Model for Controlling the Display of Social Status in Believable Virtual Humans" 
+  journal:  " IEEE Conference on Computational Intelligence and Games (IEEE CIG)" 
+  description:  8 pages. Maastricht. Netherlands
+  year: 2018
+  research: virtualHumans
+  display:  " IEEE Conference on Computational Intelligence and Games (IEEE CIG) (2018)" 
+  url: https://www.google.com/search?q=' An Eye Gaze Model for Controlling the Display of Social Status in Believable Virtual Humans' ' IEEE Conference on Computational Intelligence and Games (IEEE CIG)'
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
+- new: 1
+  type: Conference
+  number: 22
+  authors:  Turner JO; DiPaola S
+  title:  " Transforming Kantian Aesthetic Principles into Qualitative Hermeneutics for Contemplative AGI Agents" 
+  journal:  " International Conference on Artificial General Intelligence (AGI)" 
+  description:  pp. 238-247
+  year: 2018
+  research: AICreativity
+  display:  " International Conference on Artificial General Intelligence (AGI) (2018)" 
+  url: https://www.google.com/search?q=' Transforming Kantian Aesthetic Principles into Qualitative Hermeneutics for Contemplative AGI Agents' ' International Conference on Artificial General Intelligence (AGI)'
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
+- new: 1
+  type: Conference
+  number: 23
+  authors:  DiPaola S; Mumford M
+  title:  " A framework for developing multi-modal media-spaces using AI techniques" 
+  journal:  " Electronic Literature Organization (ELO)" 
+  description:  5 pages
+  year: 2018
+  research: nul
+  display:  " Electronic Literature Organization (ELO) (2018)" 
+  url: https://www.google.com/search?q=' A framework for developing multi-modal media-spaces using AI techniques' ' Electronic Literature Organization (ELO)'
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+- new: 1
+  type: Conference
+  number: 24
+  authors:  Quesnel D; DiPaola S; Rieke B
+  title:  " Deep Learning for Classification of Peak Emotions within Virtual Reality Systems" 
+  journal:  " Semantic Ambient Media Experiences (SAME); Artificial Intelligence MEETS Virtual and Augmented Worlds (AIVR) with SIGGRAPH Asia" 
+  description:  pp. 6-11
+  year: 2018
+  research: nul
+  display:  " Semantic Ambient Media Experiences (SAME); Artificial Intelligence MEETS Virtual and Augmented Worlds (AIVR) with SIGGRAPH Asia (2018)" 
+  url: https://www.google.com/search?q=' Deep Learning for Classification of Peak Emotions within Virtual Reality Systems' ' Semantic Ambient Media Experiences (SAME); Artificial Intelligence MEETS Virtual and Augmented Worlds (AIVR) with SIGGRAPH Asia'
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
+- new: 1
+  type: Journal
+  number: 11
+  authors:  DiPaola S
+  title:  " Exploring the Cognitive Correlates of Artistic Practice Using a Parameterized Non-Photorealistic Toolkit" 
+  journal:  " Leonardo" 
+  description:  Vol 50. pp. 531-452
+  year: 2017
+  research: AICreativity
+  display:  " Leonardo (2017)" 
+  url: https://www.google.com/search?q=' Exploring the Cognitive Correlates of Artistic Practice Using a Parameterized Non-Photorealistic Toolkit' ' Leonardo'
+
+- new: 1
+  type: Journal
+  number: 12
+  authors:  Shakeri H; Nixon M; DiPaola S
+  title:  " Saliency-Based Artistic Abstraction with Deep Learning and Regression Trees" 
+  journal:  " Journal of Imaging Science and Technology" 
+  description:  Vol 61.  No 6.  pp. 60402-1-60402-9(9)
+  year: 2017
+  research: AICreativity
+  display:  " Journal of Imaging Science and Technology (2017)" 
+  url: https://www.google.com/search?q=' Saliency-Based Artistic Abstraction with Deep Learning and Regression Trees' ' Journal of Imaging Science and Technology'
+
+- new: 1
+  type: Conference
+  number: 25
+  authors:  Bernardet U; Kang S; Feng A; DiPaola S; Shapiro A
+  title:  " A Dynamic Speech Breathing System for Virtual Characters" 
+  journal:  " Intelligent Virtual Agents (IVA)" 
+  description:  pages 43-52
+  year: 2017
+  research: virtualHumans
+  display:  " Intelligent Virtual Agents (IVA) (2017)" 
+  url: https://www.google.com/search?q=' A Dynamic Speech Breathing System for Virtual Characters' ' Intelligent Virtual Agents (IVA)'
+
+- new: 1
+  type: Conference
+  number: 26
+  authors:  Cuykendall S; Sun P; Muntean R; DiPaola S
+  title:  " A Framework for Hybrid Multimodal Interactive Performances; Exploring the Virtual; Physical; and the Space in Between" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 159-166
+  year: 2017
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
+  url: https://www.google.com/search?q=' A Framework for Hybrid Multimodal Interactive Performances; Exploring the Virtual; Physical; and the Space in Between' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 27
+  authors:  Feldman S; Yalcin ON; DiPaola S
+  title:  " Engagement with artificial intelligence through natural interaction models" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 296-303
+  year: 2017
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
+  url: https://www.google.com/search?q=' Engagement with artificial intelligence through natural interaction models' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 28
+  authors:  Kadir A; Hennessy K; Yalcin ON; DiPaola S
+  title:  " Embodied interactions with a sufi dhikr ritual; negotiating privacy and transmission of intangible cultural heritage in virtual sama" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 365-372 Best Paper Award
+  year: 2017
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
+  url: https://www.google.com/search?q=' Embodied interactions with a sufi dhikr ritual; negotiating privacy and transmission of intangible cultural heritage in virtual sama' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 29
+  authors:  Song S; DiPaola S
+  title:  " Framework for a bio-responsive VR for interactive real-time environments and interactives" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 377-384
+  year: 2017
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
+  url: https://www.google.com/search?q=' Framework for a bio-responsive VR for interactive real-time environments and interactives' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Book
+  number: 1
+  authors:  Turner J; Bernardet U; Nixon M; DiPaola S
+  title:  " Integrating Cognitive Architectures into Virtual Character Design" 
+  journal:  " Full Book" 
+  description:  IGI Global
+  year: 2016
+  research: nul
+  display:  " Full Book (2016)" 
+  url: https://www.google.com/search?q=' Integrating Cognitive Architectures into Virtual Character Design' ' Full Book'
+
+- new: 1
+  type: Journal
+  number: 13
+  authors:  Carlson K; Schiphorst T; DiPaola S
+  title:  " Moving Collaborations; A Critical Inquiry into Designing Creative Interactive Systems for Choreography" 
+  journal:  " EAI Journal of Creative Technologies" 
+  description:  Special Issue; Intelligent Technologies for Interactive Entertainment.  Vol 16. No 6. 10 pages
+  year: 2016
+  research: nul
+  display:  " EAI Journal of Creative Technologies (2016)" 
+  url: https://www.google.com/search?q=' Moving Collaborations; A Critical Inquiry into Designing Creative Interactive Systems for Choreography' ' EAI Journal of Creative Technologies'
+
+- new: 1
+  type: Journal
+  number: 14
+  authors:  Etemad A; Arya A; Parush A; DiPaola S
+  title:  " Perceptual validity in animation of human motion" 
+  journal:  " Computer Animation and Virtual Worlds Journal" 
+  description:  Vol 27.  No 1. pp. 58-71
+  year: 2016
+  research: nul
+  display:  " Computer Animation and Virtual Worlds Journal (2016)" 
+  url: https://www.google.com/search?q=' Perceptual validity in animation of human motion' ' Computer Animation and Virtual Worlds Journal'
+
+- new: 1
+  type: Conference
+  number: 30
+  authors:  Bernardet U; Chollet M; DiPaola S; Scherer
+  title:  " An Architecture for Biologically Grounded Real-time Reflexive Behavior" 
+  journal:  " Intelligent Virtual Agents (IVA)" 
+  description:  Lecture Notes in Computer Science. Springer
+  year: 2016
+  research: nul
+  display:  " Intelligent Virtual Agents (IVA) (2016)" 
+  url: https://www.google.com/search?q=' S. An Architecture for Biologically Grounded Real-time Reflexive Behavior' ' Intelligent Virtual Agents (IVA)'
+
+- new: 1
+  type: Conference
+  number: 31
+  authors:  Bernardet U; Saberi M; DiPaola S
+  title:  " Simulink Toolbox for Real-time Virtual Character Control" 
+  journal:  " Intelligent Virtual Agents (IVA)" 
+  description:  Lecture Notes in Computer Science. Springer
+  year: 2016
+  research: virtualHumans
+  display:  " Intelligent Virtual Agents (IVA) (2016)" 
+  url: https://www.google.com/search?q=' Simulink Toolbox for Real-time Virtual Character Control' ' Intelligent Virtual Agents (IVA)'
+
+- new: 1
+  type: Conference
+  number: 32
+  authors:  Cuykendall S; Soutar-Rau E; Schiphorst T; DiPaola S
+  title:  " If Words Could Dance; Moving from Body to Data through Kinesthetic Evaluation" 
+  journal:  " ACM Conference on Designing Interactive Systems (DIS)" 
+  description:  pp. 234-238
+  year: 2016
+  research: nul
+  display:  " ACM Conference on Designing Interactive Systems (DIS) (2016)" 
+  url: https://www.google.com/search?q=' If Words Could Dance; Moving from Body to Data through Kinesthetic Evaluation' ' ACM Conference on Designing Interactive Systems (DIS)'
+
+- new: 1
+  type: Conference
+  number: 33
+  authors:  Bernardet U; Adhia D; ? DiPaola S; ?; Schiphorst T
+  title:  " m+m; A novel Middleware for Distributed; Movement based Interactive Multimedia Systems" 
+  journal:  " ACM Movement and Computing (MOCA)" 
+  description:  pp. 21-30
+  year: 2016
+  research: nul
+  display:  " ACM Movement and Computing (MOCA) (2016)" 
+  url: https://www.google.com/search?q=' m+m; A novel Middleware for Distributed; Movement based Interactive Multimedia Systems' ' ACM Movement and Computing (MOCA)'
+
+- new: 1
+  type: Conference
+  number: 34
+  authors:  Salevati S; DiPaola S; Carlson K
+  title:  " Movement Awareness through Emotion Based Aesthetic Visualization" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2016
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2016)" 
+  url: https://www.google.com/search?q=' Movement Awareness through Emotion Based Aesthetic Visualization' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 35
+  authors:  McCaig R; DiPaola S; Gabora L
+  title:  " Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity" 
+  journal:  " International Conference on Computational Creativity (ICCC)" 
+  description:  8 pages
+  year: 2016
+  research: nul
+  display:  " International Conference on Computational Creativity (ICCC) (2016)" 
+  url: https://www.google.com/search?q=' Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity' ' International Conference on Computational Creativity (ICCC)'
+
+- new: 1
+  type: Conference
+  number: 36
+  authors:  DiPaola S; McCaig R
+  title:  " Using Artificial Intelligence Techniques to Emulate the Creativity of a Portrait Painter" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2016
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2016)" 
+  url: https://www.google.com/search?q=' Using Artificial Intelligence Techniques to Emulate the Creativity of a Portrait Painter' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 37
+  authors:  Bernardet U; DiPaola S
+  title:  " A Framework for Exogenous and Endogenous Reflexive Behavior in Virtual Characters" 
+  journal:  " International Conference on Intelligent Virtual Agents (IVA)" 
+  description:  pp. 132-136. Springer
+  year: 2015
+  research: nul
+  display:  " International Conference on Intelligent Virtual Agents (IVA) (2015)" 
+  url: https://www.google.com/search?q=' A Framework for Exogenous and Endogenous Reflexive Behavior in Virtual Characters' ' International Conference on Intelligent Virtual Agents (IVA)'
+
+- new: 1
+  type: Conference
+  number: 38
+  authors:  Saberi M; Bernardet U; DiPaola S
+  title:  " Effect of a Virtual Agent's Contingent Smile Response on Perceived Social Status" 
+  journal:  " International Conference on Intelligent Virtual Agents (IVA)" 
+  description:  pp. 488-491. Springer
+  year: 2015
+  research: virtualHumans
+  display:  " International Conference on Intelligent Virtual Agents (IVA) (2015)" 
+  url: https://www.google.com/search?q=' Effect of a Virtual Agent?s Contingent Smile Response on Perceived Social Status' ' International Conference on Intelligent Virtual Agents (IVA)'
+
+- new: 1
+  type: Conference
+  number: 39
+  authors:  Choi S K; DiPaola S
+  title:  " Touch of the Eye; Does Observation Reflect Haptic Metaphors in Art Drawing?" 
+  journal:  " ACM Conf on Human Factors in Computing Systems (CHI)" 
+  description:  pp. 579-588
+  year: 2015
+  research: nul
+  display:  " ACM Conf on Human Factors in Computing Systems (CHI) (2015)" 
+  url: https://www.google.com/search?q=' Touch of the Eye; Does Observation Reflect Haptic Metaphors in Art Drawing?' ' ACM Conf on Human Factors in Computing Systems (CHI)'
+
+- new: 1
+  type: Conference
+  number: 40
+  authors:  Bayatpour S; Bernardet U; DiPaola S; Kitson A; Riecke B
+  title:  " Exploring Facial Expressions for Human-Computer Interaction; Combining Visual Face Tracking and EMG Data to Control a Flight Simulation Game" 
+  journal:  " International Symposium on Electronic Art (ISEA)" 
+  description:  Vancouver. 6 pages
+  year: 2015
+  research: virtualHumans
+  display:  " International Symposium on Electronic Art (ISEA) (2015)" 
+  url: https://www.google.com/search?q=' Exploring Facial Expressions for Human-Computer Interaction; Combining Visual Face Tracking and EMG Data to Control a Flight Simulation Game' ' International Symposium on Electronic Art (ISEA)'
+
+- new: 1
+  type: Conference
+  number: 41
+  authors:  Song M; DiPaola S
+  title:  " Exploring Different Ways of Navigating Emotionally-responsive Artwork in Immersive Virtual Environments" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2015
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2015)" 
+  url: https://www.google.com/search?q=' Exploring Different Ways of Navigating Emotionally-responsive Artwork in Immersive Virtual Environments' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 42
+  authors:  Salevati S; DiPaola S
+  title:  " A Creative Artificial Intelligence System to Investigate User Experience; Affect; Emotion and Creativity" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2015
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2015)" 
+  url: https://www.google.com/search?q=' A Creative Artificial Intelligence System to Investigate User Experience; Affect; Emotion and Creativity' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 43
+  authors:  Salevati M; DiPaola S
+  title:  " Enhancing Viewer's Emotional Connections to The Traditional Art Creative Process Via an AI Interactive System" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2015
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2015)" 
+  url: https://www.google.com/search?q=' Enhancing Viewer?s Emotional Connections to The Traditional Art Creative Process Via an AI Interactive System' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Journal
+  number: 15
+  authors:  DiPaola S
+  title:  " Using a Contextual Focus Model for an Automatic Creativity Algorithm to Generate Art Work" 
+  journal:  " Procedia Computer Science" 
+  description:  Special Issue; Bio Inspired Cognitive Architectures. Vol 41. pp. 212-219
+  year: 2014
+  research: nul
+  display:  " Procedia Computer Science (2014)" 
+  url: https://www.google.com/search?q=' Using a Contextual Focus Model for an Automatic Creativity Algorithm to Generate Art Work' ' Procedia Computer Science'
+
+- new: 1
+  type: Journal
+  number: 16
+  authors:  Saberi M; Bernardet U;  DiPaola S
+  title:  " An Architecture for Personality-Based; Nonverbal Behavior in Affective Virtual Humanoid Character" 
+  journal:  " Procedia Computer Science" 
+  description:   Special Issue; Bio Inspired Cognitive Architectures. Vol 41. pp. 204-211
+  year: 2014
+  research: nul
+  display:  " Procedia Computer Science (2014)" 
+  url: https://www.google.com/search?q=' An Architecture for Personality-Based; Nonverbal Behavior in Affective Virtual Humanoid Character' ' Procedia Computer Science'
+
+- new: 1
+  type: Journal
+  number: 17
+  authors:  Karimaghalou N; Bernardet U; DiPaola S
+  title:  " A Model for Social Spatial Behavior in Anthropomorphic Virtual Characters" 
+  journal:  " Computer Animation and Virtual Worlds Journal" 
+  description:  Vol 25. No 3-4. pp. 507-519
+  year: 2014
+  research: virtualHumans
+  display:  " Computer Animation and Virtual Worlds Journal (2014)" 
+  url: https://www.google.com/search?q=' A Model for Social Spatial Behavior in Anthropomorphic Virtual Characters' ' Computer Animation and Virtual Worlds Journal'
+
+- new: 1
+  type: Conference
+  number: 44
+  authors:  DiPaola S
+  title:  " Computer Modelling Fine Art Painting using a Cognitive Correlative Heuristics Approach" 
+  journal:  " Biologically Inspired Cognitive Architectures (BICA)" 
+  description:  5 pages. MIT. MA
+  year: 2014
+  research: AICreativity
+  display:  " Biologically Inspired Cognitive Architectures (BICA) (2014)" 
+  url: https://www.google.com/search?q=' Computer Modelling Fine Art Painting using a Cognitive Correlative Heuristics Approach' ' Biologically Inspired Cognitive Architectures (BICA)'
+
+- new: 1
+  type: Conference
+  number: 45
+  authors:  Bernardet U; DiPaola S
+  title:  " Affective Response Patterns as Indicators of Personality in Virtual Characters" 
+  journal:  " Biologically Inspired Cognitive Architectures (BICA)" 
+  description:  2 pages. MIT. MA
+  year: 2014
+  research: nul
+  display:  " Biologically Inspired Cognitive Architectures (BICA) (2014)" 
+  url: https://www.google.com/search?q=' Affective Response Patterns as Indicators of Personality in Virtual Characters' ' Biologically Inspired Cognitive Architectures (BICA)'
+
+- new: 1
+  type: Conference
+  number: 46
+  authors:  Carlson K; Schiphorst T; DiPaola S
+  title:  " Collaborative Choreography; A Critical Inquiry into Designing Creative Interactive" 
+  journal:  " Intelligent Technologies for Interactive Entertainment" 
+  description:  (Springer Lecture Notes Book). V 136. pp. 46-56
+  year: 2014
+  research: nul
+  display:  " Intelligent Technologies for Interactive Entertainment (2014)" 
+  url: https://www.google.com/search?q=' Collaborative Choreography; A Critical Inquiry into Designing Creative Interactive' ' Intelligent Technologies for Interactive Entertainment'
+
+- new: 1
+  type: Conference
+  number: 47
+  authors:  Bernardet U; DiPaola S
+  title:  " Affective Response Patterns as Indicators of Personality in Virtual Characters" 
+  journal:  " Cognitive Science Society" 
+  description:  2 pages. Qu‚bec City
+  year: 2014
+  research: nul
+  display:  " Cognitive Science Society (2014)" 
+  url: https://www.google.com/search?q=' Affective Response Patterns as Indicators of Personality in Virtual Characters' ' Cognitive Science Society'
+
+- new: 1
+  type: Conference
+  number: 48
+  authors:  Salevati M; DiPaola S
+  title:  " Using a Creative Evolutionary System for Experiencing the Art of Futurism" 
+  journal:  " Electronic Visualisation and the Arts" 
+  description:  Florence. Italy. 8 pages
+  year: 2014
+  research: AICreativity
+  display:  " Electronic Visualisation and the Arts (2014)" 
+  url: https://www.google.com/search?q=' Using a Creative Evolutionary System for Experiencing the Art of Futurism' ' Electronic Visualisation and the Arts'
+
+- new: 1
+  type: Book
+  number: 2
+  authors:  DiPaola S
+  title:  " Face; Portrait; Mask - Using a Parameterized System to Explore Synthetic Face Space" 
+  journal:  " Book Chapter. Electronic Visualisation in Arts and Culture" 
+  description:  Bowen. Keene. Ng. (Eds). pp. 213-227. Springer
+  year: 2013
+  research: nul
+  display:  " Book Chapter. Electronic Visualisation in Arts and Culture (2013)" 
+  url: https://www.google.com/search?q=' Face; Portrait; Mask - Using a Parameterized System to Explore Synthetic Face Space' ' Book Chapter. Electronic Visualisation in Arts and Culture'
+
+- new: 1
+  type: Journal
+  number: 18
+  authors:  DiPaola S; Riebe C; Enns JT
+  title:  " Following the masters; Portrait viewing and appreciation is guided by selective detail" 
+  journal:  " Perception" 
+  description:  Vol 42. No 6. pp. 608-630
+  year: 2013
+  research: AICreativity
+  display:  " Perception (2013)" 
+  url: https://www.google.com/search?q=' Following the masters; Portrait viewing and appreciation is guided by selective detail' ' Perception'
+
+- new: 1
+  type: Conference
+  number: 49
+  authors:  DiPaola S; McCaig R; Carlson K; Salevati S; Sorenson N
+  title:  " Adaptation of an Autonomous Creative Evolutionary System for Real-World Design Application Based on Creative Cognition" 
+  journal:  " International Conference on Computational Creativity (ICCC)" 
+  description:  pp. 40-4
+  year: 2013
+  research: AICreativity
+  display:  " International Conference on Computational Creativity (ICCC) (2013)" 
+  url: https://www.google.com/search?q=' Adaptation of an Autonomous Creative Evolutionary System for Real-World Design Application Based on Creative Cognition' ' International Conference on Computational Creativity (ICCC)'
+
+- new: 1
+  type: Conference
+  number: 50
+  authors:  Bizzocchi  J; Nixon M; DiPaola S; Funk N
+  title:  " The Role of Micronarrative in the Design and Experience of Digital Games" 
+  journal:  " Digital Games Research Association Conference (DIGRA)" 
+  description:  Atlanta. Georgia. pp. 161-197
+  year: 2013
+  research: nul
+  display:  " Digital Games Research Association Conference (DIGRA) (2013)" 
+  url: https://www.google.com/search?q=' The Role of Micronarrative in the Design and Experience of Digital Games' ' Digital Games Research Association Conference (DIGRA)'
+
+- new: 1
+  type: Conference
+  number: 51
+  authors:  Choi S K; DiPaola S
+  title:  " How a Painter Paints; An Interdisciplinary Understanding of Embodied Creativity" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 127-134. London
+  year: 2013
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2013)" 
+  url: https://www.google.com/search?q=' How a Painter Paints; An Interdisciplinary Understanding of Embodied Creativity' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 52
+  authors:  DiPaola S; Smith A
+  title:  " Interactively Exploring Picasso's Multi-dimensional Creative Process in Producing Guernica" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 25-31. London
+  year: 2013
+  research: AICreativity
+  display:  " Electronic Visualisation and the Arts (EVA) (2013)" 
+  url: https://www.google.com/search?q=' Interactively Exploring Picasso's Multi-dimensional Creative Process in Producing Guernica' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 53
+  authors:  Fortin C; DiPaola S; Hennessy K; Bizzocchi J; Neustaedter C
+  title:  " Medium-Specific Properties of Urban Screens; Towards an Ontological Framework for Digital Public Displays" 
+  journal:  " ACM Conference on Creativity and Cognition" 
+  description:  10 pages
+  year: 2013
+  research: nul
+  display:  " ACM Conference on Creativity and Cognition (2013)" 
+  url: https://www.google.com/search?q=' Medium-Specific Properties of Urban Screens; Towards an Ontological Framework for Digital Public Displays' ' ACM Conference on Creativity and Cognition'
+
+- new: 1
+  type: Journal
+  number: 19
+  authors:  McIntosh L; Riecke B; DiPaola S
+  title:  " Efficiently Simulating the Bokeh of Polygonal Apertures in a Post-Process Depth of Field Shader" 
+  journal:  " Computer Graphics Forum" 
+  description:  Vol 31. No 6. pp. 1810-1822
+  year: 2012
+  research: nul
+  display:  " Computer Graphics Forum (2012)" 
+  url: https://www.google.com/search?q=' Efficiently Simulating the Bokeh of Polygonal Apertures in a Post-Process Depth of Field Shader' ' Computer Graphics Forum'
+
+- new: 1
+  type: Conference
+  number: 54
+  authors:  Gabora L; DiPaola S
+  title:  " How Did Humans Become So Creative? A Computational Approach" 
+  journal:  " International Conference on Computational Creativity (ICCC)" 
+  description:  pp. 203-211
+  year: 2012
+  research: nul
+  display:  " International Conference on Computational Creativity (ICCC) (2012)" 
+  url: https://www.google.com/search?q=' How Did Humans Become So Creative? A Computational Approach' ' International Conference on Computational Creativity (ICCC)'
+
+- new: 1
+  type: Conference
+  number: 55
+  authors:  Seifi H; DiPaola S; Enns JT
+  title:  " Exploring the Effect of Color Palette in Painterly Rendered Character Sequences" 
+  journal:  " International Symposium on Computational Aesthetics in Graphics; Visualization & Imaging" 
+  description:  pp. 89-97
+  year: 2012
+  research: nul
+  display:  " International Symposium on Computational Aesthetics in Graphics; Visualization & Imaging (2012)" 
+  url: https://www.google.com/search?q=' Exploring the Effect of Color Palette in Painterly Rendered Character Sequences' ' International Symposium on Computational Aesthetics in Graphics; Visualization & Imaging'
+
+- new: 1
+  type: Conference
+  number: 56
+  authors:  DiPaola S
+  title:  " Computationally Modeling Creativity; Implementation and Response to a Computer Being Creative On Its Own" 
+  journal:  " Conceptual Structure; Discourse and Language" 
+  description:  7 pages
+  year: 2012
+  research: nul
+  display:  " Conceptual Structure; Discourse and Language (2012)" 
+  url: https://www.google.com/search?q=' Computationally Modeling Creativity; Implementation and Response to a Computer Being Creative On Its Own' ' Conceptual Structure; Discourse and Language'
+
+- new: 1
+  type: Conference
+  number: 57
+  authors:  DiPaola S; Smith A
+  title:  " Formalizing an Interconnected Syntax For Picasso?s Creative Process In Producing Guernica" 
+  journal:  " Conceptual Structure; Discourse and Language" 
+  description:  6 pages
+  year: 2012
+  research: nul
+  display:  " Conceptual Structure; Discourse and Language (2012)" 
+  url: https://www.google.com/search?q=' Formalizing an Interconnected Syntax For Picasso?s Creative Process In Producing Guernica' ' Conceptual Structure; Discourse and Language'
+
+- new: 1
+  type: Conference
+  number: 58
+  authors:  Choi S K; DiPaola S; Schiphorst T
+  title:  " The Tacit and the Trace; Towards Syntax Of The Creative Act" 
+  journal:  " Conceptual Structure; Discourse and Language" 
+  description:  6 pages
+  year: 2012
+  research: nul
+  display:  " Conceptual Structure; Discourse and Language (2012)" 
+  url: https://www.google.com/search?q=' The Tacit and the Trace; Towards Syntax Of The Creative Act' ' Conceptual Structure; Discourse and Language'
+
+- new: 1
+  type: Book
+  number: 3
+  authors:  DiPaola S; Sorenson N
+  title:  " Cartesian Genetic Programming; Creativity and Art" 
+  journal:  " Book Chapter. Cartesian Genetic Programming" 
+  description:  Editor; Miller J. pp. 293-306. Springer
+  year: 2011
+  research: nul
+  display:  " Book Chapter. Cartesian Genetic Programming (2011)" 
+  url: https://www.google.com/search?q=' Cartesian Genetic Programming; Creativity and Art' ' Book Chapter. Cartesian Genetic Programming'
+
+- new: 1
+  type: Journal
+  number: 20
+  authors:  Seifi H; DiPaola S; Arya A
+  title:  " Expressive Animated Character Sequences Using Knowledge-based Painterly Rendering" 
+  journal:  " International Journal of Computer Games Technology" 
+  description:  vol 2011. Article ID 164949. 7 pages
+  year: 2011
+  research: nul
+  display:  " International Journal of Computer Games Technology (2011)" 
+  url: https://www.google.com/search?q=' Expressive Animated Character Sequences Using Knowledge-based Painterly Rendering' ' International Journal of Computer Games Technology'
+
+- new: 1
+  type: Journal
+  number: 21
+  authors:  Sorenson N; Pasquier P; DiPaola S
+  title:  " A Generic Approach to Challenge Modeling for the Procedural Creation of Video Game Levels" 
+  journal:  " Transactions on Computational Intelligence and AI in Games" 
+  description:  Vol 3. No 3. pp. 229-244
+  year: 2011
+  research: nul
+  display:  " Transactions on Computational Intelligence and AI in Games (2011)" 
+  url: https://www.google.com/search?q=' A Generic Approach to Challenge Modeling for the Procedural Creation of Video Game Levels' ' Transactions on Computational Intelligence and AI in Games'
+
+- new: 1
+  type: Journal
+  number: 22
+  authors:  DiPaola S; Turner J; Browne P
+  title:  " Binding the pair; making a historical case for avicentric self-expression within 3D virtual communities" 
+  journal:  " International Journal of Web-Based Communities" 
+  description:  Vol 7. No 2. pp. 157-173
+  year: 2011
+  research: nul
+  display:  " International Journal of Web-Based Communities (2011)" 
+  url: https://www.google.com/search?q=' Binding the pair; making a historical case for avicentric self-expression within 3D virtual communities' ' International Journal of Web-Based Communities'
+
+- new: 1
+  type: Journal
+  number: 23
+  authors:  DiPaola S; Riebe C; Enns JT
+  title:  " Rembrandt?s Textural Agency;  A Shared Perspective in Visual Art and Science" 
+  journal:  " Leonardo" 
+  description:  Vol 43. No 3. pp. 145-151
+  year: 2011
+  research: nul
+  display:  " Leonardo (2011)" 
+  url: https://www.google.com/search?q=' Rembrandt?s Textural Agency;  A Shared Perspective in Visual Art and Science' ' Leonardo'
+
+- new: 1
+  type: Conference
+  number: 59
+  authors:  DiPaola S
+  title:  " Face; Portrait; Mask ? Using a Parameterized System to Explore Synthetic Face Space" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. pp. 296-302. London
+  year: 2010
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2010)" 
+  url: https://www.google.com/search?q=' Face; Portrait; Mask ? Using a Parameterized System to Explore Synthetic Face Space' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 60
+  authors:  Dalvandi A; Amini P; DiPaola S
+  title:  " Exploring Persian Rug Design Using a Computational Evolutionary Approach" 
+  journal:  " Electronic Visualisation and the Arts" 
+  description:  British Computer Society. pp. 121-128. London
+  year: 2010
+  research: nul
+  display:  " Electronic Visualisation and the Arts (2010)" 
+  url: https://www.google.com/search?q=' Exploring Persian Rug Design Using a Computational Evolutionary Approach' ' Electronic Visualisation and the Arts'
+
+- new: 1
+  type: Book
+  number: 4
+  authors:  DiPaola S
+  title:  " Designing Socially Expressive Character Agents to Facilitate Learning" 
+  journal:  " Book Chapter. Educational Gameplay and Simulation Environments" 
+  description:  Editors; Kaufman D. Sauv‚ L. pp. 213-230
+  year: 2009
+  research: nul
+  display:  " Book Chapter. Educational Gameplay and Simulation Environments (2009)" 
+  url: https://www.google.com/search?q=' Designing Socially Expressive Character Agents to Facilitate Learning' ' Book Chapter. Educational Gameplay and Simulation Environments'
+
+- new: 1
+  type: Journal
+  number: 24
+  authors:  Riebe C; DiPaola S;  Enns JT
+  title:  " Following the Masters; Viewer Gaze is Directed by Relative Detail in Painted Portraits" 
+  journal:  " Journal of Vision" 
+  description:  Vol 9. No 8. pp. 368-368 (abstract)
+  year: 2009
+  research: nul
+  display:  " Journal of Vision (2009)" 
+  url: https://www.google.com/search?q=' Following the Masters; Viewer Gaze is Directed by Relative Detail in Painted Portraits' ' Journal of Vision'
+
+- new: 1
+  type: Journal
+  number: 25
+  authors:  Arya A; DiPaola S; Parush A
+  title:  " Perceptually Valid Facial Expressions for Character-based Applications" 
+  journal:  " International Journal of Computer Games Technology" 
+  description:  Vol 2009.  Article ID 462315. 13 pages
+  year: 2009
+  research: nul
+  display:  " International Journal of Computer Games Technology (2009)" 
+  url: https://www.google.com/search?q=' Perceptually Valid Facial Expressions for Character-based Applications' ' International Journal of Computer Games Technology'
+
+- new: 1
+  type: Journal
+  number: 26
+  authors:  DiPaola S; Gabora L
+  title:  " Incorporating Characteristics of Human Creativity into an Evolutionary Art Algorithm" 
+  journal:  " Genetic Programming and Evolvable Machines Journal" 
+  description:  Vol 10. No 2. pp. 97-110
+  year: 2009
+  research: nul
+  display:  " Genetic Programming and Evolvable Machines Journal (2009)" 
+  url: https://www.google.com/search?q=' Incorporating Characteristics of Human Creativity into an Evolutionary Art Algorithm' ' Genetic Programming and Evolvable Machines Journal'
+
+- new: 1
+  type: Conference
+  number: 61
+  authors:  DiPaola S
+  title:  " Darwin; Creativity; and Evolutionary Programming" 
+  journal:  " 150 Years after Origin; Biological; Historical and Philosophical Perspectives; Canadian Darwin Conference" 
+  description:  University of Toronto. 4 pages
+  year: 2009
+  research: nul
+  display:  " 150 Years after Origin; Biological; Historical and Philosophical Perspectives; Canadian Darwin Conference (2009)" 
+  url: https://www.google.com/search?q=' Darwin; Creativity; and Evolutionary Programming' ' 150 Years after Origin; Biological; Historical and Philosophical Perspectives; Canadian Darwin Conference'
+
+- new: 1
+  type: Conference
+  number: 62
+  authors:  DiPaola S
+  title:  " Intelligent Expression-based Character Agent Systems" 
+  journal:  " ACM Intelligent Virtual Agents (IVA)" 
+  description:  Keynote Short Paper. Springer. Amsterdam. pp. 3-7
+  year: 2009
+  research: nul
+  display:  " ACM Intelligent Virtual Agents (IVA) (2009)" 
+  url: https://www.google.com/search?q=' Intelligent Expression-based Character Agent Systems' ' ACM Intelligent Virtual Agents (IVA)'
+
+- new: 1
+  type: Conference
+  number: 63
+  authors:  Riebe C; DiPaola S; Enns JT
+  title:  " Following the masters; Viewer gaze is directed by relative detail in painted portraits" 
+  journal:  " Abstracts of the Vision Sciences Society" 
+  description:  9th Annual Meeting. #144
+  year: 2009
+  research: nul
+  display:  " Abstracts of the Vision Sciences Society (2009)" 
+  url: https://www.google.com/search?q=' Following the masters; Viewer gaze is directed by relative detail in painted portraits' ' Abstracts of the Vision Sciences Society'
+
+- new: 1
+  type: Conference
+  number: 64
+  authors:  DiPaola S
+  title:  " Quantifying artist's use of human vision constructs to influence viewer eye gaze" 
+  journal:  " SPIE Human Vision and Imaging. Int. Society for Optical Engineering" 
+  description:  6 pages
+  year: 2009
+  research: nul
+  display:  " SPIE Human Vision and Imaging. Int. Society for Optical Engineering (2009)" 
+  url: https://www.google.com/search?q=' Quantifying artist?s use of human vision constructs to influence viewer eye gaze' ' SPIE Human Vision and Imaging. Int. Society for Optical Engineering'
+
+- new: 1
+  type: Book
+  number: 5
+  authors:  DiPaola S
+  title:  " Book Excerpt. pp. 133-136. 225-251. 368-369" 
+  journal:  " Book; Computer Facial Animation" 
+  description:  by Parke & Waters.  2nd Edition.  AK Peters
+  year: 2008
+  research: nul
+  display:  " Book; Computer Facial Animation (2008)" 
+  url: https://www.google.com/search?q=' Book Excerpt. pp. 133-136. 225-251. 368-369' ' Book; Computer Facial Animation'
+
+- new: 1
+  type: Journal
+  number: 27
+  authors:  DiPaola S; Turner J
+  title:  " Authoring the Intimate Self; Identity; Expression and Role-playing within a Pioneering Virtual Community" 
+  journal:  " Loading; Journal of the Canadian Games Studies Association" 
+  description:  Vol 2. No 3. pp. 1-14
+  year: 2008
+  research: nul
+  display:  " Loading; Journal of the Canadian Games Studies Association (2008)" 
+  url: https://www.google.com/search?q=' Authoring the Intimate Self; Identity; Expression and Role-playing within a Pioneering Virtual Community' ' Loading; Journal of the Canadian Games Studies Association'
+
+- new: 1
+  type: Journal
+  number: 28
+  authors:  DiPaola S
+  title:  " Computationally Rendered Painterly Portrait Spaces" 
+  journal:  " Artciencia; Art & Science Journal" 
+  description:  Vol 4. No 9. pp. 1-8
+  year: 2008
+  research: nul
+  display:  " Artciencia; Art & Science Journal (2008)" 
+  url: https://www.google.com/search?q=' Computationally Rendered Painterly Portrait Spaces' ' Artciencia; Art & Science Journal'
+
+- new: 1
+  type: Journal
+  number: 29
+  authors:  DiPaola S
+  title:  " Darwin?s Enduring Legacy" 
+  journal:  " The Journal Nature" 
+  description:   Images of my research in computer model of evolution ? selected by the Nature editors to accompany this essay (invited - not peer reviewed). Vol 451. pp. 632-633
+  year: 2008
+  research: nul
+  display:  " The Journal Nature (2008)" 
+  url: https://www.google.com/search?q=' Darwin?s Enduring Legacy' ' The Journal Nature'
+
+- new: 1
+  type: Conference
+  number: 65
+  authors:  DiPaola S
+  title:  " The Trace and the Gaze; Textural Agency in Rembrandt?s Late Portraiture from a Vision Science Perspective" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2008
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2008)" 
+  url: https://www.google.com/search?q=' The Trace and the Gaze; Textural Agency in Rembrandt?s Late Portraiture from a Vision Science Perspective' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 66
+  authors:  Zammitto V; DiPaola S; Arya A
+  title:  " A Methodology for Incorporating Personality Modeling in Believable Game Characters" 
+  journal:  " Inter. Conference on Games Research and Development (CyberGames)" 
+  description:  8 pages. Beijing. China
+  year: 2008
+  research: nul
+  display:  " Inter. Conference on Games Research and Development (CyberGames) (2008)" 
+  url: https://www.google.com/search?q=' A Methodology for Incorporating Personality Modeling in Believable Game Characters' ' Inter. Conference on Games Research and Development (CyberGames)'
+
+- new: 1
+  type: Conference
+  number: 67
+  authors:  DiPaola S
+  title:  " Authoring the Global Self; Identity; Expression and Role-playing in Virtual Communities" 
+  journal:  " Canadian Game Studies Association (CGSA)" 
+  description:  8 pages. Vancouver
+  year: 2008
+  research: nul
+  display:  " Canadian Game Studies Association (CGSA) (2008)" 
+  url: https://www.google.com/search?q=' Authoring the Global Self; Identity; Expression and Role-playing in Virtual Communities' ' Canadian Game Studies Association (CGSA)'
+
+- new: 1
+  type: Journal
+  number: 30
+  authors:  DiPaola S; Akai C
+  title:  " Blending Science Knowledge and AI Gaming Techniques for Experiential Learning" 
+  journal:  " Loading;  Journal of the  Canadian Games Studies Association" 
+  description:  Vol 1. No 1. p1-9
+  year: 2007
+  research: nul
+  display:  " Loading;  Journal of the  Canadian Games Studies Association (2007)" 
+  url: https://www.google.com/search?q=' Blending Science Knowledge and AI Gaming Techniques for Experiential Learning' ' Loading;  Journal of the  Canadian Games Studies Association'
+
+- new: 1
+  type: Journal
+  number: 31
+  authors:  Arya A; DiPaola S
+  title:  " Face Modeling and Animation Language for MPEG-4 XMT Framework" 
+  journal:  " IEEE Transactions on Multimedia" 
+  description:  Vol 9. No 6. pp. 1137-1146
+  year: 2007
+  research: nul
+  display:  " IEEE Transactions on Multimedia (2007)" 
+  url: https://www.google.com/search?q=' Face Modeling and Animation Language for MPEG-4 XMT Framework' ' IEEE Transactions on Multimedia'
+
+- new: 1
+  type: Journal
+  number: 32
+  authors:  DiPaola S; Akai C; Kraus B
+  title:  " Experiencing Belugas; Developing an Action Selection-Based Aquarium Interactive" 
+  journal:  " Adaptive Behavior" 
+  description:  (Special Issue on Action Selection). Vol 15. No 1. pp. 99-113
+  year: 2007
+  research: nul
+  display:  " Adaptive Behavior (2007)" 
+  url: https://www.google.com/search?q=' Experiencing Belugas; Developing an Action Selection-Based Aquarium Interactive' ' Adaptive Behavior'
+
+- new: 1
+  type: Journal
+  number: 33
+  authors:  Arya A; DiPaola S
+  title:  " Multi-Space Behavioral Model for Face-based Affective Social Agents" 
+  journal:  " Journal of Image and Video Processing" 
+  description:  Special Issue on Facial Image Processing. Vol. 2007. Article ID 48757. pp. 1-12
+  year: 2007
+  research: nul
+  display:  " Journal of Image and Video Processing (2007)" 
+  url: https://www.google.com/search?q=' Multi-Space Behavioral Model for Face-based Affective Social Agents' ' Journal of Image and Video Processing'
+
+- new: 1
+  type: Conference
+  number: 68
+  authors:  DiPaola S; Arya A
+  title:  " A Framework for Socially Communicative Faces in Games and Interactive Applications" 
+  journal:  " ACM Conference on Future Play" 
+  description:  pp. 129-136. New York.  NY
+  year: 2007
+  research: nul
+  display:  " ACM Conference on Future Play (2007)" 
+  url: https://www.google.com/search?q=' A Framework for Socially Communicative Faces in Games and Interactive Applications' ' ACM Conference on Future Play'
+
+- new: 1
+  type: Conference
+  number: 69
+  authors:  DiPaola S; Gabora L
+  title:  " Incorporating Characteristics of Human Creativity into an Evolutionary Art Algorithm" 
+  journal:  " ACM Conference Companion on Genetic and Evolutionary Computation (GECCO)" 
+  description:  pp. 2450-2456
+  year: 2007
+  research: nul
+  display:  " ACM Conference Companion on Genetic and Evolutionary Computation (GECCO) (2007)" 
+  url: https://www.google.com/search?q=' Incorporating Characteristics of Human Creativity into an Evolutionary Art Algorithm' ' ACM Conference Companion on Genetic and Evolutionary Computation (GECCO)'
+
+- new: 1
+  type: Conference
+  number: 70
+  authors:  DiPaola S
+  title:  " A Knowledge Based Approach to Modeling Portrait Painting Methodology" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 10 pages. London
+  year: 2007
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2007)" 
+  url: https://www.google.com/search?q=' A Knowledge Based Approach to Modeling Portrait Painting Methodology' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 71
+  authors:  DiPaola S
+  title:  " Painterly Rendered Portraits from Photographs using a Knowledge-Based Approach" 
+  journal:  " SPIE Human Vision and Imaging" 
+  description:  Int. Society for Optical Engineering. Keynote paper.  pp. 33-43
+  year: 2007
+  research: nul
+  display:  " SPIE Human Vision and Imaging (2007)" 
+  url: https://www.google.com/search?q=' Painterly Rendered Portraits from Photographs using a Knowledge-Based Approach' ' SPIE Human Vision and Imaging'
+
+- new: 1
+  type: Journal
+  number: 34
+  authors:  Arya A; Enns JT; Jefferies L; DiPaola S
+  title:  " Facial Actions as Visual Cues for Personality" 
+  journal:  " Computer Animation and Virtual Worlds (CAVW) Journal" 
+  description:  Vol 17. No 3-4. pp. 371-382
+  year: 2006
+  research: nul
+  display:  " Computer Animation and Virtual Worlds (CAVW) Journal (2006)" 
+  url: https://www.google.com/search?q=' Facial Actions as Visual Cues for Personality' ' Computer Animation and Virtual Worlds (CAVW) Journal'
+
+- new: 1
+  type: Journal
+  number: 35
+  authors:  DiPaola S
+  title:  " Artificial Intelligence Systems in New Media Art and Design" 
+  journal:  " Artciencia; Art & Science Journal" 
+  description:  Vol 2. No 4. pp. 1-8
+  year: 2006
+  research: nul
+  display:  " Artciencia; Art & Science Journal (2006)" 
+  url: https://www.google.com/search?q=' Artificial Intelligence Systems in New Media Art and Design' ' Artciencia; Art & Science Journal'
+
+- new: 1
+  type: Conference
+  number: 72
+  authors:  DiPaola S; Akai C
+  title:  " Blending Science Knowledge and AI Gaming Techniques for Experiential Learning" 
+  journal:  " Canadian Game Studies Association (CGSA)" 
+  description:  8 pages. Toronto
+  year: 2006
+  research: nul
+  display:  " Canadian Game Studies Association (CGSA) (2006)" 
+  url: https://www.google.com/search?q=' Blending Science Knowledge and AI Gaming Techniques for Experiential Learning' ' Canadian Game Studies Association (CGSA)'
+
+- new: 1
+  type: Conference
+  number: 73
+  authors:  DiPaola S; Arya A
+  title:  " Emotional Remapping of Music to Facial Animation" 
+  journal:  " ACM SIGGRAPH - Symposium on Videogames" 
+  description:  pp. 143-149
+  year: 2006
+  research: nul
+  display:  " ACM SIGGRAPH - Symposium on Videogames (2006)" 
+  url: https://www.google.com/search?q=' Emotional Remapping of Music to Facial Animation' ' ACM SIGGRAPH - Symposium on Videogames'
+
+- new: 1
+  type: Conference
+  number: 74
+  authors:  DiPaola S; Arya A
+  title:  " Socially Communicative Characters for Interactive Applications" 
+  journal:  " Visualization and Computer Vision" 
+  description:  8 pages
+  year: 2006
+  research: nul
+  display:  " Visualization and Computer Vision (2006)" 
+  url: https://www.google.com/search?q=' Socially Communicative Characters for Interactive Applications' ' Visualization and Computer Vision'
+
+- new: 1
+  type: Conference
+  number: 75
+  authors:  DiPaola S
+  title:  " Evolving Portrait Painter Programs using Genetic Programming to Explore Computer Creativity" 
+  journal:  " International Digital Media and Arts Association (IDMA)" 
+  description:  7 pages
+  year: 2006
+  research: nul
+  display:  " International Digital Media and Arts Association (IDMA) (2006)" 
+  url: https://www.google.com/search?q=' Evolving Portrait Painter Programs using Genetic Programming to Explore Computer Creativity' ' International Digital Media and Arts Association (IDMA)'
+
+- new: 1
+  type: Conference
+  number: 76
+  authors:  DiPaola S; Akai C
+  title:  " Designing Adaptive Multimedia Interactives to Support Shared Learning Experiences" 
+  journal:  " ACM SIGGRAPH - 2006 Educators Program" 
+  description:  6 pages
+  year: 2006
+  research: nul
+  display:  " ACM SIGGRAPH - 2006 Educators Program (2006)" 
+  url: https://www.google.com/search?q=' Designing Adaptive Multimedia Interactives to Support Shared Learning Experiences' ' ACM SIGGRAPH - 2006 Educators Program'
+
+- new: 1
+  type: Conference
+  number: 77
+  authors:  Arya A; DiPaola S; Jefferies L; Enns JT
+  title:  " Socially communicative characters for interactive applications" 
+  journal:  " Visualization and Computer Vision" 
+  description:  8 pages
+  year: 2006
+  research: nul
+  display:  " Visualization and Computer Vision (2006)" 
+  url: https://www.google.com/search?q=' Socially communicative characters for interactive applications' ' Visualization and Computer Vision'
+
+- new: 1
+  type: Conference
+  number: 78
+  authors:  DiPaola S; Akai C
+  title:  " Shifting Boundaries; The Ontological Implications of Simulating Marine Mammals" 
+  journal:  " New Forms Festival Conference - Museum of Anthropology" 
+  description:  7 pages
+  year: 2005
+  research: nul
+  display:  " New Forms Festival Conference - Museum of Anthropology (2005)" 
+  url: https://www.google.com/search?q=' Shifting Boundaries; The Ontological Implications of Simulating Marine Mammals' ' New Forms Festival Conference - Museum of Anthropology'
+
+- new: 1
+  type: Conference
+  number: 79
+  authors:  DiPaola S; Arya A; Chan J
+  title:  " Simulating Face to Face Collaboration for Interactive Learning Systems" 
+  journal:  " E-Learn 2005" 
+  description:  6 pages. Vancouver
+  year: 2005
+  research: nul
+  display:  " E-Learn 2005 (2005)" 
+  url: https://www.google.com/search?q=' Simulating Face to Face Collaboration for Interactive Learning Systems' ' E-Learn 2005'
+
+- new: 1
+  type: Conference
+  number: 80
+  authors:  DiPaola S
+  title:  " Evolving Creative Portrait Painter Programs Using Darwinian Techniques with an Automatic Fitness Function" 
+  journal:  " Electronic Visualisation and the Arts" 
+  description:  10 pages. London
+  year: 2005
+  research: nul
+  display:  " Electronic Visualisation and the Arts (2005)" 
+  url: https://www.google.com/search?q=' Evolving Creative Portrait Painter Programs Using Darwinian Techniques with an Automatic Fitness Function' ' Electronic Visualisation and the Arts'
+
+- new: 1
+  type: Conference
+  number: 81
+  authors:  Tolmie J; DiPaola S; Charles A
+  title:  " Towards an Interactive Visualization of Game Design Patterns" 
+  journal:  " Digital Games Research Association" 
+  description:  Vancouver
+  year: 2005
+  research: nul
+  display:  " Digital Games Research Association (2005)" 
+  url: https://www.google.com/search?q=' Towards an Interactive Visualization of Game Design Patterns' ' Digital Games Research Association'
+
+- new: 1
+  type: Conference
+  number: 82
+  authors:  DiPaola S; Arya A
+  title:  " Socially Expressive Communication Agents; A Face-centric Approach" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. Florence
+  year: 2005
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2005)" 
+  url: https://www.google.com/search?q=' Socially Expressive Communication Agents; A Face-centric Approach' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 83
+  authors:  DiPaola S
+  title:  " Face; Portrait; Mask - the Virtuality of the Synthetic Face" 
+  journal:  " Old and New Forms Conference" 
+  description:  Vancouver Art Gallery. 7 pages
+  year: 2004
+  research: nul
+  display:  " Old and New Forms Conference (2004)" 
+  url: https://www.google.com/search?q=' Face; Portrait; Mask - the Virtuality of the Synthetic Face' ' Old and New Forms Conference'
+
+- new: 1
+  type: Conference
+  number: 84
+  authors:  DiPaola S; Dorash D; Brandt G
+  title:  " Ratava?s Line; Emergent Learning and Design Using Collaborative Virtual Worlds" 
+  journal:  " ACM SIGGRAPH - Educators Program" 
+  description:  4 pages
+  year: 2004
+  research: nul
+  display:  " ACM SIGGRAPH - Educators Program (2004)" 
+  url: https://www.google.com/search?q=' Ratava?s Line; Emergent Learning and Design Using Collaborative Virtual Worlds' ' ACM SIGGRAPH - Educators Program'
+
+- new: 1
+  type: Conference
+  number: 85
+  authors:  DiPaola S; Arya A
+  title:  " Affective Communication Remapping in MusicFace System" 
+  journal:  " Electronic Visualisation and the Arts (EVA)" 
+  description:  British Computer Society. 8 pages. London
+  year: 2004
+  research: nul
+  display:  " Electronic Visualisation and the Arts (EVA) (2004)" 
+  url: https://www.google.com/search?q=' Affective Communication Remapping in MusicFace System' ' Electronic Visualisation and the Arts (EVA)'
+
+- new: 1
+  type: Conference
+  number: 86
+  authors:  Arya A; DiPaola S
+  title:  " Face as a Multimedia Object" 
+  journal:  " International Workshop on Image Analysis for Multimedia Interactive Services" 
+  description:  5 pages. Lisbon
+  year: 2004
+  research: nul
+  display:  " International Workshop on Image Analysis for Multimedia Interactive Services (2004)" 
+  url: https://www.google.com/search?q=' Face as a Multimedia Object' ' International Workshop on Image Analysis for Multimedia Interactive Services'
+
+- new: 1
+  type: Conference
+  number: 87
+  authors:  DiPaola S; Collins C
+  title:  " A Social Metaphor-based 3D Virtual Environment" 
+  journal:  " ACM SIGGRAPH - Educators Program" 
+  description:  2 pages
+  year: 2003
+  research: nul
+  display:  " ACM SIGGRAPH - Educators Program (2003)" 
+  url: https://www.google.com/search?q=' A Social Metaphor-based 3D Virtual Environment' ' ACM SIGGRAPH - Educators Program'
+
+- new: 1
+  type: Conference
+  number: 88
+  authors:  DiPaola S
+  title:  " Investigating Face Space" 
+  journal:  " ACM SIGGRAPH - Conference Abstracts and Applications" 
+  description:  pp. 207-207
+  year: 2002
+  research: nul
+  display:  " ACM SIGGRAPH - Conference Abstracts and Applications (2002)" 
+  url: https://www.google.com/search?q=' Investigating Face Space' ' ACM SIGGRAPH - Conference Abstracts and Applications'
+
+- new: 1
+  type: Conference
+  number: 89
+  authors:  DiPaola S
+  title:  " FaceSpace; A Facial Spatial-Domain Toolkit" 
+  journal:  " IEEE Information Visualization" 
+  description:  pp. 105-109. London
+  year: 2002
+  research: nul
+  display:  " IEEE Information Visualization (2002)" 
+  url: https://www.google.com/search?q=' FaceSpace; A Facial Spatial-Domain Toolkit' ' IEEE Information Visualization'
+
+- new: 1
+  type: Conference
+  number: 90
+  authors:  DiPaola S; Collins C
+  title:  " A 3D Virtual Environment for Social Telepresence" 
+  journal:  " Western Computer Graphics Symposium" 
+  description:  7 pages. (Not peer reviewed)
+  year: 2002
+  research: nul
+  display:  " Western Computer Graphics Symposium (2002)" 
+  url: https://www.google.com/search?q=' A 3D Virtual Environment for Social Telepresence' ' Western Computer Graphics Symposium'
+
+- new: 1
+  type: Conference
+  number: 91
+  authors:  DiPaola S; Collins C
+  title:  " A 3D Natural Emulation Design to Virtual Communities" 
+  journal:  " ACM SIGGRAPH -Conference Abstracts and Applications" 
+  description:  pp. 208-208. Los Angeles
+  year: 1999
+  research: nul
+  display:  " ACM SIGGRAPH -Conference Abstracts and Applications (1999)" 
+  url: https://www.google.com/search?q=' A 3D Natural Emulation Design to Virtual Communities' ' ACM SIGGRAPH -Conference Abstracts and Applications'
+
+- new: 1
+  type: Book
+  number: 6
+  authors:  DiPaola S
+  title:  " Book Excerpt; pp. 193-234. 446-448. Cover Art" 
+  journal:  " Book; Avatars by Damer B" 
+  description:  Peach Pit Press
+  year: 1998
+  research: nul
+  display:  " Book; Avatars by Damer B (1998)" 
+  url: https://www.google.com/search?q=' Book Excerpt; pp. 193-234. 446-448. Cover Art' ' Book; Avatars by Damer B'
+
+- new: 1
+  type: Book
+  number: 7
+  authors:  DiPaola S
+  title:  " Book Excerpt; pp. 101-104. 214-219. cover artwork" 
+  journal:  " Book; Computer Facial Animation" 
+  description:  by Parke & Waters. AK Peters
+  year: 1996
+  research: nul
+  display:  " Book; Computer Facial Animation (1996)" 
+  url: https://www.google.com/search?q=' Book Excerpt; pp. 101-104. 214-219. cover artwork' ' Book; Computer Facial Animation'
+
+- new: 1
+  type: Journal
+  number: 36
+  authors:  DiPaola S
+  title:  " Extending the Range of Facial Types" 
+  journal:  " IEEE Journal of Visualization and Computer Animation" 
+  description:  Vol 2. No 4. pp. 129-131
+  year: 1991
+  research: nul
+  display:  " IEEE Journal of Visualization and Computer Animation (1991)" 
+  url: https://www.google.com/search?q=' Extending the Range of Facial Types' ' IEEE Journal of Visualization and Computer Animation'
+
+- new: 1
+  type: Conference
+  number: 92
+  authors:  DiPaola S
+  title:  " 3D Parameterized Facial Modeling & Animation" 
+  journal:  " ACM SIGGRAPH - Facial Animation Tutorial" 
+  description:  8 pages
+  year: 1989
+  research: nul
+  display:  " ACM SIGGRAPH - Facial Animation Tutorial (1989)" 
+  url: https://www.google.com/search?q=' 3D Parameterized Facial Modeling & Animation' ' ACM SIGGRAPH - Facial Animation Tutorial'
+
