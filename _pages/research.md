@@ -27,7 +27,7 @@ permalink: /research/
 
   <strong> [{{ publi.title }}]( {{ publi.page | relative_url }} )
   
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/res/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
 
 </div>

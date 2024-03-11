@@ -1,23 +1,23 @@
 - title: "Bio-Sensing and VR"
-  image: t_virtualHumans.jpg
-  description: The work explores a more affective, ** bio-responsive experience ** for real-time/VR AI singularly or multiuser environments  especially where mindfulness and wellness are a goal.
+  image: bio.jpg
+  description: The work explores a more affective, bio-responsive experience for real-time/VR AI singularly or multiuser environments  especially where mindfulness and wellness are a goal.
   page: /bioBrainVR
   highlight: 1
 
 - title: "AI Virtual Humans"
-  image: t_virtualHumans.jpg
+  image: covid.jpg
   description: For real-time/VR AI singularly or multiuser environments  especially where mindfulness and wellness are a goal.
   page: /virtualHumans
   highlight: 1
 
 - title: "AI Anonymization"
-  image: t_virtualHumans.jpg
+  image: aianon.jpg
   description: Bringing together an interdisciplinary team, we have researched and created a wholly new AI technique to anonymize interview subjects and scenes in regular and 360 videos.
   page: /AIAnon
   highlight: 1
 
 - title: "AI Cognitive Creativity"
-  image: t_virtualHumans.jpg
+  image: aicreative.jpg
   description: AI modelling aspects of human creativity in AI using cognitive science as a basis for our work
   page: /AICreativity
   highlight: 1

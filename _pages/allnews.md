@@ -7,7 +7,7 @@ permalink: /allnews/
 ---
 
 
-# Lab News
+# iViz Lab News
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.news %}
@@ -21,11 +21,11 @@ permalink: /allnews/
 
 <div class="col-sm-6 clearfix">
 
-  <strong> [{{ publi.date }})
+  <strong> {{ publi.headline }} </strong> : : : {{ publi.date }}
   {% if publi.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   {% endif %}
-  <p>{{ publi.headline }}</p>
+  <p>{{ publi.info }}</p>
 
 </div>
 

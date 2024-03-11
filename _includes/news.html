@@ -1,11 +1,12 @@
 
 <div class="well">
-<h4>News</h4>
+<h4><strong>News </strong> <a href="{{ site.url }}{{ site.baseurl }}/allnews">....... see all News</a> </h4>
 
-{% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+{% for article in site.data.news limit:5 %}
+<p>  <strong> --  {{ article.headline }} </strong> {{ article.date }} <br>{{ article.info | markdownify}}</p>
 {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+<h4>  <strong> [{{ publi.title }}]( {{ publi.page | relative_url }} )
+<a href="{{ site.url }}{{ site.baseurl }}/allnews">... see all News</a></h4>
 
     </div>
