@@ -1,24 +1,47 @@
 - title: "Bio-Sensing and VR"
-  image: bio.jpg
-  description: The work explores a more affective, bio-responsive experience for real-time/VR AI singularly or multiuser environments  especially where mindfulness and wellness are a goal.
+  image: t_bio.jpg
+  description: Bio and brain sensing for interactive and VR AI singularly / multiuser environments especially where mindfulness/wellness are a goal.
   page: /bioBrainVR
   highlight: 1
 
 - title: "AI Virtual Humans"
-  image: covid.jpg
+  image: t_covid.jpg
   description: For real-time/VR AI singularly or multiuser environments  especially where mindfulness and wellness are a goal.
   page: /virtualHumans
   highlight: 1
 
 - title: "AI Anonymization"
-  image: aianon.jpg
-  description: Bringing together an interdisciplinary team, we have researched and created a wholly new AI technique to anonymize interview subjects and scenes in regular and 360 videos.
-  page: /AIAnon
+  image: t_aianon.jpg
+  description: Researched and created a wholly new AI techniques to anonymize interview subjects and scenes in regular and 360 videos.
+  page: /aiAnon
   highlight: 1
 
 - title: "AI Cognitive Creativity"
-  image: aicreative.jpg
+  image: t_aicreative.jpg
   description: AI modelling aspects of human creativity in AI using cognitive science as a basis for our work
-  page: /AICreativity
+  page: /aiCreativity
   highlight: 1
   
+- title: "AI Modeling Animals"
+  image: t_aianimals.jpg
+  description: AI modelling of the behavoir (thinking, movement, expression, ...) of animals and humans.
+  page: /aiAnimals
+  highlight: 1
+
+- title: "XR Avatars; Edu, Coaches, Health"
+  image: t_xrAvatars.jpg
+  description: XR (VR/AR/3D) systems where a user can expressive as talking 3D avatar with gestures/facial expressions. For education, coaches and health. 
+  page: /xrAvatars
+  highlight: 1
+
+- title: "AI Modeling Thought & Language"
+  image: t_aiThought.jpg
+  description: Cognitive modelling of thought, expression and language using advanced AI systems like AI Knowledge Graphs of thought and chained RAG based LLMs.
+  page: /aiThought
+  highlight: 1
+  
+- title: "Semantic Meaning & Analysis"
+  image: t_aiMeaning.jpg
+  description: Cognitive based anaylsis and modelling of deep Semantic Meaning. 
+  page: /aiMeaning
+  highlight: 1

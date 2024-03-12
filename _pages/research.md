@@ -25,8 +25,8 @@ permalink: /research/
 
 <div class="col-sm-6 clearfix">
 
-  <strong> [{{ publi.title }}]( {{ publi.page | relative_url }} )
-  
+  <strong> [{{ publi.title }}]( {{ publi.page | relative_url }} ) 
+  </strong>
   <img src="{{ site.url }}{{ site.baseurl }}/images/res/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
 

@@ -18,7 +18,7 @@
   journal:  " Conference on Computer Vision and Pattern Recognition (CVPR) 2023" 
   description:  Ethical Considerations in Creative Applications of Computer Vision (EC3V) Workshop
   year: 2023
-  research: nul
+  research: aiEthics
   display:  " Conference on Computer Vision and Pattern Recognition (CVPR) 2023 (2023)" 
   url: https://www.google.com/search?q=' Digital Overconsumption and Waste; A Closer Look at the Impacts of Generative AI' ' Conference on Computer Vision and Pattern Recognition (CVPR) 2023'
 
@@ -30,7 +30,7 @@
   journal:  " International Conference on Computational Creativity" 
   description:  9 pages
   year: 2023
-  research: nul
+  research: aiEthics
   display:  " International Conference on Computational Creativity (2023)" 
   url: https://www.google.com/search?q=' Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption' ' International Conference on Computational Creativity'
 
@@ -42,7 +42,7 @@
   journal:  " Plos One" 
   description:  32 pages
   year: 2023
-  research: nul
+  research: aiHealth
   display:  " Plos One (2023)" 
   url: https://www.google.com/search?q=' Predictors of the rate of cognitive decline in older adults using machine learning' ' Plos One'
 
@@ -126,7 +126,7 @@
   journal:  " Ecocene; Cappadocia Journal of Environmental Humanities" 
   description:  Vol 3. No 2
   year: 2022
-  research: nul
+  research: aiArts
   display:  " Ecocene; Cappadocia Journal of Environmental Humanities (2022)" 
   url: https://www.google.com/search?q=' Connective Tissue and Bacterial Echoes; Four Artists a River and an Artificial Agent' ' Ecocene; Cappadocia Journal of Environmental Humanities'
 
@@ -138,7 +138,7 @@
   journal:  " In Feral Feminisms 12" 
   description:  Special Issue on Hacking the Anthropocene. 5 pages
   year: 2022
-  research: nul
+  research: aiArts
   display:  " In Feral Feminisms 12 (2022)" 
   url: https://www.google.com/search?q=' Mitochondrial Crossings' ' In Feral Feminisms 12'
 
@@ -198,7 +198,7 @@
   journal:  " International Conference on Human Computer Interaction (HCII 21)" 
   description:  Computer and Information Science. vol 1420. (short paper). Springer
   year: 2021
-  research: nul
+  research: aiArts
   display:  " International Conference on Human Computer Interaction (HCII 21) (2021)" 
   url: https://www.google.com/search?q=' VR-DesignSpace; A Creativity Support Environment Integrating Virtual Reality Technology into Collaborative Data-Informed Evaluation of Design Alternative' ' International Conference on Human Computer Interaction (HCII 21)'
 
@@ -306,7 +306,7 @@
   journal:  " ACM CHI Conference on Human Factors in Computing Systems (CHI EA)" 
   description:  Paper LBW1322. 6 pages
   year: 2019
-  research: nul
+  research: aiMeaning
   display:  " ACM CHI Conference on Human Factors in Computing Systems (CHI EA) (2019)" 
   url: https://www.google.com/search?q=' Lucid Loop; A Virtual Deep Learning Biofeedback System for Lucid Dreaming Practice' ' ACM CHI Conference on Human Factors in Computing Systems (CHI EA)'
 
@@ -402,7 +402,7 @@
   journal:  " Electronic Literature Organization (ELO)" 
   description:  5 pages
   year: 2018
-  research: nul
+  research: xrAvatar
   display:  " Electronic Literature Organization (ELO) (2018)" 
   url: https://www.google.com/search?q=' A framework for developing multi-modal media-spaces using AI techniques' ' Electronic Literature Organization (ELO)'
 
@@ -414,7 +414,7 @@
   journal:  " Semantic Ambient Media Experiences (SAME); Artificial Intelligence MEETS Virtual and Augmented Worlds (AIVR) with SIGGRAPH Asia" 
   description:  pp. 6-11
   year: 2018
-  research: nul
+  research: aiMeaning
   display:  " Semantic Ambient Media Experiences (SAME); Artificial Intelligence MEETS Virtual and Augmented Worlds (AIVR) with SIGGRAPH Asia (2018)" 
   url: https://www.google.com/search?q=' Deep Learning for Classification of Peak Emotions within Virtual Reality Systems' ' Semantic Ambient Media Experiences (SAME); Artificial Intelligence MEETS Virtual and Augmented Worlds (AIVR) with SIGGRAPH Asia'
 
@@ -462,7 +462,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 159-166
   year: 2017
-  research: nul
+  research: aiArts
   display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
   url: https://www.google.com/search?q=' A Framework for Hybrid Multimodal Interactive Performances; Exploring the Virtual; Physical; and the Space in Between' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -474,7 +474,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 296-303
   year: 2017
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
   url: https://www.google.com/search?q=' Engagement with artificial intelligence through natural interaction models' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -486,7 +486,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 365-372 Best Paper Award
   year: 2017
-  research: nul
+  research: aiEthics
   display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
   url: https://www.google.com/search?q=' Embodied interactions with a sufi dhikr ritual; negotiating privacy and transmission of intangible cultural heritage in virtual sama' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -498,7 +498,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 377-384
   year: 2017
-  research: nul
+  research: biobrainVR
   display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
   url: https://www.google.com/search?q=' Framework for a bio-responsive VR for interactive real-time environments and interactives' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -510,7 +510,7 @@
   journal:  " Full Book" 
   description:  IGI Global
   year: 2016
-  research: nul
+  research: aiThought
   display:  " Full Book (2016)" 
   url: https://www.google.com/search?q=' Integrating Cognitive Architectures into Virtual Character Design' ' Full Book'
 
@@ -522,7 +522,7 @@
   journal:  " EAI Journal of Creative Technologies" 
   description:  Special Issue; Intelligent Technologies for Interactive Entertainment.  Vol 16. No 6. 10 pages
   year: 2016
-  research: nul
+  research: aiArts
   display:  " EAI Journal of Creative Technologies (2016)" 
   url: https://www.google.com/search?q=' Moving Collaborations; A Critical Inquiry into Designing Creative Interactive Systems for Choreography' ' EAI Journal of Creative Technologies'
 
@@ -534,7 +534,7 @@
   journal:  " Computer Animation and Virtual Worlds Journal" 
   description:  Vol 27.  No 1. pp. 58-71
   year: 2016
-  research: nul
+  research: xrAvatar
   display:  " Computer Animation and Virtual Worlds Journal (2016)" 
   url: https://www.google.com/search?q=' Perceptual validity in animation of human motion' ' Computer Animation and Virtual Worlds Journal'
 
@@ -546,7 +546,7 @@
   journal:  " Intelligent Virtual Agents (IVA)" 
   description:  Lecture Notes in Computer Science. Springer
   year: 2016
-  research: nul
+  research: xrAvatar
   display:  " Intelligent Virtual Agents (IVA) (2016)" 
   url: https://www.google.com/search?q=' S. An Architecture for Biologically Grounded Real-time Reflexive Behavior' ' Intelligent Virtual Agents (IVA)'
 
@@ -570,7 +570,7 @@
   journal:  " ACM Conference on Designing Interactive Systems (DIS)" 
   description:  pp. 234-238
   year: 2016
-  research: nul
+  research: aiArts
   display:  " ACM Conference on Designing Interactive Systems (DIS) (2016)" 
   url: https://www.google.com/search?q=' If Words Could Dance; Moving from Body to Data through Kinesthetic Evaluation' ' ACM Conference on Designing Interactive Systems (DIS)'
 
@@ -582,7 +582,7 @@
   journal:  " ACM Movement and Computing (MOCA)" 
   description:  pp. 21-30
   year: 2016
-  research: nul
+  research: virtualHumans
   display:  " ACM Movement and Computing (MOCA) (2016)" 
   url: https://www.google.com/search?q=' m+m; A novel Middleware for Distributed; Movement based Interactive Multimedia Systems' ' ACM Movement and Computing (MOCA)'
 
@@ -594,7 +594,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2016
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2016)" 
   url: https://www.google.com/search?q=' Movement Awareness through Emotion Based Aesthetic Visualization' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -606,7 +606,7 @@
   journal:  " International Conference on Computational Creativity (ICCC)" 
   description:  8 pages
   year: 2016
-  research: nul
+  research: AICreativity
   display:  " International Conference on Computational Creativity (ICCC) (2016)" 
   url: https://www.google.com/search?q=' Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity' ' International Conference on Computational Creativity (ICCC)'
 
@@ -618,7 +618,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2016
-  research: nul
+  research: AICreativity
   display:  " Electronic Visualisation and the Arts (EVA) (2016)" 
   url: https://www.google.com/search?q=' Using Artificial Intelligence Techniques to Emulate the Creativity of a Portrait Painter' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -630,7 +630,7 @@
   journal:  " International Conference on Intelligent Virtual Agents (IVA)" 
   description:  pp. 132-136. Springer
   year: 2015
-  research: nul
+  research: virtualHumans
   display:  " International Conference on Intelligent Virtual Agents (IVA) (2015)" 
   url: https://www.google.com/search?q=' A Framework for Exogenous and Endogenous Reflexive Behavior in Virtual Characters' ' International Conference on Intelligent Virtual Agents (IVA)'
 
@@ -642,7 +642,7 @@
   journal:  " International Conference on Intelligent Virtual Agents (IVA)" 
   description:  pp. 488-491. Springer
   year: 2015
-  research: virtualHumans
+  research: xrAvatar
   display:  " International Conference on Intelligent Virtual Agents (IVA) (2015)" 
   url: https://www.google.com/search?q=' Effect of a Virtual Agent?s Contingent Smile Response on Perceived Social Status' ' International Conference on Intelligent Virtual Agents (IVA)'
 
@@ -654,7 +654,7 @@
   journal:  " ACM Conf on Human Factors in Computing Systems (CHI)" 
   description:  pp. 579-588
   year: 2015
-  research: nul
+  research: aiMeaning
   display:  " ACM Conf on Human Factors in Computing Systems (CHI) (2015)" 
   url: https://www.google.com/search?q=' Touch of the Eye; Does Observation Reflect Haptic Metaphors in Art Drawing?' ' ACM Conf on Human Factors in Computing Systems (CHI)'
 
@@ -678,7 +678,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2015
-  research: nul
+  research: aiArts
   display:  " Electronic Visualisation and the Arts (EVA) (2015)" 
   url: https://www.google.com/search?q=' Exploring Different Ways of Navigating Emotionally-responsive Artwork in Immersive Virtual Environments' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -690,7 +690,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2015
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2015)" 
   url: https://www.google.com/search?q=' A Creative Artificial Intelligence System to Investigate User Experience; Affect; Emotion and Creativity' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -702,9 +702,9 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2015
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2015)" 
-  url: https://www.google.com/search?q=' Enhancing Viewer?s Emotional Connections to The Traditional Art Creative Process Via an AI Interactive System' ' Electronic Visualisation and the Arts (EVA)'
+  url: https://www.google.com/search?q=' Enhancing Viewers Emotional Connections to The Traditional Art Creative Process Via an AI Interactive System' ' Electronic Visualisation and the Arts (EVA)'
 
 - new: 1
   type: Journal
@@ -714,7 +714,7 @@
   journal:  " Procedia Computer Science" 
   description:  Special Issue; Bio Inspired Cognitive Architectures. Vol 41. pp. 212-219
   year: 2014
-  research: nul
+  research: aiMeaning
   display:  " Procedia Computer Science (2014)" 
   url: https://www.google.com/search?q=' Using a Contextual Focus Model for an Automatic Creativity Algorithm to Generate Art Work' ' Procedia Computer Science'
 
@@ -726,7 +726,7 @@
   journal:  " Procedia Computer Science" 
   description:   Special Issue; Bio Inspired Cognitive Architectures. Vol 41. pp. 204-211
   year: 2014
-  research: nul
+  research: virtualHumans
   display:  " Procedia Computer Science (2014)" 
   url: https://www.google.com/search?q=' An Architecture for Personality-Based; Nonverbal Behavior in Affective Virtual Humanoid Character' ' Procedia Computer Science'
 
@@ -762,7 +762,7 @@
   journal:  " Biologically Inspired Cognitive Architectures (BICA)" 
   description:  2 pages. MIT. MA
   year: 2014
-  research: nul
+  research: aiThought
   display:  " Biologically Inspired Cognitive Architectures (BICA) (2014)" 
   url: https://www.google.com/search?q=' Affective Response Patterns as Indicators of Personality in Virtual Characters' ' Biologically Inspired Cognitive Architectures (BICA)'
 
@@ -774,7 +774,7 @@
   journal:  " Intelligent Technologies for Interactive Entertainment" 
   description:  (Springer Lecture Notes Book). V 136. pp. 46-56
   year: 2014
-  research: nul
+  research: aiArts
   display:  " Intelligent Technologies for Interactive Entertainment (2014)" 
   url: https://www.google.com/search?q=' Collaborative Choreography; A Critical Inquiry into Designing Creative Interactive' ' Intelligent Technologies for Interactive Entertainment'
 
@@ -786,7 +786,7 @@
   journal:  " Cognitive Science Society" 
   description:  2 pages. Qu‚bec City
   year: 2014
-  research: nul
+  research: virtualHumans
   display:  " Cognitive Science Society (2014)" 
   url: https://www.google.com/search?q=' Affective Response Patterns as Indicators of Personality in Virtual Characters' ' Cognitive Science Society'
 
@@ -810,7 +810,7 @@
   journal:  " Book Chapter. Electronic Visualisation in Arts and Culture" 
   description:  Bowen. Keene. Ng. (Eds). pp. 213-227. Springer
   year: 2013
-  research: nul
+  research: aiMeaning
   display:  " Book Chapter. Electronic Visualisation in Arts and Culture (2013)" 
   url: https://www.google.com/search?q=' Face; Portrait; Mask - Using a Parameterized System to Explore Synthetic Face Space' ' Book Chapter. Electronic Visualisation in Arts and Culture'
 
@@ -846,7 +846,7 @@
   journal:  " Digital Games Research Association Conference (DIGRA)" 
   description:  Atlanta. Georgia. pp. 161-197
   year: 2013
-  research: nul
+  research: aiMeaning
   display:  " Digital Games Research Association Conference (DIGRA) (2013)" 
   url: https://www.google.com/search?q=' The Role of Micronarrative in the Design and Experience of Digital Games' ' Digital Games Research Association Conference (DIGRA)'
 
@@ -858,7 +858,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 127-134. London
   year: 2013
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2013)" 
   url: https://www.google.com/search?q=' How a Painter Paints; An Interdisciplinary Understanding of Embodied Creativity' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -882,7 +882,7 @@
   journal:  " ACM Conference on Creativity and Cognition" 
   description:  10 pages
   year: 2013
-  research: nul
+  research: aiArts
   display:  " ACM Conference on Creativity and Cognition (2013)" 
   url: https://www.google.com/search?q=' Medium-Specific Properties of Urban Screens; Towards an Ontological Framework for Digital Public Displays' ' ACM Conference on Creativity and Cognition'
 
@@ -906,7 +906,7 @@
   journal:  " International Conference on Computational Creativity (ICCC)" 
   description:  pp. 203-211
   year: 2012
-  research: nul
+  research: aiMeaning
   display:  " International Conference on Computational Creativity (ICCC) (2012)" 
   url: https://www.google.com/search?q=' How Did Humans Become So Creative? A Computational Approach' ' International Conference on Computational Creativity (ICCC)'
 
@@ -918,7 +918,7 @@
   journal:  " International Symposium on Computational Aesthetics in Graphics; Visualization & Imaging" 
   description:  pp. 89-97
   year: 2012
-  research: nul
+  research: aiMeaning
   display:  " International Symposium on Computational Aesthetics in Graphics; Visualization & Imaging (2012)" 
   url: https://www.google.com/search?q=' Exploring the Effect of Color Palette in Painterly Rendered Character Sequences' ' International Symposium on Computational Aesthetics in Graphics; Visualization & Imaging'
 
@@ -930,7 +930,7 @@
   journal:  " Conceptual Structure; Discourse and Language" 
   description:  7 pages
   year: 2012
-  research: nul
+  research: AICreativity
   display:  " Conceptual Structure; Discourse and Language (2012)" 
   url: https://www.google.com/search?q=' Computationally Modeling Creativity; Implementation and Response to a Computer Being Creative On Its Own' ' Conceptual Structure; Discourse and Language'
 
@@ -938,13 +938,13 @@
   type: Conference
   number: 57
   authors:  DiPaola S; Smith A
-  title:  " Formalizing an Interconnected Syntax For Picasso?s Creative Process In Producing Guernica" 
+  title:  " Formalizing an Interconnected Syntax For Picassos Creative Process In Producing Guernica" 
   journal:  " Conceptual Structure; Discourse and Language" 
   description:  6 pages
   year: 2012
-  research: nul
+  research: aiMeaning
   display:  " Conceptual Structure; Discourse and Language (2012)" 
-  url: https://www.google.com/search?q=' Formalizing an Interconnected Syntax For Picasso?s Creative Process In Producing Guernica' ' Conceptual Structure; Discourse and Language'
+  url: https://www.google.com/search?q=' Formalizing an Interconnected Syntax For Picassos Creative Process In Producing Guernica' ' Conceptual Structure; Discourse and Language'
 
 - new: 1
   type: Conference
@@ -954,7 +954,7 @@
   journal:  " Conceptual Structure; Discourse and Language" 
   description:  6 pages
   year: 2012
-  research: nul
+  research: aiMeaning
   display:  " Conceptual Structure; Discourse and Language (2012)" 
   url: https://www.google.com/search?q=' The Tacit and the Trace; Towards Syntax Of The Creative Act' ' Conceptual Structure; Discourse and Language'
 
@@ -966,7 +966,7 @@
   journal:  " Book Chapter. Cartesian Genetic Programming" 
   description:  Editor; Miller J. pp. 293-306. Springer
   year: 2011
-  research: nul
+  research: AICreativity
   display:  " Book Chapter. Cartesian Genetic Programming (2011)" 
   url: https://www.google.com/search?q=' Cartesian Genetic Programming; Creativity and Art' ' Book Chapter. Cartesian Genetic Programming'
 
@@ -978,7 +978,7 @@
   journal:  " International Journal of Computer Games Technology" 
   description:  vol 2011. Article ID 164949. 7 pages
   year: 2011
-  research: nul
+  research: AICreativity
   display:  " International Journal of Computer Games Technology (2011)" 
   url: https://www.google.com/search?q=' Expressive Animated Character Sequences Using Knowledge-based Painterly Rendering' ' International Journal of Computer Games Technology'
 
@@ -990,7 +990,7 @@
   journal:  " Transactions on Computational Intelligence and AI in Games" 
   description:  Vol 3. No 3. pp. 229-244
   year: 2011
-  research: nul
+  research: virtualHumans
   display:  " Transactions on Computational Intelligence and AI in Games (2011)" 
   url: https://www.google.com/search?q=' A Generic Approach to Challenge Modeling for the Procedural Creation of Video Game Levels' ' Transactions on Computational Intelligence and AI in Games'
 
@@ -1002,7 +1002,7 @@
   journal:  " International Journal of Web-Based Communities" 
   description:  Vol 7. No 2. pp. 157-173
   year: 2011
-  research: nul
+  research: xrAvatar
   display:  " International Journal of Web-Based Communities (2011)" 
   url: https://www.google.com/search?q=' Binding the pair; making a historical case for avicentric self-expression within 3D virtual communities' ' International Journal of Web-Based Communities'
 
@@ -1010,25 +1010,25 @@
   type: Journal
   number: 23
   authors:  DiPaola S; Riebe C; Enns JT
-  title:  " Rembrandt?s Textural Agency;  A Shared Perspective in Visual Art and Science" 
+  title:  " Rembrandts Textural Agency;  A Shared Perspective in Visual Art and Science" 
   journal:  " Leonardo" 
   description:  Vol 43. No 3. pp. 145-151
   year: 2011
-  research: nul
+  research: aiMeaning
   display:  " Leonardo (2011)" 
-  url: https://www.google.com/search?q=' Rembrandt?s Textural Agency;  A Shared Perspective in Visual Art and Science' ' Leonardo'
+  url: https://www.google.com/search?q=' Rembrandts Textural Agency;  A Shared Perspective in Visual Art and Science' ' Leonardo'
 
 - new: 1
   type: Conference
   number: 59
   authors:  DiPaola S
-  title:  " Face; Portrait; Mask ? Using a Parameterized System to Explore Synthetic Face Space" 
+  title:  " Face; Portrait; Mask  Using a Parameterized System to Explore Synthetic Face Space" 
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 296-302. London
   year: 2010
-  research: nul
+  research: virtualHumans
   display:  " Electronic Visualisation and the Arts (EVA) (2010)" 
-  url: https://www.google.com/search?q=' Face; Portrait; Mask ? Using a Parameterized System to Explore Synthetic Face Space' ' Electronic Visualisation and the Arts (EVA)'
+  url: https://www.google.com/search?q=' Face; Portrait; Mask  Using a Parameterized System to Explore Synthetic Face Space' ' Electronic Visualisation and the Arts (EVA)'
 
 - new: 1
   type: Conference
@@ -1038,7 +1038,7 @@
   journal:  " Electronic Visualisation and the Arts" 
   description:  British Computer Society. pp. 121-128. London
   year: 2010
-  research: nul
+  research: AICreativity
   display:  " Electronic Visualisation and the Arts (2010)" 
   url: https://www.google.com/search?q=' Exploring Persian Rug Design Using a Computational Evolutionary Approach' ' Electronic Visualisation and the Arts'
 
@@ -1050,7 +1050,7 @@
   journal:  " Book Chapter. Educational Gameplay and Simulation Environments" 
   description:  Editors; Kaufman D. Sauv‚ L. pp. 213-230
   year: 2009
-  research: nul
+  research: xrAvatar
   display:  " Book Chapter. Educational Gameplay and Simulation Environments (2009)" 
   url: https://www.google.com/search?q=' Designing Socially Expressive Character Agents to Facilitate Learning' ' Book Chapter. Educational Gameplay and Simulation Environments'
 
@@ -1062,7 +1062,7 @@
   journal:  " Journal of Vision" 
   description:  Vol 9. No 8. pp. 368-368 (abstract)
   year: 2009
-  research: nul
+  research: aiMeaning
   display:  " Journal of Vision (2009)" 
   url: https://www.google.com/search?q=' Following the Masters; Viewer Gaze is Directed by Relative Detail in Painted Portraits' ' Journal of Vision'
 
@@ -1074,7 +1074,7 @@
   journal:  " International Journal of Computer Games Technology" 
   description:  Vol 2009.  Article ID 462315. 13 pages
   year: 2009
-  research: nul
+  research: virtualHumans
   display:  " International Journal of Computer Games Technology (2009)" 
   url: https://www.google.com/search?q=' Perceptually Valid Facial Expressions for Character-based Applications' ' International Journal of Computer Games Technology'
 
@@ -1086,7 +1086,7 @@
   journal:  " Genetic Programming and Evolvable Machines Journal" 
   description:  Vol 10. No 2. pp. 97-110
   year: 2009
-  research: nul
+  research: aiMeaning
   display:  " Genetic Programming and Evolvable Machines Journal (2009)" 
   url: https://www.google.com/search?q=' Incorporating Characteristics of Human Creativity into an Evolutionary Art Algorithm' ' Genetic Programming and Evolvable Machines Journal'
 
@@ -1098,7 +1098,7 @@
   journal:  " 150 Years after Origin; Biological; Historical and Philosophical Perspectives; Canadian Darwin Conference" 
   description:  University of Toronto. 4 pages
   year: 2009
-  research: nul
+  research: AICreativity
   display:  " 150 Years after Origin; Biological; Historical and Philosophical Perspectives; Canadian Darwin Conference (2009)" 
   url: https://www.google.com/search?q=' Darwin; Creativity; and Evolutionary Programming' ' 150 Years after Origin; Biological; Historical and Philosophical Perspectives; Canadian Darwin Conference'
 
@@ -1110,7 +1110,7 @@
   journal:  " ACM Intelligent Virtual Agents (IVA)" 
   description:  Keynote Short Paper. Springer. Amsterdam. pp. 3-7
   year: 2009
-  research: nul
+  research: virtualHumans
   display:  " ACM Intelligent Virtual Agents (IVA) (2009)" 
   url: https://www.google.com/search?q=' Intelligent Expression-based Character Agent Systems' ' ACM Intelligent Virtual Agents (IVA)'
 
@@ -1122,7 +1122,7 @@
   journal:  " Abstracts of the Vision Sciences Society" 
   description:  9th Annual Meeting. #144
   year: 2009
-  research: nul
+  research: aiMeaning
   display:  " Abstracts of the Vision Sciences Society (2009)" 
   url: https://www.google.com/search?q=' Following the masters; Viewer gaze is directed by relative detail in painted portraits' ' Abstracts of the Vision Sciences Society'
 
@@ -1134,7 +1134,7 @@
   journal:  " SPIE Human Vision and Imaging. Int. Society for Optical Engineering" 
   description:  6 pages
   year: 2009
-  research: nul
+  research: aiMeaning
   display:  " SPIE Human Vision and Imaging. Int. Society for Optical Engineering (2009)" 
   url: https://www.google.com/search?q=' Quantifying artist?s use of human vision constructs to influence viewer eye gaze' ' SPIE Human Vision and Imaging. Int. Society for Optical Engineering'
 
@@ -1170,7 +1170,7 @@
   journal:  " Artciencia; Art & Science Journal" 
   description:  Vol 4. No 9. pp. 1-8
   year: 2008
-  research: nul
+  research: aiArts
   display:  " Artciencia; Art & Science Journal (2008)" 
   url: https://www.google.com/search?q=' Computationally Rendered Painterly Portrait Spaces' ' Artciencia; Art & Science Journal'
 
@@ -1182,7 +1182,7 @@
   journal:  " The Journal Nature" 
   description:   Images of my research in computer model of evolution ? selected by the Nature editors to accompany this essay (invited - not peer reviewed). Vol 451. pp. 632-633
   year: 2008
-  research: nul
+  research: aiMeaning
   display:  " The Journal Nature (2008)" 
   url: https://www.google.com/search?q=' Darwin?s Enduring Legacy' ' The Journal Nature'
 
@@ -1194,7 +1194,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2008
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2008)" 
   url: https://www.google.com/search?q=' The Trace and the Gaze; Textural Agency in Rembrandt?s Late Portraiture from a Vision Science Perspective' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -1206,7 +1206,7 @@
   journal:  " Inter. Conference on Games Research and Development (CyberGames)" 
   description:  8 pages. Beijing. China
   year: 2008
-  research: nul
+  research: xrAvatar
   display:  " Inter. Conference on Games Research and Development (CyberGames) (2008)" 
   url: https://www.google.com/search?q=' A Methodology for Incorporating Personality Modeling in Believable Game Characters' ' Inter. Conference on Games Research and Development (CyberGames)'
 
@@ -1218,7 +1218,7 @@
   journal:  " Canadian Game Studies Association (CGSA)" 
   description:  8 pages. Vancouver
   year: 2008
-  research: nul
+  research: xrAvatar
   display:  " Canadian Game Studies Association (CGSA) (2008)" 
   url: https://www.google.com/search?q=' Authoring the Global Self; Identity; Expression and Role-playing in Virtual Communities' ' Canadian Game Studies Association (CGSA)'
 
@@ -1230,7 +1230,7 @@
   journal:  " Loading;  Journal of the  Canadian Games Studies Association" 
   description:  Vol 1. No 1. p1-9
   year: 2007
-  research: nul
+  research: xrAvatar
   display:  " Loading;  Journal of the  Canadian Games Studies Association (2007)" 
   url: https://www.google.com/search?q=' Blending Science Knowledge and AI Gaming Techniques for Experiential Learning' ' Loading;  Journal of the  Canadian Games Studies Association'
 
@@ -1242,7 +1242,7 @@
   journal:  " IEEE Transactions on Multimedia" 
   description:  Vol 9. No 6. pp. 1137-1146
   year: 2007
-  research: nul
+  research: virtualHumans
   display:  " IEEE Transactions on Multimedia (2007)" 
   url: https://www.google.com/search?q=' Face Modeling and Animation Language for MPEG-4 XMT Framework' ' IEEE Transactions on Multimedia'
 
@@ -1254,7 +1254,7 @@
   journal:  " Adaptive Behavior" 
   description:  (Special Issue on Action Selection). Vol 15. No 1. pp. 99-113
   year: 2007
-  research: nul
+  research: aiAnimals
   display:  " Adaptive Behavior (2007)" 
   url: https://www.google.com/search?q=' Experiencing Belugas; Developing an Action Selection-Based Aquarium Interactive' ' Adaptive Behavior'
 
@@ -1302,7 +1302,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 10 pages. London
   year: 2007
-  research: nul
+  research: AICreativity
   display:  " Electronic Visualisation and the Arts (EVA) (2007)" 
   url: https://www.google.com/search?q=' A Knowledge Based Approach to Modeling Portrait Painting Methodology' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -1314,7 +1314,7 @@
   journal:  " SPIE Human Vision and Imaging" 
   description:  Int. Society for Optical Engineering. Keynote paper.  pp. 33-43
   year: 2007
-  research: nul
+  research: AICreativity
   display:  " SPIE Human Vision and Imaging (2007)" 
   url: https://www.google.com/search?q=' Painterly Rendered Portraits from Photographs using a Knowledge-Based Approach' ' SPIE Human Vision and Imaging'
 
@@ -1326,7 +1326,7 @@
   journal:  " Computer Animation and Virtual Worlds (CAVW) Journal" 
   description:  Vol 17. No 3-4. pp. 371-382
   year: 2006
-  research: nul
+  research: virtualHumans
   display:  " Computer Animation and Virtual Worlds (CAVW) Journal (2006)" 
   url: https://www.google.com/search?q=' Facial Actions as Visual Cues for Personality' ' Computer Animation and Virtual Worlds (CAVW) Journal'
 
@@ -1350,7 +1350,7 @@
   journal:  " Canadian Game Studies Association (CGSA)" 
   description:  8 pages. Toronto
   year: 2006
-  research: nul
+  research: aiAnimals
   display:  " Canadian Game Studies Association (CGSA) (2006)" 
   url: https://www.google.com/search?q=' Blending Science Knowledge and AI Gaming Techniques for Experiential Learning' ' Canadian Game Studies Association (CGSA)'
 
@@ -1362,7 +1362,7 @@
   journal:  " ACM SIGGRAPH - Symposium on Videogames" 
   description:  pp. 143-149
   year: 2006
-  research: nul
+  research: aiMeaning
   display:  " ACM SIGGRAPH - Symposium on Videogames (2006)" 
   url: https://www.google.com/search?q=' Emotional Remapping of Music to Facial Animation' ' ACM SIGGRAPH - Symposium on Videogames'
 
@@ -1374,7 +1374,7 @@
   journal:  " Visualization and Computer Vision" 
   description:  8 pages
   year: 2006
-  research: nul
+  research: virtualHumans
   display:  " Visualization and Computer Vision (2006)" 
   url: https://www.google.com/search?q=' Socially Communicative Characters for Interactive Applications' ' Visualization and Computer Vision'
 
@@ -1386,7 +1386,7 @@
   journal:  " International Digital Media and Arts Association (IDMA)" 
   description:  7 pages
   year: 2006
-  research: nul
+  research: aiMeaning
   display:  " International Digital Media and Arts Association (IDMA) (2006)" 
   url: https://www.google.com/search?q=' Evolving Portrait Painter Programs using Genetic Programming to Explore Computer Creativity' ' International Digital Media and Arts Association (IDMA)'
 
@@ -1398,7 +1398,7 @@
   journal:  " ACM SIGGRAPH - 2006 Educators Program" 
   description:  6 pages
   year: 2006
-  research: nul
+  research: aiAnimals
   display:  " ACM SIGGRAPH - 2006 Educators Program (2006)" 
   url: https://www.google.com/search?q=' Designing Adaptive Multimedia Interactives to Support Shared Learning Experiences' ' ACM SIGGRAPH - 2006 Educators Program'
 
@@ -1422,7 +1422,7 @@
   journal:  " New Forms Festival Conference - Museum of Anthropology" 
   description:  7 pages
   year: 2005
-  research: nul
+  research: aiAnimals
   display:  " New Forms Festival Conference - Museum of Anthropology (2005)" 
   url: https://www.google.com/search?q=' Shifting Boundaries; The Ontological Implications of Simulating Marine Mammals' ' New Forms Festival Conference - Museum of Anthropology'
 
@@ -1446,7 +1446,7 @@
   journal:  " Electronic Visualisation and the Arts" 
   description:  10 pages. London
   year: 2005
-  research: nul
+  research: AICreativity
   display:  " Electronic Visualisation and the Arts (2005)" 
   url: https://www.google.com/search?q=' Evolving Creative Portrait Painter Programs Using Darwinian Techniques with an Automatic Fitness Function' ' Electronic Visualisation and the Arts'
 
@@ -1470,7 +1470,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. Florence
   year: 2005
-  research: nul
+  research: virtualHumans
   display:  " Electronic Visualisation and the Arts (EVA) (2005)" 
   url: https://www.google.com/search?q=' Socially Expressive Communication Agents; A Face-centric Approach' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -1482,7 +1482,7 @@
   journal:  " Old and New Forms Conference" 
   description:  Vancouver Art Gallery. 7 pages
   year: 2004
-  research: nul
+  research: virtualHumans
   display:  " Old and New Forms Conference (2004)" 
   url: https://www.google.com/search?q=' Face; Portrait; Mask - the Virtuality of the Synthetic Face' ' Old and New Forms Conference'
 
@@ -1506,7 +1506,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. 8 pages. London
   year: 2004
-  research: nul
+  research: aiMeaning
   display:  " Electronic Visualisation and the Arts (EVA) (2004)" 
   url: https://www.google.com/search?q=' Affective Communication Remapping in MusicFace System' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -1566,7 +1566,7 @@
   journal:  " Western Computer Graphics Symposium" 
   description:  7 pages. (Not peer reviewed)
   year: 2002
-  research: nul
+  research: xrAvatar
   display:  " Western Computer Graphics Symposium (2002)" 
   url: https://www.google.com/search?q=' A 3D Virtual Environment for Social Telepresence' ' Western Computer Graphics Symposium'
 
@@ -1578,7 +1578,7 @@
   journal:  " ACM SIGGRAPH -Conference Abstracts and Applications" 
   description:  pp. 208-208. Los Angeles
   year: 1999
-  research: nul
+  research: xrAvatar
   display:  " ACM SIGGRAPH -Conference Abstracts and Applications (1999)" 
   url: https://www.google.com/search?q=' A 3D Natural Emulation Design to Virtual Communities' ' ACM SIGGRAPH -Conference Abstracts and Applications'
 
@@ -1602,7 +1602,7 @@
   journal:  " Book; Computer Facial Animation" 
   description:  by Parke & Waters. AK Peters
   year: 1996
-  research: nul
+  research: virtualHumans
   display:  " Book; Computer Facial Animation (1996)" 
   url: https://www.google.com/search?q=' Book Excerpt; pp. 101-104. 214-219. cover artwork' ' Book; Computer Facial Animation'
 
@@ -1614,7 +1614,7 @@
   journal:  " IEEE Journal of Visualization and Computer Animation" 
   description:  Vol 2. No 4. pp. 129-131
   year: 1991
-  research: nul
+  research: virtualHumans
   display:  " IEEE Journal of Visualization and Computer Animation (1991)" 
   url: https://www.google.com/search?q=' Extending the Range of Facial Types' ' IEEE Journal of Visualization and Computer Animation'
 
@@ -1626,7 +1626,7 @@
   journal:  " ACM SIGGRAPH - Facial Animation Tutorial" 
   description:  8 pages
   year: 1989
-  research: nul
+  research: virtualHumans
   display:  " ACM SIGGRAPH - Facial Animation Tutorial (1989)" 
   url: https://www.google.com/search?q=' 3D Parameterized Facial Modeling & Animation' ' ACM SIGGRAPH - Facial Animation Tutorial'
 

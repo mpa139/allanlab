@@ -1,9 +1,9 @@
 ---
 title: "iVizLab - Research"
 layout: textlay
-excerpt: "iVizLab -- Research"
+excerpt: "iVizLab -- AI Cognitive Creativity"
 sitemap: false
-permalink: /AICreativity/
+permalink: /aiCreativity/
 ---
 
 # AI Cognitive Creativity

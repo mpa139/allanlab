@@ -18,8 +18,7 @@ Reseachers: Steve DiPaola, Mahdi Davoodikakhki, Andrey Goncharov, Nilay Ozge Yal
 Our open-source toolkit / cognitive research in AI 3D Virtual Human (embodied IVA : Intelligence Virtual Agents) : a real-time system that can converse with a human by sensing their emotions and conversation ( via facial emotion recognition, voice stress, semantics of the speech and words) and respond affectively, emotionally (voice, facial animation, gesture, etc) to a user in front of it via a host of gestural, motion and bio-sensor systems, with several in lab AI systems and give a coherent, personality-based conversational answers via speech, expression and gesture. The system uses Unity and SmartBody (USC) API who we have collaborated with for years. We use cognitive modeling, empathy modelling, NLP and a variety of AI-based modules in our system (see papers).
 
 
-Our **affective real-time 3D AI virtual human** setup with face emotion recognition, movement recognition and data glove recognition. See overview video or specific videos or papers below
-
+Our **affective real-time 3D AI virtual human** setup with face emotion recognition, movement recognition and hand gesture recognition. 
 <br>
 <iframe width="450" height="230" src="https://www.youtube.com/embed/RMLD7jccv_w?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>

@@ -1,9 +1,9 @@
 ---
 title: "iVizLab - Research"
 layout: textlay
-excerpt: "iVizLab -- Research"
+excerpt: "iVizLab -- AI Anonymization"
 sitemap: false
-permalink: /AIAnon/
+permalink: /aiAnon/
 ---
 
 # AI Anonymization 
@@ -35,7 +35,7 @@ See main site at [aipaint360.org](https://aipaint360.org)
 See main site at [aipaint360.org](https://aipaint360.org)
 
 {% for publi in site.data.publist %}
-  {% if publi.research contains 'AIAnon' %}
+  {% if publi.research contains 'aiAnon' %}
   <pubtit>{{ publi.title }}</pubtit> by
   {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
   <br> <a href="{{ publi.url }}">{{ publi.display }}
