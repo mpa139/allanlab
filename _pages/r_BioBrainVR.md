@@ -51,7 +51,7 @@ Emotional facial recognition combined with movement/placemnet recogntion and han
 
 
 {% for publi in site.data.publist2 %}
-  {% if publi.research contains 'biobrainVR' %}
+  {% if publi.research contains 'bioBrainVR' %}
   <pubtit>{{ publi.title }}</pubtit> by
   {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
   <br> <a href="{{ publi.url }}">{{ publi.display }}
