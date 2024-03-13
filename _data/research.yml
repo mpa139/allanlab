@@ -1,6 +1,19 @@
-- title: "Bio-Sensing and VR"
+
+- title: "AI Modeling Thought & Language"
+  image: t_aiThought.jpg
+  description: Cognitive modelling of thought, expression and language using advanced AI systems like AI Knowledge Graphs of thought and chained RAG based LLMs.
+  page: /aiThought
+  highlight: 1
+  
+- title: "Semantic Meaning & Analysis"
+  image: t_aiMeaning.jpg
+  description: Cognitive based anaylsis and modelling of deep Semantic Meaning. 
+  page: /aiMeaning
+  highlight: 1
+  
+- title: "Sensing Humans (Bio/Brain/Face/Movement/VR)"
   image: t_bio.jpg
-  description: Bio and brain sensing for interactive and VR AI singularly / multiuser environments especially where mindfulness/wellness are a goal.
+  description: Sensing the human for a more human centric approach for analysis and interaction. Bio ( heart, ...), brain, facial, body, hand sensing for interactive and VR.
   page: /bioBrainVR
   highlight: 1
 
@@ -33,15 +46,21 @@
   description: XR (VR/AR/3D) systems where a user can expressive as talking 3D avatar with gestures/facial expressions. For education, coaches and health. 
   page: /xrAvatars
   highlight: 1
-
-- title: "AI Modeling Thought & Language"
-  image: t_aiThought.jpg
-  description: Cognitive modelling of thought, expression and language using advanced AI systems like AI Knowledge Graphs of thought and chained RAG based LLMs.
-  page: /aiThought
+  
+- title: "AI Ethics: Gender"
+  image: t_gender.jpg
+  description: Work and studies in gender issues with AI and Embodied VR. 
+  page: /aiEthicsG
   highlight: 1
   
-- title: "Semantic Meaning & Analysis"
-  image: t_aiMeaning.jpg
-  description: Cognitive based anaylsis and modelling of deep Semantic Meaning. 
-  page: /aiMeaning
+- title: "AI Ethics: Climate"
+  image: t_ethicsC.jpg
+  description: Studying and reporting on the climate implications of rapidly developing Ai usage.
+  page: /aiEthicsC
+  highlight: 1
+
+- title: "AI-based Exploration of Art and Design"
+  image: t_aiarts.jpg
+  description: Cognitive science based AI techniques (creativity, aesthetics, sensing, movement) -- heralding in new forms of art and design exploration.
+  page: /aiArts
   highlight: 1
