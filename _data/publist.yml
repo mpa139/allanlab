@@ -6,7 +6,7 @@
   journal:  " Cognitive Systems Research" 
   description:  23 pages
   year: 2023
-  research: AICreativity
+  research: aiMeaning
   display:  " Cognitive Systems Research (2023)" 
   url: https://www.google.com/search?q=' Designing a Wheel-based Assessment Tool to Measure Visual Aesthetic Emotions' ' Cognitive Systems Research'
 
@@ -18,7 +18,7 @@
   journal:  " Conference on Computer Vision and Pattern Recognition (CVPR) 2023" 
   description:  Ethical Considerations in Creative Applications of Computer Vision (EC3V) Workshop
   year: 2023
-  research: aiEthics
+  research: aiEthicsC
   display:  " Conference on Computer Vision and Pattern Recognition (CVPR) 2023 (2023)" 
   url: https://www.google.com/search?q=' Digital Overconsumption and Waste; A Closer Look at the Impacts of Generative AI' ' Conference on Computer Vision and Pattern Recognition (CVPR) 2023'
 
@@ -30,7 +30,7 @@
   journal:  " International Conference on Computational Creativity" 
   description:  9 pages
   year: 2023
-  research: aiEthics
+  research: aiEthicsC
   display:  " International Conference on Computational Creativity (2023)" 
   url: https://www.google.com/search?q=' Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption' ' International Conference on Computational Creativity'
 
@@ -486,7 +486,7 @@
   journal:  " Electronic Visualisation and the Arts (EVA)" 
   description:  British Computer Society. pp. 365-372 Best Paper Award
   year: 2017
-  research: aiEthics
+  research: aiAnon
   display:  " Electronic Visualisation and the Arts (EVA) (2017)" 
   url: https://www.google.com/search?q=' Embodied interactions with a sufi dhikr ritual; negotiating privacy and transmission of intangible cultural heritage in virtual sama' ' Electronic Visualisation and the Arts (EVA)'
 
@@ -1178,7 +1178,7 @@
   type: Journal
   number: 29
   authors:  DiPaola S
-  title:  " Darwin?s Enduring Legacy" 
+  title:  " Darwins Enduring Legacy" 
   journal:  " The Journal Nature" 
   description:   Images of my research in computer model of evolution ? selected by the Nature editors to accompany this essay (invited - not peer reviewed). Vol 451. pp. 632-633
   year: 2008

@@ -9,7 +9,9 @@ permalink: /aiMeaning/
 # Semantic Meaning & Analysis
 
 
-RESEARCH :: See [Related papers](#paperSection) ::  Related Projects: [Research]({{ site.url }}{{ site.baseurl }}/research)
+<strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
+ ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/ aiArts) ## [AI Anonymization]({{ site.url }}{{ site.baseurl }}/aiAnon) ## [AI Cognitive Creativity)]({{ site.url }}{{ site.baseurl }}/aiCreativity)<br>
+ ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/biobrainVR) ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) <br>
 
 Reseachers: Steve DiPaola, Suk Choi, Meehae Song, Nouf Abukhodair, Vanessa Utz
 
@@ -27,6 +29,7 @@ Reverse engineering generative visual Ai systems to better understand current me
 Deep studies with eye tracking, on how an art viewer perceives (cognitively) artwork where we AI redraw masterwork (switch left/right eye detail & lost and found edges near chin). See several papers and over 200 press articles on our findings - like this one [Magic of Rembrandt's Painting Technique Revealed](https://www.livescience.com/9920-magic-rembrandt-painting-technique-revealed.html).
 <img src="{{ site.url }}{{ site.baseurl }}/images/res/s6.jpg" class="img-responsive" width="70%"/>
 Additional studies on deep meaning in aesthics, emotions, creativity, empathy, ... ( see papers).
+<img src="{{ site.url }}{{ site.baseurl }}/images/res/artsuk1.jpg" class="img-responsive" width="70%"/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/res/s7.jpg" class="img-responsive" width="70%"/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/res/s8.jpg" class="img-responsive" width="70%"/>
 
