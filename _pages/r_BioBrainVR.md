@@ -50,8 +50,8 @@ Emotional facial recognition combined with movement/placemnet recogntion and han
 **------  PAPERS: Sensing Humans (Bio/Brain/Face/Movement/VR)  ------**
 
 
-{% for publi in site.data.publist2 %}
-  {% if publi.research contains 'bioBrainVR' %}
+{% for publi in site.data.publist %}
+  {% if publi.research contains 'biobrainVR' %}
   <pubtit>{{ publi.title }}</pubtit> by
   {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
   <br> <a href="{{ publi.url }}">{{ publi.display }}
