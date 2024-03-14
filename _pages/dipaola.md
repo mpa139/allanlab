@@ -10,7 +10,7 @@ permalink: /dipaola/
 <h4>::      Steve DiPaola : Sites     ::</h4>
 
 <h2 style="text-align: center;">
-[Artwork Site](https://1aha1.com/art/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research Lab]({{ site.url }}{{ site.baseurl }})
+[Artwork Site](https://1aha1.com/art/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research Lab]({{ site.url }})
 </h2>
 
 <center>
