@@ -12,7 +12,7 @@ permalink: /aiArts/
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
  ## [AI Anonymization]({{ site.url }}{{ site.baseurl }}/aiAnon) ## [Semantic Meaning & Analysis]({{ site.url }}{{ site.baseurl }}/aiMeaning)
  ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) <br>
- ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/biobrainVR)
+ ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/bioBrainVR)
  ## [AI Cognitive Creativity]({{ site.url }}{{ site.baseurl }}/aiCreativity) ## [AI Ethics: Gender]({{ site.url }}{{ site.baseurl }}/aiEthicsG) ## [AI Ethics: Climate]({{ site.url }}{{ site.baseurl }}/aiEthicsC)
 <br>
 

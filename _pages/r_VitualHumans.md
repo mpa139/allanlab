@@ -10,8 +10,8 @@ permalink: /virtualHumans/
 
 
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
- ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) ## [AI Cognitive Creativity)]({{ site.url }}{{ site.baseurl }}/aiCreativity)<br>
- ## [XR Avatars; Edu, Coaches, Health]({{ site.url }}{{ site.baseurl }}/xrAvatars)  ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/biobrainVR)<br>
+ ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) ## [AI Cognitive Creativity]({{ site.url }}{{ site.baseurl }}/aiCreativity)<br>
+ ## [XR Avatars; Edu, Coaches, Health]({{ site.url }}{{ site.baseurl }}/xrAvatars)  ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/bioBrainVR)<br>
 
 Reseachers: Steve DiPaola, Mahdi Davoodikakhki, Andrey Goncharov, Nilay Ozge Yalcin 
 

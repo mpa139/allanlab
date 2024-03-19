@@ -9,7 +9,10 @@ permalink: /aiAnon/
 # AI Anonymization 
 
 
-RESEARCH :: See [Related papers](#paperSection) ::  Related Projects: [Research]({{ site.url }}{{ site.baseurl }}/research)
+<strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
+ ## [Semantic Meaning & Analysis]({{ site.url }}{{ site.baseurl }}/aiMeaning) ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought)  ## [AI Cognitive Creativity]({{ site.url }}{{ site.baseurl }}/aiCreativity) <br> ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/bioBrainVR)
+ ## [AI Cognitive Creativity]({{ site.url }}{{ site.baseurl }}/aiCreativity) ## [AI Ethics: Gender]({{ site.url }}{{ site.baseurl }}/aiEthicsG) ## [AI Ethics: Climate]({{ site.url }}{{ site.baseurl }}/aiEthicsC)
+<br>
 
 Reseachers: Steve DiPaola, Vanessa Utz, Nilay Ozge Yalcin 
 

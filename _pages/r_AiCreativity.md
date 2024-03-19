@@ -10,7 +10,7 @@ permalink: /aiCreativity/
 
 
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
- ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Anonymization]({{ site.url }}{{ site.baseurl }}/aiAnon) ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/biobrainVR)<br>
+ ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Anonymization]({{ site.url }}{{ site.baseurl }}/aiAnon) ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/bioBrainVR)<br>
  ## [Semantic Meaning & Analysis]({{ site.url }}{{ site.baseurl }}/aiMeaning) ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) <br>
 
 Reseachers: Steve DiPaola, Vanessa Utz, Suk Choi, Nilay Ozge Yalcin, Nouf Abukhodair, Meehae Song  

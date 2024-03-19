@@ -11,7 +11,7 @@ permalink: /aiAnimals/
 
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
  ## [Semantic Meaning & Analysis]({{ site.url }}{{ site.baseurl }}/aiMeaning) ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) <br>
- ## [AI Affective Virtual Human]({{ site.url }}{{ site.baseurl }}/virtualHumans) ## [XR Avatars; Edu, Coaches, Health]({{ site.url }}{{ site.baseurl }}/xrAvatars) ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/biobrainVR)
+ ## [AI Affective Virtual Human]({{ site.url }}{{ site.baseurl }}/virtualHumans) ## [XR Avatars; Edu, Coaches, Health]({{ site.url }}{{ site.baseurl }}/xrAvatars) ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/bioBrainVR)
 
 Reseachers: Steve DiPaola, Bill Kraus
 

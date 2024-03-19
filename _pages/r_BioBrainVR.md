@@ -11,7 +11,7 @@ permalink: /bioBrainVR/
 
 
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
- ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/ aiArts) ## [AI Cognitive Creativity)]({{ site.url }}{{ site.baseurl }}/aiCreativity) ## [AI Affective Virtual Human]({{ site.url }}{{ site.baseurl }}/virtualHumans)<br>
+ ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Cognitive Creativity)]({{ site.url }}{{ site.baseurl }}/aiCreativity) ## [AI Affective Virtual Human]({{ site.url }}{{ site.baseurl }}/virtualHumans)<br>
  ## [XR Avatars; Edu, Coaches, Health]({{ site.url }}{{ site.baseurl }}/xrAvatars) <br>
 
 Reseachers: Steve DiPaola, Meehae Song
