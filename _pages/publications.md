@@ -29,6 +29,7 @@ permalink: /publications/
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
+
  </div>
 </div>
 
@@ -52,7 +53,7 @@ permalink: /publications/
 ## Full List
 
 {% for publi in site.data.publist %}
-  <pubtit>{{ publi.title }}</pubtit> by
-  {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
+  <pubtit>{{ publi.title }}</pubtit> ## Related Project: [{{ publi.research }}]({{ site.url }}{{ site.baseurl }}/{{ publi.research }})
+  <br> by {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
   <br> <a href="{{ publi.url }}">{{ publi.display }}
 {% endfor %}

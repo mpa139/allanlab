@@ -6,9 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-**Our Focus** Computer Modelling Human Expression/Cognition/Creativity -- iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems.
+**Our Focus** 
+Computer Modelling Human Expression/Cognition/Creativity -- iVizLab is focused on AI based computational models of human characteristics such as expression, emotion, behavior, empathy and creativity; including computer graphics based facial/character systems and AI based cognitive modelling systems.
 
-**Our Vision** This “Expression Based Interactive or Intelligent Visualization Lab” is grounded in the engineering of AI techniques, computer graphics, data visualization and user interfaces but also strives to encompass work from the areas of cognitive science, neuroscience, and the arts.
+**Our Vision** 
+This “Expression Based Interactive or Intelligent Visualization Lab” is grounded in the engineering of AI techniques, computer graphics, data visualization and user interfaces but also strives to encompass work from the areas of cognitive science, neuroscience, and the arts.
 
 <br>
 
@@ -64,8 +66,9 @@ iVizlab is - “An interdisciplinary research lab that strives to make computati
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ref/sfuLogo.jpg"  style="width: 140px">
-  -----------------
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ref/siatLogo.jpg" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ref/sfuLogo.jpg"  style="width: 120px">
+  --
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ref/siatLogo.jpg" style="width: 150px">
+  -- <img src="{{ site.url }}{{ site.baseurl }}/images/ref/ivizLogo.jpg" style="width: 240px">
 
 </figure>
