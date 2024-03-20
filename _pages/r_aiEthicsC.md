@@ -30,7 +30,6 @@ Climate implications of rapidly developing digital technologies, such as blockch
 
 **------  PAPERS: AI Ethics: Gender ------**
 
-[Papers](https://www.researchgate.net/profile/Procheta-Nag-2)
 {% for publi in site.data.publist %}
   {% if publi.research contains 'aiEthics' %}
   <pubtit>{{ publi.title }}</pubtit> by

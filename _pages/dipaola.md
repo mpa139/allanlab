@@ -10,7 +10,7 @@ permalink: /dipaola/
 <h4>::      Steve DiPaola : Sites     ::</h4>
 
 <h2 style="text-align: center;">
-[Artwork Site](https://1aha1.com/art/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research Lab](https://i8myh8.github.io)
+[Artwork Site](https://1aha1.com/art/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research Lab]({{ site.url }})
 </h2>
 
 <center>
@@ -20,7 +20,7 @@ Steve DiPaola, active as an artist and a scientist, is a professor/researcher at
 
 ::
 
-[Publications]({{ site.url }}{{ site.baseurl }}/Publications)  ::    [News]({{ site.url }}{{ site.baseurl }}/News)     ::    CV   ::     [Media]({{ site.url }}{{ site.baseurl }}/Media)  ::    [Art Exhibitions](https://1aha1.com/art/)
+[Publications]({{ site.url }}{{ site.baseurl }}/publications)  ::    [News]({{ site.url }}{{ site.baseurl }}/allnews)     ::    CV   ::     [Media]({{ site.url }}{{ site.baseurl }}/media)  ::    [Art Exhibitions](https://1aha1.com/art/)
 
 See Art Site or Research Site for more information.
 
@@ -35,9 +35,9 @@ Avatar, character and computer facial animation and AI
 Cognitive science approaches to computer modeling
 _ _ _
 
-Contact:  <h4>Steve DiPaola</h4>
+Contact:  Steve DiPaola
 Professor ::  Simon Fraser University :: Vancouver, B.C., Canada
-h4>sdipaola [at] sfu.ca </h4>
+sdipaola [at] sfu.ca
 
 Director, [iVizLab]({{ site.url }}{{ site.baseurl }})   ::   iViz Laboratory Surrey Campus: 2945
 
