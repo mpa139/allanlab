@@ -12,7 +12,22 @@
   photo: ulysses.webp
   tag: Postdoc  <a href="https://research.aston.ac.uk/en/persons/ulysses-bernardet">site</a> 
   info: AI, Computer Graphics 
+
+- name: Nilay Yalcin
+  photo: nilay.jpg  
+  tag: PhD & PostDoc <a href="https://www.sfu.ca/siat/people/research-faculty/o-nilay-yalcin.html">site</a>
+  info: AI
   
+- name: Maryam Ahmadzadeh
+  photo: maryama.jpg
+  tag: PhD,  <a href="https://www.linkedin.com/in/maryam-ahz-9az">site</a>
+  info: AI
+  
+- name: Sara Salevati 
+  photo: sara.jpg 
+  tag: PhD,  <a href="https://www.linkedin.com/in/sarafeld/">site</a>
+  info: AI   
+
 - name: Jeremy Turner
   photo: jeremy.jpg  
   tag: PhD,  <a href="https://www.linkedin.com/in/jeremyowenturner">site</a>
@@ -33,15 +48,10 @@
   tag: Masters,  <a href="https://ethansr.net">site</a>
   info: Interpretability of computational systems and visual analytics
 
-- name: Maryam Ahmadzadeh
-  photo: maryama.jpg
-  tag: PhD,  <a href="https://www.linkedin.com/in/maryam-ahz-9az">site</a>
-  info: AI
-  
-- name: Nilay Yalcin
-  photo: nilay.jpg  
-  tag: PhD,  <a href="https://www.sfu.ca/siat/people/research-faculty/o-nilay-yalcin.html">site</a>
-  info: AI
+- name: Andrey Goncharov 
+  photo: andrey.jpg
+  tag: Masters  <a href="https://www.sfu.ca/siat/programs/undergraduate/current-students/awards-and-scholarships/cody-sawatsky-award/Andrey-Goncharov.html">site</a>
+  info: VR 
 
 - name: Maryam Saberi 
   photo: maryams.jpg 
@@ -52,11 +62,6 @@
   photo: mily.jpg  
   tag: Masters,  <a href="https://www.linkedin.com/in/mily-mumford-42964620">site</a>
   info: AI
-
-- name: Sara Salevati 
-  photo: sara.jpg 
-  tag: PhD,  <a href="https://www.linkedin.com/in/sarafeld/">site</a>
-  info: AI 
 
 - name: Procheta Nag
   photo: procheta.jpg

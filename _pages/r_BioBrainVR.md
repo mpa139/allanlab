@@ -11,7 +11,7 @@ permalink: /bioBrainVR/
 
 
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
- ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Cognitive Creativity)]({{ site.url }}{{ site.baseurl }}/aiCreativity) ## [AI Affective Virtual Human]({{ site.url }}{{ site.baseurl }}/virtualHumans)<br>
+ ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Cognitive Creativity]({{ site.url }}{{ site.baseurl }}/aiCreativity) ## [AI Affective Virtual Human]({{ site.url }}{{ site.baseurl }}/virtualHumans)<br>
  ## [XR Avatars; Edu, Coaches, Health]({{ site.url }}{{ site.baseurl }}/xrAvatars) <br>
 
 Reseachers: Steve DiPaola, Meehae Song
@@ -51,7 +51,7 @@ Emotional facial recognition combined with movement/placemnet recogntion and han
 
 
 {% for publi in site.data.publist %}
-  {% if publi.research contains 'biobrainVR' %}
+  {% if publi.research contains 'bioBrainVR' %}
   <pubtit>{{ publi.title }}</pubtit> by
   {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
   <br> <a href="{{ publi.url }}">{{ publi.display }}

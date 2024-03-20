@@ -39,7 +39,7 @@ Full motion tracked VR interactive for health training nurses (during COVID).
 
 
 {% for publi in site.data.publist %}
-  {% if publi.research contains 'xrAvatar' %}
+  {% if publi.research contains 'xrAvatars' %}
   <pubtit>{{ publi.title }}</pubtit> by
   {{ publi.authors }} --   <pubtit>{{ publi.type }}</pubtit> -- {{ publi.description }}
   <br> <a href="{{ publi.url }}">{{ publi.display }}

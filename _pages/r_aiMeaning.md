@@ -10,7 +10,7 @@ permalink: /aiMeaning/
 
 
 <strong> [See Related Papers](#paperSection) and Related Projects:</strong> <br>
- ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Anonymization]({{ site.url }}{{ site.baseurl }}/aiAnon) ## [AI Cognitive Creativity)]({{ site.url }}{{ site.baseurl }}/aiCreativity)<br>
+ ## [AI-based Exploration of Art and Design]({{ site.url }}{{ site.baseurl }}/aiArts) ## [AI Anonymization]({{ site.url }}{{ site.baseurl }}/aiAnon) ## [AI Cognitive Creativity]({{ site.url }}{{ site.baseurl }}/aiCreativity)<br>
  ## [Sensing Humans (Bio/Brain/Face/Movement/VR)]({{ site.url }}{{ site.baseurl }}/bioBrainVR) ## [AI Modeling Thought & Language]({{ site.url }}{{ site.baseurl }}/aiThought) <br>
 
 Reseachers: Steve DiPaola, Suk Choi, Meehae Song, Nouf Abukhodair, Vanessa Utz

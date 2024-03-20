@@ -69,6 +69,6 @@ iVizlab is - “An interdisciplinary research lab that strives to make computati
   <img src="{{ site.url }}{{ site.baseurl }}/images/ref/sfuLogo.jpg"  style="width: 120px">
   --
   <img src="{{ site.url }}{{ site.baseurl }}/images/ref/siatLogo.jpg" style="width: 150px">
-  -- <img src="{{ site.url }}{{ site.baseurl }}/images/ref/ivizLogo.jpg" style="width: 240px">
+  -- <img src="{{ site.url }}{{ site.baseurl }}/images/ref/ivizLogo.jpg" style="width: 260px">
 
 </figure>

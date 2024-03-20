@@ -13,6 +13,26 @@
   tag: PhD,   <a href="https://www.meehaesong.com/">site</a>
   info: AI / Cognitive Science
 
+- name: Christy Shao 
+  photo: christy.jpg
+  tag: PhD,   <a href="https://www.linkedin.com/in/christy-xueying-shao/?originalSubdomain=ca">site</a>
+  info: Cognitive Science
+
+- name: Johanna Kneifel
+  photo: johanna.jpg
+  tag: PhD,   <a href="https://www.linkedin.com/in/johanna-kneifel-88b61a108/?originalSubdomain=ca">site</a>
+  info: Cognitive Science
+  
+- name: Nouf Abukhodair
+  photo: nouf.jpg
+  tag: PhD,   <a href="https://new-science-inventions.sciencefather.com/nouf-abukhodair-cognitive-science-best-researcher-award-23247/">site</a>
+  info: AI / Cognitive Science
+
+- name: Katrien Jacobs
+  photo: female.jpg
+  tag: Masters
+  info: AI / VR
+  
 - name: Rafael Arias
   photo: rafael.jpg  
   tag: Masters  <a href="https://www.sfu.ca/gradstudies/life-community/people-research/profiles/fcat/2022/rafael-arias-gonzalez.html">site</a>
@@ -28,28 +48,5 @@
   tag: PhD  <a href="https://www.linkedin.com/in/mahdi-davoodikakhki">site</a>
   info: AI
 
-- name: Nouf Abukhodair
-  photo: nouf.jpg
-  tag: PhD,   <a href="https://new-science-inventions.sciencefather.com/nouf-abukhodair-cognitive-science-best-researcher-award-23247/">site</a>
-  info: AI / Cognitive Science
 
-- name: Andrey Goncharov 
-  photo: andrey.jpg
-  tag: Masters  <a href="https://www.sfu.ca/siat/programs/undergraduate/current-students/awards-and-scholarships/cody-sawatsky-award/Andrey-Goncharov.html">site</a>
-  info: VR 
-
-- name: Katrien Jacobs
-  photo: female.jpg
-  tag: Masters
-  info: AI/ VR
-
-- name: Christy Shao 
-  photo: christy.jpg
-  tag: PhD,   <a href="https://www.linkedin.com/in/christy-xueying-shao/?originalSubdomain=ca">site</a>
-  info: Cognitive Science
-
-- name: Johanna Kneifel
-  photo: johanna.jpg
-  tag: PhD,   <a href="https://www.linkedin.com/in/johanna-kneifel-88b61a108/?originalSubdomain=ca">site</a>
-  info: Cognitive Science
 

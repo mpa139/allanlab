@@ -64,3 +64,9 @@
   description: Cognitive science based AI techniques (creativity, aesthetics, sensing, movement) -- heralding in new forms of art and design exploration.
   page: /aiArts
   highlight: 1
+
+- title: "AI and Cognitive Health"
+  image: t_aiHealth.jpg
+  description: Cognitive AI techniques using neuroimaging procedures and machine learning approaches for the prediction of conversion from mild cognitive impairment to Alzheimers disease dementia.
+  page: /aiHealth
+  highlight: 1
