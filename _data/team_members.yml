@@ -1,113 +1,38 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: <a href="https://hpzhang94.github.io/">Haopeng Zhang</a>, Ph.D.
+  photo: Haopeng.png
+  info: Assistant Professor
+  email: haopengz@hawaii.edu
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
-
-- name: Meng Li
-  photo: MengLi.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
-
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Sanghun Lee 이상헌
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
-  number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+  education1: Ph.D., Computer Science, University of California, Davis
+  education2: Director, <a href="https://nlp-hawaii.github.io/">ALOHA Lab</a>
+  
+# - name: Gene Louis Kim, Ph.D.
+#   photo: Gene.jpg
+#   info: Assistant Professor
+#   email: genekim@usf.edu
+#   number_educ: 1
+#   education1: Ph.D., Computer Science, University of Rochester
+  
+# - name: John Licato, Ph.D.
+#   photo: licato.jpeg
+#   info: Assistant Professor
+#   email: licato@usf.edu
+#   number_educ: 2
+#   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
+#   education2: Director, <a href="https://sites.google.com/view/amhr">Advancing Machine and Human Reasoning Lab</a>
+  
+# - name: Seungbae Kim, Ph.D.
+#   photo: seungbae.jpg
+#   info: Assistant Professor
+#   email: seungbae@usf.edu
+#   number_educ: 1
+#   education1: Ph.D., Computer Science, University of California, Los Angeles
+  
+  
+# - name: Ankur Mali, Ph.D.
+#   photo: Ankur_Mali_7.jpg
+#   info: Assistant Professor
+#   email: ankurarjunmali@usf.edu
+#   number_educ: 2
+#   education1: Ph.D., Informatics, Pennsylvania State University, University Park
+#   education2: Director, <a href="https://tkai-lab.github.io/">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>

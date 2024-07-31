@@ -10,8 +10,30 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
 }
+
+main {
+	padding: 7rem 3rem 3rem 3rem;
+	flex: 1;
+}
+
+#footer {
+	padding: 2rem 5rem 2rem 5rem;
+}
+
+.footer__left {
+    text-align: right;
+}
+
+@media (max-width: 768px) {
+    .footer__left {
+        text-align: left;
+    }
+}
+
 
 figcaption {
     text-align: right;
@@ -61,8 +83,16 @@ firstp {
 }
 
 /* Team & Publications */
+img.avatar {
+	object-fit: cover;
+	height: 125px;
+	width: 125px;
+	border-radius: 50% !important;
+}
+
+#gridid { margin-top: 24px; }
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
-#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#homeid img { margin: 0 0 0 0; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
@@ -81,7 +111,7 @@ firstp {
 }
 
 
-/* Carusel */
+/* Carousel */
 
 .carousel {
     border-radius: 3px 3px 3px 3px;
@@ -91,3 +121,38 @@ firstp {
     margin-right: 30px;
 }
 
+.carousel-inner {
+	height: 550px;
+	position: relative;
+}
+
+.carousel-inner>.item {
+	height: 100%;
+	width: 100%;
+}
+
+.item>img {
+	position: absolute;
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.carousel-control.left, .carousel-control.right {
+	background-image: none !important;
+}
+
+/* Flag counter */
+
+#flagcounter>img {
+	border-radius: 0;
+}
+
+#flex__container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	font-size: 18px;
+}

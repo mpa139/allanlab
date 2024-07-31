@@ -1,11 +1,28 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: July Zhang
+  photo: july.jpg
+  info: honored member
+  number_educ: 1
+  education1: University of Cat, Cute Campus (UCCC)
 
 
+- name: Haohan Yuan
+  # photo: july.jpg
+  info: Ph.D. student (Fall 2024)
+  number_educ: 2
+  education1: M.E. Nanyang Technological University
+  education2: B.S. Hefei University of Technology
+
+- name: Ziyi Zhuang
+  # photo: july.jpg
+  info: Ph.D. student (Fall 2024)
+  number_educ: 2
+  education1: M.S. University of Science and Technology of China
+  education2: B.S. University of Science and Technology of China
+
+# - name: Meghna Chaudhary
+#   photo: meghna.jpg
+#   info: PhD Student (Advised by Dr. Neal)
+#   email: meghna1@usf.edu
+#   number_educ: 2
+#   education1: M.E., Panjab University
+#   education2: B.E., Panjab University

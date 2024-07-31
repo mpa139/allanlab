@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: Natural Language Processing Group @ USF
+email: tjneal@usf.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
-baseurl: ""
+  Website of the NLP Group @ USF.
+baseurl: "https://nlp-hawaii.github.io/"
 url: ""
 
 include:
@@ -40,3 +40,5 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+theme: jekyll-theme-minimal

@@ -1,19 +1,15 @@
 ---
-title: "Allan Lab - Team"
+title: "ALOHA LAB - People"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "ALOHA LAB -- People"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+🔥 **We are looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+# Faculty
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -24,39 +20,39 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive avatar" width="25%" style="float: left" />
+  <h3>{{ member.name }}</h3>
+  <i class="lead text-muted">{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education3 }} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education3 }} </li>
+  <li style="font-size: 18px"> {{ member.education4 }} </li>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education3 }} </li>
+  <li style="font-size: 18px"> {{ member.education4 }} </li>
+  <li style="font-size: 18px"> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
@@ -76,9 +72,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
+# Members
 
-
-## Master and Bachelor Students
+<!-- ## Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -89,30 +85,41 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  {% if member.photo %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive avatar" width="25%" style="float: left" />
+  {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i class="lead text-muted">{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education3 }} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education3 }} </li>
+  <li style="font-size: 18px"> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li style="font-size: 18px"> {{ member.education1 }} </li>
+  <li style="font-size: 18px"> {{ member.education2 }} </li>
+  <li style="font-size: 18px"> {{ member.education3 }} </li>
+  <li style="font-size: 18px"> {{ member.education4 }} </li>
+  <li style="font-size: 18px"> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
@@ -131,6 +138,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+<!--
 
 ## Alumni
 
@@ -192,5 +200,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## Administrative and System Support
+<a href="https://www.usf.edu/engineering/cse/people/staff.aspx">USF's Department of Computer Science and Engineering Staff</a>
+-->

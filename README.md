@@ -1,11 +1,5 @@
-# Allan Lab Website
+# ALOHA Lab at University of Hawai'i
 
-This is the website of our academic research group at Leiden University.
-
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
+This is the website of the ALOHA Lab, a part of the Information and Computer Sciences Department at University of Hawai'i at Mānoa. Its template was forked from the [Allan Lab](https://github.com/mpa139/allanlab). For more information, see [aboutwebsite](https://github.com/mpa139/allanlab/blob/7b1d6b52bf79a1b34545bf72545d629ed304e03a/_pages/aboutwebsite.md?plain=1#L6).
 
 Copyright Allan Lab. Code released under the MIT License.
-

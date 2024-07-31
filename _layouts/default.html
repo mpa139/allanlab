@@ -4,17 +4,18 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
-    <div class="container-fluid">
+    <header>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      {% include header.html %}
+    </header>
+    <main>
       <div class="row">
         {{ content }}
       </div>
-    </div>
-
-    {% include footer.html %}
-
+    </main>
+    <footer id="footer" class="panel-footer">
+      {% include footer.html %}
+    </footer>
   </body>
 
 </html>
