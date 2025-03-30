@@ -49,20 +49,6 @@
   interest2: System Security
   interest3: Machine Learning
 
-- name: Sounak (Shaun) Ghosh
-  photo: shaun.png
-  info: PhD Student
-  email: sounakghosh_AT_umass.edu
-  link: https://people.umass.edu/sounakghosh/
-  number_educ: 1
-  education1: BS Computer Engineering, <a href="http://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. 2022
-  number_rec: 4
-  interest1: Quantum Computing & Communications
-  interest2: Computer & Mobile Networks 
-  interest3: Machine Learning & Signal Processing
-  interest4: Theory of Computation
-  interest5: VLSI/Hardware Design
-
 - name: Muhammad Abdullah Soomro
   photo: abdullah.jpg
   info: PhD Student
