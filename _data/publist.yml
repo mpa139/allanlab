@@ -1,3 +1,13 @@
+- title: "PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems"
+  year: 2025
+  description: "PLCpot is a scalable, protocol-agnostic PLC honeypot framework that emulates realistic industrial control system communication through dynamic traffic analysis and replay, enabling enhanced threat intelligence collection against sophisticated cyberattacks."
+  authors: "Syed Ali Qasim, <b>Muhammad Taqi Raza</b>, and Irfan Ahmed"
+  link:
+    url: https://iccps.acm.org/2025/accepted-papers/index.html
+    display: 16th ACM Conference on Cyber-Physical Systems (ICCPS)
+    pdf: 2025-iccps
+  highlight: 0
+
 - title: "In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping"
   year: 2024
   image: payment_arch.png
