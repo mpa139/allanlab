@@ -43,10 +43,8 @@ We are a dynamic research group at the <a href="http://www.umass.edu" target="_b
 </div>
 
 
-We draw inspiration from the pioneering works of Abu Abdullah Muhammad ibn Musa al-Khwarizmi, an Islamic mathematician, astronomer, astrologer geographer, and a scholar. Khwarizmi developed the concept of the algorithm in mathematics which serve as the foundational principles for modern computing; for this reason he is known as the grandfather of engineering and computer science. The word “algebra” is derived from the Arabic word الجبر al-jabr, and this comes from the book titled “Kitab al-Jabr wa-l-Muqabala” (The Compendious Book on Calculation by Completion and Balancing) written by Khwarizmi in 830. This was the first ever book written on algebra describing the concepts such as: linear and quadratic equations, calculating the area and volume of certain geometric shapes, the concept of balancing when solving equations, and others. Learn more about Al-Khwarizmi <a href="https://en.wikipedia.org/wiki/Al-Khwarizmi" target="_blank">here <i class="fa fa-external-link"></i></a>.
+Inspired by the pioneering work of Al-Khwarizmi, whose groundbreaking contributions laid the foundation for modern computing, including Algebra, the Khwarizmi Lab at UMass Amherst is dedicated to advancing fundamental research that addresses the complex challenges at the intersection of systems and algorithms. Our goal is to drive innovation across a range of critical fields, focusing on the development of secure, efficient, and scalable solutions. In particular, we focus on creating secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures, such as 5G mobile networks and industrial control systems (see [Research](research)).
 
-
-Inspiring from the work of Al-Khwarizmi, the Khwarizmi lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems (see [Research](research)).
 
 **We are  looking for passionate Master's and Bachelor's students at UMass to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
