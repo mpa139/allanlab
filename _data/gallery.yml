@@ -28,10 +28,10 @@
   alt: Shayan presenting his project on the impact of various weather metrics—such as humidity, temperature, and rain—on 5G channel performance.
   image: 1724803088833.jfif
 
-- title: Presentation @ USENIX'24
+- title: Presentation @ USENIX Security'24
   date: August 13, 2024
   loc: Philadelphia, Pennsylvania
-  alt: Hasnain presenting our paper 'In Wallet We Trust' at the USENIX Security Symposium 2024.
+  alt: Hasnain presenting our paper 'In Wallet We Trust'.
   image: IMG_9375.jpg
 
 - title: Lightning Talk @ SOUPS'24
@@ -61,7 +61,7 @@
 - title: Talk @ MSWiM'23
   date: October 31, 2023
   loc: Montreal, Canada
-  alt: Hasnain presenting our paper on attention gauge in semi-autonomous vehicles at MSWiM'23.
+  alt: Hasnain presenting our paper on attention gauge in semi-autonomous vehicles.
   image: PXL_20231101_210858504.MP.jpg
 
 - title: Luncheon
