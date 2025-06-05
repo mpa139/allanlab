@@ -18,6 +18,7 @@ permalink: /media.html
 - <a href="https://www.yahoo.com/tech/digital-wallets-allow-stolen-credit-154400551.html" title="Digital wallets allow for the use of stolen credit cards" target='_blank'>Yahoo! Tech</a>
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7233569312542728192/" title="💳 Digital wallets can enable cybercriminals to make purchases with stolen credit cards" target='_blank'>Kaspersky</a>
 - <a href="https://www.techradar.com/pro/digital-wallets-allow-for-the-use-of-stolen-credit-cards" title="Digital wallets allow for the use of stolen credit cards" target='_blank'>TechRadar</a>
+- <a href="https://spectrumnews1.com/ma/worcester/news/2024/12/02/digital-security-expert-gives-advice-on-using-digital-wallets" title="Digital security expert shares advice on keeping your personal information safe when using digital wallets" target='_blank'>Spectrum News 1 - Massachusetts</a>
 - <a href="https://www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/" title="Digital wallets can allow purchases with stolen credit cards" target='_blank'>The Register</a>
 - <a href="https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html" title="Digital wallets can allow purchases with stolen credit cards" target='_blank'>Tech Xplore</a>
 - <a href="https://www.paymentsdive.com/news/academics-question-digital-wallet-security/726008/" title="Academics question digital wallet security" target='_blank'>Payments Dive</a>
