@@ -1,3 +1,13 @@
+- title: "Cloud Nine Connectivity: Security Analysis of In-Flight Wi-Fi Paywall Systems"
+  year: 2025
+  image: airline_overview.png
+  description: "In-flight Wi-Fi provides high-speed Internet connectivity to travelers at 30,000 feet at premium fees. This paper presents the first systematic study of the architecture and security policies of in-flight Wi-Fi paywall systems using network tomography analysis. The authors discover that attackers can exploit architectural shortcomings to create covert channels and conceal data packets within certain 'always-allowed' traffic for free Internet access. Broken device authentication policies allow unlimited complimentary connectivity, and insecure ARP policies enable attackers to steal paid users' bandwidth. These issues are validated in practice over two major in-flight Wi-Fi providers using common protocols (e.g., UDP, DNS). The root causes stem from architectural design choices, and the paper proposes countermeasures to address these flaws."
+  authors: "Abdullah Al Ishtiaq, <b>Raja Hasnain Anwar</b>, Yasra Chandio, Fatima Muhammad Anwar, Syed Rafiul Hussain, and <b>Muhammad Taqi Raza</b>"
+  link:
+    url: https://wisec2025.gmu.edu/program-accepted-papers/
+    display: ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
+  highlight: 1
+
 - title: "PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems"
   year: 2025
   description: "PLCpot is a scalable, protocol-agnostic PLC honeypot framework that emulates realistic industrial control system communication through dynamic traffic analysis and replay, enabling enhanced threat intelligence collection against sophisticated cyberattacks."
