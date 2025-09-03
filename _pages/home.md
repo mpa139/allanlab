@@ -16,7 +16,7 @@ We work on outcomes including deforestation, land cover and land use change, eco
 
 We are located at Yale University in the School of the Environment (formerly School of Forestry), though our lab members span many departments and schools.  
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new Postdocs and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from Yale University, [The Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/) and the [Planetary Solutions Project](https://planetarysolutions.yale.edu/) .
