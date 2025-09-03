@@ -1,3 +1,11 @@
+- name: Sarah Castle
+  photo: sarah.jpg
+  info: Postdoctoral Associate at Yale School of the Environment
+  email: sarah.castle@yale.edu
+  website: <a href="https://sarahecastle.weebly.com/">Personal Website</a>
+  number_educ: 2
+  education1: M.Sc. Natural Resources and Environmental Science, University of Illinois Urbana-Champaign, 2019
+  education2: PhD Natural Resources and Environmental Science, University of Illinois Urbana-Champaign, 2024
 
 - name: Owen Cortner
   photo: Owen.jpg
