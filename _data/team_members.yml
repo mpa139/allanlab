@@ -46,6 +46,13 @@
   number_educ: 1
   education1: B.Sc. Data Science & Statistics and Policy, Minerva University, 2020
 
+- name: Lara Briggs 
+  photo: lara_briggs.jpg
+  info: PhD Student in Political Science
+  email: lara.briggs@yale.edu 
+  number_educ: 1
+  education1: B.A. Political Science and Environmental Analysis, Washington University in St. Louis
+
 - name: Gracia Hadiwidjaja (Grace) 
   photo: Grace.jpeg
   info: PhD Student at Yale School of the Environment
