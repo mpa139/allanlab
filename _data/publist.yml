@@ -1,91 +1,51 @@
----
-- title: A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte
-    Scale
-  authors: Ni,  Yiyu, Denolle,  Marine, Thomas,  Amanda, Hamilton,  Alex, Münchmeyer,  Jannes,
-    Wang,  Yinzhi, Bachelot,  Loïc, Trabant,  Chad, Mencin,  David
+- title: A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte Scale
+  authors: Ni,  Y., Denolle,  M., Thomas,  M., Hamilton,  A., Münchmeyer,  J., Wang,  Y., Bachelot,  L., Trabant,  C., Mencin,  D.
   year: '2025'
-  key: Denolle2025c
-  month: sep
+  key: ni2025global
   journal: Seismica, 4(2)
   doi: 10.26443/seismica.v4i2.1738
-  url: https://seismica.library.mcgill.ca/article/view/1738
+  url: https://doi.org/10.26443/seismica.v4i2.1738
   bibtex: |
-    @article{Denolle2025c,
-      author = {Ni, Yiyu and Denolle, Marine and Thomas, Amanda and Hamilton, Alex and Münchmeyer, Jannes and Wang, Yinzhi and Bachelot, Loïc and Trabant, Chad and Mencin, David},
+    @article{ni2025global,
       title = {A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte Scale},
       volume = {4},
       url = {https://seismica.library.mcgill.ca/article/view/1738},
-      doi = {10.26443/seismica.v4i2.1738},
-      abstractnote = {<p> We present the first global-scale database of 4.3 billion P- and S-wave picks extracted from 1.3 PB continuous seismic data via a cloud-native workflow. Using cloud computing services on Amazon Web Services, we launched ~145,000 containerized jobs on continuous records from 47,354 stations spanning 2002-2025, completing in under three days. Phase arrivals were identified with a deep learning model, PhaseNet, through an open-source Python ecosystem for deep learning, SeisBench. To visualize and gain a global understanding of these picks, we present preliminary results about pick time series revealing Omori-law aftershock decay, seasonal variations linked to noise levels, and dense regional coverage that will enhance earthquake catalogs and machine-learning datasets. We provide all picks in a publicly queryable database, providing a powerful resource for researchers studying seismicity around the world. This report provides insights into the database and the underlying workflow, demonstrating the feasibility of petabyte-scale seismic data mining on the cloud and of providing intelligent data products to the community in an automated manner.</p>},
-      number = {2},
-      journal = {Seismica},
-      year = {2025},
-      month = sep,
-      month_numeric = {9}
-    }
-  tags: []
-- title: A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte
-    Scale
-  authors: Ni,  Yiyu, Denolle,  Marine, Thomas,  Amanda, Hamilton,  Alex, Münchmeyer,  Jannes,
-    Wang,  Yinzhi, Bachelot,  Loïc, Trabant,  Chad, Mencin,  David
-  year: '2025'
-  key: Denolle2025a
-  month: sep
-  journal: Seismica, 4(2)
-  doi: 10.26443/seismica.v4i2.1738
-  url: https://seismica.library.mcgill.ca/article/view/1738
-  bibtex: |
-    @article{Denolle2025a,
-      title = {A Global-scale Database of Seismic Phases from Cloud-based Picking at Petabyte Scale},
-      volume = {4},
-      url = {https://seismica.library.mcgill.ca/article/view/1738},
-      doi = {10.26443/seismica.v4i2.1738},
       number = {2},
       journal = {Seismica},
       author = {Ni, Yiyu and Denolle, Marine and Thomas, Amanda and Hamilton, Alex and Münchmeyer, Jannes and Wang, Yinzhi and Bachelot, Loïc and Trabant, Chad and Mencin, David},
       year = {2025},
-      month = sep,
-      month_numeric = {9}
+      month = {09},
+      doi = {https://doi.org/10.26443/seismica.v4i2.1738}
     }
   tags: []
 - title: A Review of Cloud Computing and Storage in Seismology
-  authors: Ni,  Yiyu, Denolle,  Marine A, Münchmeyer,  Jannes, Wang,  Yinzhi, Feng,  Kuan-Fu,
-    Suarez,  Carlos Garcia Jurado, Thomas,  Amanda M, Trabant,  Chad, Hamilton,  Alex,
-    Mencin,  David
+  authors: Ni,  Y., Denolle,  M., Münchmeyer,  J., Wang,  Y., Feng,  K. F., Suarez,  C. G. J., Thomas, A., Trabant,  C., Hamilton,  A., Mencin,  D.
   year: '2025'
-  key: 10.1093/gji/ggaf322
-  month: aug
+  key: ni2025cloud
   journal: Geophysical Journal International, pp ggaf322
   doi: 10.1093/gji/ggaf322
   url: https://doi.org/10.1093/gji/ggaf322
   bibtex: |
-    @article{10.1093/gji/ggaf322,
+    @article{ni2025review,
       author = {Ni, Yiyu and Denolle, Marine A and Münchmeyer, Jannes and Wang, Yinzhi and Feng, Kuan-Fu and Suarez, Carlos Garcia Jurado and Thomas, Amanda M and Trabant, Chad and Hamilton, Alex and Mencin, David},
       title = {A Review of Cloud Computing and Storage in Seismology},
       journal = {Geophysical Journal International},
       pages = {ggaf322},
       year = {2025},
-      month = aug,
-      abstract = {Seismology has entered the petabyte era, driven by decades of continuous recordings of broadband networks, the increase in nodal seismic experiments, and the recent emergence of Distributed Acoustic Sensing (DAS). This review explains how cloud platforms, by providing object storage, elastic compute, and managed databases, enable researchers to “bring the code to the data,” thereby providing a scalable option to overcome traditional HPC solutions’ bandwidth and capacity limitations. After literature reviews of cloud concepts and their research applications in seismology, we illustrate the capacities of cloud-native workflows using two canonical end-to-end demonstrations: 1) ambient noise seismology that calculates cross-correlation functions at scale, and 2) earthquake detection and phase picking. Both workflows utilize Amazon Web Services, a commercial cloud platform for streaming I/O and provenance, demonstrating that cloud throughput can rival on-premises HPC at comparable costs, scanning 100 TBs to 1.3 PBs of seismic data in a few hours or days of processing. The review also discusses research and education initiatives, the reproducibility benefits of containers, and cost pitfalls (e.g., egress, I/O fees) of energy-intensive seismological research computing. While designing cloud pipelines remains non-trivial, partnerships with research software engineers enable converting domain code into scalable, automated, and environmentally conscious solutions for next-generation seismology. We also outline where cloud resources fall short of specialised HPC-most notably for tightly coupled petascale simulations and long-term, PB-scale archives-so that practitioners can make informed, cost-effective choices.},
+      month = {08},
       issn = {1365-246X},
-      doi = {10.1093/gji/ggaf322},
-      url = {https://doi.org/10.1093/gji/ggaf322},
-      eprint = {https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggaf322/64078811/ggaf322.pdf},
-      month_numeric = {8}
+      doi = {https://doi.org/10.1093/gji/ggaf322},
     }
   tags: []
-- title: 'Training the Next Generation of Seismologists: Delivering Research‐Grade
-    Software Education for Cloud and HPC Computing Through Diverse Training Modalities'
-  authors: Denolle,  Marine, Tape,  Carl, Bozdag,  Ebru, Wang,  Yinzhi, Waldhauser,  Felix,
-    Gabriel,  Alice‐Agnes, Braunmiller,  Jochen, Chow,  Bryant, Ding,  Liang, Feng,  Kuan‐Fu,
-    Ghosh,  Ayon, Groebner,  Nathan, Gupta,  Aakash, Krauss,  Zoe, McPherson,  Amanda
-    M., Nagaso,  Masaru, Niu,  Zihua, Ni,  Yiyu, Örsvuran,  Rıdvan, Pavlis,  Gary,
-    Rodriguez‐Cardozo,  Felix, Sawi,  Theresa, Schaff,  David, Schliwa,  Nico, Schneller,  David,
-    Shi,  Qibin, Thurin,  Julien, Wang,  Chenxiao, Wang,  Kaiwen, Wong,  Jeremy Wing
-    Ching, Wolf,  Sebastian, Yuan,  Congcong
+- title: 'Training the Next Generation of Seismologists: Delivering Research‐Grade Software Education for Cloud and HPC Computing Through Diverse Training Modalities'
+  authors: Denolle,  M., Tape,  C., Bozdag,  E., Wang,  Y., Waldhauser,  F.,
+    Gabriel,  A. A., Braunmiller,  J., Chow,  B., Ding,  L., Feng,  K. F.,
+    Ghosh,  A., Groebner,  N., Gupta,  A., Krauss,  Z., McPherson,  A.
+    M., Nagaso,  M., Niu,  Z., Ni,  Y., Örsvuran,  R., Pavlis,  G.,
+    Rodriguez‐Cardozo,  F., Sawi,  T., Schaff,  D., Schliwa,  N., Schneller,  D.,
+    Shi,  Q., Thurin,  J., Wang,  C., Wang,  K., Wong,  J. W. C., Wolf,  S., Yuan,  C.
   year: '2025'
   key: 10.1785/0220240413
-  month: jun
   journal: Seismological Research Letters, 96(5), pp 3265-3279
   doi: 10.1785/0220240413
   url: https://doi.org/10.1785/0220240413
@@ -98,45 +58,41 @@
       number = {5},
       pages = {3265-3279},
       year = {2025},
-      month = jun,
-      abstract = {With the rise of data volume and computing power, seismological research requires more advanced skills in data processing, numerical methods, and parallel computing. We present the experience of conducting training workshops in various forms of delivery to support the adoption of large‐scale high‐performance computing (HPC) and cloud computing, advancing seismological research. The seismological foci were on earthquake source parameter estimation in catalogs, forward and adjoint wavefield simulations in 2D and 3D at local, regional, and global scales, earthquake dynamics, ambient noise seismology, and machine learning. This contribution describes the series of workshops delivered as part of research projects, the learning outcomes for participants, and lessons learned by the instructors. Our curriculum was grounded on open and reproducible science, large‐scale scientific computing and data mining, and computing infrastructure (access and usage) for HPC and the cloud. We also describe the types of teaching materials that have proven beneficial to the instruction and the sustainability of the program. We propose guidelines to deliver future workshops on these topics.},
+      month = {06},
       issn = {0895-0695},
-      doi = {10.1785/0220240413},
-      url = {https://doi.org/10.1785/0220240413},
-      eprint = {https://pubs.geoscienceworld.org/ssa/srl/article-pdf/96/5/3265/7217500/srl-2024413.1.pdf},
-      month_numeric = {6}
+      doi = {https://doi.org/10.1785/0220240413},
     }
   tags: []
 - title: Ambient Field Seismology in Critical Zone Hydrological Sciences
-  authors: Denolle,  M, Shi,  Q., T.,  Clements, Viens,  L., Rodriguez-Tribaldos,  V.,
-    Feng,  KK, Cotton,  F
+  authors: Denolle,  M, Shi,  Q., Clements, T., Viens, L., Rodriguez-Tribaldos,  V., Feng,  K. F., Cotton, F.
   year: '2025'
   key: denolle2025
   journal: in review in Comptes Rendus de Geosciences
   bibtex: |
     @article{denolle2025,
       title = {Ambient Field Seismology in Critical Zone Hydrological Sciences},
-      author = {Denolle, M and Shi, Q. and T., Clements and Viens, L. and Rodriguez-Tribaldos, V. and Feng, KK and Cotton, F},
+      author = {Denolle, M and Shi, Q. and T., Clements and Viens, L. and Rodriguez-Tribaldos, V. and Feng, K. F. and Cotton, F},
       journal = {in review in Comptes Rendus de Geosciences},
       year = {2025}
     }
   tags: []
-- title: Denoising Offshore Distributed Acoustic Sensing Using Masked Auto-Encoders
-    to Enhance Earthquake Detection
+- title: Denoising Offshore Distributed Acoustic Sensing Using Masked Auto-Encoders to Enhance Earthquake Detection
   authors: Shi,  Q., Denolle,  M. A., Ni,  Y., Williams,  E. F., You,  N.
   year: '2025'
   key: ShiEtAl2025a
-  journal: 'JGR: Solid Earth, 130, pp e2024JB029728'
+  journal: 'Journal of Geophysical Research: Solid Earth, 130, pp e2024JB029728'
   doi: 10.1029/2024JB029728
+  url: https://doi.org/10.1029/2024JB029728
   bibtex: |
     @article{ShiEtAl2025a,
       author = {Shi, Q. and Denolle, M. A. and Ni, Y. and Williams, E. F. and You, N.},
       title = {Denoising Offshore Distributed Acoustic Sensing Using Masked Auto-Encoders to Enhance Earthquake Detection},
-      journal = {JGR: Solid Earth},
+      journal = {Journal of Geophysical Research: Solid Earth},
       volume = {130},
+      issue = {2},
       pages = {e2024JB029728},
       year = {2025},
-      doi = {10.1029/2024JB029728}
+      doi = {https://doi.org/10.1029/2024JB029728}
     }
   tags: []
 - title: Multiplexed Distributed Acoustic Sensing Offshore Central Oregon
@@ -146,6 +102,7 @@
   key: ShiEtAl2025b
   journal: Seismological Research Letters, 96(2A), pp 784--800
   doi: 10.1785/0220240460
+  url: https://doi.org/10.1785/0220240460
   bibtex: |
     @article{ShiEtAl2025b,
       author = {Shi, Q. and Williams, E. F. and Lipovsky, B. P. and Denolle, M. A. and Wilcock, W. S. D. and Kelley, D. S. and Schoedl, K.},
@@ -155,26 +112,25 @@
       number = {2A},
       pages = {784--800},
       year = {2025},
-      doi = {10.1785/0220240460}
+      doi = {https://doi.org/10.1785/0220240460}
     }
   tags: []
 - title: A decadal survey of the near-surface seismic velocity response to hydrological
     variations in Utah, United States
-  authors: Feng,  KK., Denolle,  M, Lin,  FC, Van Dam,  T
+  authors: Feng,  K. F., Denolle,  M, Lin,  FC, Van Dam,  T
   year: '2025'
   key: Feng25
   journal: in review in Journal of Geophysical Research
   bibtex: |
     @article{Feng25,
-      author = {Feng, KK. and Denolle, M and Lin, FC and Van Dam, T},
+      author = {Feng, K. F. and Denolle, M and Lin, FC and Van Dam, T},
       title = {A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States},
       journal = {in review in Journal of Geophysical Research},
       year = {2025}
     }
   tags: []
 - title: Ambient Field Seismology in Critical Zone Hydrological Sciences
-  authors: Denolle,  Marine, Shi,  Qibin, Clements,  Tim, Viens,  Loic, Rodriguez-Tribaldos,  Veronica,
-    Cotton,  Fabrice
+  authors: Denolle,  M., Shi,  Q., Clements,  T., Viens,  L., Rodriguez-Tribaldos,  V., Cotton,  F.
   year: '2025'
   key: Denolle2025b
   journal: Comptes Rendu  Geosciences - Sciences de la Terre, X, pp X
@@ -192,7 +148,7 @@
   tags: []
 - title: Analysing Volcanic, Tectonic, and Environmental Influences on the Seismic
     Velocity from 25 Years of Data at Mount St. Helens
-  authors: Makus,  P., Denolle,  M. A., Sens-Schonfelder,  C., Kopfli,  M., Tilmann,  F.
+  authors: Makus,  P., Denolle,  M. A., Sens-Schonfelder,  C., Köpfli,  M., Tilmann,  F.
   year: '2024'
   key: MakusEtAl2024
   journal: Seismological Research Letters, 95(5), pp 2674--2688
@@ -210,7 +166,7 @@
     }
   tags: []
 - title: Examining 22 Years of Ambient Seismic Wavefield at Mount St. Helens
-  authors: Kopli,  M., Denolle,  M. A., Thelen,  W., Makus,  P., Malone,  S.
+  authors: Köpfli,  M., Denolle,  M. A., Thelen,  W., Makus,  P., Malone,  S.
   year: '2024'
   key: KoepliEtAl2024
   journal: Seismological Research Letters, 95(5), pp 2622--2636
@@ -232,19 +188,19 @@
   authors: Ni,  Y., Denolle,  M. A., Shi,  Q., Lipovsky,  B. P., Pan,  S., Kutz,  J.
     N.
   year: '2024'
-  key: NiEtAl2024a
+  key: ni2024wavefield
   journal: 'Journal of Geophysical Research: Machine Learning and Computation, 1,
     pp e2024JH000247'
   doi: 10.1029/2024JH000247
   bibtex: |
-    @article{NiEtAl2024a,
+    @article{ni2024wavefield,
       author = {Ni, Y. and Denolle, M. A. and Shi, Q. and Lipovsky, B. P. and Pan, S. and Kutz, J. N.},
       title = {Wavefield reconstruction of distributed acoustic sensing: Lossy compression, wavefield separation, and edge computing},
       journal = {Journal of Geophysical Research: Machine Learning and Computation},
       volume = {1},
       pages = {e2024JH000247},
       year = {2024},
-      doi = {10.1029/2024JH000247}
+      doi = {https://doi.org/10.1029/2024JH000247}
     }
   tags: []
 - title: Impact of Temperature and Relative Humidity Variations on Coda Waves in Concrete
@@ -299,16 +255,16 @@
     }
   tags: []
 - title: An Object Storage for Distributed Acoustic Sensing
-  authors: Ni,  Yiyu, Denolle,  Marine A., Fatland,  Rob, Alterman,  Naomi, Lipovsky,  Bradley
-    P., Knuth,  Friedrich
+  authors: Ni,  Y., Denolle,  M., Fatland,  R., Alterman,  N., Lipovsky,  B.
+    P., Knuth,  F.
   year: '2023'
-  key: 10.1785/0220230172
+  key: ni2023object
   month: oct
   journal: Seismological Research Letters, 95(1), pp 499-511
   doi: 10.1785/0220230172
   url: https://doi.org/10.1785/0220230172
   bibtex: |
-    @article{10.1785/0220230172,
+    @article{ni2023object,
       author = {Ni, Yiyu and Denolle, Marine A. and Fatland, Rob and Alterman, Naomi and Lipovsky, Bradley P. and Knuth, Friedrich},
       title = {An Object Storage for Distributed Acoustic Sensing},
       journal = {Seismological Research Letters},
@@ -316,13 +272,10 @@
       number = {1},
       pages = {499-511},
       year = {2023},
-      month = oct,
-      abstract = {Large‐scale processing and dissemination of distributed acoustic sensing (DAS) data are among the greatest computational challenges and opportunities of seismological research today. Current data formats and computing infrastructure are not well‐adapted or user‐friendly for large‐scale processing. We propose an innovative, cloud‐native solution for DAS seismology using the MinIO open‐source object storage framework. We develop data schema for cloud‐optimized data formats—Zarr and TileDB, which we deploy on a local object storage service compatible with the Amazon Web Services (AWS) storage system. We benchmark reading and writing performance for various data schema using canonical use cases in seismology. We test our framework on a local server and AWS. We find much‐improved performance in compute time and memory throughout when using TileDB and Zarr compared to the conventional HDF5 data format. We demonstrate the platform with a computing heavy use case in seismology: ambient noise seismology of DAS data. We process one month of data, pairing all 2089 channels within 24 hr using AWS Batch autoscaling.},
+      month = {10},
       issn = {0895-0695},
       doi = {10.1785/0220230172},
       url = {https://doi.org/10.1785/0220230172},
-      eprint = {https://pubs.geoscienceworld.org/ssa/srl/article-pdf/95/1/499/6201439/srl-2023172.1.pdf},
-      month_numeric = {10}
     }
   tags: []
 - title: Ocean Coupling Limits Rupture Velocity of Fastest Observed Ice Shelf Rift
@@ -395,14 +348,14 @@
     }
   tags: []
 - title: 'Better Together: Ensemble Learning for Earthquake Detection and Phase Picking'
-  authors: Yuang,  C., Ni,  Y., Denolle,  M.
+  authors: Yuang,  C., Ni,  Y., Lin, Y., Denolle,  M.
   year: '2023'
   key: YuangEtAl2023
   journal: IEEE Transactions on Geoscience and Remote Sensing
   doi: 10.1109/TGRS.2023.3320148
   bibtex: |
     @article{YuangEtAl2023,
-      author = {Yuang, C. and Ni, Y. and Denolle, M.},
+      author = {Yuang, C. and Ni, Y. and Lin, Y. and Denolle, M.},
       title = {Better Together: Ensemble Learning for Earthquake Detection and Phase Picking},
       journal = {IEEE Transactions on Geoscience and Remote Sensing},
       year = {2023},

@@ -13,9 +13,19 @@
   role: Graduate Student
   photo: yiyu-ni.jpg
   research_areas: geoscience-ai, earthquakes
+- id: manuela-koepfli
+  name: Manuela Köpfli
+  role: Graduate Student
+  photo: manuela-koepfli.jpg
+  research_areas:
+- id: akash-kharita
+  name: Akash Kharita
+  role: Graduate Student
+  photo: akash-kharita.jpg
+  research_areas:
 - id: lydia-kelley
   name: Lydia Kelley
   role: Undergraduate Student
-  photo: lydia.jpg
+  photo: lydia-kelly.jpg
   research_areas: earthquakes
 
