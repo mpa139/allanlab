@@ -1,12 +1,19 @@
-# - name: Katy Sun
-#   photo: rock.jpg
-#   info: Undergraduate Researcher at Yale University
-#   email: katy.sun@yale.edu
-#   number_educ: 1
-#   education1: Yale University
-# #  education2:
-# #  education3:
-# #  education4:
+- name: Katy Sun
+  photo: rock.jpg
+  info: Undergraduate Researcher at Yale University
+  email: katy.sun@yale.edu
+  number_educ: 1
+  education1: Yale University
+#  education2:
+#  education3:
+#  education4:
+
+- name: Lauren Salzman
+  photo: rock.jpg
+  info: Undergraduate Researcher at Yale University
+  email: lauren.salzman@yale.edu
+  number_educ: 1
+  education1:
 
 # - name: Eliot Carlson
 #   photo: IMG_4944.PNG
