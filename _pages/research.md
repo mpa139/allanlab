@@ -13,11 +13,16 @@ Broadly, we work on how political institutions shape incentives to preserve the 
 
 ## Recent Working Papers and Preprints
 
-**Adversarial Debiasing for Unbiased Parameter Recovery**  
+**Adversarial Debiasing for Parameter Recovery**  
 *Luke C Sanford, Megan Ayers, Matthew Gordon, Eliana Stone*  
-Under Review, February 2025.  
+Accepted, January 2026.  
 Advances in machine learning and the increasing availability of high-dimensional data have led to the proliferation of social science research that uses the predictions of machine learning models as proxies for measures of human activity or environmental outcomes. However, prediction errors from machine learning models can lead to bias in the estimates of regression coefficients. In this paper, we show how this bias can arise, propose a test for detecting bias, and demonstrate the use of an adversarial machine learning algorithm in order to de-bias predictions. These methods are applicable to any setting where machine-learned predictions are the dependent variable in a regression. We conduct simulations and empirical exercises using ground truth and satellite data on forest cover in Africa.  
 [arXiv:2502.12323](https://arxiv.org/abs/2502.12323)
+
+**Remote Control: Debiasing Remote Sensing Predictions for Causal Inference**
+*Matthew Gordon, Eliana Stone, Luke Sanford, Megan Ayers*
+Accepted at AEA, Papers and Proceedings 2026
+Advances in machine learning and the increasing availability of high-dimensional data have led to the proliferation of social science research that uses the predictions of machine learning models as proxies for measures of human activity or environmental outcomes. However, prediction errors can lead to bias when estimating regression coefficients. In this paper, we show how this bias can arise, and demonstrate the use of an adversarial machine learning algorithm in order to debias predictions. These methods are applicable to any setting where machine learned predictions are the dependent variable in a regression. We conduct simulations and empirical exercises using ground-truth and satellite data on forest cover in Africa. Using the predictions from a standard machine learning model leads to biased parameter estimates, while the predictions from the adversarial model give precise estimates of the true effects. Finally, we replicate a study of the effects of artisanal gold mining on deforestation in Africa \cite{girard_artisanal_2025}. We find that after correcting for bias using a novel sample of hand-labeled points, standard confidence intervals can not rule out a null effect, even though our confidence intervals are 19\% smaller than those obtained using alternative bias correction methods.
 
 **Elevating Spatial Evaluation: Satellite-Driven Confounder Adjustment**  
 *Luke Sanford*  
@@ -27,15 +32,25 @@ Estimating causal effects of geospatial interventions, such as the presence of c
 
 **Causal Carbon: Baselines and Additionality with Potential Outcomes**  
 *Megan Ayers, Luke Sanford, Will Gardner, Sara Kuebbing*  
-OSF Preprints, February 2025.  
+Under Review, December 2025.  
 Recent work has questioned the credibility of forest carbon offsets as an environmental intervention and nature-based solution for mitigating climate change. Despite some updates to carbon credit methodologies and advice to purchase only high-integrity or high-quality credits, it is not clear which carbon offsets meet these standards under which conditions. In this paper, we draw on the fields of statistics and causal inference to develop a generalized framework for analyzing carbon offset protocols. We show that strategic enrollment combined with even seemingly innocuous measurement errors in carbon stocks can lead to market distortions and that there is an inherent tradeoff between minimizing these distortions and broadening enrollment. The provided framework clarifies what purchasers of carbon offsets must believe about the world in order for purchased credits under each protocol to accurately reflect the impact of crediting programs and builds common ground on which more fruitful engagement between different sectors of the carbon market can build agreement.  
 [Google Scholar Citation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hzh7H9gAAAAJ&sortby=pubdate&citation_for_view=hzh7H9gAAAAJ:mVmsd5A6BfQC)
 
 **Strategic behavior in jurisdictional REDD+**  
 *Alberto Garcia, Luke Sanford*  
-SSRN Working Paper, November 2024.  
+Under Review, December 2025.  
 While carbon markets demonstrate potential to direct climate finance to low-cost, high-impact mitigation opportunities, recent research has cast doubt on their ability to contribute to real emissions reductions. As a result, the market has shifted toward a jurisdictional approach to the generation of forest carbon credits. Here we explore whether there is potential for or evidence of behavior that undermines the integrity of the carbon credits generated in jurisdictional REDD+. We find that jurisdictional governments could make strategic enrollment decisions to maximize their generated credits (and damage the "additionality" of those credits), there is little evidence that they have done so to date. Under existing jurisdictional protocols governments that are already making progress on reducing deforestation are most incentivized to enroll, while those in most need of support face the most difficulty in attaining climate finance. Furthermore, we find that in approximately one-third of enrolled jurisdictions, deforestation temporarily increases near the start of the crediting period. We suspect this may be due to an anticipatory response on the part of landowners within soon-to-be enrolled jurisdictions. This paper shows that Jurisdictional REDD+ protocols face some challenges similar in nature to project-based REDD+ and some new challenges specific to the jurisdictional setting.  
 [Google Scholar Citation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hzh7H9gAAAAJ&sortby=pubdate&citation_for_view=hzh7H9gAAAAJ:aqlVkmm33-oC)
+
+**Ecosystem restoration across political regimes: Why are so many ’successes’ located in undemocratic contexts?**
+*Emily Sigman, Roman Isaac, Marina Frietsch, Dula Wakassa Duguma, Felipe Benra, Jacqueline Loos, Joern Fischer, Luke Sanford*
+Accepted, Global Environmental Politics, 2026
+International bodies like the United Nations increasingly champion ecosystem restorations as a key tool to combat environmental degradation. Democratic governance is often positioned as a key element of restoration ‘success’. We compiled a list of restoration ‘successes’ from the UN Restoration Flagship Program and used the Economist Democracy Index to classify each according to the regime type under which restoration took place. Surprisingly, most ‘successful’ restoration initiatives were located in undemocratic contexts. We also assessed country-level restoration pledges against regime type and found that undemocratic governance systems similarly seemed to express a disproportionate commitment to restoration. We present this information together with a discussion on the broader dynamics of democratic development agendas, probing assumptions about democracy as a necessary precondition for environmental success.We forward that the ways different political regimes variously enable or constrain ecosystem restoration has significant implications for global environmental governance, and urge more critical and nuanced conversations on the complex interface between regime type and restoration outcomes. 
+
+**International cooperation and conflict in a social-ecological system: A study of mountain gorillas as a common pool resource**  
+*Anna Behm Masozera, Urmila Mallick, Fidele Ruzigandekwe, Christopher Koliba, Adrian Martin, Taye Teferi, Luke Sanford*  
+Conditionally accepted, Conservation Science and Practice, 2026.  
+The endangered mountain gorilla (Gorilla beringei beringei) is a subspecies of the eastern gorilla dependent on habitat shared by the Democratic Republic of Congo, Republic of Rwanda, and Republic of Uganda, and is considered here as a common pool resource. The intergovernmental framework established by Treaty as the Greater Virunga Transboundary Collaboration (GVTC) has exhibited adaptability and resilience in a sustained medium-level conflict context but is yet to achieve high-level cooperation for gorilla conservation. A combined Institutional Analysis and Development and Social-Ecological Systems framework analysis illuminates changes to key variables influencing cooperation over time, notably the increased number and value of habituated mountain gorilla groups, and a growing number of actors and interests. Our findings highlight the need to adopt and clarify operational rules for cooperation and indicate that high-level international cooperation is needed but unachievable under medium- or high-level conflict contexts. The forthcoming species conservation action planning process would benefit from a) formal affirmation and/or re-negotiation of discrete agreements related to information sharing and management of mountain gorillas by the GVTC, b) the re-creation of a broad coalition of networked actors for collaborative and long-term mountain gorilla conservation, and c) agreed social performance measures relevant for the resource system.  
 
 **Large but Restricted Tree Cover Loss Associated with Mexico's Mayan Train from 2020 to 2024**  
 *Luke Sanford, Sarah E. Castle, Cesar B. Martinez-Alvarez*  
@@ -54,7 +69,7 @@ The phenomenon of electoral deforestation cycles - in which accelerations in def
 
 **The Political Contours of Land Reform: Conditional Impacts of Tenure Formalization on Socio-Economic and Environmental Outcomes**  
 *Luke Sanford*  
-Under Review, July 2025.  
+Under Review, December 2025.  
 When the state introduces new formal institutions, how does people's behavior change? The impact of institutional change depends on peoples' relationships with informal institutions and the state. I explore this argument in the context of land tenure formalization in Benin, exploiting a large randomized control trial. I combine high-resolution remote sensing data on land use with data on informal institutions, conflict, political views, ethnicity, and geography to estimate the program's effects on land sparing (avoided deforestation and increased agricultural productivity) across political contexts. The formalization reduced land sparing in areas with strong existing informal institutions or low trust in courts and increased land sparing in areas with high levels of land conflict and high confidence in courts. This paper uses satellite data and a large RCT to highlight how the effectiveness of state-led institutional change depends on the local institutional context and the political situation of subjects.
 
 For the most up-to-date list of recent publications and working papers, please visit Luke Sanford's [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=hzh7H9gAAAAJ&view_op=list_works&sortby=pubdate).
