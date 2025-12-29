@@ -1,10 +1,10 @@
 - title: "Estimating Missingness and Delay in Court Data"
-  image: dummy.png
+  image: missingness.jpg
   description: Courts around the world are putting their data online, making information about caseloads, parties, and decisions available to the public. Yet, this data is far from complete, and often only reflects a portion of courts' dockets. We offer and validate a set of tools for leveraging serialized bureaucratic data from courts to estimate the proportion of cases available to the public and the time courts take to make decisions. Using data from more than 3,000 courts in China, our methods allow us to assess patterns of missingness in court data across provinces and cities by type of case and to conduct the largest quantitative analysis to date on court delay in China. By providing an extensive validation of both new and existing tools for estimating missingness and delay, we provide a set of recommendations for researchers looking to augment incomplete bureaucratic data around the world.
-  authors: Luke Sanford, Co-authors
+  authors: Xiaohan Wu, Margaret E Roberts, Rachel E Stern, Bejnamin L Liebman, Amarnath Gupta, Luke Sanford
   link:
     url: https://journals.sagepub.com/doi/full/10.1177/00491241251340610
-    display: Sociological Methods & Research, Year
+    display: Sociological Methods & Research, 2025
   highlight: 1
   news2:
 
