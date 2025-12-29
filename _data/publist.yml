@@ -20,13 +20,23 @@
   highlight: 1
   news2:
 
+  - title: "Discovering influential text using convolutional neural networks"
+  image: rationalizing_fig2.png
+  description: Experimental methods for estimating the impacts of text on human evaluation have been widely used in the social sciences. However, researchers in experimental settings are usually limited to testing a small number of pre-specified text treatments. While efforts to mine unstructured texts for features that causally affect outcomes have been ongoing in recent years, these models have primarily focused on the topics or specific words of text, which may not always be the mechanism of the effect. We connect these efforts with NLP interpretability techniques and present a method for flexibly discovering clusters of similar text phrases that are predictive of human reactions to texts using convolutional neural networks. When used in an experimental setting, this method can identify text treatments and their effects under certain assumptions. We apply the method to two data sets. The first enables direct validation of the model’s ability to detect phrases known to cause the outcome. The second demonstrates its ability to flexibly discover text treatments with varying textual structures. In both cases, the model learns a greater variety of text treatments compared to benchmark methods, and these text features quantitatively meet or exceed the ability of benchmark methods to predict the outcome.
+  authors: Megan Ayers, Luke Sanford, Margaret Roberts, Eddie Yang
+  link:
+    url: https://aclanthology.org/2024.findings-acl.714/
+    display:  Findings of the Association for Computational Linguistics ACL (2024)
+  highlight: 1
+  news2: 
+
 - title: "Democratization, Elections, and Public Goods: The Evidence from Deforestation"
   image: Forest_theory.png
   description: This article shows that over the last three decades, competitive elections were associated with increased deforestation. Protection of forested areas provides long-term public goods, while their destruction provides short-term private goods for particular voters. Politicians facing a competitive election offer voters access to forested areas mainly for small-scale farming or commercial use of timber in exchange for electoral support. I test this theory of political deforestation using satellite generated global forest cover data and the results of over 1,000 national-level elections between 1982 and 2016. I find that countries that undergo a democratic transition lose an additional 0.8 percentage points of their forest cover each year, that years with close elections have over 1 percentage point per year higher forest cover loss compared to nonelection years, and that as the margin of victory in an election decreases by 10 points, the amount of deforestation increases by 0.7 percentage points per year. These increases are on the order of 5–10 times the average rate of forest loss globally. This suggests democratization is associated with underprovision of environmental public goods and contested elections are partially responsible for this underprovision.
   authors: Sanford, Luke
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1111/ajps.12662
-    display: American Journal of Political Science (2021)
+    display: American Journal of Political Science (2023)
   highlight: 1
   news2:
 
@@ -40,15 +50,7 @@
   highlight: 1
   news2: News coverage by <a href="https://www.newsweek.com/strong-evidence-systemic-bias-california-pollution-exposure-study-1696574"> Newsweek </a> 
 
-- title: "Discovering influential text using convolutional neural networks"
-  image: rationalizing_fig2.png
-  description: Experimental methods for estimating the impacts of text on human evaluation have been widely used in the social sciences. However, researchers in experimental settings are usually limited to testing a small number of pre-specified text treatments. While efforts to mine unstructured texts for features that causally affect outcomes have been ongoing in recent years, these models have primarily focused on the topics or specific words of text, which may not always be the mechanism of the effect. We connect these efforts with NLP interpretability techniques and present a method for flexibly discovering clusters of similar text phrases that are predictive of human reactions to texts using convolutional neural networks. When used in an experimental setting, this method can identify text treatments and their effects under certain assumptions. We apply the method to two data sets. The first enables direct validation of the model’s ability to detect phrases known to cause the outcome. The second demonstrates its ability to flexibly discover text treatments with varying textual structures. In both cases, the model learns a greater variety of text treatments compared to benchmark methods, and these text features quantitatively meet or exceed the ability of benchmark methods to predict the outcome.
-  authors: Megan Ayers, Luke Sanford, Margaret Roberts, Eddie Yang
-  link:
-    url: https://aclanthology.org/2024.findings-acl.714/
-    display:  Findings of the Association for Computational Linguistics ACL (2024)
-  highlight: 1
-  news2: 
+
   
 
 # - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
