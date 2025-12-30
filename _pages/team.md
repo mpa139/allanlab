@@ -29,6 +29,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }} <br>
     email: <{{ member.email }}></i> <br>
   <b> {{ member.website }} </b>
+  {% if member.cv %}
+  <b> <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ member.cv }}">Current CV</a> </b>
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
