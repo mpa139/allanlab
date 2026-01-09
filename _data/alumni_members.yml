@@ -1,3 +1,10 @@
+- name: Megan Ayers
+  photo: megan_ayers.jpeg
+  info: PhD Candidate in Statistics & Data Science | Assistant Professor of Statistics (Reed College)
+  email: m.ayers@yale.edu
+  number_educ: 1
+  education1: BA Math and Physics, Lewis & Clark College, 2019
+
 - name: Sarah Castle
   photo: sarah.jpg
   info: Postdoctoral Associate | Assistant Professor (University of Wisconsin)
