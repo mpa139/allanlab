@@ -2,7 +2,7 @@
   photo: sanford_square.png
   info: Assistant Professor of Environmental Policy and Governance
   email: luke.sanford@yale.edu
-  website: <a href="https://lcsanford.github.io">Personal Website</a> 
+  # website: <a href="https://lcsanford.github.io">Personal Website</a> 
   cv: lcs_cv_new.pdf
   number_educ: 3
   education1: BA Politics, Whitman College 2009
