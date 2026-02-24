@@ -2,10 +2,36 @@
 #  photo: rock.jpg
 #  info:
 #  email:
-#  number_educ:
+#  number_educ: 2
 #  education1:
 #  education2:
 #  education3:
 #  education4:
 
+- name: Andrew Bond
+  photo: 
+  info: Research Fellow @ KUIS AI Center
+  role: phd
+  email: abond19@ku.edu.tr
+  website: "https://abond19.github.io/"
+  scholar: "https://scholar.google.com/citations?user=tcga9tUAAAAJ"
+  orcid: "https://orcid.org/0000-0002-6556-5331"
+  linkedin: ""
+  number_educ: 2
+  education1: PhD, Computer Science, Koç University
+  education2: BSc, Computer Engineering, Koç University
 
+
+
+- name: Yusuf Bayindir
+  photo: ybayindir23.jpg
+  info: Research Fellow @ KUIS AI Center
+  role: msc
+  email: ybayindir23@ku.edu.tr
+  website: ""
+  scholar: ""
+  orcid: ""
+  linkedin: ""
+  number_educ: 2
+  education1: MSc, Computer Science, Koç University
+  education2: BSc, Computer Engineering & Physics, Bogazici University

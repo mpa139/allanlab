@@ -1,7 +1,740 @@
 ---
 layout: default
 ---
-<div id="team" class="col-sm-12">
-  {{ content }}
-</div>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  #team-page {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    color: #1a1a2e;
+    padding: 0 8px;
+  }
+
+  .team-section {
+    margin-bottom: 88px;
+  }
+
+  .team-section__title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 12px;
+    padding-bottom: 16px;
+    position: relative;
+  }
+
+  .team-section__title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 68px;
+    height: 4px;
+    background: linear-gradient(135deg, #337ab7 0%, #265a88 100%);
+    border-radius: 2px;
+  }
+
+  .team-section__subtitle {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #6b7280;
+    margin-top: 12px;
+    margin-bottom: 36px;
+  }
+
+  /* ── Page Hero ──────────────────────────────────────────── */
+  .team-hero {
+    text-align: center;
+    padding: 64px 0 56px;
+    margin-bottom: 24px;
+  }
+
+  .team-hero__title {
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.03em;
+    margin-bottom: 20px;
+  }
+
+  .team-hero__accent {
+    background: linear-gradient(135deg, #337ab7 0%, #265a88 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .team-hero__description {
+    font-size: 1.3rem;
+    color: #6b7280;
+    max-width: 680px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  /* ── Sticky Section Nav ─────────────────────────────────── */
+  .team-nav {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 56px;
+    padding: 20px 0;
+  }
+
+  .team-nav__link {
+    display: inline-block;
+    padding: 12px 28px;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: #337ab7;
+    background: rgba(51, 122, 183, 0.08);
+    border: 1px solid rgba(51, 122, 183, 0.15);
+    border-radius: 24px;
+    text-decoration: none;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    letter-spacing: 0.01em;
+  }
+
+  .team-nav__link:hover,
+  .team-nav__link:focus {
+    background: linear-gradient(135deg, #337ab7 0%, #265a88 100%);
+    color: #fff;
+    border-color: transparent;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(51, 122, 183, 0.3);
+    text-decoration: none;
+  }
+
+  /* ── Card Grid ──────────────────────────────────────────── */
+  .team-grid {
+    display: grid;
+    gap: 32px;
+  }
+
+  .team-grid--pi {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .team-grid--member {
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  }
+
+  .team-grid--alumni {
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 28px;
+  }
+
+
+  .team-card {
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 20px;
+    padding: 40px 34px;
+    transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .team-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(135deg, #337ab7 0%, #265a88 100%);
+    opacity: 0;
+    transition: opacity 0.35s ease;
+  }
+
+  .team-card:hover {
+    transform: translateY(-4px);
+    box-shadow:
+      0 12px 28px rgba(0, 0, 0, 0.08),
+      0 4px 10px rgba(0, 0, 0, 0.04);
+    border-color: rgba(51, 122, 183, 0.15);
+  }
+
+  .team-card:hover::before {
+    opacity: 1;
+  }
+
+  .team-card--pi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 44px 40px;
+    background: linear-gradient(135deg, #fafbff 0%, #f8f6ff 100%);
+    border: 1px solid rgba(51, 122, 183, 0.1);
+  }
+
+  .team-card--pi .team-card__photo-wrap {
+    margin-bottom: 24px;
+  }
+
+  .team-card--pi .team-card__photo {
+    width: 170px;
+    height: 170px;
+  }
+
+  .team-card--pi .team-card__name {
+    font-size: 1.65rem;
+  }
+
+  /* ── Card — Alumni Variant ──────────────────────────────── */
+  .team-card--alumni {
+    padding: 28px;
+    display: flex;
+    gap: 24px;
+    align-items: center;
+  }
+
+  .team-card--alumni .team-card__photo {
+    width: 80px;
+    height: 80px;
+  }
+
+  .team-card--alumni .team-card__name {
+    font-size: 1.15rem;
+    margin-bottom: 5px;
+  }
+
+  .team-card--alumni .team-card__role {
+    font-size: 1rem;
+  }
+
+  /* ── Card Photo ─────────────────────────────────────────── */
+  .team-card__photo-wrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 22px;
+  }
+
+  .team-card__photo {
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #fff;
+    box-shadow:
+      0 2px 8px rgba(0, 0, 0, 0.08),
+      0 0 0 1px rgba(51, 122, 183, 0.12);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 0;
+  }
+
+  .team-card:hover .team-card__photo {
+    transform: scale(1.04);
+    box-shadow:
+      0 4px 14px rgba(51, 122, 183, 0.2),
+      0 0 0 2px rgba(51, 122, 183, 0.2);
+  }
+
+  /* ── Card Content ───────────────────────────────────────── */
+  .team-card__body {
+    text-align: center;
+  }
+
+  .team-card--alumni .team-card__body {
+    text-align: left;
+  }
+
+  .team-card__name {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #1a1a2e;
+    margin-bottom: 8px;
+    letter-spacing: -0.01em;
+  }
+
+  .team-card__role {
+    font-size: 1.05rem;
+    font-weight: 400;
+    color: #337ab7;
+    margin-bottom: 16px;
+  }
+
+  .team-card__education {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .team-card__education li {
+    font-size: 1rem;
+    color: #4b5563;
+    line-height: 1.6;
+    padding: 6px 0 6px 18px;
+    position: relative;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .team-card__education li:last-child {
+    border-bottom: none;
+  }
+
+  .team-card__education li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 12px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #337ab7;
+  }
+
+  .team-card--pi .team-card__affiliations {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px;
+    text-align: left;
+    width: 100%;
+  }
+
+  .team-card--pi .team-card__affiliation {
+    padding: 8px 0 8px 18px;
+    margin-bottom: 4px;
+    position: relative;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .team-card--pi .team-card__affiliation:last-child {
+    border-bottom: none;
+  }
+
+  .team-card--pi .team-card__affiliation::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 14px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #337ab7;
+  }
+
+  .team-card--pi .team-card__affiliation-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+  }
+
+  .team-card--pi .team-card__affiliation-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1a1a2e;
+  }
+
+  .team-card--pi .team-card__affiliation-dates {
+    font-size: 0.9rem;
+    color: #6b7280;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .team-card--pi .team-card__affiliation-inst {
+    font-size: 0.95rem;
+    color: #4b5563;
+    margin-top: 2px;
+  }
+
+  .team-card--pi .team-card__affiliation-note {
+    font-size: 0.88rem;
+    color: #6b7280;
+    font-style: italic;
+    margin-top: 2px;
+  }
+
+  .team-card__education a {
+    color: #337ab7;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .team-card__education a:hover {
+    color: #265a88;
+  }
+
+
+  .team-card__links {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 18px;
+  }
+
+  .team-card--alumni .team-card__links {
+    justify-content: flex-start;
+  }
+
+  .team-card__link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    color: #9ca3af;
+    background: rgba(0, 0, 0, 0.03);
+    transition: all 0.25s ease;
+    text-decoration: none;
+  }
+
+  .team-card__link:hover {
+    color: #fff;
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  .team-card__link--scholar:hover {
+    background: #4285f4;
+    box-shadow: 0 4px 12px rgba(66, 133, 244, 0.35);
+  }
+
+  .team-card__link--orcid:hover {
+    background: #a6ce39;
+    box-shadow: 0 4px 12px rgba(166, 206, 57, 0.35);
+  }
+
+  .team-card__link--linkedin:hover {
+    background: #0077b5;
+    box-shadow: 0 4px 12px rgba(0, 119, 181, 0.35);
+  }
+
+  .team-card__link--website:hover {
+    background: linear-gradient(135deg, #337ab7, #265a88);
+    box-shadow: 0 4px 12px rgba(51, 122, 183, 0.35);
+  }
+
+  .team-card__link--email:hover {
+    background: #ea4335;
+    box-shadow: 0 4px 12px rgba(234, 67, 53, 0.35);
+  }
+
+  .team-card__link svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+  }
+
+  /* ── Alumni Compact List ────────────────────────────────── */
+  .alumni-list {
+    margin-top: 16px;
+  }
+
+  .alumni-list__heading {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 16px;
+  }
+
+  .alumni-list__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .alumni-list__item {
+    font-size: 1rem;
+    color: #4b5563;
+    padding: 12px 18px;
+    background: rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+    transition: background 0.2s ease;
+  }
+
+  .alumni-list__item:hover {
+    background: rgba(51, 122, 183, 0.06);
+  }
+
+  /* ── Separator ──────────────────────────────────────────── */
+  .team-divider {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(51, 122, 183, 0.15), transparent);
+    margin: 56px 0;
+  }
+
+  /* ── Responsive ─────────────────────────────────────────── */
+  @media (max-width: 768px) {
+    .team-hero__title {
+      font-size: 1.8rem;
+    }
+
+
+
+
+    .team-grid--pi {
+      grid-template-columns: 1fr;
+    }
+
+    .team-grid--member {
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    }
+
+    .team-grid--alumni {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .team-nav {
+      gap: 6px;
+    }
+
+    .team-nav__link {
+      padding: 6px 14px;
+      font-size: 0.78rem;
+    }
+
+    .team-card {
+      padding: 20px 16px;
+    }
+  }
+</style>
+
+<div id="team-page" class="col-sm-12">
+
+
+  <hr class="team-divider">
+
+  <!-- PRINCIPAL INVESTIGATORS -->
+  <section id="principal-investigators" class="team-section">
+    <h2 class="team-section__title">PIs</h2>
+    <div class="team-grid team-grid--pi">
+      {% for member in site.data.team_members %}{% if member.role == "pi" %}
+      <div class="team-card team-card--pi">
+        <div class="team-card__photo-wrap">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}"
+            class="team-card__photo" loading="lazy">
+        </div>
+        <div class="team-card__body">
+          <h3 class="team-card__name">{{ member.name }}</h3>
+          <p class="team-card__role">{{ member.info }}</p>
+          {% if member.affiliations %}
+          <div class="team-card__affiliations">
+            {% for aff in member.affiliations %}
+            <div class="team-card__affiliation">
+              <div class="team-card__affiliation-row">
+                <span class="team-card__affiliation-title">{{ aff.title }}</span>
+                {% if aff.dates and aff.dates != "" %}<span class="team-card__affiliation-dates">{{ aff.dates
+                  }}</span>{% endif %}
+              </div>
+              {% if aff.institution %}<div class="team-card__affiliation-inst">{{ aff.institution }}</div>{% endif %}
+              {% if aff.note %}<div class="team-card__affiliation-note">{{ aff.note }}</div>{% endif %}
+            </div>
+            {% endfor %}
+          </div>
+          {% endif %}
+          <div class="team-card__links">
+            {% if member.website and member.website != "" %}<a href="{{ member.website }}"
+              class="team-card__link team-card__link--website" title="Website" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
+              </svg></a>{% endif %}
+            {% if member.scholar and member.scholar != "" %}<a href="{{ member.scholar }}"
+              class="team-card__link team-card__link--scholar" title="Google Scholar" target="_blank"
+              rel="noopener"><svg viewBox="0 0 24 24">
+                <path
+                  d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" />
+              </svg></a>{% endif %}
+            {% if member.orcid and member.orcid != "" %}<a href="{{ member.orcid }}"
+              class="team-card__link team-card__link--orcid" title="ORCID" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.847-1.178-3.722-3.953-3.722h-2.366z" />
+              </svg></a>{% endif %}
+            {% if member.linkedin and member.linkedin != "" %}<a href="{{ member.linkedin }}"
+              class="team-card__link team-card__link--linkedin" title="LinkedIn" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+              </svg></a>{% endif %}
+            {% if member.email and member.email != "" and member.email != "b" %}<a href="mailto:{{ member.email }}"
+              class="team-card__link team-card__link--email" title="Email"><svg viewBox="0 0 24 24">
+                <path
+                  d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+              </svg></a>{% endif %}
+          </div>
+        </div>
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  </section>
+
+
+  <hr class="team-divider">
+  <!-- PHD STUDENTS -->
+  <section id="phd-students" class="team-section">
+    <h2 class="team-section__title">PhD Students</h2>
+    <div class="team-grid team-grid--member">
+      {% for member in site.data.students %}{% if member.role == "phd" %}
+      <div class="team-card">
+        <div class="team-card__photo-wrap">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}"
+            class="team-card__photo" loading="lazy">
+        </div>
+        <div class="team-card__body">
+          <h3 class="team-card__name">{{ member.name }}</h3>
+          <p class="team-card__role">{{ member.info }}</p>
+          <ul class="team-card__education">
+            {% if member.education1 and member.education1 != "" %}<li>{{ member.education1 }}</li>{% endif %}
+            {% if member.education2 and member.education2 != "" %}<li>{{ member.education2 }}</li>{% endif %}
+            {% if member.education3 and member.education3 != "" %}<li>{{ member.education3 }}</li>{% endif %}
+          </ul>
+          <div class="team-card__links">
+            {% if member.website and member.website != "" %}<a href="{{ member.website }}"
+              class="team-card__link team-card__link--website" title="Website" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
+              </svg></a>{% endif %}
+            {% if member.scholar and member.scholar != "" %}<a href="{{ member.scholar }}"
+              class="team-card__link team-card__link--scholar" title="Google Scholar" target="_blank"
+              rel="noopener"><svg viewBox="0 0 24 24">
+                <path
+                  d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" />
+              </svg></a>{% endif %}
+            {% if member.orcid and member.orcid != "" %}<a href="{{ member.orcid }}"
+              class="team-card__link team-card__link--orcid" title="ORCID" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.847-1.178-3.722-3.953-3.722h-2.366z" />
+              </svg></a>{% endif %}
+            {% if member.linkedin and member.linkedin != "" %}<a href="{{ member.linkedin }}"
+              class="team-card__link team-card__link--linkedin" title="LinkedIn" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+              </svg></a>{% endif %}
+            {% if member.email and member.email != "" and member.email != "b" %}<a href="mailto:{{ member.email }}"
+              class="team-card__link team-card__link--email" title="Email"><svg viewBox="0 0 24 24">
+                <path
+                  d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+              </svg></a>{% endif %}
+          </div>
+        </div>
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  </section>
+
+  <hr class="team-divider">
+
+  <!-- MSC STUDENTS -->
+  <section id="msc-students" class="team-section">
+    <h2 class="team-section__title">MSc Students</h2>
+    <div class="team-grid team-grid--member">
+      {% for member in site.data.students %}{% if member.role == "msc" %}
+      <div class="team-card">
+        <div class="team-card__photo-wrap">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}"
+            class="team-card__photo" loading="lazy">
+        </div>
+        <div class="team-card__body">
+          <h3 class="team-card__name">{{ member.name }}</h3>
+          <p class="team-card__role">{{ member.info }}</p>
+          <ul class="team-card__education">
+            {% if member.education1 and member.education1 != "" %}<li>{{ member.education1 }}</li>{% endif %}
+            {% if member.education2 and member.education2 != "" %}<li>{{ member.education2 }}</li>{% endif %}
+          </ul>
+          <div class="team-card__links">
+            {% if member.website and member.website != "" %}<a href="{{ member.website }}"
+              class="team-card__link team-card__link--website" title="Website" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
+              </svg></a>{% endif %}
+            {% if member.scholar and member.scholar != "" %}<a href="{{ member.scholar }}"
+              class="team-card__link team-card__link--scholar" title="Google Scholar" target="_blank"
+              rel="noopener"><svg viewBox="0 0 24 24">
+                <path
+                  d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" />
+              </svg></a>{% endif %}
+            {% if member.linkedin and member.linkedin != "" %}<a href="{{ member.linkedin }}"
+              class="team-card__link team-card__link--linkedin" title="LinkedIn" target="_blank" rel="noopener"><svg
+                viewBox="0 0 24 24">
+                <path
+                  d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+              </svg></a>{% endif %}
+            {% if member.email and member.email != "" and member.email != "b" %}<a href="mailto:{{ member.email }}"
+              class="team-card__link team-card__link--email" title="Email"><svg viewBox="0 0 24 24">
+                <path
+                  d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+              </svg></a>{% endif %}
+          </div>
+        </div>
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  </section>
+
+  <hr class="team-divider">
+
+  <!-- ALUMNI -->
+  <section id="alumni" class="team-section">
+    <h2 class="team-section__title">Alumni</h2>
+    <div class="team-grid team-grid--alumni">
+      {% for member in site.data.alumni_members %}
+      <div class="team-card team-card--alumni">
+        <div class="team-card__photo-wrap" style="margin-bottom: 0;">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}"
+            class="team-card__photo" loading="lazy">
+        </div>
+        <div class="team-card__body">
+          <h3 class="team-card__name">{{ member.name }}</h3>
+          <p class="team-card__role">{{ member.info }}{% if member.duration %} · {{ member.duration }}{% endif %}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <hr class="team-divider">
+
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="alumni-list">
+          <h4 class="alumni-list__heading">Former Visitors</h4>
+          <div class="alumni-list__grid">
+            {% for member in site.data.alumni_visitors %}
+            <div class="alumni-list__item">{{ member.name }}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="alumni-list">
+          <h4 class="alumni-list__heading">MSc Alumni</h4>
+          <div class="alumni-list__grid">
+            {% for member in site.data.alumni_msc %}
+            <div class="alumni-list__item">{{ member.name }}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="alumni-list">
+          <h4 class="alumni-list__heading">BSc Alumni</h4>
+          <div class="alumni-list__grid">
+            {% for member in site.data.alumni_bsc %}
+            <div class="alumni-list__item">{{ member.name }}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
