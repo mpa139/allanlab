@@ -5,9 +5,19 @@
   # website: <a href="https://lcsanford.github.io">Personal Website</a> 
   cv: lcs_cv_new.pdf
   number_educ: 3
-  education1: BA Politics, Whitman College 2009
+  education1: BA Politics, Whitman College, 2009
   education2: MA School of Global Policy and Strategy, UCSD, 2017
   education3: PhD Political Science and International Affairs, UCSD, 2021
+
+- name: Kexin Song
+  photo: Kexin.jpg
+  info: Postdoctoral Associate
+  email: kexin.song@yale.edu
+  website: <a href="https://kathy9980.github.io/">Personal Website</a> 
+  number_educ: 3
+  education1: B.Sc. Marine Technology, Ocean University of China, 2018
+  education2: M.Sc. Meteorology and Physical Oceanography, University of Miami, 2020
+  education3: PhD Natural Resources and the Environment, University of Connecticut, 2025
 
 - name: Reid Lewis
   photo: reid_lewis.jpeg
