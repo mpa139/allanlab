@@ -1,0 +1,81 @@
+---
+title: "Grants & Funding"
+layout: textlay
+excerpt: "AI Centre@CSG — Grants and Funding"
+sitemap: true
+permalink: /grants.html
+---
+
+<h1><strong>Grants &amp; Funding</strong></h1>
+
+<p>Research grants and funded projects at the AI Centre@CSG.</p>
+
+{% assign today = 'now' | date: '%s' | plus: 0 %}
+
+<h2>Active Grants</h2>
+{% assign has_active = false %}
+{% for grant in site.data.grants %}
+  {% if grant.status == "active" %}
+    {% assign has_active = true %}
+    <div class="news-item" style="margin-bottom: 1.8em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 1.05em; font-weight: bold; margin-bottom: 0.3em;">
+        {% if grant.link and grant.link != "" %}
+          <a href="{{ grant.link }}" target="_blank" rel="noopener">{{ grant.title }}</a>
+        {% else %}
+          {{ grant.title }}
+        {% endif %}
+      </p>
+      <p style="margin-bottom: 0.2em;">
+        <strong>Funder:</strong> {{ grant.funder }}
+        {% if grant.amount and grant.amount != "" %} &nbsp;|&nbsp; <strong>Amount:</strong> {{ grant.amount }}{% endif %}
+      </p>
+      <p style="margin-bottom: 0.2em;">
+        <strong>PI:</strong> {{ grant.pi }}
+        {% if grant.co_investigators and grant.co_investigators != "" %}
+          &nbsp;|&nbsp; <strong>Co-Is:</strong> {{ grant.co_investigators }}
+        {% endif %}
+      </p>
+      <p style="margin-bottom: 0.2em; font-size: 0.9em; color: #666;">
+        {{ grant.start_date | date: "%B %Y" }} – {{ grant.end_date | date: "%B %Y" }}
+      </p>
+      {% if grant.description and grant.description != "" %}
+        <p style="margin-bottom: 0; color: #444;">{{ grant.description }}</p>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+{% unless has_active %}<p><em>No active grants listed yet.</em></p>{% endunless %}
+
+<h2>Completed Grants</h2>
+{% assign has_completed = false %}
+{% for grant in site.data.grants %}
+  {% if grant.status == "completed" %}
+    {% assign has_completed = true %}
+    <div class="news-item" style="margin-bottom: 1.8em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 1.05em; font-weight: bold; margin-bottom: 0.3em;">
+        {% if grant.link and grant.link != "" %}
+          <a href="{{ grant.link }}" target="_blank" rel="noopener">{{ grant.title }}</a>
+        {% else %}
+          {{ grant.title }}
+        {% endif %}
+      </p>
+      <p style="margin-bottom: 0.2em;">
+        <strong>Funder:</strong> {{ grant.funder }}
+        {% if grant.amount and grant.amount != "" %} &nbsp;|&nbsp; <strong>Amount:</strong> {{ grant.amount }}{% endif %}
+      </p>
+      <p style="margin-bottom: 0.2em;">
+        <strong>PI:</strong> {{ grant.pi }}
+        {% if grant.co_investigators and grant.co_investigators != "" %}
+          &nbsp;|&nbsp; <strong>Co-Is:</strong> {{ grant.co_investigators }}
+        {% endif %}
+      </p>
+      <p style="margin-bottom: 0.2em; font-size: 0.9em; color: #666;">
+        {{ grant.start_date | date: "%B %Y" }} – {{ grant.end_date | date: "%B %Y" }}
+      </p>
+      {% if grant.description and grant.description != "" %}
+        <p style="margin-bottom: 0; color: #444;">{{ grant.description }}</p>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+{% unless has_completed %}<p><em>No completed grants listed yet.</em></p>{% endunless %}

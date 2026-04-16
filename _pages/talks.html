@@ -1,0 +1,78 @@
+---
+title: "Talks"
+layout: textlay
+excerpt: "AI Centre@CSG — Talks"
+sitemap: true
+permalink: /talks.html
+---
+
+<h1><strong>Talks</strong></h1>
+
+<p>Invited talks and guest lectures hosted by the AI Centre@CSG.</p>
+
+{% assign today = 'now' | date: '%s' | plus: 0 %}
+{% assign grace = 86400 %}
+{% assign future_cutoff = today | minus: grace %}
+
+{% assign enriched = "" | split: "" %}
+
+{% for item in site.data.talks %}
+  {% assign epoch = item.date | date_to_xmlschema | date: '%s' | plus: 0 %}
+  {% assign packed = epoch | append: "|||" | append: item.date | append: "|||" | append: item.title | append: "|||" | append: item.speaker | append: "|||" | append: item.affiliation | append: "|||" | append: item.abstract | append: "|||" | append: item.slides_link | append: "|||" | append: item.video_link | append: "|||" | append: item.host %}
+  {% assign enriched = enriched | push: packed %}
+{% endfor %}
+
+{% assign sorted = enriched | sort | reverse %}
+
+<h2>Upcoming Talks</h2>
+{% assign has_upcoming = false %}
+{% for entry in sorted %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% if epoch >= future_cutoff %}
+    {% assign has_upcoming = true %}
+    <div class="news-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 0.95em; color: #666; margin-bottom: 0.3em;"><strong>{{ parts[1] }}</strong></p>
+      <p style="font-size: 1.05em; font-weight: bold; margin-bottom: 0.3em;">{{ parts[2] }}</p>
+      <p style="margin-bottom: 0.2em;">
+        <strong>{{ parts[3] }}</strong>{% if parts[4] and parts[4] != "" %}, {{ parts[4] }}{% endif %}
+      </p>
+      {% if parts[5] and parts[5] != "" %}
+        <p style="margin-bottom: 0.4em; color: #444; font-style: italic;">{{ parts[5] }}</p>
+      {% endif %}
+      {% if parts[8] and parts[8] != "" %}
+        <p style="margin-bottom: 0.4em; font-size: 0.9em; color: #666;">Host: {{ parts[8] }}</p>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+{% unless has_upcoming %}<p><em>No upcoming talks at the moment — check back soon.</em></p>{% endunless %}
+
+<h2>Past Talks</h2>
+{% assign has_past = false %}
+{% for entry in sorted %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% if epoch < future_cutoff %}
+    {% assign has_past = true %}
+    <div class="news-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 0.95em; color: #666; margin-bottom: 0.3em;"><strong>{{ parts[1] }}</strong></p>
+      <p style="font-size: 1.05em; font-weight: bold; margin-bottom: 0.3em;">{{ parts[2] }}</p>
+      <p style="margin-bottom: 0.2em;">
+        <strong>{{ parts[3] }}</strong>{% if parts[4] and parts[4] != "" %}, {{ parts[4] }}{% endif %}
+      </p>
+      {% if parts[5] and parts[5] != "" %}
+        <p style="margin-bottom: 0.4em; color: #444; font-style: italic;">{{ parts[5] }}</p>
+      {% endif %}
+      <p style="margin-bottom: 0.4em;">
+        {% if parts[6] and parts[6] != "" %}
+          <a href="{{ parts[6] }}" class="btn btn-xs btn-default" target="_blank" rel="noopener">Slides</a>
+        {% endif %}
+        {% if parts[7] and parts[7] != "" %}
+          <a href="{{ parts[7] }}" class="btn btn-xs btn-default" target="_blank" rel="noopener">Recording</a>
+        {% endif %}
+      </p>
+    </div>
+  {% endif %}
+{% endfor %}
+{% unless has_past %}<p><em>No past talks recorded yet.</em></p>{% endunless %}

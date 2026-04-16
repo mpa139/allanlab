@@ -1,0 +1,47 @@
+{% assign today = 'now' | date: '%s' | plus: 0 %}
+{% assign grace = 86400 %}
+{% assign future_cutoff = today | minus: grace %}
+
+{% assign enriched = "" | split: "" %}
+{% for item in site.data.events %}
+  {% assign epoch = item.date | date_to_xmlschema | date: '%s' | plus: 0 %}
+  {% assign packed = epoch | append: "|||" | append: item.date | append: "|||" | append: item.title | append: "|||" | append: item.type | append: "|||" | append: item.link %}
+  {% assign enriched = enriched | push: packed %}
+{% endfor %}
+
+{% assign sorted = enriched | sort %}
+
+{% assign upcoming_count = 0 %}
+{% for entry in sorted %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% if epoch >= future_cutoff %}
+    {% assign upcoming_count = upcoming_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% if upcoming_count > 0 %}
+<div class="well">
+  <h3>Upcoming Events</h3>
+  {% assign shown = 0 %}
+  {% for entry in sorted %}
+    {% assign parts = entry | split: "|||" %}
+    {% assign epoch = parts[0] | plus: 0 %}
+    {% if epoch >= future_cutoff and shown < 3 %}
+      {% assign shown = shown | plus: 1 %}
+      <p>
+        {{ parts[1] }}<br>
+        {% if parts[4] and parts[4] != "" %}
+          <a href="{{ parts[4] }}"><strong>{{ parts[2] }}</strong></a>
+        {% else %}
+          <strong>{{ parts[2] }}</strong>
+        {% endif %}
+        {% if parts[3] and parts[3] != "" %}
+          <br><small style="color:#888; text-transform:capitalize;">{{ parts[3] }}</small>
+        {% endif %}
+      </p>
+    {% endif %}
+  {% endfor %}
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/events.html">... see all Events</a></h4>
+</div>
+{% endif %}
