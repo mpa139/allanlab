@@ -1,11 +1,60 @@
-
 <div class="well">
-<h4>News</h4>
+  <h3>News and Announcements</h3>
 
-{% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
+  {% assign today = 'now' | date: '%s' | plus: 0 %}
+  {% assign all_items = site.data.news %}
+  {% assign enriched = "" | split: "" %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+  {%- comment -%}
+  Convert each date string ("3 November, 2025") → epoch seconds
+  {%- endcomment -%}
+  {% for item in all_items %}
+    {% assign epoch = item.date | date_to_xmlschema | date: '%s' | plus: 0 %}
+    {% assign packed = epoch | append: "|||" | append: item.date | append: "|||" | append: item.headline %}
+    {% assign enriched = enriched | push: packed %}
+  {% endfor %}
 
-    </div>
+  {%- comment -%}
+  Synthesise recent publications (last 90 days) as news items
+  {%- endcomment -%}
+  {% assign ninety_days = 7776000 %}
+  {% assign paper_cutoff = today | minus: ninety_days %}
+  {% for pub in site.data.publist %}
+    {% assign pub_epoch = pub.date | date: '%s' | plus: 0 %}
+    {% if pub_epoch >= paper_cutoff %}
+      {% assign pub_display_date = pub.date | date: "%-d %B, %Y" %}
+      {% if pub.link.url and pub.link.url != "" %}
+        {% assign pub_headline = "New paper: [**" | append: pub.title | append: "**](" | append: pub.link.url | append: ") — " | append: pub.authors %}
+      {% else %}
+        {% assign pub_headline = "New paper: **" | append: pub.title | append: "** — " | append: pub.authors %}
+      {% endif %}
+      {% assign packed = pub_epoch | append: "|||" | append: pub_display_date | append: "|||" | append: pub_headline %}
+      {% assign enriched = enriched | push: packed %}
+    {% endif %}
+  {% endfor %}
+
+  {%- comment -%}
+  Sort numerically by epoch
+  {%- endcomment -%}
+  {% assign sorted = enriched | sort %}
+
+  {%- comment -%}
+  Loop in chronological order, show today and future (+1 day buffer)
+  {%- endcomment -%}
+  {% for entry in sorted %}
+    {% assign parts = entry | split: "|||" %}
+    {% assign epoch = parts[0] | plus: 0 %}
+    {% assign date = parts[1] %}
+    {% assign headline = parts[2] %}
+    {% assign buffer = 86400 %}
+    {% assign cutoff = today | minus: buffer %}
+    {% if epoch >= cutoff %}
+      <p>
+        {{ date }}<br>
+        {{ headline | markdownify }}
+      </p>
+    {% endif %}
+  {% endfor %}
+
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+</div>

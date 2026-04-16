@@ -1,0 +1,33 @@
+# Grants data file
+# Fields:
+#   title:              (required) Grant/project title
+#   funder:             (required) Funding body (e.g. EPSRC, Innovate UK)
+#   funder_logo:        (optional) Logo filename placed in images/
+#   amount:             (optional) Award amount as string, e.g. "£450,000"
+#   pi:                 (required) Principal Investigator name
+#   co_investigators:   (optional) Comma-separated co-investigator names
+#   start_date:         (required) "YYYY/MM/DD"
+#   end_date:           (required) "YYYY/MM/DD" — used to determine active vs completed
+#   description:        (optional) Short project description
+#   link:               (optional) Project webpage URL
+#   status:             (required) active | completed
+
+- title: "Explainable Neural-Symbolic Reasoning for Clinical AI"
+  funder: "EPSRC"
+  amount: "£520,000"
+  pi: "Prof. Tweyde"
+  co_investigators: "Dr. Smith, Dr. Jones"
+  start_date: "2024/01/01"
+  end_date: "2027/03/31"
+  description: "Developing hybrid neural-symbolic architectures that can provide human-interpretable explanations for decisions in clinical AI applications."
+  link: "https://www.city.ac.uk"
+  status: active
+
+- title: "Audio Scene Understanding with Deep Learning"
+  funder: "Innovate UK"
+  amount: "£280,000"
+  pi: "Dr. Brown"
+  start_date: "2022/06/01"
+  end_date: "2025/05/31"
+  description: "Building robust models for environmental sound classification and source separation in real-world acoustic scenes."
+  status: completed

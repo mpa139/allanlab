@@ -1,0 +1,31 @@
+# Events data file
+# Fields:
+#   date:        (required) "DD Month, YYYY"  — start date
+#   end_date:    (optional) "DD Month, YYYY"  — end date for multi-day events
+#   title:       (required) Event title
+#   type:        (required) seminar | workshop | conference | colloquium | other
+#   speaker:     (optional) Speaker name(s)
+#   location:    (optional) Room / venue
+#   link:        (optional) Registration or info URL
+#   description: (optional) Short plain-text description
+
+- date: "20 May, 2026"
+  title: "AI in Healthcare Workshop"
+  type: workshop
+  speaker: "Prof. Jane Smith (Imperial College London)"
+  location: "Room AG21, Northampton Square"
+  link: "https://www.city.ac.uk"
+  description: "A half-day workshop exploring AI applications in clinical decision support and medical imaging."
+
+- date: "5 June, 2026"
+  title: "NLP Summer Colloquium"
+  type: colloquium
+  location: "ELG09, Drysdale Building"
+  description: "Annual colloquium showcasing NLP research from the group and invited speakers."
+
+- date: "12 March, 2026"
+  title: "Trustworthy AI Seminar Series — Kick-off"
+  type: seminar
+  speaker: "Prof. Tweyde"
+  location: "Room AG21, Northampton Square"
+  description: "Launch of the new interdisciplinary seminar series on safety and explainability in AI systems."

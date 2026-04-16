@@ -1,0 +1,25 @@
+# Talks data file
+# Fields:
+#   date:        (required) "DD Month, YYYY"
+#   title:       (required) Talk title
+#   speaker:     (required) Speaker name
+#   affiliation: (optional) Speaker's institution
+#   abstract:    (optional) Short abstract
+#   slides_link: (optional) URL to slides
+#   video_link:  (optional) URL to recording
+#   host:        (optional) Host faculty member
+
+- date: "28 April, 2026"
+  title: "Attention Mechanisms Beyond Transformers"
+  speaker: "Dr. Alice Brown"
+  affiliation: "UCL"
+  abstract: "This talk surveys recent work on attention mechanisms outside the standard Transformer architecture, including state-space models and linear attention variants."
+  host: "Prof. Tweyde"
+
+- date: "10 February, 2026"
+  title: "Reinforcement Learning from Human Feedback: Theory and Practice"
+  speaker: "Dr. Marco Rossi"
+  affiliation: "DeepMind"
+  abstract: "An overview of RLHF methods used in modern language model alignment, with discussion of open theoretical questions."
+  video_link: "https://www.youtube.com"
+  host: "Prof. Tweyde"

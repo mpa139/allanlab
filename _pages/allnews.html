@@ -1,0 +1,77 @@
+---
+title: "News and Announcements"
+layout: textlay
+excerpt: "AI Centre@CSG - City St George's, University of London"
+sitemap: false
+permalink: /allnews.html
+---
+
+<h1><strong>News and Announcements</strong></h1>
+
+{% assign today = 'now' | date: '%s' | plus: 0 %}
+{% assign grace = 86400 %}  <!-- 1-day buffer -->
+{% assign future_cutoff = today | minus: grace %}
+
+{% assign enriched = "" | split: "" %}
+
+{%- comment -%}
+Convert all YAML date strings ("3 November, 2025") into epoch seconds.
+{%- endcomment -%}
+{% for item in site.data.news %}
+  {% assign epoch = item.date | date_to_xmlschema | date: '%s' | plus: 0 %}
+  {% assign packed = epoch | append: "|||" | append: item.date | append: "|||" | append: item.headline %}
+  {% assign enriched = enriched | push: packed %}
+{% endfor %}
+
+{%- comment -%}
+Synthesise all publications as news items.
+{%- endcomment -%}
+{% for pub in site.data.publist %}
+  {% assign pub_epoch = pub.date | date: '%s' | plus: 0 %}
+  {% assign pub_display_date = pub.date | date: "%-d %B, %Y" %}
+  {% if pub.link.url and pub.link.url != "" %}
+    {% assign pub_headline = "New paper: [**" | append: pub.title | append: "**](" | append: pub.link.url | append: ") — " | append: pub.authors %}
+  {% else %}
+    {% assign pub_headline = "New paper: **" | append: pub.title | append: "** — " | append: pub.authors %}
+  {% endif %}
+  {% assign packed = pub_epoch | append: "|||" | append: pub_display_date | append: "|||" | append: pub_headline %}
+  {% assign enriched = enriched | push: packed %}
+{% endfor %}
+
+{% assign sorted = enriched | sort %}
+
+<h2>Upcoming Events & Announcements</h2>
+{% for entry in sorted %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% assign date = parts[1] %}
+  {% assign headline = parts[2] %}
+  {% if epoch >= future_cutoff %}
+    <div class="news-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 0.95em; color: #666; margin-bottom: 0.3em;">
+        <strong>{{ date }}</strong>
+      </p>
+      <div style="font-size: 1.05em;">
+        {{ headline | markdownify }}
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<h2>Past News & Announcements</h2>
+{% for entry in sorted | reverse %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% assign date = parts[1] %}
+  {% assign headline = parts[2] %}
+  {% if epoch < future_cutoff %}
+    <div class="news-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 0.95em; color: #666; margin-bottom: 0.3em;">
+        <strong>{{ date }}</strong>
+      </p>
+      <div style="font-size: 1.05em;">
+        {{ headline | markdownify }}
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}

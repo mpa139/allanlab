@@ -1,0 +1,89 @@
+---
+title: "Events"
+layout: textlay
+excerpt: "AI Centre@CSG — Events"
+sitemap: true
+permalink: /events.html
+---
+
+<h1><strong>Events</strong></h1>
+
+<p>Workshops, seminars, conferences, and colloquia organised or co-organised by the AI Centre@CSG.</p>
+
+{% assign today = 'now' | date: '%s' | plus: 0 %}
+{% assign grace = 86400 %}
+{% assign future_cutoff = today | minus: grace %}
+
+{% assign enriched = "" | split: "" %}
+
+{% for item in site.data.events %}
+  {% assign epoch = item.date | date_to_xmlschema | date: '%s' | plus: 0 %}
+  {% assign packed = epoch | append: "|||" | append: item.date | append: "|||" | append: item.title | append: "|||" | append: item.type | append: "|||" | append: item.speaker | append: "|||" | append: item.location | append: "|||" | append: item.link | append: "|||" | append: item.description %}
+  {% assign enriched = enriched | push: packed %}
+{% endfor %}
+
+{% assign sorted = enriched | sort | reverse %}
+
+<h2>Upcoming Events</h2>
+{% assign has_upcoming = false %}
+{% for entry in sorted %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% if epoch >= future_cutoff %}
+    {% assign has_upcoming = true %}
+    <div class="news-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 0.95em; color: #666; margin-bottom: 0.3em;">
+        <strong>{{ parts[1] }}</strong>
+        {% if parts[3] and parts[3] != "" %}
+          &nbsp;<span class="label label-info" style="font-size:0.8em; text-transform:capitalize;">{{ parts[3] }}</span>
+        {% endif %}
+      </p>
+      <p style="font-size: 1.05em; font-weight: bold; margin-bottom: 0.3em;">{{ parts[2] }}</p>
+      {% if parts[4] and parts[4] != "" %}
+        <p style="margin-bottom: 0.2em;"><strong>Speaker:</strong> {{ parts[4] }}</p>
+      {% endif %}
+      {% if parts[5] and parts[5] != "" %}
+        <p style="margin-bottom: 0.2em;"><strong>Location:</strong> {{ parts[5] }}</p>
+      {% endif %}
+      {% if parts[7] and parts[7] != "" %}
+        <p style="margin-bottom: 0.4em; color: #444;">{{ parts[7] }}</p>
+      {% endif %}
+      {% if parts[6] and parts[6] != "" %}
+        <a href="{{ parts[6] }}" class="btn btn-xs btn-primary" target="_blank" rel="noopener">More info</a>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+{% unless has_upcoming %}<p><em>No upcoming events at the moment — check back soon.</em></p>{% endunless %}
+
+<h2>Past Events</h2>
+{% assign has_past = false %}
+{% for entry in sorted %}
+  {% assign parts = entry | split: "|||" %}
+  {% assign epoch = parts[0] | plus: 0 %}
+  {% if epoch < future_cutoff %}
+    {% assign has_past = true %}
+    <div class="news-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #ddd;">
+      <p style="font-size: 0.95em; color: #666; margin-bottom: 0.3em;">
+        <strong>{{ parts[1] }}</strong>
+        {% if parts[3] and parts[3] != "" %}
+          &nbsp;<span class="label label-default" style="font-size:0.8em; text-transform:capitalize;">{{ parts[3] }}</span>
+        {% endif %}
+      </p>
+      <p style="font-size: 1.05em; font-weight: bold; margin-bottom: 0.3em;">{{ parts[2] }}</p>
+      {% if parts[4] and parts[4] != "" %}
+        <p style="margin-bottom: 0.2em;"><strong>Speaker:</strong> {{ parts[4] }}</p>
+      {% endif %}
+      {% if parts[5] and parts[5] != "" %}
+        <p style="margin-bottom: 0.2em;"><strong>Location:</strong> {{ parts[5] }}</p>
+      {% endif %}
+      {% if parts[7] and parts[7] != "" %}
+        <p style="margin-bottom: 0.4em; color: #444;">{{ parts[7] }}</p>
+      {% endif %}
+      {% if parts[6] and parts[6] != "" %}
+        <a href="{{ parts[6] }}" class="btn btn-xs btn-default" target="_blank" rel="noopener">More info</a>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+{% unless has_past %}<p><em>No past events recorded yet.</em></p>{% endunless %}

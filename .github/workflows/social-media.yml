@@ -1,0 +1,52 @@
+name: Post to Social Media
+
+on:
+  push:
+    branches:
+      - gh-pages
+    paths:
+      - "_data/events.yml"
+      - "_data/talks.yml"
+      - "_data/news.yml"
+      - "_data/grants.yml"
+      - "_data/publist.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  post-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (with history for diff)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests tweepy python-dateutil
+
+      - name: Post new content to social media
+        env:
+          # Mastodon
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          # Bluesky
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          # X / Twitter (OAuth 1.0a)
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          # LinkedIn
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+          # Set to "true" to log messages without actually posting
+          DRY_RUN: ${{ vars.SOCIAL_DRY_RUN }}
+        run: python .github/scripts/post_social.py
