@@ -20,6 +20,26 @@
   selected = {yes},
 }
 
+@inproceedings{onlinete,
+author = {Ghavidel, Arvin and Namyar, Pooria and Matni, Nikolai and Willinger, Walter and Govindan, Ramesh},
+title = {Near-optimal Online Traffic Engineering},
+year = {2026},
+isbn = {9798400724671},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3789240.3829123},
+doi = {10.1145/3789240.3829123},
+abstract = {Most deployed WAN Traffic Engineering (TE) systems use a logically centralized controller that periodically gathers traffic demands, runs a TE optimization or heuristic, and then programs the network. At scale, these solutions are often suboptimal and can take minutes to react to demand changes or failures. In this paper, we introduce OnlineTE, a system that reacts immediately to demand changes and failures and delivers near-optimal solutions within seconds of a change. OnlineTE builds on the theory of optimization decomposition to devise scalable, near-optimal, distributed TE solvers for path-based MLU and Max-Flow problems. In OnlineTE, switches each solve a local subproblem, and a central coordinator coordinates their convergence. As such, a switch can trigger a re-optimization as soon as it detects a demand change or failure, enabling high reactivity. OnlineTE scales to large WANs, and its computational requirements are well within the capabilities of modern WAN switches. It also enables a novel paradigm, edge-based TE, which can utilize resources more efficiently than today's path-based approaches. On a testbed emulation of a 750-node WAN topology, OnlineTE outperforms the state-of-the-art by up to an order of magnitude.},
+booktitle = {Proceedings of the ACM SIGCOMM 2026 Conference},
+pages = {1024–1045},
+numpages = {22},
+keywords = {traffic engineering, wide-area networks, network optimization, distributed and parallel algorithms},
+location = {Colorado Convention Center, Denver, CO, USA},
+series = {SIGCOMM '26},
+abbr = {SIGCOMM},
+selected = {yes}
+}
+
 @article{livo,
   author = {Ghosh, Rajrup and Shin, Christina Suyong and Zhang, Lei and Ye, Muyang and Jin, Tao and Madhyastha, Harsha V. and Netravali, Ravi and Ortega, Antonio and Rao, Sanjay and Rowe, Anthony and Govindan, Ramesh},
   title = {LiVo: Toward Bandwidth-adaptive Fully-Immersive Volumetric Video Conferencing},
