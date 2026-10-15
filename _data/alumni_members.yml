@@ -132,6 +132,28 @@
   education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html)
   education2: BSc University of Chinese Academy of Sciences
 
+- name: Amber Mozes
+  photo: Amber.png
+  info: PhD Student
+  duration: In the Allan Lab Sep 2021 - 2026, now at Aalto University with Pertti Hakonen
+  email: b
+  number_educ: 2
+  education1: Master Applied Physics, TU Delft
+  education2: Casimir/Nanofront PhD fellowship
+  education3:
+  education4:
+
+- name: Maialen Ortego Larrazabal
+  photo: Maialen.png
+  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+  duration: In the Allan Lab 2021 - 2026, now at Columbia University with Abhay Pasupathy
+  email: b
+  number_educ: 2
+  education1: Master Leiden University
+  education2: BSc, University of the Basque Country
+  education3:
+  education4:
+
 - name: Kees van Oosten
   photo: DSC_1032.JPG
   duration: Full time since 2018, now part time helping us
