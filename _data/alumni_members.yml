@@ -135,7 +135,7 @@
 - name: Amber Mozes
   photo: Amber.png
   info: PhD Student
-  duration: In the Allan Lab Sep 2021 - 2026, now at Aalto University with Pertti Hakonen
+  duration: In the Allan Lab Sep 2021 - 2026, now at Aalto University with <a href="https://www.aalto.fi/en/people/pertti-hakonen">Pertti Hakonen</a>
   email: b
   number_educ: 2
   education1: Master Applied Physics, TU Delft
@@ -146,7 +146,7 @@
 - name: Maialen Ortego Larrazabal
   photo: Maialen.png
   info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  duration: In the Allan Lab 2021 - 2026, now at Columbia University with Abhay Pasupathy
+  duration: In the Allan Lab 2021 - 2026, now at Columbia University with <a href="https://anp-lab.physics.columbia.edu/">Abhay Pasupathy</a>
   email: b
   number_educ: 2
   education1: Master Leiden University
