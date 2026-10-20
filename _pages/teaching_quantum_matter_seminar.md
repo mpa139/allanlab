@@ -40,7 +40,7 @@ https://lmu-munich.zoom-x.de/my/x892376.milan?pwd=g1sWzQiNXcNel1ubxyvak68gbbgqMW
 The schedule will change, and we will continuously update it. The student talks will be at the end, after the Christmas break.
 
 Tuesday 20.10.2026, 10:15
-Yudai Sato
+Yudai Sato, Cuprate studied by scanning tunneling microscopy, Review of cuprates is in [Nature 518, 179 (2015).(https://www.nature.com/articles/nature14165)]
 
 Tuesday 27.10.2026, 10:15
 Thomas Gozlinski
