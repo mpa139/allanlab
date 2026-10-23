@@ -42,7 +42,7 @@ The schedule will change, and we will continuously update it. The student talks 
 **From 29.10.2026 on, the seminar takes place on Thursdays at 9:15** (previously Tuesdays at 10:15).
 
 Tuesday 20.10.2026, 10:15
-Yudai Sato
+Yudai Sato, Cuprate studied by scanning tunneling microscopy, Review of cuprates is in [Nature 518, 179 (2015).(https://www.nature.com/articles/nature14165)]
 
 Thursday 29.10.2026, 9:15
 Thomas Gozlinski
