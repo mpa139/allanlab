@@ -39,48 +39,50 @@ https://lmu-munich.zoom-x.de/my/x892376.milan?pwd=g1sWzQiNXcNel1ubxyvak68gbbgqMW
 
 The schedule will change, and we will continuously update it. The student talks will be at the end, after the Christmas break.
 
+**From 29.10.2026 on, the seminar takes place on Thursdays at 9:15** (previously Tuesdays at 10:15).
+
 Tuesday 20.10.2026, 10:15
 Yudai Sato
 
-Tuesday 27.10.2026, 10:15
+Thursday 29.10.2026, 9:15
 Thomas Gozlinski
 
-Tuesday 03.11.2026, 10:15
+Thursday 05.11.2026, 9:15
 Premakumar Yanda
 
-Tuesday 10.11.2026, 10:15
+Thursday 12.11.2026, 9:15
 Jiasen Niu
 
-Tuesday 17.11.2026, 10:15
+Thursday 19.11.2026, 9:15
 Sanghun Lee
 
-Tuesday 24.11.2026, 10:15
+Thursday 26.11.2026, 9:15
 Louw Feenstra
 
-Tuesday 01.12.2026, 10:15
+Thursday 03.12.2026, 9:15
 Stefan Rudel
 
-Tuesday 08.12.2026, 10:15
+Thursday 10.12.2026, 9:15
 Devidas TR
 
-Tuesday 15.12.2026, 10:15
+Thursday 17.12.2026, 9:15
 Fabian Steinmeyer
 
-Tuesday 22.12.2026, 10:15
+No seminar on 24.12.2026 and 31.12.2026 (Christmas break)
+
+Thursday 07.01.2027, 9:15
 Yuval Nitzav
 
-No seminar on 29.12.2026 and 05.01.2027 (Christmas break)
-
-Tuesday 12.01.2027, 10:15
+Thursday 14.01.2027, 9:15
 Student talks 1 and 2 (TBA)
 
-Tuesday 19.01.2027, 10:15
+Thursday 21.01.2027, 9:15
 Student talks 3 and 4 (TBA)
 
-Tuesday 26.01.2027, 10:15
+Thursday 28.01.2027, 9:15
 Student talks 5 and 6 (TBA)
 
-Tuesday 02.02.2027, 10:15
+Thursday 04.02.2027, 9:15
 Student talks 7 and 8 (TBA)
 
 
