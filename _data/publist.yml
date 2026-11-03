@@ -1,3 +1,12 @@
+- title: "Transparency-controlled multiple charge transfer in superconducting junctions with local shot-noise scanning tunneling spectroscopy"
+  image: MAR_noise.png
+  description: We perform a single-channel shot-noise measurements on Pb(111) with tunable transparency and observe that shot noise of Andreev reflections and multiple Andreev reflections evolves as transparency increases. We achieve, for the first time, to obtain multiple effective charge on the atomic scale with noise-scanning tunneling microscopy.  
+  authors: Y Sato, MO Larrazabal, J-F Ge, I Swart, D Cho, W Belzig, JC Cuevas, MP Allan, J Niu
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/81fz-49c6
+    display: Phys. Rev. B 114, 204508 (2026)
+  highlight: 1
+  
 - title: "Cryogenic geometric anti-spring vibration isolation system"
   image: GAS.png
   description: TLow temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
