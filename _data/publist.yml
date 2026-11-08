@@ -1,3 +1,14 @@
+- title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
+  image: BSCCO_pseudogap_pairs.png
+  description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
+  authors: Jiasen Niu* & Maialen Ortego Larrazabal*, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
+  link:
+    url: https://www.science.org/doi/10.1126/science.adt3444
+    display: Science 394, 682 (2026)
+  highlight: 1
+  news1: <a style="color:#FF0000" href="https://www.science.org/doi/10.1126/science.aem6813">See the Perspective 'The power of noise' by Dirk Morr in Science</a>
+  news2: See [LMU Physics](https://www.physik.lmu.de/en/latest-news/news-overview/news/new-research-offers-hope-for-room-temperature-superconductivity-c4d92137.html), [MCQST](https://www.mcqst.de/news-and-events/news/new-research-offers-hope-for-room-temperature-superconductivity.html), [Utrecht University](https://www.uu.nl/en/news/new-research-offers-hope-for-room-temperature-superconductivity), [Ars Technica](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/), [phys.org](https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html), [EurekAlert](https://www.eurekalert.org/news-releases/1150846), [ingenieur.de](https://www.ingenieur.de/strom-ohne-widerstand-forscher-loesen-teil-eines-grossen-physikraetsels-b034dc02-8dff-4dda-be78-4de1e16039a4/) (German).
+
 - title: "Transparency-controlled multiple charge transfer in superconducting junctions with local shot-noise scanning tunneling spectroscopy"
   image: MAR_noise.png
   description: We perform a single-channel shot-noise measurements on Pb(111) with tunable transparency and observe that shot noise of Andreev reflections and multiple Andreev reflections evolves as transparency increases. We achieve, for the first time, to obtain multiple effective charge on the atomic scale with noise-scanning tunneling microscopy.  
@@ -7,23 +18,51 @@
     display: Phys. Rev. B 114, 204508 (2026)
   highlight: 1
   
+
+- title: "Emergent network of Josephson junctions in a kagome superconductor"
+  image:
+  description:
+  authors: Tycho J. Blom, Matthijs Rog, Marieke Altena, Andrea N. Capa Salinas, Jinwon Lee, Reinier Q. Regter, Luc J. Wigbout, Stephen D. Wilson, Milan P. Allan, Chuan Li, Kaveh Lahabi
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05587
+    display: Nano Lett. (2026)
+  highlight: 0
+
 - title: "Cryogenic geometric anti-spring vibration isolation system"
   image: GAS.png
-  description: TLow temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
+  description: Low temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
   authors: L. Feenstra, S. Dominguez-Calderon, K. van Oosten, H. S. M. Bohemen, T. Benschop, M. Brinkman, M. Li, E. Hennes, R. Cornelissen, B. J. Hensen, A. Bertolini, M. P. Allan
   link:
-    url: https://arxiv.org/abs/2509.09010
-    display: arXiv (2025)
+    url: https://iopscience.iop.org/article/10.1088/1361-6501/ae5404
+    display: Meas. Sci. Technol. 37, 135001 (2026)
   highlight: 1
+
+- title: "Cryogenic amplifier with high sensitivity and stability for noise-STM"
+  image:
+  description:
+  authors: Maialen Ortego Larrazabal, Jiasen Niu, Jian-Feng Ge, Yudai Sato, Jan P. Cuperus, Tjerk Benschop, Koen M. Bastiaans, Amber Mozes, Ingmar Swart, Milan P. Allan
+  link:
+    url: https://pubs.aip.org/aip/rsi/article/97/2/023701/3378492
+    display: Rev. Sci. Instrum. 97, 023701 (2026)
+  highlight: 0
 
 - title: "Tapping-mode SQUID-on-tip Microscopy with Proximity Josephson Junctions"
   image: SQUIDGAME.png
-  description: We measure measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with the [Lahabi Lab](https://www.lahabilab.com), led by Matthijs Rog.
+  description: We measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with the [Lahabi Lab](https://www.lahabilab.com), led by Matthijs Rog.
   authors: Matthijs Rog, Tycho J. Blom, Daan B. Boltje, Jimi D. de Haan, Remko Fermin, Jiasen Niu, Yasmin C. Doedes, Milan P. Allan, Kaveh Lahabi
   link:
-    url: https://arxiv.org/pdf/2508.21575
-    display: arxiv (2025)
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04571
+    display: Nano Lett. 26, 1608 (2026)
   highlight: 1
+
+- title: "Going Dutch: Jan Zaanen and the strange metals consortium"
+  image:
+  description:
+  authors: MP Allan, MS Golden, NE Hussey, K Schalm, HTC Stoof, E van Heumen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0921453425000991
+    display: Physica C 635, 1354746 (2025)
+  highlight: 0
 
 - title: "Signatures of Amorphous Shiba State in FeTe0.55Se0.45"
   image: shiba_cover.jpg
@@ -34,14 +73,32 @@
     display: Nano Lett. 25, 4227 (2025)
   highlight: 1
 
-- title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
-  image: BSCCO_noise.png
-  description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
-  authors: Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
+- title: "Self-supervised learning for denoising quasiparticle interference data"
+  image:
+  description:
+  authors: Ilse S. Kuijf, Willem O. Tromp, Tjerk Benschop, Niño Philip Ramones, Miguel Antonio Sulangi, Evert P.L. van Nieuwenburg, Milan P. Allan
   link:
-    url: https://arxiv.org/abs/2409.15928
-    display: arXiv
-  highlight: 1
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.035136
+    display: Phys. Rev. B 111, 035136 (2025)
+  highlight: 0
+
+- title: "Direct visualization of quasiparticle concentration around superconducting vortices"
+  image:
+  description:
+  authors: Jian-Feng Ge, Koen M. Bastiaans, Jiasen Niu, Tjerk Benschop, Maialen Ortego Larrazabal, Milan P. Allan
+  link:
+    url: https://pubs.aip.org/aip/apl/article/125/25/252601/3326071
+    display: Appl. Phys. Lett. 125, 252601 (2024)
+  highlight: 0
+
+- title: "Momentum-dependent scaling exponents of nodal self-energies measured in strange metal cuprates and modelled using semi-holography"
+  image:
+  description:
+  authors: S Smit, E Mauri, L Bawden, F Heringa, F Gerritsen, E van Heumen, YK Huang, T Kondo, T Takeuchi, NE Hussey, M Allan, TK Kim, C Cacho, A Krikun, K Schalm, HTC Stoof, MS Golden
+  link:
+    url: https://www.nature.com/articles/s41467-024-48594-6
+    display: Nature Communications 15, 4581 (2024)
+  highlight: 0
 
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
   image: ShotNoise.png
@@ -58,9 +115,18 @@
   authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
   link:
     url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
+    display: Nature Communications 14, 3341 (2023)
   highlight: 1
   news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+
+- title: "Interplay of hidden orbital order and superconductivity in CeCoIn5"
+  image:
+  description:
+  authors: Weijiong Chen, Clara Neerup Breiø, Freek Massee, Milan P. Allan, Cedomir Petrovic, JC Séamus Davis, Peter J. Hirschfeld, Brian M. Andersen, Andreas Kreisel
+  link:
+    url: https://www.nature.com/articles/s41467-023-38760-7
+    display: Nature Communications 14, 2984 (2023)
+  highlight: 0
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
   image: BSCCOgap.png
@@ -71,7 +137,6 @@
     display: Nature Materials 22, 703 (2023)
   highlight: 1
   news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
-
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: Pairs3.png
@@ -122,7 +187,6 @@
     display: npj Quantum Materials 6, 7 (2021)
   highlight: 0
   news2:
-
 
 - title: "Observation of flat bands in twisted bilayer graphene"
   image: TBG_ARPES.png

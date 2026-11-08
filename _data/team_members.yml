@@ -111,6 +111,12 @@
   number_educ: 1
   education1: Master Physics TUM, with Kiutra
 
+- name: Christian Fleischmann
+  photo: Christian.png
+  info: Technician, started August 2026
+  email: C.Fleischmann@lmu.de
+  number_educ: 0
+
 - name: Anna Tymofieieva
   photo: anna.png
   info: Admin
