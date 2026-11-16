@@ -1,10 +1,10 @@
 - name: Elle Loughran
-#  photo: verdoes.jpg
+  photo: elle.png
   duration: Joined the group in 2025, now a Postdoctoral Researcher at ISEM, Montpellier with Aline Muyle
-  email: verdoes@fmd.physics.leidenuniv.nl
+  # email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 2
   education1: BA in Genetics, TCD
-  education2: PhD in Genetics TCD
+  education2: PhD in Genetics, TCD
 #  education3:
 #  education4:
 
