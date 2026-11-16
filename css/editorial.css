@@ -1,0 +1,91 @@
+/* Ní Leathlobhair Lab | Editorial styling, 2026
+   Loaded AFTER the existing Allan Lab stylesheet. Reversible by removing
+   the one additional <link> in _includes/head.html. */
+:root {
+  --lab-navy: #122d4e;
+  --lab-blue: #355b80;
+  --lab-ink: #273547;
+  --lab-muted: #647387;
+  --lab-line: #dbe2e9;
+  --lab-paper: #ffffff;
+  --lab-wash: #f6f8fa;
+}
+html { scroll-behavior: smooth; }
+body { background: var(--lab-paper); color: var(--lab-ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 16px; line-height: 1.75; padding-top: 84px; -webkit-font-smoothing: antialiased; }
+a { color: var(--lab-blue); text-decoration-color: #b5c8d6; text-underline-offset: 3px; }
+a:hover, a:focus { color: var(--lab-navy); }
+h1,h2,h3,h4,h5 { color: var(--lab-navy); font-family: Georgia, "Times New Roman", serif; font-weight: 400; line-height: 1.2; letter-spacing: -0.025em; }
+h1 { font-size: clamp(32px, 3.7vw, 48px); margin: 0 0 24px; }
+h2 { font-size: 29px; margin: 52px 0 16px; }
+h3 { font-size: 23px; margin: 34px 0 14px; }
+p { margin-bottom: 20px; }
+strong { color: #243b55; }
+.container-fluid { max-width: 1120px; padding-left: 26px; padding-right: 26px; }
+body > .container-fluid { padding-top: 24px; padding-bottom: 50px; min-height: 55vh; }
+.navbar.navbar-default { background: #fff; border: 0; border-bottom: 1px solid var(--lab-line); box-shadow: none; min-height: 70px; }
+.navbar .container-fluid { max-width: 1120px; }
+.navbar-default .navbar-brand { color: var(--lab-navy); font-family: Georgia,"Times New Roman",serif; font-size: 20px; font-weight: 600; height: 70px; line-height: 40px; letter-spacing: -.015em; }
+.navbar-default .navbar-brand:hover { color: var(--lab-blue); }
+.navbar-default .navbar-nav>li>a { padding: 25px 14px; color: #42556d; font-size: 13px; font-weight: 600; letter-spacing: .015em; }
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { color: var(--lab-navy); background: #f8fafb; }
+.navbar-default .navbar-toggle { margin-top: 18px; border-color: var(--lab-line); }
+.navbar-default .navbar-toggle .icon-bar { background: var(--lab-navy); }
+/* Introductory banner at full container width; right column remains the news feed */
+.lab-hero { padding: 12px 16px 38px; margin-bottom: 12px; border-bottom: 1px solid var(--lab-line); }
+.lab-eyebrow { font-size: 12px; line-height: 1.5; text-transform: uppercase; letter-spacing: .14em; color: #69809a; font-weight: 700; margin-bottom: 12px; }
+.lab-hero h1 { max-width: 950px; margin: 0; font-size: clamp(35px, 5vw, 62px); line-height: 1.09; }
+.lab-hero svg, .lab-hero img { width: 100%; height: auto; max-height: 300px; display: block; margin: 18px 0 0 !important; border-radius: 0 !important; box-shadow: none !important; }
+.lab-hero .lab-subtitle { max-width: 650px; margin: 12px 0 0; color: var(--lab-muted); font-size: 16px; }
+#homeid { padding-top: 17px; }
+#homeid > p:first-child { font-size: 18px; line-height: 1.7; color: #263c56; }
+#homeid .lab-home-copy { max-width: 730px; }
+#homeid .lab-home-copy p { margin-bottom: 19px; }
+#homeid .lab-home-copy h2 { font-size: 24px; margin-top: 40px; }
+#homeid .lab-home-link { border-top: 1px solid var(--lab-line); padding-top: 20px; margin-top: 30px; font-size: 14px; }
+#newsid { border-left: 1px solid var(--lab-line); padding-top: 14px; padding-bottom: 20px; }
+#newsid h2, #newsid h3, #newsid h4 { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--lab-navy); font-size: 13px; text-transform: uppercase; letter-spacing: .11em; font-weight: 700; margin: 6px 0 22px; }
+#newsid p { font-size: 13px; line-height: 1.65; }
+#newsid img { border-radius: 0; box-shadow: none; }
+/* Section rhythm throughout Research, Publications, Team and vacancies */
+#textid, #gridid, #picid { line-height: 1.75; }
+#textid h2, #gridid h2 { border-top: 1px solid var(--lab-line); padding-top: 27px; }
+#textid blockquote { background: none; border-left: 2px solid var(--lab-navy); margin: 20px 0 30px; color: #3f5166; padding: 3px 0 3px 20px; }
+hr { border: 0; border-top: 1px solid var(--lab-line); margin: 32px 0; }
+#gridid img { border-radius: 2px; box-shadow: none; margin: 8px 18px 10px 0; }
+#picid img { border-radius: 2px; box-shadow: none; }
+img { max-width: 100%; height: auto; }
+/* restrained treatment of older template elements */
+.panel, .panel-default, .well { border-color: var(--lab-line); box-shadow: none; }
+.table>tbody>tr>td, .table>tbody>tr>th { border-top-color: var(--lab-line); }
+#footer { margin: 20px 0 0; border: 0; box-shadow: none; }
+#footer .panel-footer { background: var(--lab-wash); border-top: 1px solid var(--lab-line); color: var(--lab-muted); padding: 32px 0; font-size: 13px; line-height: 1.7; }
+#footer .panel-footer a { color: var(--lab-blue); }
+@media (max-width: 767px) {
+ body { padding-top: 70px; font-size: 15.5px; }
+ .navbar-default .navbar-brand { font-size: 18px; }
+ .navbar-default .navbar-nav>li>a { padding: 12px 15px; }
+ .container-fluid { padding-left: 18px; padding-right: 18px; }
+ .lab-hero { padding-left: 15px; padding-right: 15px; padding-bottom: 24px; }
+ .lab-hero h1 { font-size: 36px; }
+ .lab-hero svg, .lab-hero img { margin-top: 12px !important; }
+ #homeid, #newsid { padding-left: 15px; padding-right: 15px; }
+ #newsid { border-left: 0; border-top: 1px solid var(--lab-line); margin-top: 24px; padding-top: 24px; }
+ h2 { font-size: 26px; }
+}
+
+/* Second-pass refinements: a single, quiet navbar and the original carousel */
+.lab-hero { display:none; }
+#homeid { padding-top: 12px; }
+#homeid .lab-home-copy { max-width: none; }
+#homeid .lab-home-copy p { max-width: 710px; }
+#homeid .lab-home-copy p:first-child { font-size: 17px; line-height: 1.78; color: var(--lab-ink); }
+#homeid .lab-home-copy p { margin-bottom: 18px; }
+#carousel { margin: 26px 0 30px; overflow: hidden; background: #fff; border: 1px solid var(--lab-line); }
+#carousel .carousel-inner .item img { width: 100%; height: auto; display: block; margin: 0 auto; }
+#carousel .carousel-control { background-image: none !important; text-shadow: none; opacity: .65; }
+#carousel .carousel-control:hover { opacity: 1; }
+#carousel .carousel-indicators li { border: 1px solid #fff; }
+#carousel .carousel-indicators .active { background-color: #fff; }
+.navbar-default .navbar-brand { font-family: Georgia, 'Times New Roman', serif; font-size: 21px; }
+#homeid .lab-home-link { font-size: 14px; }
+@media (max-width:767px){ #carousel { margin:22px 0 24px; } }
