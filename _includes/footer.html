@@ -1,30 +1,9 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2016 Allan Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              
-
-
-		   <p>  </p><p>
-
-
-		</div>
-		<div class="col-sm-4">
-		<!--<p>We are part of the <a href="https://www.physik.lmu.de/en//">Faculty of Physics</a> at the<a href="https://www.lmu.de"> University of Munich (LMU)</a>. We are still associated with the <a href="https://www.physics.leidenuniv.nl/">Leiden Institute of Physics</a>, where most of our instrument are.</p>-->
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-Smurfit Institute of Genetics<br />
-		  D02 VF25<br />
-		  Ireland <br />
-		</div>
-	  </div>
-	</div>
+<footer class="lab-site-footer">
+  <div class="lab-footer-inner">
+    <span>© {{ 'now' | date: '%Y' }} Ní Leathlobhair Lab · Smurfit Institute of Genetics, Trinity College Dublin</span>
+    <span>Site built with <a href="https://jekyllrb.com/">Jekyll</a>, based on the <a href="https://www.allanlab.org/">Allan Lab template</a>.</span>
   </div>
-</div>
-
+</footer>
+<!-- Bootstrap's carousel depends on these existing JavaScript files. -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
