@@ -1,122 +1,71 @@
-/* Ní Leathlobhair Lab — restrained academic styling, November 2026
-   Replace ONLY css/editorial.css to trial. Original Bootstrap CSS remains intact.
-   Accent colour can be changed in one place: --lab-accent. */
-:root {
-  --lab-accent: #c64e36;
-  --lab-ink: #202124;
-  --lab-secondary: #55595e;
-  --lab-rule: #dedede;
-}
-html { scroll-behavior: auto; }
-body {
-  background: #fff;
-  color: var(--lab-ink);
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  line-height: 1.55;
-  padding-top: 70px;
-  -webkit-font-smoothing: auto;
-}
-a { color: var(--lab-accent); text-decoration: none; }
-a:hover, a:focus { color: #872e20; text-decoration: underline; }
-h1,h2,h3,h4,h5 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--lab-ink);
-  font-weight: 600;
-  letter-spacing: normal;
-  line-height: 1.23;
-}
-h1 { font-size: 31px; margin: 0 0 21px; }
-h2 { font-size: 23px; margin: 36px 0 14px; }
-h3 { font-size: 19px; margin: 28px 0 12px; }
-p { margin: 0 0 15px; }
-strong { color: inherit; }
-.container-fluid { max-width: 1040px; padding-left: 22px; padding-right: 22px; }
-body > .container-fluid { padding-top: 22px; padding-bottom: 35px; min-height: 55vh; }
-.navbar.navbar-default {
-  min-height: 60px;
-  background: white;
-  border: 0;
-  border-bottom: 2px solid var(--lab-accent);
-  box-shadow: none;
-}
-.navbar .container-fluid { max-width: 1040px; }
-.navbar-default .navbar-brand {
-  height: 60px;
-  padding-top: 19px;
-  padding-bottom: 17px;
-  line-height: 24px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 17px;
-  font-weight: 700;
-  letter-spacing: normal;
-  color: var(--lab-ink);
-}
-.navbar-default .navbar-brand:hover { color: var(--lab-accent); }
-.navbar-default .navbar-nav > li > a {
-  padding: 20px 12px;
-  color: var(--lab-ink);
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing: 0;
-}
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  background: transparent;
-  color: var(--lab-accent);
-}
-.navbar-default .navbar-toggle { margin-top: 12px; border-color: var(--lab-rule); }
-.navbar-default .navbar-toggle .icon-bar { background: var(--lab-ink); }
-.lab-hero { display: none; }
-#homeid { padding-top: 4px; }
-#homeid .lab-home-copy,
-#homeid .lab-home-copy p { max-width: none; }
-#homeid .lab-home-copy p:first-child,
-#homeid > p:first-child { font-size: 16px; line-height: 1.55; color: var(--lab-ink); }
-#homeid .lab-home-copy p { margin: 0 0 15px; }
-#homeid .lab-home-copy h2 { font-size: 22px; }
-#homeid .lab-home-link { border: 0; margin-top: 16px; padding: 0; font-size: 14px; }
-#newsid { border: 0; padding-top: 4px; }
-#newsid h2, #newsid h3, #newsid h4 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--lab-ink);
-  font-size: 18px;
-  font-weight: 600;
-  text-transform: none;
-  letter-spacing: normal;
-  margin: 0 0 18px;
-}
-#newsid p { font-size: 13px; line-height: 1.5; }
-#textid, #gridid, #picid { line-height: 1.55; }
-#textid h2, #gridid h2 { border: 0; padding-top: 0; }
-#textid blockquote { border-left: 3px solid var(--lab-accent); background: none; color: var(--lab-secondary); padding: 0 0 0 16px; }
-hr { border: 0; border-top: 1px solid var(--lab-rule); margin: 25px 0; }
-img { max-width: 100%; height: auto; }
-#gridid img, #picid img { box-shadow: none; }
-#carousel { margin: 18px 0 24px; overflow: hidden; background: white; border: 0; }
-#carousel .carousel-inner .item img { width: 100%; height: auto; display: block; margin: 0 auto; }
-#carousel .carousel-control { background-image: none !important; text-shadow: none; opacity: .65; }
-#carousel .carousel-control:hover { opacity: 1; }
-#carousel .carousel-indicators li { border-color: white; }
-#carousel .carousel-indicators .active { background: white; }
-.panel, .panel-default, .well { border-color: var(--lab-rule); box-shadow: none; }
-#footer { margin: 22px 0 0; border: 0; box-shadow: none; }
-#footer .panel-footer {
-  background: #fff;
-  border-top: 1px solid var(--lab-rule);
-  color: var(--lab-secondary);
-  padding: 22px 0;
-  font-size: 12px;
-  line-height: 1.5;
-}
-#footer .panel-footer a { color: var(--lab-accent); }
-@media (max-width:767px) {
-  body { padding-top: 65px; font-size: 15px; }
-  .container-fluid { padding-left: 17px; padding-right: 17px; }
-  .navbar-default .navbar-brand { font-size: 16px; }
-  .navbar-default .navbar-nav > li > a { padding: 11px 15px; }
-  #homeid, #newsid { padding-left: 15px; padding-right: 15px; }
-  #newsid { border-top: 1px solid var(--lab-rule); margin-top: 20px; padding-top: 20px; }
-  h1 { font-size: 27px; }
-  h2 { font-size: 21px; }
-}
+/* Ní Leathlobhair Lab: primary-colour academic design — November 2026.
+   Loaded AFTER main.css. To roll back the design, restore the previous editorial.css
+   and original home/header/layout/footer files using Git history. */
+:root{--lab-red:#ec4939;--lab-blue:#2866c7;--lab-yellow:#f6c938;--lab-cream:#fff9eb;--lab-ink:#171717;--lab-muted:#535353;--lab-rule:#dfdedb}
+*{box-sizing:border-box}
+html{scroll-behavior:auto}
+body{background:#fff;color:var(--lab-ink);font:17px/1.56 'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:0;margin:0;-webkit-font-smoothing:antialiased}
+a{color:var(--lab-red);text-decoration:none}
+a:hover,a:focus{color:var(--lab-blue);text-decoration:underline}
+h1,h2,h3,h4,h5,h6{font-family:inherit;color:var(--lab-ink);letter-spacing:-.025em;font-weight:700;line-height:1.18}
+h1{font-size:39px}h2{font-size:27px}h3{font-size:22px}h4{font-size:19px}
+p{margin:0 0 17px}
+img{max-width:100%;height:auto}
+body>.container-fluid{max-width:1180px;width:92%;padding:0 0 65px;min-height:55vh}
+body>.container-fluid>.row{margin-left:-15px;margin-right:-15px}
+/* Header: no horizontal rule by design. */
+.lab-site-header{width:100%;background:white;border:0;margin:0}
+.lab-header-inner{max-width:1180px;width:92%;margin:0 auto;padding:23px 0;display:flex;align-items:center;justify-content:space-between;gap:25px}
+.lab-brand{color:var(--lab-ink);display:flex;align-items:center;gap:13px;font-size:26px;line-height:1.15;font-weight:750;letter-spacing:-.035em;text-decoration:none}
+.lab-brand:hover,.lab-brand:focus{color:var(--lab-ink);text-decoration:none}
+.lab-brand img{height:46px;width:46px;object-fit:contain;flex:0 0 auto}
+.lab-main-nav{display:flex;align-items:center;gap:30px;font-size:17px;font-weight:600}
+.lab-main-nav a{color:var(--lab-ink);text-decoration:none}
+.lab-main-nav a:hover,.lab-main-nav a:focus,.lab-main-nav a[aria-current="page"]{color:var(--lab-red)}
+/* Home: matching approved no-rule mock-up. */
+.lab-home-column{padding:0 15px}
+.lab-hero{display:grid;grid-template-columns:1.05fr .95fr;align-items:stretch;margin:25px 0 0;min-height:440px}
+.lab-hero-media{min-height:440px;background:#efefef;overflow:hidden}
+.lab-hero-media #carousel{height:100%;margin:0;border:0;background:#eaeaea}
+.lab-hero-media .carousel-inner,.lab-hero-media .carousel-inner>.item{height:100%}
+.lab-hero-media .carousel-inner>.item>img{height:440px;width:100%;object-fit:cover;object-position:center;display:block;max-width:none}
+.lab-hero-media .carousel-control{background-image:none!important;opacity:.65;text-shadow:none}
+.lab-hero-media .carousel-control:hover{opacity:1}
+.lab-hero-intro{background:var(--lab-cream);padding:54px 56px 45px;display:flex;flex-direction:column;justify-content:center}
+.lab-hero-intro h1{font-size:51px;line-height:1.08;letter-spacing:-.035em;margin:0 0 25px;font-weight:800}
+.lab-hero-intro p{margin:0 0 16px;max-width:500px}
+.lab-home-lower{max-width:1050px;margin:68px auto 0;display:grid;grid-template-columns:1.7fr 1fr;gap:65px}
+.lab-home-lower h2{font-size:27px;margin:0 0 20px}
+.lab-home-questions p{max-width:660px}
+.lab-home-news{border-left:3px solid var(--lab-yellow);padding-left:23px;font-size:15px}
+.lab-home-news h2{margin-top:0}
+.lab-news-entry{margin:0 0 20px}
+.lab-news-entry p{margin:4px 0 0;font-size:15px;line-height:1.5}
+.lab-news-date{display:block;color:var(--lab-muted);font-size:13px}
+.lab-news-all{font-weight:700}
+.lab-funders{max-width:1050px;margin:70px auto 0;border-top:1px solid var(--lab-rule);padding-top:23px}
+.lab-funders h2{font-size:18px;margin:0 0 22px}
+.lab-funder-logos{display:flex;align-items:center;gap:36px;flex-wrap:wrap}
+.lab-funder-logos img{max-height:65px;max-width:155px;width:auto;object-fit:contain}
+/* Interior pages: typography matches homepage, without cards or colored panels. */
+#textid,#gridid,#picid{float:none!important;width:100%!important;max-width:890px;margin:35px auto 55px;line-height:1.64;padding-left:16px;padding-right:16px}
+#textid h1,#gridid h1,#picid h1{font-size:39px;margin:0 0 26px}
+#textid h2,#gridid h2,#picid h2{font-size:27px;margin:50px 0 20px;border:0;padding:0}
+#textid h3,#gridid h3,#picid h3{font-size:21px;margin:32px 0 13px}
+#textid p,#gridid p,#picid p{margin-bottom:18px}
+#textid hr,#gridid hr{border:0;border-top:1px solid var(--lab-rule);margin:40px 0}
+#textid li,#gridid li{margin-bottom:9px}
+#textid ul,#gridid ul{padding-left:24px}
+#textid a,#gridid a,#picid a{color:var(--lab-red)}
+#gridid .row{margin-top:18px;margin-bottom:22px}
+#gridid .col-sm-6{margin-bottom:18px;min-height:145px}
+#gridid .col-sm-6 img{margin-right:18px;max-width:33%;border-radius:0;box-shadow:none}
+#gridid h4{font-size:19px;margin:0 0 10px}
+#textid blockquote{background:transparent;border-left:3px solid var(--lab-yellow);padding:5px 0 5px 20px}
+/* Narrow news and other built-in Bootstrap panels return to plain editorial type. */
+.well,.panel,.panel-default{background:#fff;border:0;box-shadow:none}
+.lab-site-footer{border-top:1px solid var(--lab-rule);color:var(--lab-muted);background:#fff}
+.lab-footer-inner{width:92%;max-width:1180px;margin:0 auto;padding:25px 0 33px;display:flex;align-items:baseline;justify-content:space-between;gap:24px;flex-wrap:wrap;font-size:12px;line-height:1.5}
+.lab-footer-inner a{color:var(--lab-muted);text-decoration:underline}
+@media(max-width:880px){.lab-header-inner{flex-wrap:wrap}.lab-main-nav{gap:22px;flex-wrap:wrap}.lab-hero{grid-template-columns:1fr}.lab-hero-media,.lab-hero-media .carousel-inner>.item>img{height:370px;min-height:0}.lab-hero-intro{padding:38px 40px}.lab-home-lower{gap:38px}}
+@media(max-width:620px){body{font-size:16px}.lab-header-inner{padding:16px 0;gap:16px}.lab-brand{font-size:22px}.lab-brand img{width:40px;height:40px}.lab-main-nav{gap:16px;font-size:15px}.lab-hero{margin-top:12px}.lab-hero-media,.lab-hero-media .carousel-inner>.item>img{height:245px}.lab-hero-intro{padding:30px 26px}.lab-hero-intro h1{font-size:38px}.lab-home-lower{display:block;margin:42px auto 0}.lab-home-news{margin-top:38px}.lab-footer-inner{display:block}.lab-footer-inner span{display:block;margin-bottom:8px}#textid,#gridid,#picid{margin-top:26px}#textid h1,#gridid h1{font-size:32px}#textid h2,#gridid h2{font-size:24px}}
