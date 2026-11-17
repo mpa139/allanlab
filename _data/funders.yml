@@ -1,0 +1,6 @@
+# Add one entry for each CURRENT funder whose logo you are authorised to use.
+# The logo image must already exist in the repository. Example:
+# - name: "Funder name"
+#   url: "https://www.example.org/"
+#   logo: "/images/funders/funder-logo.png"
+[]
