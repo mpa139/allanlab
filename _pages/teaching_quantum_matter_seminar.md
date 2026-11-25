@@ -57,7 +57,8 @@ Thursday 19.11.2026, 9:15
 Sanghun Lee
 
 Thursday 26.11.2026, 9:15
-Louw Feenstra
+Louw Feenstra: *Scanning SQUID on cuprate superconductors*<br>
+Reading: [Keimer et al., Nature 518, 179 (2015)](https://www.nature.com/articles/nature14165) and [Rog et al., Tapping-mode SQUID-on-tip microscopy, Nano Letters](https://doi.org/10.1021/acs.nanolett.5c04571)
 
 Thursday 03.12.2026, 9:15
 Stefan Rudel
